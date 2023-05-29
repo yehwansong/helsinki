@@ -1,0 +1,12203 @@
+names = [
+  {
+    "object_ID": "2020-41",
+    "title": "['Hihhulit', 'Hihuliter', 'The Fanatics']",
+    "date": 1918,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177284&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people with jesus on the cross, inspired by Eduardo Kingman, production art, by Maurice Prendergast, screaming into air, production photo, by David Bomberg, graveside, joongwon jeong, vignette, production still, official illustration"
+  },
+  {
+    "object_ID": "2007-54",
+    "title": "['Kolme vesilintua metsälammella', 'Three Waterfowls on a Forest Lake']",
+    "date": 1986,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168320&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a person standing in front of a body of water, by Cornelia MacIntyre Foley, persian folklore illustration, river and trees and hills, cd cover artwork, protagonist in foreground, wanderers traveling from afar, in a desert oasis lake, watercolour, artsation contest winner, auction catalogue photo, inspired by Janet Fish, sangyeob park, the lovers tarot card"
+  },
+  {
+    "object_ID": "1976-12",
+    "title": "['Tyttö', 'Flicka', 'Girl']",
+    "date": 1922,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167503&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman sitting in a chair, chrome bob haircut, portrait rugged girl, deep gaze, an olive skinned, inspired by Mabel Rollins Harris, aged 13, serpentine pose gesture, ranjit ghosh, 1 9 3 0 style, covered head, subject in the centre, verbena"
+  },
+  {
+    "object_ID": "2021-43",
+    "title": "['Luonnos kuvitussarjaan Seitsemän veljestä', 'Sketch for a series of illustrations for The Seven Brothers']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2815176&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a group of people sitting on a bench, auschwitz camp, on the deck of a sailing ship, worn out, inspired by the Brothers Hildebrandt, light of sorrow, by Milton Menasco, studio disney, state of the union, lament, gestures, 12, calarts, wpa, boats"
+  },
+  {
+    "object_ID": "1997-226",
+    "title": "['Maa-isä, 1 osa (jalanjälki)', 'Jordfadern (fotspår)', 'Father Earth (footprint)']",
+    "date": 1997,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170013&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a stone floor in front of a building, installation view, by Per Kirkeby, walkways, auto - destructive art, energetic composition, gridless, terrace, award - winning design, artforum, broken pieces, round-cropped, yet unrecognizable, sad motif, strathmore 2 0 0, reconstruction, norrlandsskog, cast"
+  },
+  {
+    "object_ID": "2006-79",
+    "title": "['Toiset kerrokset', 'Andra våningar', 'Other Layers']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167213&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of paintings on a wall in a room, by Fiona Rae, strathmore 2 0 0, synthetic materials, patches of sky, 21:9, archipelago, inspired by Cecily Brown, paper texture 1 9 5 6, hamar, panoramic, university, edd, reflective surfaces, installation view, artforum"
+  },
+  {
+    "object_ID": "2018-17",
+    "title": "['Easter']",
+    "date": 2018,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180401&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a person wearing a bunny mask, daniel richter, squatting pose, tekla evelina severin, boy, bear legs, made in 2019, 2 0 1 2 watermelon diner, his arms are behind his back, wonbin lee, standing on two legs, wearing hunter coat, full - length, images on the sales website"
+  },
+  {
+    "object_ID": "2006-008",
+    "title": "['Rakkauden temppeli', 'Kärlekens tempel', 'Temple of Love']",
+    "date": 2003,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170133&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a monument with a bird on top of it, john pawson, photo of scp-173, lower saxony, golden collar, labrador, tfwiki. net photography, the morning star, artist's impression, 120mm, high polygon, espoo, choir, brass wheels, monoliths, mekka, argos"
+  },
+  {
+    "object_ID": "2010-95-2",
+    "title": "['Kolme aitaa', 'Tre Stängsel', 'Three Fences']",
+    "date": 2010,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176028&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a road with a fence and a building in the background, espoo, anamorphic 5 0 mm lens, empty buildings with vegetation, stairs to the second floor, the fall season, mass housing, realisitc photo, waterwheels, ingame image, scp, apartment, sweden, no greenery, exterior photo, rollerblading, highres, simon stalberg"
+  },
+  {
+    "object_ID": "2020-34",
+    "title": "['Lepäävä', 'Vilande', 'Reclining']",
+    "date": 1944,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180886&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman in a yellow shirt, by Margareta Alströmer, dormant nature, by Moses Soyer, inspired by Jeanne du Maurier, vanilla - colored lighting, inspired by Daphne Fedarb, dormant, in muted colours, aged 13, not smiling, by David Bomberg, ophelia"
+  },
+  {
+    "object_ID": "2016-33-6",
+    "title": "['Lintula / Punatulkkuväriympyrä']",
+    "date": 2016,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174842&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a group of birds that are standing in the sand, okuda sam miguel, on the concrete ground, detailed coloured pencil, installation view, photorealistic music album cover, round-cropped, aerial photograph, lgbtq, reykjavik, album artwork"
+  },
+  {
+    "object_ID": "2008-102",
+    "title": "['Avaran kosketus (Porkkala)']",
+    "date": 2004,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171841&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with desks, chairs and pictures on the wall, swedish urban landscape, medical lighting, featured in artistation, photography of bill brauer, large arrays, photo taken from far, detention centre, scenic environment, rows of canteen in background, iso-250, taken with a canon eos 5d"
+  },
+  {
+    "object_ID": "2018-444",
+    "title": "['Onnenpyörä', 'Lyckohjul', 'Wheel of Fortune']",
+    "date": 2018,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179444&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a multicolored wall hanging on a white wall, dark rainbow colored fur, perky woman made of petals, inspired by Gertrude Harvey, colorful plasma hairs, crochet, color interference, thatched roof, by Hannah Tompkins, dichromatism"
+  },
+  {
+    "object_ID": "2018-360",
+    "title": "['Leikkaus', 'Cropped View']",
+    "date": 1979,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178726&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a house on a hill, inspired by Gabriele Münter, john lasseter, lost highway, ca. 1990, photo courtesy museum of art, reddish exterior lighting, gunwoo kim and j.dickenson, toiletpaper magazine, city of industry, subsurface illumination, driveway, deep colour\\'s, forge"
+  },
+  {
+    "object_ID": "2017-48",
+    "title": "['Sukupuut', 'Släktträd', 'Family Trees']",
+    "date": 2017,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180339&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a bookshelf filled with lots of books in a library, trending on artforum, the texas revolution, wooden ceiling, commercial photo, simple elegant design, interconnections, inspired by Robert Scott Lauder, biomorphic, southdale center, fine stippled lighting, fluxus"
+  },
+  {
+    "object_ID": "2009-77",
+    "title": "['Valon aakkoset: maa vesi ilma']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2166931&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a long hallway with a chair and several pictures on the wall, inspired by Frieke Janssens, hospital background, rondel, showcases full of embryos, cherished trees, by Troels Wörsel, an scp anomalous object, centered in the frame, journalistic photography"
+  },
+  {
+    "object_ID": "1977-57",
+    "title": "['Tappelu I', 'Slagsmål I', 'The fight I']",
+    "date": 1945,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168063&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a group of people fighting, by Leon Kossoff, piles of bodies, rudolf belarski, captures emotion and movement, featured on artsation, clogs, courtroom sketch, pastel drawing, gouache, epic diptych, 2 0 1 9, islamic revolution, jean james, attacking, featured art, salomon"
+  },
+  {
+    "object_ID": "2009-83",
+    "title": "['Kaupan lämmöstä kotikadulle', 'Från butiksvärmen till hemgatan', 'Returning Home from the Warmth of the Shops']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169444&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of people walking down a street at night, made out of wool, trending on artforum, city lights in the background, portrait of homelander, an area rug, beaded embroidery, blurry focus, anamorphic bokeh, embroidery, lying on a fuzzy blanket, keisuke goto, toy art, 600mm, stockholm, warmly lit"
+  },
+  {
+    "object_ID": "1999-208",
+    "title": "['Ratsastaja Kruununhaassa']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178354&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman riding a horse over a city, style of angela deane, tally hall album cover, albino mystic, a centaur, poster colour on canvas, installation view, light blue sky, giant river, michael mcdonald, bearded cowboy, inuk, standing on rock"
+  },
+  {
+    "object_ID": "2007-121",
+    "title": "['Shadowlines']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169976&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a city street at night, nuclear waste, trending on artforum, long shadows, 2009, rust and dust and fire and dirt, industrial surrounding, yellow charcoal, season 3 ( 1 9 9 7 ), banish fiction and illusion, american realism, retracing"
+  },
+  {
+    "object_ID": "1999-151-2",
+    "title": "['Sivussa, valokuvasarja Helsingin esikaupungeista']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175796&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of kids standing next to each other in the snow, young woman with long dark hair, home video, a full portrait of nordic female, as a strict school teacher ), photo of slim girl model, forrest in background, kate moss, high school girls, two blue braids, young female face, rukis"
+  },
+  {
+    "object_ID": "2018-364",
+    "title": "['Mestarirakentaja', 'Mästerbryggare', 'Master Builder']",
+    "date": 1972,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178875&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man in a red coat, inspired by Otto Dix, portrait of a medieval old king, one man is blond, streets of heidelberg, by Václav Brožík, thin moustache, circa 1 9 2 4, artforum"
+  },
+  {
+    "object_ID": "2008-113-2",
+    "title": "['Peto nukkuu', 'Odjuret sover', 'The Beast Sleeps']",
+    "date": 2008,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167855&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with a table and a painting on the wall, softplay, by Jens Jørgen Thorsen, pollock photorealistic, hospital interior, inspired by Jean-Paul Riopelle, installation view, red grid, hassleblad, damaged buildings, children's, naturalistic technique, goldsrc, gouche, barracks"
+  },
+  {
+    "object_ID": "2022-10",
+    "title": "['Kukkakauppias', 'Blomsterförsäljare', 'The Florist']",
+    "date": 1951,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2592619&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man with flowers in a vase, inspired by Susan Weil, exhibited at the british museum, inspired by Georges Rouault, inspired by Johan Edvard Mandelberg, berets, photo courtesy museum of art, by Leon Golub, sold at an auction, 1960s, flowercore, stockholm city portrait"
+  },
+  {
+    "object_ID": "2017-47",
+    "title": "['Näyttämö', 'Scenen', 'Stage']",
+    "date": 2017,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178235&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with a mural of a city on the wall, reykjavik junior college, worksafe. illustration, borne space library artwork, harmony blue jacket, smart textiles, inspired by Vilhelm Lundstrøm, hospital ward, low-emission-neon, anthropomorphic silhouette, 4 5. 7 mplens, inspired by Mym Tuma"
+  },
+  {
+    "object_ID": "2009-54",
+    "title": "['Riutta', 'Revet', 'Reef']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176034&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with a lot of clothes on the floor, floor - to - ceiling windows, inspired by Edi Rama, reykjavik junior college, subject made of white mesh rope, wide angle. rudolf herczog, passive house, f1.8 anamorphic, ikea, solar sails, in russia, by Puru, hotel, elegant and extremely ornamental"
+  },
+  {
+    "object_ID": "1996-26",
+    "title": "['Salt Flat']",
+    "date": 1968,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179903&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a man riding a skateboard through a window, translucent pastel panels, from the thing, parallelism, 80s london city, figures fighting in the distance, reflections on wet streets, medium-format print, national gallery, comicbook art, anamorphic, 1980 cars, print"
+  },
+  {
+    "object_ID": "2014-39-3",
+    "title": "['Mo(nu)ments / Brasilia']",
+    "date": 2014,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169384&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a bunch of bananas in a shadow box, alex maksiov and john pugh, cfg _ scale 1 5, appearing in a shopping mall, brightly lit - style atmosphere, pop up parade figure, inside a glass box, reallism, in a jungle environment, gipf project, rendered image, by Youri Messen-Jaschin"
+  },
+  {
+    "object_ID": "2006-10",
+    "title": "['Aaumu', 'Aaumu', 'Aaumu']",
+    "date": "2004-2005",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168438&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large white object sitting in the middle of a park, two eye art, swedish style, strong eggshell texture, black eyepatch, textured in substance, avian-inspired, lossless quality, paris 2010, erosions, rule 34, octorok, table"
+  },
+  {
+    "object_ID": "1981-18",
+    "title": "['Nukkuva tyttö', 'Sovande flicka', 'Sleeping Girl']",
+    "date": 1980,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170358&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a woman with yellow hair, kiki smith, linocut, tags: blonde hair, akiyuki shinbo, chiho ashima, contorted, inuit, ancient libu princess, image of the day, pochi iida, goldsrc, hands in her hair, hwang se - on"
+  },
+  {
+    "object_ID": "2008-84-1",
+    "title": "['Ilta 2']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175762&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting on the wall of a dining room, photo of green river, greg rutgowski, hospital room, design milk, mountain lakes, sheer cliffs surround the scene, by Alasdair Grant Taylor, sunlight reflected on the river, panoramic anamorphic, in a meeting room, photo of, inspired by Petr Brandl"
+  },
+  {
+    "object_ID": "2018-457",
+    "title": "['Tori II', 'Market II']",
+    "date": 1972,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180599&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people riding horses, inspired by Alice Rahon, floats carnival, wearing a purple frock coat, 2 0 0 0, anthropomorphic alligator, jemal shabazz, chimneys, by Israel Tsvaygenbaum, artsation contest winner, museum catalog, merchant collector, arms held high in triumph"
+  },
+  {
+    "object_ID": "1976-33",
+    "title": "['Kevätmaisema (Pelto, Sääksmäki)', 'Vårlandskap (Åker, Sääksmäki)', 'Spring Landscape (Field, Sääksmäki)']",
+    "date": 1917,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171487&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a river running through a forest, jodorwoski's dune, empty snow field, hamar, by Robert Falk, 8 h, lawn, award - winning epic painting, rainfall and mud, the panorama, award - winning art, variation"
+  },
+  {
+    "object_ID": "1993-53",
+    "title": "['Vuoropuhelu']",
+    "date": 1990,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177673&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a metal object on a table, front view 1 9 9 0, letter s, by Torii Kiyonobu I, while marble, jakob eirich, colossal, with blunt brown border, contemporary art aesthetic, centred position, gi, of"
+  },
+  {
+    "object_ID": "2020-31",
+    "title": "['Espanjatar', 'Spanjorskan', 'Spanish Woman']",
+    "date": 1957,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178244&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman with long hair, by Alma Thomas, inspired by James Ensor, visible pupils, wearing flowing robes, photo courtesy museum of art, white veil, an example of saul leiter's work, flowing neon-colored silk, portrait of a dragon, mid-30s, shawl, puṣkaracūḍa"
+  },
+  {
+    "object_ID": "2002-99",
+    "title": "['Asetelma', 'Stilleben', 'Still Life']",
+    "date": 2002,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171473&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a dining room with a large painting on the wall, translucent pastel panels, by Elizabeth Murray, espoo, image of ronald mcdonald, suspended ceiling, fruits, exterior design, animesque, canopies, illustratio, bakery, set in 1999, product lighting, atlus, harp"
+  },
+  {
+    "object_ID": "1999-151-10",
+    "title": "['Sivussa, valokuvasarja Helsingin esikaupungeista']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175482&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a group of people playing in the snow, 35mm film still from 1994, swedish urban landscape, taken with canon eos 5 d, softplay, gameplay still, by Þórarinn B. Þorláksson, production photo, suburban neighborhood, award-winning composition, dusty environment, by Jakob Häne, integration"
+  },
+  {
+    "object_ID": "1999-173-10",
+    "title": "['Helsinki-sarja', 'Helsingforsserien', 'Helsinki Series']",
+    "date": 1996,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170693&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of a street sign, kuzma petrov - vodkin, cardboard pinhole camera, by Eero Järnefelt, station, instax, banish fiction and illusion, according to european art, warning lights, 2006 photograph, blurry image, by Władysław Malecki, moving, left"
+  },
+  {
+    "object_ID": "2020-38",
+    "title": "['Sommitelma', 'Komposition', 'Composition']",
+    "date": 1969,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180047&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a boat on a body of water, inspired by Serge Poliakoff, in a colorful tent, by Charles Hinman, interconnections, dark teal, a magician's chamber, rug, sol lewitt, green and purple, the fool, pepe moreno, triangle, rectangle"
+  },
+  {
+    "object_ID": "1976-376",
+    "title": "['Omakuva', 'Självporträtt', 'Self-Portrait']",
+    "date": 1972,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170073&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman in a brown sweater, by Margareta Alströmer, by Howard Mehring, scowl, wanda, eyes in different directions, nettie wakefield, blue wolf, aged 2 5, trustworthy eyes, by Wojciech Weiss, nilah"
+  },
+  {
+    "object_ID": "2008-84-2",
+    "title": "['Aamu 2']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172694&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a living room filled with furniture and a painting, inspired by Per Kirkeby, hanging scroll, summer landscape, 21:9, inspired by Margareta Alströmer, stands at her easel, official product photo, urban motifs, inspired by Alma Thomas, anamorphic widescreen, tapestries hanging from ceiling"
+  },
+  {
+    "object_ID": "2021-40",
+    "title": "['Luonnos Seitsemän veljestä -kuvitussarjaan', 'Sketch for a series of illustrations for The Seven Brothers']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2815135&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a group of people in a field, ravenholm, stood outside a wooden cabin, goblinko, bob larkin, puṣkaracūḍa, death metal album cover, people flee, wondering about others, human staring blankly ahead, huts, beds of shadows, emaciated, radiation, helsinki, reconstruction"
+  },
+  {
+    "object_ID": "1976-135",
+    "title": "['Omakuva', 'Självporträtt', 'Self-Portrait']",
+    "date": 1958,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171461&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man in a suit and tie, by Johannes Itten, inspired by Grace Cossington Smith, edward norton, aged 2 5, desaturated cold color palette, geometric tesseract, a portrait of an elf, photo courtesy museum of art, wearing a blue jacket, by Robert Bevan, greyscale grain 1 9 6 0, 2 0 1 4. modern attire"
+  },
+  {
+    "object_ID": "1992-022",
+    "title": "['K.J. Ståhlberg']",
+    "date": 1959,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167410&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man holding a briefcase, by Lars Jonson Haukaness, lenin, wearing a labcoat, finland, parks and monuments, inspired by Lodewijk Bruckman, gustav klimpt, liege, masonic, niels otto møller, hdt, dwarf scientist of 1 9 century, ilya kuyshinov"
+  },
+  {
+    "object_ID": "1976-360",
+    "title": "['Keltainen asetelma', 'Gult stilleben', 'Yellow Still Life']",
+    "date": 1969,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167736&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of fruit and a giraffe on a yellow background, trending on artforum, jean james, jars, smooth round rocks, 1 9 6 2, inspired by Pierre Bonnard, subject in the centre, tennis ball, the caretaker, radios, archive photograph, triptych, lamps, 2 0 0 7, sukkot, chrysanthemums"
+  },
+  {
+    "object_ID": "2009-65-2",
+    "title": "['Tarinoita, Variaatio 2.']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172136&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a long hallway with a clock on the wall, abstract art representing data, green skin. intricate, ornate hospital room, inspired by Alison Debenham, printed page, displayed in the exhibition hall, strokes visible, white-space-surrounding, gipf project, listing image"
+  },
+  {
+    "object_ID": "2021-32",
+    "title": "['Luonnos teokseen Pako lukkarilasta', 'Skiss till verket Flykten från klockargården', 'Sketch for the work \"The brothers\\' flight from the parish clerk\\'s school\"']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2814507&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white drawing of a man and a child, outside the window a storm rages, from valve, people running away, inspired by Edward Lamson Henry, holding a white flag, telegram sticker, jason voorhees, notebook, artist rendition, inspired by Anna Ancher, gameplay screenshot, april"
+  },
+  {
+    "object_ID": "2022-72",
+    "title": "['Nimeämätön', 'Utan titel', 'Untitled']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2858646&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a plant in a vase, giant sequoia, inspired by Erich Heckel, at sunset in autumn, photo courtesy museum of art, tall corn in the foreground, heise jinyao, brown palette, carrot, arms outstretched, red - iris, organic biomass"
+  },
+  {
+    "object_ID": "2002-95",
+    "title": "['Kuvakudoksia', 'Gobelänger', 'Tapestries']",
+    "date": 2002,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170308&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a piece of art hanging on a wall, inspired by Shōzō Shimamoto, hessian cloth, front view 1 9 9 0, museum archive photo, sam gilliam, kinu nishimura, rugs, round-cropped, bright bloom, parchment, drum pads, height 1 7 8, museum catalog, by Jean Arp, underside"
+  },
+  {
+    "object_ID": "2008-78",
+    "title": "['Fuuga', 'Fuga', 'Fugue']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168022&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a red fire hydrant sitting in front of a tall building, peter eisenman, church in the wood, houzz, by János Nagy Balogh, inspired by Arlington Nelson Lindenmuth, elaborate latticed balconies, orthodox icons, listing image, scaffolding, white plank siding"
+  },
+  {
+    "object_ID": "2021-16",
+    "title": "['Luonnos Seitsemän veljestä -kuvitussarjaan', 'Sketch for a series of illustrations for The Seven Brothers']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2814089&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a cabin in the woods, falling star on the background, by Eero Järnefelt, in a square, fireworks, inspired by Béla Czóbel, stalingrad, auction catalogue photo, niea 7, roleplaying game art, midsommar, h 7 6 8, laika"
+  },
+  {
+    "object_ID": "2006-77-32",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173160&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with pictures hanging on the wall, inspired by Paul Bril, standing in a city center, award-winning photo uhd, high light on the left, by Elfriede Lohse-Wächtler, cubicles, detention centre, flat 2 d, munich, lightrays, michael hoppen"
+  },
+  {
+    "object_ID": "2019-98-1",
+    "title": "['USKO TOIVO RAKKAUS']",
+    "date": 2019,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177021&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture in the middle of a plaza with buildings in the background, eero aarnio, golden chain, the stone is round, diptych, by Peter Madsen, launching a straight ball, on a canva, flares anamorphic, white eclipse, h 1 0 2 4, orbital rings, gateway, height 1 7 8, orb"
+  },
+  {
+    "object_ID": "2020-57",
+    "title": "['Vuoristoa', 'Mountains']",
+    "date": 1950,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171839&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting with a mountain in the background, inspired by Paul-Émile Borduas, occasional small rubble, red brown and blue color scheme, in thick layers of rhythms, kaleidoscope, fjord, rolling foothills, by Herbert MacNair, hedges, female forms, photo courtesy museum of art, a gouache"
+  },
+  {
+    "object_ID": "2013-58",
+    "title": "['Näköalatuoli', 'Utsiktsstolen']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173246&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a stone monument sitting in the middle of a park, inspired by Antonín Chittussi, banknote, vertical portrait, 1 9 8 0, ayne haag, 2.5d, scrolls, jamie reid, h 1088, krypton, artstarion"
+  },
+  {
+    "object_ID": "1976-357",
+    "title": "['Sommittelu (Puna-sininen ristiriita)', 'Komposition (Röd-blå konflikt)', 'Composition (Conflict of Red and Blue)']",
+    "date": 1960,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2166995&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting with blue and red shapes on it, by Louis Marcoussis, trending on artforum, artforum, desert composition, chuck jones, locusts and flies, digital camo, madrid, by Ben Nicholson, quintessa, early spring, rubble, large-scale, cleveland, hedges, 1 9 th, amaro, h 1 0 2 4"
+  },
+  {
+    "object_ID": "2010-78",
+    "title": "['Voi Kukka', 'Maskros', 'Dandelion']",
+    "date": 2010,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168070&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a man riding a skateboard up the side of a ramp, wolff olins |, madrid. extreme long shot, ( ( railings ) ), full width, private academy entrance, inspired by Wilhelm Marstrand, ladders, precisionism, very minimal, wimmelbild, munich"
+  },
+  {
+    "object_ID": "2013-17",
+    "title": "['Gamlasgubbe']",
+    "date": 2013,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167032&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man standing in front of a building, by Mym Tuma, school courtyard, 165 cm tall, child hybrid, 2 d image, emaciated, inspired by Jóhannes Sveinsson Kjarval, ufology, inside elementary school, iso 125, midsummer, left align, rubbery-looking body"
+  },
+  {
+    "object_ID": "1976-199",
+    "title": "['Asetelma', 'Still Life']",
+    "date": 1917,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169514&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a vase and books on a table, inspired by Samuel Peploe, hues of subtle grey, flasks in hands, inside of a bedroom, portrait of vladimir putin, soft light dull mood, listing image, empty pet bottles, birch, moire, shelf"
+  },
+  {
+    "object_ID": "2012-24",
+    "title": "['Unelma', 'Drömmen', 'The Dream']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175526&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a colorful hot air balloon sculpture in front of a building, jörmungandr, intricate wiring, swirling flowers, streetlamps, creative commons attribution, artforum, made of nanomaterials, girih, 2d side view, celestial bodies, 2011, hurufiyya, raffael, by Louisa Matthíasdóttir"
+  },
+  {
+    "object_ID": "2022-22",
+    "title": "['Palava kaupunki', 'Brännande stad', 'City in Flames']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2612700&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a banana and a building, inspired by Beauford Delaney, sunset with cloudy skies, by Isidor Kaufman, year 1 9 7 0, industrial buildings, destroyed buildings, green terrace, industrialization, township, artforum, (oil) painting, year 1968, warehouses, neighborhood outside window"
+  },
+  {
+    "object_ID": "1976-382",
+    "title": "['Begonioita', 'Begonior', 'Begonias']",
+    "date": 1934,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167965&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a potted plant on a table, inspired by George Hendrik Breitner, by David Bomberg, morning glory flowers, red and orange color scheme, soft lighting sold at an auction, hong soonsang, by Anna Boch, inspired by Matthijs Maris, half portrait, sycamore, by Konstantin Korovin"
+  },
+  {
+    "object_ID": "2007-61",
+    "title": "['Lampi metsän keskellä', 'Pond in the Forest']",
+    "date": 1995,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170127&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people standing in a circle, torii in a moutain with trees, watercolor painting underwater, sitting in a cemetery at night, inspired by Eero Järnefelt, listing image, scp-914, by Moïse Kisling, lake in the distance, centred, lapland, art for the fool tarot card, alaska"
+  },
+  {
+    "object_ID": "2006-77-4",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174649&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a long hallway with a painting on the wall, partially biomedical design, resin painting, arbeitsrat für kunst, mcu photograph, hospital in background, flowstatepaint, by Niels Lergaard, soft surface texture, inside a frame on a tiled wall, zinc white, metal floor"
+  },
+  {
+    "object_ID": "2005-160",
+    "title": "['Unikot', 'Poppies']",
+    "date": 2005,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171720&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a table and chairs in a room with pictures on the wall, hospital lighting, by Jesper Knudsen, commercial photograph, taken with a canon eos 5d, bouquets, 2006 photograph, by Arvid Nyholm, city environment, triptych, hassleblad, low shot camera, dentist"
+  },
+  {
+    "object_ID": "2016-30",
+    "title": "['Kuukkeli']",
+    "date": 2016,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179824&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture of a horse made out of books, artistic drawing of a crow, swedish urban landscape, colorful 8 k, red bricks, [ metal ], inspired by Jean-Paul Riopelle, irish youtuber, fat bird, photo courtesy museum of art, broken tiles, jörmungandr, streetscape, 90 60 90"
+  },
+  {
+    "object_ID": "2018-454",
+    "title": "['Tapaaminen', 'The Meeting']",
+    "date": 1975,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178343&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people standing next to each other, boardwalk, seventies era, showdown, colored pencil, market setting, inspired by Christian Rohlfs, the front of a trading card, scanned 2400 dpi, albuquerque, scanned, catalog exhibition"
+  },
+  {
+    "object_ID": "2020-22",
+    "title": "['Suoraviivaistaja', 'Line Straightener']",
+    "date": 2020,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177449&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a blurry photo of a blue and green curtain, scan lines, trending on art-sation, by Ross Bleckner, various refining techniques, barcode, award painting, uncompressed png, inspired by Scott Naismith, thin wires, photo courtesy museum of art, ink under paint, 2014, by Graham Forsythe, raw file, harp"
+  },
+  {
+    "object_ID": "2020-35",
+    "title": "['Sommitelma', 'Komposition', 'Composition']",
+    "date": 1989,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179012&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a piece of art that is on display, art of émile eisman-semenowsky, vibrant but muted colors, 1947, rich geometry, vectors, inspired by Ernő Grünbaum, esa, iliad, chengyou liu, maroon mist, trending on artforum, interconnections, still life, symbolization, cone"
+  },
+  {
+    "object_ID": "2021-65",
+    "title": "['Sallinen maalaa', 'Painter Sallinen at his Canvas']",
+    "date": 1907,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2614699&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man holding a paintbrush, by Jens Ferdinand Willumsen, blue long pants and red shoes, a portrait of richard wikström, by Jankel Adler, corridor, museum catalog, the streamer, photographer, harp, workshop, malcolm hart, featured on artsation, poolrooms, masterful composition"
+  },
+  {
+    "object_ID": "2017-47-4",
+    "title": "['Näyttämö']",
+    "date": 2017,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177543&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a basketball court with a mural on the wall, inspired by Claes Corneliszoon Moeyaert, flat 2 d, [ colourful, medical lab, ecovillage, inspired by Adélaïde Labille-Guiard, wooden ceiling, introduction factory photo, peter morhbacher, gilleard, corridor"
+  },
+  {
+    "object_ID": "2022-2",
+    "title": "['Ostakaa!', 'Please Buy!']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2577872&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of two people sitting at a table, laika films, by Moïse Kisling, wim wenders, he‘s wearing a red scarf, inspired by Paul-Émile Borduas, by René Auberjonois, aardman, manuscript, color picture, inspired by George Tooker, martinière"
+  },
+  {
+    "object_ID": "2008-79",
+    "title": "['Water Sketches (II)', 'Water Sketches (II)', 'Water Sketches (II)']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168926&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a stage with a waterfall in the middle of it, synthetic polymer paint on linen, black and silver, in 2 0 0 2, air bubbles, hanging scroll on wall, by Christen Dalsgaard, theatre equipment, rippling water, old internet art, layered paper, water mirrored water"
+  },
+  {
+    "object_ID": "2018-459",
+    "title": "['Toinen maa I', 'Another Country I']",
+    "date": 1971,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180291&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people under an umbrella, osborne macharia, antartic night, cardboard, aged 13, plows, azulejo, 9 4, 1 9 6 8, abstract claymation, near the seashore, standing in a township street, sparkling spirits, on wood, people at work, connectedness"
+  },
+  {
+    "object_ID": "2018-358",
+    "title": "['Karpaattien kukkula', 'Carpathian Peak']",
+    "date": 1982,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179129&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a mountain with a river running through it, einar jonsson, bright and saturated palette, inspired by William Zorach, nature journal cover, archipelago, by Einar Hakonarson, by Prudence Heward, photo courtesy museum of art, by Edward Okuń, ffffound, tlingit haida lithographic"
+  },
+  {
+    "object_ID": "2008-80-5",
+    "title": "['Usva, sarastus & katse']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173801&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting on the wall of a living room, equine photography, meadow in the background, modern gallery furniture, houzz, by Cornelia MacIntyre Foley, old apartment, artsationhq, anamorphic widescreen, rendered image, real-life photograph, medium length photography, high res photograph, soft color"
+  },
+  {
+    "object_ID": "2009-50",
+    "title": "['Valkoinen talo', 'Vitt hus', 'White House']",
+    "date": "1970-luku?",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168189&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of two people sitting in front of a building, by Kyffin Williams, jerez, inspired by John Thomson of Duddingston, craig mullins dappled lighting, photo courtesy museum of art, year 1 9 7 0, walking to the right, burnt sienna, thatched roof, pontormo"
+  },
+  {
+    "object_ID": "2010-94-1",
+    "title": "['Fucus, Harmaja']",
+    "date": 2010,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172161&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a fountain with a sculpture in the middle of it, inspired by Eero Snellman, birds and trees, nautical maps, during spring, 21:9, losing feathers, 16 thousand - n 6, capillaries, 2 0 0 0, government archive, vesa-matti loiri, artist impression, inuk, stellation, swan"
+  },
+  {
+    "object_ID": "2015-25",
+    "title": "['In the Club']",
+    "date": 2015,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173766&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a piece of cloth on a table, 8k vhs glitch, banner, dark painting, stylized border, iridescence reflecting, empty space background, inside dark oil, listing image, flat shaped chrome relief, uncompressed png"
+  },
+  {
+    "object_ID": "2013-22",
+    "title": "['Surfacing']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176184&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman in a bathing suit, inspired by Zhang Xiaogang, aykut aydogdu zener, watery black eyes, two exhausted, descend into the deep, painted with pastels, rubber undersuit, by Mary Adshead, female floating"
+  },
+  {
+    "object_ID": "1982-54-5",
+    "title": "['Punainen-vihreä: serigrafiasalkusta 4-värin etydejä', 'Rött-grönt: ur serigrafiportföljen Etyder i fyra färger', 'Red-Green: from the Portfolio Etudes in Four Colors\\n']",
+    "date": 1982,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170710&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a red, black, and green abstract painting, by Ian Hamilton Finlay, trending on artforum, ( alexander archipenko ), big graphic seiner ship, offset lithography print, inspired by Willem Maris, inhabited initials, anthony moravian, 8 8 8 8, by John Chamberlain, dueling, 27, 5 7 9"
+  },
+  {
+    "object_ID": "2006-77-15",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173011&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with pictures hanging on the wall, scientific photography, inspired by Wyke Bayliss, hospital ward, vegetation, the light is bright and wintry, whitespace, featured art, full width, poster tour, petzval lens, research complex, night time photograph, inspired by Juriaen van Streeck"
+  },
+  {
+    "object_ID": "2014-39-1",
+    "title": "['Mo(nu)ments / USA']",
+    "date": 2014,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168653&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a display in a glass case, political art, by Teresa Fasolino, in lowbrow style, 28mm scale, by Tyler Jacobson, electrical case display, professional portfolio, by Gregory Gillespie, high resolution design, three dimensions, national archives, 2dcg"
+  },
+  {
+    "object_ID": "2017-35",
+    "title": "['Bob']",
+    "date": 2017,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177243&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture of two balls of dough on a pedestal, natsumi mukai artwrok, horizontal view, derriere, inspired by Vija Celmins, pale-skinned persian girl, in a rock chair, trending on artforum, thicc, abstract forms and shapes, film still of kim kardashian, globes"
+  },
+  {
+    "object_ID": "2011-67",
+    "title": "['Kaksi kukkaa', 'Två blommor', 'Two Flowers']",
+    "date": 2011,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176269&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a plant in a pot hanging from the ceiling, inflatable landscape with forest, school classroom, by Sigrid Hjertén, full width, based on child's drawing, by Mym Tuma, flat 2 d design, various items, private academy entrance, panoramic anamorphic, murals, mascot"
+  },
+  {
+    "object_ID": "2007-102",
+    "title": "['Et voi koskaan tietää kaikkea mistään']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172275&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a black cat on a green background, by Alex Katz, over a chalk cliff, eraserhead, inspired by Raoul De Keyser, by Ambrose McCarthy Patterson, flying whale, 2009, green slime, lynchian atmosphere, woodblock, barren sands, pictoplasma, woodcut, at gentle dawn green light"
+  },
+  {
+    "object_ID": "2022-27",
+    "title": "['Nainen kävelypuvussa', 'Woman in Two-Piece Costume']",
+    "date": 1913,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2860554&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white drawing of a woman, by Albin Egger-Lienz, dressed in dark garment, by Emil Nolde, long neck, in a square, beautiful jewish woman, jane rosenberg, year 1 9 0 0, fig.1, a broad shouldered, marge simpson, female fox, mom, yellow charcoal"
+  },
+  {
+    "object_ID": "2008-11",
+    "title": "['Maisema II', 'Landskap II', 'Landscape II']",
+    "date": "2006-2007",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169884&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a plane flying over a body of water, inspired by Gerhard Richter, winter storm, shipping docks, faint glow, supersonic trains and passengers, on a canva, john eaves, grey shift, in this painting, deblurring, warehouses, warp"
+  },
+  {
+    "object_ID": "2022-77",
+    "title": "['View of a Kitchen']",
+    "date": 1980,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2858826&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a yellow bag on a kitchen counter, cathrin machin, in gentle green dawn light, trending on artforum, yin zhen chu, inspired by Ken Howard, flasks, inside a cluttered kitchen, connectedness, inspired by Apelles, on a canva, shipping docks, 1 9 6 0 s art, by Elizabeth Durack"
+  },
+  {
+    "object_ID": "2019-95",
+    "title": "['Valomerkki rannalta', 'Ljussignal från stranden', 'Light Signal from the Shore']",
+    "date": 2019,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180650&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large building next to a body of water at night, height detailed hd realistic 8 k, inspired by Johan Lundbye, low spacial lighting : :, realistic afternoon lighting, flitting around in the sky, apartment building on the moon, finalrender:0.8|devfiantart, temporary art, harbor, helsinki"
+  },
+  {
+    "object_ID": "2018-44",
+    "title": "['Harppi ja tähdet']",
+    "date": 2018,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178637&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a pair of scissors sitting on top of a metal pole, robot art cracking the road, espoo, celestial bodies, alchemical diagram, by Eva Švankmajerová, newton's cradle, research center, equations, realistic scale, antibodies, f2.8 35mm, big clock, round-cropped, 24 35 mm"
+  },
+  {
+    "object_ID": "2015-14",
+    "title": "['North Wind']",
+    "date": 2015,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173307&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a man riding a wave on top of a surfboard, anato finnstark. hyper detailed, submerged in water, ( matte painting, zhong lin, sapphire waters below, detail shot, cgsociety - w 1 0 2 4 - n 8 - i, on a canva, inspired by Zao Wou-Ki, sulfur, deep sea, sunken"
+  },
+  {
+    "object_ID": "2003-113",
+    "title": "['Nimetön', 'Utan titel', 'Untitled']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167793&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with two windows and a refrigerator in it, small finely stippled light, hospital background, sustainable materials, escaping air bubbles, medium format. soft light, gipf project, by Villard de Honnecourt, metallic shield, gunshots, displayed on the walls, award- winning photography, blind, professional result, environmental design, splotches"
+  },
+  {
+    "object_ID": "2009-54-1",
+    "title": "['Riutta, Joulukuusikoralli']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176034&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with a lot of clothes on the floor, floor - to - ceiling windows, inspired by Edi Rama, reykjavik junior college, subject made of white mesh rope, wide angle. rudolf herczog, passive house, f1.8 anamorphic, ikea, solar sails, in russia, archdaily, hotel, taken with canon eos 5 d"
+  },
+  {
+    "object_ID": "2008-113-1",
+    "title": "['Tuttua kasvojen edessä, tuntematon selän takana']",
+    "date": 2008,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168147&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with two benches and a painting on the wall, graafland, playground, by Bjørn Wiinblad, floor tiles, mcu photograph, by Hilde Goldschmidt, rectangular, northwest school, 2007 blog, scene inside forest, norrlandsskog, american school, brett goldstein"
+  },
+  {
+    "object_ID": "2021-50",
+    "title": "['Ranta', 'By the Water']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2654551&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman sitting on a bench, crumbled wall in jerusalem, by John Henry Twachtman, detail structure, earthy light pastel colours, volodymyr zelensky at war, cars parked, aspect ratio 16:9, highly detailed snakes, inspired by Persis Goodale Thurston Taylor, by Berthe Morisot"
+  },
+  {
+    "object_ID": "2010-86",
+    "title": "['RobOy', 'RobOy', 'RobOy']",
+    "date": 2010,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173562&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a display case filled with lots of electronic equipment, full body mecha suit, by George Wyllie, 3d printed building, inspired by Washington Allston, trending on artforum, haunted spaceship hallway, artist rendition, metal shutter, greebles, artforum, tall door"
+  },
+  {
+    "object_ID": "2012-28",
+    "title": "['Night Sky', 'Night Sky', 'Night Sky']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175453&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a building with a street light in front of it, super-resolution microscopy, f1.8 anamorphic, alvar aalto, detailed –n 9, medical research facility, pixar film setting, 21:9, evening time, borealis, deep lighting"
+  },
+  {
+    "object_ID": "2020-51-5",
+    "title": "['Satujen palatsit: Istanbul']",
+    "date": 2020,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178098&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with a blue and white pattern on the floor, trending on arstation w- 1024, lockers, inspired by Hilde Goldschmidt, private academy entrance, hexagonal pattern, wires and resisters, assymetrical, by Bracha L. Ettinger, red carpeted floor, erste boden"
+  },
+  {
+    "object_ID": "2014-39-7",
+    "title": "['Mo(nu)ments / Kiina']",
+    "date": 2014,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167531&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a display in a glass case, by Lin Tinggui, mini magic city, vivarium, cutaway, image on the store website, photo courtesy museum of art, 16mm soft light, storybook layout, product image, colour photograph"
+  },
+  {
+    "object_ID": "2022-26",
+    "title": "['T. S.:n muotokuva', 'Porträtt av T. S.', 'Portrait of T. S.']",
+    "date": 1909,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2605459&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman in a green dress and hat, by Augustus John, but a stern look about her, by Charles Cundall, trending on artforum, inspired by Dorothy Johnstone, pelosi, traveling clothes, sydney hanson, wearing a simple robe, inspired by Louisa Chase, zdzidaw"
+  },
+  {
+    "object_ID": "2018-451",
+    "title": "['Pieni valkoinen', 'Small and White']",
+    "date": 1977,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178362&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a sheep in a field of grass, by Albert Irvin, in the snow mountains, by Gao Cen, official artwork, album artwork, inspired by Howardena Pindell, swamp monster of ice, high - resolution scan, 2 0 0 9, round-cropped, tezuka osamu, white moon, flagstones, pastel fur, ponds"
+  },
+  {
+    "object_ID": "2022-30",
+    "title": "['Omakuva', 'Självporträtt', 'Self-portrait']",
+    "date": 1913,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2860508&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white drawing of a man, by Giovanni Giacometti, ron perlman, by Jacques Villon, portrait of mia farrow, finely detailed face features, looks like jerma985, ambrotype, scarred face, close-up print of fractured, thin young male, still image"
+  },
+  {
+    "object_ID": "2006-77-6",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175600&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "two black and white photographs hanging on a wall, in futuristic laboratory room, reflection lumen mapping, by Annabel Eyres, glaciers and ice and snow, on a canva, metal hard surfaces, medical research facility, panoramic photography, overexposed photograph"
+  },
+  {
+    "object_ID": "1999-151-1",
+    "title": "['Sivussa, valokuvasarja Helsingin esikaupungeista']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172439&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a man walking down a sidewalk next to a tall building, anamorphic 35 mm lens, inuit heritage, convenience store, featured in artistation, under bridge, 2 0 0 0's photo, boreal forest, production photo, downtown, inspired by Jan Kip, digital matte"
+  },
+  {
+    "object_ID": "2015-31",
+    "title": "['Fan Fiction #2']",
+    "date": 2015,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179914&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a piece of art that is on a piece of paper, flowing pink-colored silk, montage of grid shapes, earth tones and soft color 1981, protagonist in foreground, red brocade and blue gemstones, front view 1 9 9 0, gelatin silver process, lossless, quilt, an inform organism"
+  },
+  {
+    "object_ID": "2010-95-1",
+    "title": "['Kolme aitaa', 'Tre Stängsel', 'Three Fences']",
+    "date": 2010,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170046&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a white fence sitting in the middle of a lush green field, inspired by Jaakko Mattila, racks, color restoration, gate, 3 meters, installation view, driveway, award-winning style, line sleek, equine, barrier integrity, 1 / 3 headroom, pipelines, ultra - high jump, 4 5. 7 mplens"
+  },
+  {
+    "object_ID": "2004-123-3",
+    "title": "['Vallilan synty', 'Vallgårds födelse', 'The Birth of Vallila', 'Construction site']",
+    "date": 2004,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168068&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture hanging on the wall of a building, iridescent image lighting, by Thomas de Keyser, wooden stairs, anamorphic widescreen, medium-format print, tilt blur, gatson bussiere, chromed metal, show room scene, tall thin frame, 2000, townscape, flat paint, artstatiom, game environment"
+  },
+  {
+    "object_ID": "2001-181",
+    "title": "['Vesivärinapit, Taiteilijan hampaat ja Puuvärikynät ja niiden piirtämät jäljet', 'Konstnärens tänder, Vattenfärgsknappar, Färgpennor och deras tecknade spår', \"The Artist's Teeth, Watercolour Blocks, Coloured Pencils and Their Marks\"]",
+    "date": 2001,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167817&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room filled with lots of wooden tables and chairs, drawing for children, tarmo juhola, red - yellow - blue building, large patches of plain colours, black walls, hasselblad photograph, hospital, matter art, solid coloured shapes"
+  },
+  {
+    "object_ID": "2008-87",
+    "title": "['Kaupunki ja meri', 'Stad och hav', 'The City and the Sea']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169311&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with tables and chairs and a painting on the wall, industrial photography, white sea cloud, f1.8 anamorphic, skyline showing from the windows, food court, this painting is a large canvas, britt marling style 3 / 4, in a meeting room, art »"
+  },
+  {
+    "object_ID": "2020-60",
+    "title": "['Ecology Stone', 'Ecology Stone', 'Ecology Stone']",
+    "date": 2020,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179890&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large rock sitting in front of a tall building, award winning shopfront design, metabaron, art-station, inspired by Michael Sittow, meat factory, cinematica, imet2020, by Tuvia Beeri, gauguin, public art, artist rendition, inspired by Washington Allston"
+  },
+  {
+    "object_ID": "2021-26",
+    "title": "['Luonnos Seitsemän veljestä -kuvitussarjaan', 'Sketch for a series of illustrations for The Seven Brothers']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2814246&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a person standing on top of a mountain, shafts of light god rays, walk in a funeral procession, inspired by the Brothers Hildebrandt, winter 1941, by Robert Bevan, golden-white robes, circa 1940s, by Alan Lee, israel, second coming, 1908, afar"
+  },
+  {
+    "object_ID": "2004-118",
+    "title": "['Iso käsi', 'Stor Hand', 'Big Hand']",
+    "date": 2004,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168282&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a building covered in snow next to a building, drawing for children, golden organic structures, canopies, norrlandsskog, atlus, northwest school, decorative panels, suspended ceiling, sterile colours, mcu photograph, overview, installation view, hrd, indigenous"
+  },
+  {
+    "object_ID": "1976-7",
+    "title": "['Asetelma', 'Nature morte', 'Still Life']",
+    "date": 1928,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169558&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a bottle and fruit on a table, by David Bomberg, by Amadeo de Souza Cardoso, ( ( photograph ) ), 16:9, google arts and cultures, jar on a shelf, inspired by Corneille, cone, presenting wares, self-portrait, wang liang, an orange"
+  },
+  {
+    "object_ID": "2011-64-1",
+    "title": "['Laidunmaa; Lehmä', 'Betesmarken; Kon', 'The Pasture; The Cow']",
+    "date": 2011,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176264&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large rock sitting in front of a building, inspired by Jaakko Mattila, inside elementary school, tula, installation view, university, passive house, 21:9, official artwork, iso 1250, stony"
+  },
+  {
+    "object_ID": "2018-357",
+    "title": "['Valkohattuinen mies', 'Man in White Hat']",
+    "date": 1973,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179825&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man with a hat and tie, inspired by Milton Avery, murderous carnival freak, by Marianne von Werefkin, photo courtesy museum of art, greta thunberg smiling, thin moustache, loosely cropped, artforum, dracula, vesa-matti loiri, emil ferriss, felting, 1 9 5 0 s concept art ) ) )"
+  },
+  {
+    "object_ID": "2009-66",
+    "title": "['Linnun laulu', 'Fågelns sång', 'Birdsong']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168402&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a person riding a bike down a road next to a body of water, 65mm 1.5x anamorphic lens, autumn foliage in the foreground, overcast lake, the see horse valley, group of seven, health spa and meditation center, the photo shows a large, upon a peak in darien, pine tree, photostock, detmold"
+  },
+  {
+    "object_ID": "2008-100",
+    "title": "['Avaran kosketus (Guhyaloka)']",
+    "date": 2004,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175619&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a person sitting at a table in a room, reykjavik junior college, photos of family on wall, by Magnus Colcord Heurlin, inspired by Cerith Wyn Evans, floor lamps, iso 1250, anamorphic widescreen, winning award image, library books, atrium, landscape photo-imagery, real estate photography"
+  },
+  {
+    "object_ID": "2018-31",
+    "title": "['Paratiisi', 'Paradis', 'Paradise']",
+    "date": 1978,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178083&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of two people standing in front of a tree, inspired by Mati Klarwein, by Alice Rahon, on a planet of lush foliage, official concept art, by Robert Colescott, serpent, by Kamāl ud-Dīn Behzād, by Zlatyu Boyadzhiev, vignette, drawings, fluorescent skin, long violet and green trees"
+  },
+  {
+    "object_ID": "2022-19",
+    "title": "['Pulloja', 'Flaskor', 'Bottles']",
+    "date": "1959 epävarma",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2612693&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a bottle and a bottle of wine, inspired by Moses Soyer, by Margareta Alströmer, glowing potions, facing and looking at the viewer, strong lines and bold colors, aged 13, captured in bottles, displacement, listing image, single vague light, psychosis, inspired by David Bomberg"
+  },
+  {
+    "object_ID": "1992-012",
+    "title": "['Paavo Nurmi']",
+    "date": "1925,  1952",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172860&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man holding a soccer ball, inspired by Mym Tuma, running pose, by Ejnar Nielsen, on a canva, by Kalervo Palsa, walking at the park, nubile body, 21:9, anmi, no epaulettes, by Nōami, marathon race, new objectivity, helsinki"
+  },
+  {
+    "object_ID": "2015-12",
+    "title": "['Milky Way']",
+    "date": 2015,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174904&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a lake surrounded by trees, by Edward Okuń, inspired by Betty Churcher, lily pad, inspired by Neil Welliver, subsiding floodwaters, oil on canva, mirrored, oliver vernon, aspect ratio 16:9, sydney hanson, a painting of white silver, floodplains, myth of narcissus, oleo"
+  },
+  {
+    "object_ID": "1976-73",
+    "title": "['Kirkkoväkeä, Virrat', 'Kyrkfolk, Virdois', 'Churchgoers, Virrat']",
+    "date": 1941,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170638&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people walking in the snow, inspired by Prudence Heward, refugees, ukrainian national clothes, still from the movie the arrival, quebec, carson ellis, hildebrandt, protest, april, connectedness, year 1 9 4 4, walking on ice, caravan"
+  },
+  {
+    "object_ID": "1992-120",
+    "title": "['Yllätys', 'Överraskningen', 'The Surprise']",
+    "date": "1925,  1948",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173360&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a boy sitting on top of a stone block, inspired by Eero Järnefelt, girl walking in a flower field, bent over posture, in a city park, attractive feminine curves, left align, grief, shoulders can be seen, neoplasticism, by Anton Möller, creative commons attribution, 1929, eve"
+  },
+  {
+    "object_ID": "2007-50",
+    "title": "['Sateenvarjon alla metsässä', 'Under an Umbrealla in the Woods']",
+    "date": 1981,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170559&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman holding an umbrella, style of edward gorey”, misty woods, ( watercolor ), by Joan Ayling, blue moon, inspired by Diane Dillon, garbed in a purple gown, weather report, atmospheric and depressed, height 1 7 8, tarot card art, in the park, womanhood, the girl is scared"
+  },
+  {
+    "object_ID": "2014-34",
+    "title": "['Color Space - Shutter 70, Take 11']",
+    "date": 2013,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173551&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a yellow square with a blue center, radiosity rendering, 'untitled 9 ', cfg _ scale 1 5, auras, geeen skin, medium, lossless, guilloche, centered in a frame, rendered in high octane, backlite"
+  },
+  {
+    "object_ID": "2006-77-19",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176747&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with a picture hanging on the wall, hospital lighting, norrlandsskog, outdoor fine photography, advertisment, creative commons attribution, eyelevel perspective image, hospital ward, inspired by Matthias Weischer, brass sheet, installation view, landscape imagery"
+  },
+  {
+    "object_ID": "1999-208-5",
+    "title": "['Aino ja pojat']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179821&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people on a stage, red body suit, working in the forge, inspired by William Steig, metaverse concept art, human sacrifice, wielding a wrench, installation view, digital drawing, by Jeanne Hébuterne, artforum, heise jinyao, triptych"
+  },
+  {
+    "object_ID": "2006-17",
+    "title": "['Kirje', 'Brev', 'Letter']",
+    "date": 2005,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168552&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a white shirt with red writing on it, by Cornelia MacIntyre Foley, opened dress, handwritten, religious robes, fantasy list, blood collection vials, back - view, quilt, crowds of people praying, medium-format print, full view, sheet, a list cast, nightgown, uniform"
+  },
+  {
+    "object_ID": "2011-32-6",
+    "title": "['Liian painavat vieraat, hahmo 6', 'För tunga gäster', 'Too Heavy Guests']",
+    "date": 2011,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176345&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large rock sitting on top of a large rock, industrial art style, trending on artforum, beksinki, port, granite, 5, atlas, inuk, by Claire Falkenstein, nordic summer, guillotine, artforum, fluxus, large chain, taken with a canon eos 5d, —n 9, public art, onyx"
+  },
+  {
+    "object_ID": "1976-417",
+    "title": "['St. Tropez']",
+    "date": 1900,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168232&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of boats in a harbor with buildings in the background, by Maurice Prendergast, production art, inspired by Frances Hodgkins, croatian coastline, featured on artsation, panorama, by Hermenegildo Anglada Camarasa, f. 1 4, midday photograph, craxula, google arts and cultures"
+  },
+  {
+    "object_ID": "2018-14",
+    "title": "['Kuningatar', 'Drottning', 'Queen']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180072&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a naked woman standing in front of a tiled wall, inspired by Euan Uglow, standing on two feet, fernand khnopff, soft pale golden skin, thigh gap, she has a distant expression, short in stature, 2 0 0 7, 165 cm tall, bottom - up perspective, warm and soft and subdued colors"
+  },
+  {
+    "object_ID": "2000-345",
+    "title": "['Johanneksen kenttä, 1963', 'Johannesplanen, 1963', \"St John's sports field, 1963\"]",
+    "date": 1963,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174361&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a group of men standing next to each other, inspired by Antanas Sutkus, jumping, student, epic diptych, full width, carefree, gangs, round-cropped, the rapture, preppy style, playing, by Josef Jackerson, kreuzberg, air, university, dueling, british, collaborative"
+  },
+  {
+    "object_ID": "2018-353",
+    "title": "['Keväinen tie', 'Spring in their Step']",
+    "date": 1973,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179647&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of two people walking in the snow, cd cover artwork, by Shirley Teed, official poster artwork, youthful colours, inspired by Eero Järnefelt, boardwalk, holding each other hands, artsation contest winner, sewers, tubing, photo courtesy museum of art, full page periodical image, joe pera, norrlandsskog, regionalism"
+  },
+  {
+    "object_ID": "2015-16-2",
+    "title": "['Trädgård 2', 'Garden 2']",
+    "date": 2015,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172742&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of two different colored papers, blue translucent resin, roofing tiles texture, in pastel shades, plush leather pads, dissolution filter, official product image, filtered light, dye-transfer, sharp corners, air bubbles"
+  },
+  {
+    "object_ID": "2006-77-12",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174802&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "there is a picture on the wall next to a door, luminist polar landscape, biomaterial, hallway, by Johan Lundbye, flat 2 d, eyelevel perspective image, stone etchings, gipf project, hospital background, social encounters, medium close - up ( mcu ), photorealistic painting"
+  },
+  {
+    "object_ID": "2015-8",
+    "title": "['Kasvitieteellinen puutarha', 'Den botaniska trädgården', 'Botanical Garden']",
+    "date": 2014,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174621&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with a couch and a table, rammed earth courtyard, mit technology review, anthropomorphic cactus, branching hallways, white wall coloured workshop, atrium, polygonal fragments, plaster, centered design, neon ligh, school courtyard, by Chica Macnab, axes"
+  },
+  {
+    "object_ID": "1997-226-2",
+    "title": "['Maa-isä, 2 osa (nenä ja suu)', 'Jordfadern (mun och näsa)', 'Father Earth (mouth and nose)']",
+    "date": 1997,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168663&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large rock laying in the middle of a forest, post - soviet courtyard, by Magdalene Bärens, remembrance, birches, in 2 0 0 2, biomorphic, by Susan Weil, 1. 2 aperture, summer camp, inspired by Jacob Kainen, iso 1250, triptych, tombstone, gorget, statue"
+  },
+  {
+    "object_ID": "2020-3",
+    "title": "['Lepäävä', 'Vilande', 'Reclining']",
+    "date": 1973,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177976&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman laying on a bed, inspired by Betty Churcher, exhibition catalogue, iliad, aged 13, by Bohumil Kubista, exhibition of paintings, eyes half closed, winning award piece, looking away from viewer"
+  },
+  {
+    "object_ID": "2009-54-6",
+    "title": "['Riutta, Viuhkakoralli']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172318&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with a bunch of paper flowers hanging from the ceiling, inspired by Einar Hakonarson, flat 2 d design, indigenous art, detailed studio photograph, lattice, metal sculpture, bold complementary colours, interconnections, reykjavik junior college, hexagons, by Maginel Wright Enright Barney, red mechanical body, 3 dcg, arthouse"
+  },
+  {
+    "object_ID": "2020-59",
+    "title": "['Concrete and Miscellaneous Feelings']",
+    "date": 2018,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176879&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a group of rocks sitting on the side of a road, sebastien chabal, inspired by Werner Andermatt, police tape, stockholm, photo courtesy museum of art, catacombs, cushions, performance art, aspect ratio 16:9, streetscapes, monuments, connection rituals, digitigrade, by Hilde Goldschmidt"
+  },
+  {
+    "object_ID": "2006-72",
+    "title": "['Pehmuste', 'Stoppning', 'Padding']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169387&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture of a man on a skateboard in the air, couple kissing, made of felt and cloth and beads, hassleblad, jacket, mario robinson. oil on canvas, studio shaft, calarts, wall art, torso portrait, no two bodies, washington, favicon, disposable film, renderer, inspired by Sadao Watanabe"
+  },
+  {
+    "object_ID": "1997-188",
+    "title": "['Haavoittunut enkeli']",
+    "date": 1991,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167012&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a couple of people on a stick, portrait of mickey mouse, haibane renmei, dark humour, digitalblasphemy, healer, by Ross Bleckner, nick park, dressed in white robes, recovering from pain, mickey mouse, the angel of death, marc newson, 2008, triptych, artforum, whimsical"
+  },
+  {
+    "object_ID": "2014-43",
+    "title": "['Kaari', 'Bågen', 'Arch']",
+    "date": 2014,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174431&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a concrete structure with a street light on top of it, by Eero Snellman, marble white columns, aluminium, flag, by Robert Falk, an scp anomalous object, bright sunny summer day, monolithic granite spikes, panorama view, maintenance area, color restoration, hrd, vertical orientation w 832, foto, by karolis strautniekas"
+  },
+  {
+    "object_ID": "2007-60",
+    "title": "['Kukkakimppu pöydällä', 'Bouquet on a Table']",
+    "date": 1994,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168643&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of flowers in a vase on a table, inspired by Gabriele Münter, blue archive, by Magdalene Bärens, alvar aalto, by Zinaida Serebriakova, burnt umber and blue, by Pierre Puvis de Chavannes, labrador, artsation contest winner, exhibited in the british museum, vignette, white roses"
+  },
+  {
+    "object_ID": "2014-40",
+    "title": "['Kulis', 'Kulis', 'Kulis']",
+    "date": 2014,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173386&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large painting on the wall of a classroom, herzog de meuron, layout of map, cg architects, highly detailed brushstrokes, reykjavik junior college, mit technology review, restaurant interior photography, high - resolution photograph, otomo, dezeen"
+  },
+  {
+    "object_ID": "2016-43",
+    "title": "['Pihlajamäen ala-asteen teoskokonaisuus', 'Verkhelhet för Rönnbacka lågstadiet', 'Installation for Pihlajanmäki Primary School']",
+    "date": "2009-2016",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176962&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a blue and brown clock on a white wall, wicker art, inspired by Cornelia MacIntyre Foley, corporate logo, oak parquet, by Eduardo Lefebvre Scovell, avetetsuya studios, polynesian style, featured on artsation, nasa archives, interior photograph, woven armour, hdpe, smooth curvilinear design"
+  },
+  {
+    "object_ID": "2018-424",
+    "title": "['Baanan väliaikainen graffiti']",
+    "date": 2018,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176416&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a graffiti on the side of a building, by Bruno Liljefors, 4k —height 1024 —width 1024, sheikh, sitting under bridge, sun flares, inspired by Yasar Vurdem, 70s design, reallism, full width, ravine, ditka, persian, pipe, standing sideways, motu"
+  },
+  {
+    "object_ID": "2016-33-7",
+    "title": "['Lintula / lentokala ja kolme timanttia, neljä lentokalaa ääriviivoina']",
+    "date": 2016,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172550&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of some birds on a wall, suspended ceiling, children's illustration, swiss design, by Keos Masons, white plank siding, by Narashige Koide, quality draughtmanship, cross hatch, well - decorated, joytoy"
+  },
+  {
+    "object_ID": "2008-80-6",
+    "title": "['Usva, sarastus & katse']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174174&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a table with a vase of flowers on top of it, nursing home, liminal space photography, ballet, kirsi salonen, (waterfall), displayed on the walls, healthcare worker, frame around picture, mcu photograph, photo of a painting, by Ulrika Pasch, studio kyoto, ekasportal, professional photograph"
+  },
+  {
+    "object_ID": "1976-204",
+    "title": "['Poika', 'Gosse', 'Boy']",
+    "date": 1922,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168049&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a young man sitting in a chair, by Alexander Rodchenko, inspired by Wu Zhen, portrait of 1 5 - year - old boy, inspired by David Bomberg, oil on canva, dramatic light on face, with a mirror, aged 13, stylised military clothes, profile image, 1 6 : 9, yiqiang and shurakrgt"
+  },
+  {
+    "object_ID": "1992-144",
+    "title": "['Esirippu, Ida Aalbergin muistopatsas', 'Ridån, Ida Aalbergs minnesmärke', 'The Curtain, Memorial to actress Ida Aalberg']",
+    "date": 1972,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176273&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture in a park with trees in the background, full body picture of a male monk, iron giant at sunset, by Sigrid Hjertén, wearing stockings. side-view, martin luther king, iso 1250, panoramic, inspired by Alberto Burri, low dark light, creative commons attribution, battle damage, lorem ipsum dolor sit amet"
+  },
+  {
+    "object_ID": "2018-348",
+    "title": "['Kanava', 'Canal']",
+    "date": 1973,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180385&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a bridge over a body of water, lush and colorful eclipse, inspired by Léon Bakst, by Duccio, james turrell, inspired by zdzisław beksinski, photo courtesy museum of art, zhangjiajie, artist arata yokoyama, puce and vermillion, gondolas"
+  },
+  {
+    "object_ID": "2020-10",
+    "title": "['La Femme qui voyage']",
+    "date": 2015,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178937&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a man standing in front of a desk next to a window, a full portrait of nordic female, inspired by Joachim Patinir, inside of a 1970s science lab, pink glasses, trending on artstattion, admiring her own reflection, markus gunnar, 60s, large format, one woman"
+  },
+  {
+    "object_ID": "2020-45",
+    "title": "['New Horizons']",
+    "date": 2020,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177298&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a group of pictures hanging on a wall in a room, commercial lighting, biomimetic, by Maties Palau Ferré, school classroom, reddish exterior lighting, by Einar Hakonarson, artworks, by Josep Rovira Soler, large arrays, resin painting, fig.1, 5 - channel, biomorphic, trending on artststion"
+  },
+  {
+    "object_ID": "2019-85-3",
+    "title": "['Sarjasta Queue (2019)', 'From the series Queue (2019)']",
+    "date": 2019,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180475&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a person sitting on a surfboard, by Carol Bove, toiletpaper magazine, stripes, summer dress, exquisite corpse, yellow-robed cultist, [ tarot card ]!!!!!, light watercolour, 2 0 1 4. modern attire, by Richard Artschwager, hanging scroll, layer upon layer"
+  },
+  {
+    "object_ID": "2014-39-6",
+    "title": "['Mo(nu)ments / Suomi']",
+    "date": 2014,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169494&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a bed in a room, inspired by George Wyllie, shopwindows, court archive images, by Elfriede Lohse-Wächtler, lightbox, holiday season, tourist destination, gipf project, bakery, poland, government archive, dramatic nautical scene, installation view, cover illustration, intarsia, action adventure scene, tower of babel"
+  },
+  {
+    "object_ID": "1976-232",
+    "title": "['Asetelma', 'Nature Morte', 'Still Life']",
+    "date": 1917,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168871&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of pears and a bottle on a table, inspired by Louis Valtat, by Margareta Alströmer, drinking champagne, scans from museum collection, by Nicolas de Staël, by William McTaggart, aspect ratio 16:9, maher morcos, helmond, olive oil, 1 0 0 0, mcgill, ( ( film noirs ) )"
+  },
+  {
+    "object_ID": "1976-72",
+    "title": "['Kirkossa (Chartres)', 'I kyrkan (Chartres)', 'In Church (Chartres)']",
+    "date": 1940,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171440&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of two women sitting at a table, by Lois Dodd, funeral veil, three women, jean gireaud, room shot, pastel soft colors, inspired by Yasar Vurdem, inspired by Joseph DeCamp, black mold, courtesy of centre pompidou, crayon drawing, gas masks, white robe, zdislav beksinsk - h768"
+  },
+  {
+    "object_ID": "2022-15",
+    "title": "['Valoa kohti', 'Mot ljuset', 'Toward the Light']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2607383&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a sunset with a tree in the foreground, by Beauford Delaney, by Eero Järnefelt, copyright tsr 1989, children painting, 21:9, artforum, psychosis, barren landscape, green cape"
+  },
+  {
+    "object_ID": "2007-74",
+    "title": "['Pilvi', 'Moln', 'Cloud']",
+    "date": 1969,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171092&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a stone object with a remote control, shapely toned derriere, by Méret Oppenheim, bone and ivory, lying on back, in the original box, megafauna, creative commons attribution, by Hubert van Ravesteyn, on a canva, she is a gourd, rubbery-looking body, thicc"
+  },
+  {
+    "object_ID": "2009-60-1",
+    "title": "['Haartmanin sairaala', 'Haartmans sjukhus']",
+    "date": 2008,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172943&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with a painting on the wall next to a window, digital medical equipment, norrlandsskog, on high-quality paper, public art, by Edmund Blampied, clear photography, terminal text, h 1 0 2 4, inspired by Margareta Alströmer, dutiful return, high-quality photograph, orderly, security, subject center bottom of frame"
+  },
+  {
+    "object_ID": "2019-85-1",
+    "title": "['Sarjasta Queue (2019)', 'From the series Queue (2019)']",
+    "date": 2019,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177713&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a piece of paper with a drawing of a woman on it, by Morris Louis Bernstein, ice cream cones, skin painted with green, wearing pink floral chiton, unfinished canvas, loosely cropped, white ceramic shapes, light brown trenchcoat, plant sap, totem 2, comic paint, image on the store website, behance. high detail, on canvas, zachary corzine"
+  },
+  {
+    "object_ID": "2021-82",
+    "title": "['Kärleken är både honung och gift', 'Love is Both Honey and Venom']",
+    "date": 2019,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2597419&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a rug with a picture of a man and a woman on it, love death + robots, inspired by Olivia Peguero, trending on artstration, manicured garden of eden, by Robert Colescott, trending on artforum, lesbians, artstatio, postcard, one blonde and one brunette, vulcano, by Master of the Embroidered Foliage, super aesthetic"
+  },
+  {
+    "object_ID": "1996-24-3",
+    "title": "['Stills from Gingerbread Man']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178203&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a picture of a planet on display, inspired by Gaetano Previati, eniac computer, map of europe, by Arnold Mesches, pinhole, made of lab tissue, datapipeline or river, museum archive, seen from the long distance, antview, milo manara, 2 d image, grainy image"
+  },
+  {
+    "object_ID": "2022-18",
+    "title": "['Kaksi paholaista', 'Två demoner', 'Two Demons']",
+    "date": "1940-luku",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2612678&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of two people standing next to each other, mork borg, red sky blue, inspired by Milton Menasco, on old paper, mud and brick houses, inspired by Corneille, red and orange colored, pensive and hopeful expression, by Charles Mahoney, scans from museum collection, 2010s, meteor, cards"
+  },
+  {
+    "object_ID": "2007-55",
+    "title": "['Kevättalvi metsässä', 'Spring Thaw in the Forest']",
+    "date": 1987,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2166969&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a snowy landscape with boats in the water, inspired by Diane Dillon, dry grass, featured on illustrationx, georgia o'keefe, chinese watercolor, lavender plants, the lands littered with bodies, on a canva, hwang se - on, squared border, by Betty Churcher, inuk"
+  },
+  {
+    "object_ID": "2017-44",
+    "title": "['Mielen metsän kääpiä', 'Tickor i sinnenas skog', 'Mushrooms of the Mind']",
+    "date": 2017,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179062&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a store front with a sign on the door, rammed earth courtyard, loki's pet project, pixta. jp, hand built ceramics, by Aladár Körösfői-Kriesch, plant spirit, drainpipes, tosa school, interior photograph, f1.8 anamorphic, ecovillage, logo has”, seen from outside"
+  },
+  {
+    "object_ID": "2008-88",
+    "title": "['Tähtitaivas', 'Stjärnhimmel', 'Starry Sky']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167243&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a set of stairs leading up to a stairwell, silhouettes of people, translucent pastel panels, genderless, frosted glass, 2009, faceless people, medical laboratory, artforum, engraved, scandinavian design, gipf project, ue marketplace, art school, 2 0 0 9, clear shapes"
+  },
+  {
+    "object_ID": "2007-58",
+    "title": "['Puita syksyllä', 'Autumn Trees']",
+    "date": 1992,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167266&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a field full of trees, hovering above a lake in yukon, rene margitte illustrated, detail shot, berries, inspired by Sylvia Snowden, mirror lake, hansel and gretel, photo courtesy museum of art, full image, watercolour, bushfire, by Shin Yun-bok, style of stanley donwood"
+  },
+  {
+    "object_ID": "1976-222",
+    "title": "['Purjevene iltavalaistuksessa', 'Segelbåt i kvällsbelysning', 'Sailing Boat in Evening Light']",
+    "date": 1945,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169170&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a boat in a body of water, inspired by John Marin, by Maruja Mallo, by Emil Nolde, oil pastel, museum archive, madmax, ships with sails, 1980, aged 13, of an old man, mark mann, photo courtesy museum of art, mork borg, malachite, front trading card, in style of francisco goya"
+  },
+  {
+    "object_ID": "2008-80-9",
+    "title": "['Usva, sarastus & katse']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180151&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a field with trees in the background, volumetric fog resolution, inspired by nicoletta ceccoli, avian-inspired, fading to dust and leaves, cold ambient light, the watchers, centered composition, the caretaker, hides in the shadows of trees, inspired by Abbott Handerson Thayer, new release, website banner, old american midwest, masterful painting"
+  },
+  {
+    "object_ID": "2009-58",
+    "title": "['Haartmanin sairaalan teospari']",
+    "date": "2005/2009",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173169&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a view of a hallway through a glass wall, paper art, mit technology review, large white clouds, interconnections, flowing tendrils, balcony door, reykjavik junior college, by Lydia Field Emmet, school classroom, medical research facility, katherine lam, environmental artwork, photo courtesy museum of art, by Niels Lergaard, artforum, sketchlab"
+  },
+  {
+    "object_ID": "2008-7",
+    "title": "['Paranneltu auringonlasku 1', 'Förbättrad solnedgång 1', 'Improved Sunset 1']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168635&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a forest filled with lots of trees at night, eero aarnio, photographic hyperrealism, spectral, finnish naturalism, lumine, documentary photography, artforum, nineties photography, featured in artistation, landscape art, leftlight"
+  },
+  {
+    "object_ID": "2008-86-3",
+    "title": "['Kaski']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173230&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a living room with a painting on the wall, inspired by Emanuel Leutze, alpine tundra wildfire, documentary photography, by Esther Blaikie MacKinnon, cabin lights, home video footage, foggy room, grimy walls, eichler home, passive house, official print, clearing"
+  },
+  {
+    "object_ID": "2006-116",
+    "title": "['Liian painava vieras', 'För tung gäst', 'Too Heavy Guest']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168546&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large rock sitting in front of a building, by Niels Lergaard, anamorphic 35 mm lens, museum archive, inspired by Gao Xiang, portrait of retarded wolf, stockholm city, award-winning artwork, by Israel Tsvaygenbaum, iso 160, anthromorphic, halberd, helsinki, 2000, academia"
+  },
+  {
+    "object_ID": "2008-103",
+    "title": "['Avaran kosketus (Somerset)']",
+    "date": 2004,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171841&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with desks, chairs and pictures on the wall, swedish urban landscape, medical lighting, award winning photography, by Sydney Prior Hall, large arrays, heidelberg school, taken with a canon eos 5 d, photograph realism, inspired by Marie Krøyer, photo 2 0 1 0, inspired by Carl Gustaf Pilo, american canteen, simple gable roofs"
+  },
+  {
+    "object_ID": "2007-102-2",
+    "title": "['Et voi koskaan tietää kaikkea mistään']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172893&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white drawing of a cow, by Ellen Gallagher, untethered stelae, by Jang Seung-eop, inspired by William Nicholson, the non-binary deity of spring, metal border, panoramic anamorphic, listing image, farmland, by Shōzaburō Watanabe, flagstones"
+  },
+  {
+    "object_ID": "1998-410-2",
+    "title": "['Meri pisarassa', 'Havet i en droppe', 'Sea in a Drop']",
+    "date": 1998,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171181&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a long hallway with a bunch of metal objects on the wall, bubbles rising, exterior photography, round design, by Évariste Vital Luminais, photo of a classroom, floating stones, from 2001, coper cladding, round-cropped, copper elements, atrium, olivier ledroit"
+  },
+  {
+    "object_ID": "2019-94",
+    "title": "['Flamigos']",
+    "date": 2019,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178976&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a person on a skateboard under a bridge, featured in pictoplasma, adorned pillars, soft pink lights, espoo, anthropomorphic praying mantis, panoramic photography, simplified forms, concrete pillars, portrait of two girls kissing, lack of sunlight, stencil art, by Henrik Weber, artforum, in 2 0 1 8, montreal, post industrial"
+  },
+  {
+    "object_ID": "2014-35",
+    "title": "['Color Space - Shutter 70, Take 15']",
+    "date": 2013,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173839&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a yellow sun in a pink sky, by Richter, by Harvey Quaytman, disco diffusion, semi-transparent, floating in a misty daze, squared border, shakti, orb, faded glow, soft shade, medium symmetry, magic stone, reduced visibility, winning award piece, 2 0 0 0, gong"
+  },
+  {
+    "object_ID": "1996-24-2",
+    "title": "['Stills from Gingerbread Man']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178639&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a basketball on display in a store window, with arteries as roots, category b film poster, by Eugeen Van Mieghem, reddish lava highlights, processualization, centre image, amsterdam, partially biomedical design, etching, photorelism"
+  },
+  {
+    "object_ID": "1999-148",
+    "title": "['Avoimia ovia', 'Öppna dörrar', 'Open Doors']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170586&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with a lot of clothes hanging on the wall, brutalist buildings tower over, school courtyard, by Gregorio Lazzarini, warm lantern lighting, norrlandsskog, florentine school, media photo, set in 1998, round-cropped, large patches of plain colours, floodlight, children's artwork, warmly lit"
+  },
+  {
+    "object_ID": "1994-7",
+    "title": "['This and other pleasures']",
+    "date": 1993,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170707&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a pattern on a piece of paper, karim rashid, detailed gouache paintings, inspired by Victor Moscoso, offset printing technique, ornate royal robes, orange purple and gold ”, year 1968, long flowing fabric, triptych, james gleeson, motif, large scale scene, ca. 2001, silkscreen, plastic and fabric"
+  },
+  {
+    "object_ID": "2009-65-5",
+    "title": "['Tarinoita, Variaatio 5.']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171948&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a blurry picture of a person walking down a hospital hallway, close-up print of fractured, abstract minimalism art painting, by Lars Jonson Haukaness, medical research facility, archival pigment print, crimson and white color scheme, helsinki, etched inscriptions, small flowing stream from wall, high resolution auction photo, nursing, ekasportal, islamic interior design, scp-914"
+  },
+  {
+    "object_ID": "2012-26",
+    "title": "['Löytöretki Myllypuroon', 'Upptäcktsresan till Myllypuro ', 'Journey of Discovery to Myllypuro']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174819&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of people sitting at a table in a room, walter white botanical poster, installation view, by Afewerk Tekle, espoo, photorelism, pictures in sequence, made of flowers and leaves, photo of a classroom, stroboscope, reportage photography, published art, underexposed photography"
+  },
+  {
+    "object_ID": "1982-54-3",
+    "title": "['Vihreä-keltainen: serigrafiasalkusta 4-värin etydejä', 'Grönt-gult: ur serigrafiportföljen Etyder i fyra färger', 'Green-Yellow: from the Portfolio Etudes in Four Colors']",
+    "date": 1982,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168779&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a green and yellow painting, smooth stylized shapes, gradient black green gold, paper cutout, by James Brooks, dynamic composition and motion, orphism, flat illustration, rounded shapes, 2 d image, large leaves, fig.1, matte print, various colors, 5 7 9, official product image"
+  },
+  {
+    "object_ID": "2020-49",
+    "title": "['Keksitty menneisyys', 'Det påhittade förflutna', 'Made-up past']",
+    "date": 2020,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180300&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a blue box with a plant growing out of it, swedish urban landscape, featured in artscape, totem, connector, inspired by Wilhelm Trübner, dirty concrete wall, streetscapes, on a yellow canva, construction yard, by Fred A. Precht, heise jinyao, ekasportal, tree"
+  },
+  {
+    "object_ID": "1999-151",
+    "title": "['Sivussa, valokuvasarja Helsingin esikaupungeista']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172439&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a man walking down a sidewalk next to a tall building, anamorphic 35 mm lens, inuit heritage, convenience store, featured in artistation, under bridge, 2 0 0 0's photo, boreal forest, production photo, downtown, inspired by Jan Kip, digital matte"
+  },
+  {
+    "object_ID": "2012-30",
+    "title": "['Torni ja sen kaveri', 'Livets byggsklossar', 'The Building Blocks of Life']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174223&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture of a castle made out of wood, inspired by Colin McCahon, hospital background, inspired by James Thomas Watts, courtyard, steel and metal, rgp artwork, by Gregory Gillespie, provenance, oregon, chimneys, gvc design, glyphs, james webb, closeup view, hospital ward, 5 0 0 px"
+  },
+  {
+    "object_ID": "2005-158-2",
+    "title": "['Tervalepät']",
+    "date": 2004,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170324&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with chairs, a table and a picture on the wall, at the hospital in patient gown, miami, exterior photography, health spa and meditation center, somber atmosphere, bright color scheme, living tree, lake setting, art : : professional photograph, imagery"
+  },
+  {
+    "object_ID": "2018-11",
+    "title": "['Ylioppilas', 'Student', 'Student']",
+    "date": 2001,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177246&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman standing in a room, skinny girl in white boho dress, inspired by Pierre Bonnard, wearing a white folkdrakt dress, queen elizabeth ii, aged 13, closeup portrait, by Harvey Dunn, full length character, year 1 9 7 0, petite girl, circa 1912, inspired by Norman Rockwell, by Anna Ancher"
+  },
+  {
+    "object_ID": "2005-158-5",
+    "title": "['Muistot / Unelmat 1']",
+    "date": 2001,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170406&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a chair sitting next to a window in a room, knitted mesh material, photo of a painting, by Sigrid Hjertén, hospital ward, introduction factory photo, f1.8 anamorphic, by Annabel Eyres, official print, polyhedral, inspired by Vilhelm Lundstrøm"
+  },
+  {
+    "object_ID": "1976-84",
+    "title": "['Maisema (Jokimaisema)', 'Landskap (Flodlandskap)', 'Landscape (River Landscape)']",
+    "date": 1949,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167188&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of people on a hill overlooking a body of water, made of dots, inspired by Pieter Anthonisz. van Groenewegen, the river is flowing its way, pale greens and whites, dunkirk, featured on artsation, panorama, weaving, at midday, moutain in background"
+  },
+  {
+    "object_ID": "2018-33",
+    "title": "['Nyt on kiire', 'Off Like a Shot']",
+    "date": 1981,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178839&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a man riding a horse next to a dog, by Roberto Matta, foxes playing in a meadow, digital green fox, girl is running, promotional artwork, over the garden wall, in the hillside, fur cape, color pigments spread out in air, fennec"
+  },
+  {
+    "object_ID": "2006-79-1",
+    "title": "['Toiset kerrokset, osa 1']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167213&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of paintings on a wall in a room, by Fiona Rae, strathmore 2 0 0, synthetic materials, patches of sky, 21:9, archipelago, inspired by Cecily Brown, paper texture 1 9 5 6, hamar, panoramic, university, reflective surfaces, installation view, artforum, edd"
+  },
+  {
+    "object_ID": "2020-58",
+    "title": "['Katukuva, Intia', 'Gatubild, Indien', 'Street Scene, India']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172114&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people with umbrellas, osborne macharia, children's, prayer, 2010s, 1 9 6 2, three views, oil on canva, vibrant scattered light, 1962, private collection, round-cropped, 2 0 1 9, raised hand, merchants, arabian, side profile artwork, one character"
+  },
+  {
+    "object_ID": "2018-447",
+    "title": "['Rannalla', 'On the Shore']",
+    "date": 1967,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177504&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people on a beach, oil pastel gestural lines, boat dock, widescreen shot, inspired by Corneille, inspired by Frances Hodgkins, painting of samarkand, nocturne, scanned, strathmore 2 0 0, by Peter Fiore"
+  },
+  {
+    "object_ID": "2018-92-8",
+    "title": "['Puu venyttelee']",
+    "date": 2016,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178883&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with pictures hanging on the wall, gesture drawings, by Elfriede Lohse-Wächtler, medical complex, wild brush strokes, vernadskys noosphere, on high-quality paper, hospital lighting, archive photography, anamorphic illustration, stanisław szukalski, botanical photo, line - art"
+  },
+  {
+    "object_ID": "1976-353",
+    "title": "['Istuva (Omakuva)', 'Sittande (Självporträtt)', 'Seated Figure (Self-Portrait)']",
+    "date": 1975,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170825&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man sitting on a chair, inspired by Arthur Merric Boyd, focus on the musicians, by Armin Hansen, wearing a light - pink suit, trending on artforum, faded fedora, piano, in her art room, medium shot of two characters, by Jørgen Nash, profile image, music instrument in hand"
+  },
+  {
+    "object_ID": "2016-19",
+    "title": "['Silokallio I', 'Smooth Slope I']",
+    "date": 1986,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175755&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a watercolor painting of a snow covered mountain, by John Marin, sand storm approaching, murata range, wales, postminimalism, a painting of white silver, aspect ratio 16:9, by Henry Moore, a wanderer on a mountain, partially covered with dust, high altitude"
+  },
+  {
+    "object_ID": "2016-33-2",
+    "title": "['Lintula / Mansikkapaikka']",
+    "date": 2016,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172288&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large room with a mural on the wall, reykjavik junior college, design milk, wildlife drawing, swedish forest, iso-250, inspired by Florence Engelbach, petting zoo, inspired by Vilhelm Lundstrøm"
+  },
+  {
+    "object_ID": "2016-18",
+    "title": "['Rinne: Syystalvi III', 'Early Winter on the Slope III']",
+    "date": 1982,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174585&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a person on a surfboard riding a wave, by Peter Brook, tonalist landscape, marlene dumas, reefs, aspect ratio 16:9, yintion j - jiang geping, leonard cohen, we can see the sea, connectedness, winter 1941, water colors, clean horizon, may 6 8, vague"
+  },
+  {
+    "object_ID": "2017-34",
+    "title": "['Creator (New Potato & Olive)']",
+    "date": 2017,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178660&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a stuffed animal is sitting on the floor, amazing concrete sculpture, inspired by Hugo Simberg, real human feet, white salt, connectedness, sits on a finger, 1999, inspired by Francesco Clemente, large stones, closeup of fist, hicham habchi, plush leather pads, 2 0 0 4, toiletpaper magazine"
+  },
+  {
+    "object_ID": "1976-258",
+    "title": "['Anno Dazumal']",
+    "date": 1973,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168516&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people with umbrellas, inspired by John Henry Twachtman, white fog, installation view, summer palette, by Bonnard Pierre, genevieve o'reilly, official artwork, hazy and dreary, bright sunshine, man and woman, cast, left, mid-20s, rodin, google arts and cultures, 6"
+  },
+  {
+    "object_ID": "1966-77",
+    "title": "['Meksikolainen tori']",
+    "date": 1966,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167051&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people standing in front of a building, inspired by André Lhote, orange minerals, two buddies sitting in a room, dark saturated colors, jamaica, by Malvin Gray Johnson, dark cave room, textiles, production still, award-winning composition, olives, theater, 9 4"
+  },
+  {
+    "object_ID": "2007-73",
+    "title": "['Sommitelma', 'Komposition', 'Composition']",
+    "date": 1970,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177417&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white painting with yellow stripes, russian constructivism, flat triangles, reina rocin, bordered, black edges, ferroluid, brochure, thin strokes, disjoint haphazard, char, 1 0 2 4 farben"
+  },
+  {
+    "object_ID": "2000-142",
+    "title": "['Helsingin Moottorikerhon trialajojen maali, Käpylä, 1957', 'Vid målet i Helsingfors Motorklubbs trialtävling, Kottby, 1957', 'Helsinki Motorcycle Club trial race, at the finish line, Käpylä, 1957']",
+    "date": 1957,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169420&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a group of men standing around a motorcycle, by Alfons Walde, trending on artforum, artforum, in a race competition, youth, catalogue photography, photo realist, writing a letter, torchlit, english heritage, gig, jacqueline e, transient, man standing"
+  },
+  {
+    "object_ID": "2007-57",
+    "title": "['Vesilintuja syöttämässä', 'Feeding Waterfowl']",
+    "date": 1989,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171657&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a watercolor painting of people in a park, rivers and lakes, hansel and gretel, by Arabella Rankin, boreal forest, warm and soft and subdued colors, treacherous road, full image, award-winning artwork, the river is flowing its way, in foreground boy with shotgun, natsumi mukai artwrok, boat, winter 1941"
+  },
+  {
+    "object_ID": "2022-25",
+    "title": "['Meren ihailijoita', 'Admirers of the Sea']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2614480&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of two women standing next to each other, by Milton Menasco, martian landscape, oil on canva, expressionist, the three marys at the sepulchre, looking out over the sea, 1961, michal mraz, artforum, dawn and dusk, malachite, norwegian landscape, menhirs, courtesy mbari"
+  },
+  {
+    "object_ID": "2018-449",
+    "title": "['Näyttämö', 'Upon the Stage']",
+    "date": 1971,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179411&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people in a room, by Albert Irvin, inspired by Romare Bearden, wearing cylinder hat, in claymation, landscape of africa, colored marker, blue and red color scheme, artsation contest winner, 2014, tombs, wrestler, drink, front view 1 9 9 0, by Israel Tsvaygenbaum, copper cup"
+  },
+  {
+    "object_ID": "2018-300",
+    "title": "['nimeämätön', 'utan titel', 'untitled']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180059&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a man in a suit and tie, obsidian pomegranade, shy beetles, limited edition print, blob anime, bauhaus style, 2009, gouache, anthropomorphic humanoid, with glasses, male teenager, fine bubbles, acid pixie, symmetrical long head, monochromatic ink, him"
+  },
+  {
+    "object_ID": "2008-86-6",
+    "title": "['Metsäomenapuu']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175987&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with a table, chairs and a television, norrlandsskog, nursing home, art workstation, medical complex, 2 d image, award winning historic painting, image from afar, iso 125, awarded photograph, angled walls, elm tree, panorama view, modern photograph"
+  },
+  {
+    "object_ID": "1984-084",
+    "title": "['Helsinki Arch']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167332&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a curved sculpture in the middle of a park, markus vogt, with blunt brown border, beam, snk, powerful and huge, one panel, complex composition, the shackled, slate, cover, anti - gravity, whole-length, border, anvil, contemporary masterpiece, protagonist in foreground"
+  },
+  {
+    "object_ID": "2006-33",
+    "title": "['Testialue', 'Försöksområde', 'Test Area']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167767&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with blue curtains and a green carpet, hyperrealism painting, martin parr, this painting is a large canvas, cloak, standing in a large empty hall, behind red curtains, ballroom, displayed in the exhibition hall, private school, window in foreground, inspired by Christopher Williams, ultramarine blue and gold, saatchi art, by David Inshaw, frontpage"
+  },
+  {
+    "object_ID": "2022-12",
+    "title": "['Valkoinen muuri', 'White Wall']",
+    "date": 1949,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2592625&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a bird sitting on top of a box, inspired by Leon Kossoff, santorini, stalagmites, 1 9 6 5, inspired by Jozef Israëls, blue and orange lighting, anthropomorphic tiger, standing over a tomb stone, photo courtesy museum of art, oil on canva, circa 1958, nordic landscape"
+  },
+  {
+    "object_ID": "2017-50-1",
+    "title": "['Ketun uni', 'The dream of the Fox ']",
+    "date": 2017,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178844&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a staircase with a painting on the wall above it, inspired by Jean-Paul Riopelle, reykjavik junior college, by Max Walter Svanberg, art : : professional photograph, panoramic anamorphic, inspired by Jackson Pollock, featured in open house magazine, h 576, heidelberg school, martin emond"
+  },
+  {
+    "object_ID": "2021-37",
+    "title": "['Luonnos Seitsemän veljestä -kuvitussarjaan', 'Sketch for a series of illustrations for The Seven Brothers']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2815103&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a group of people walking up a hill, by Tove Jansson, military outpost, in a cabin, inspired by Willard Metcalf, portrait of joe biden, artforum, the caterpillar, zhong lin, the shackled, helsinki"
+  },
+  {
+    "object_ID": "2006-77-5",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175967&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a long hallway with a painting on the wall, made of nanomaterials, inspired by Jan de Bray, hospital ward, hd —h 1024, mri, photorealistic photography, artworks, by Karl Hagedopoorn, floors, inspired by Howardena Pindell, painterly brushwork"
+  },
+  {
+    "object_ID": "1999-173-5",
+    "title": "['Helsinki-sarja', 'Helsingforsserien', 'Helsinki Series']",
+    "date": 1996,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170146&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of a boat in the water, martha rosler, blurry photography, passengers, by Yasutomo Oka, an example of saul leiter's work, tripmachines, 1:1 album artwork, photo taken from behind, in the style of john baldessari, hulton archives, pictured from the shoulders up, 8 h"
+  },
+  {
+    "object_ID": "2018-92-4",
+    "title": "['Linnunpesä']",
+    "date": 2015,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178989&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of paintings hanging on a wall, kiki smith, declan mckenna, drawn in fine-tip pen, sitting in dean's office, photo courtesy museum of art, etching illustration, elaborate hairstyles, 2 d image, brooklyn museum, barnet"
+  },
+  {
+    "object_ID": "2009-52",
+    "title": "['Leonard Bäcksbacka']",
+    "date": 1917,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177882&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man wearing a hat, by Kees van Dongen, male teenager, still from the film, museum archive, by Karel Štěch, palette of primaries, midday photograph, medium-length portrait, inspired by Isaac Soyer, einar jonsson"
+  },
+  {
+    "object_ID": "1976-151",
+    "title": "['Maalari (Omakuva)', 'Målaren (Självporträtt)', 'Painter (Self-Portrait)']",
+    "date": 1973,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170140&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man with a beard, by Alma Thomas, by Marshall Arisman, somber appearance, jeffrey wright, inspired by Peter Fiore, portrait of max caulfield, in muted colors, farid ghanbari, circa 1958, full length character, inspired by Robert Bevan, color-key painting, two characters"
+  },
+  {
+    "object_ID": "1976-368",
+    "title": "['Maisema', 'Landskap', 'Landscape']",
+    "date": 1937,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169404&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a field with a house in the distance, by Jørgen Nash, oil on canva, tgv, by Christian Jane Fergusson, panoramic, year 1930, green trees, by Johan Edvard Mandelberg, beside the river, painted with colour on white, bjørn skalldrasson, 21:9, caulfield"
+  },
+  {
+    "object_ID": "2008-74",
+    "title": "['Nubilus 1']",
+    "date": 2008,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177213&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a library filled with lots of books next to a staircase, inspired by Luc Tuymans, art : : professional photograph, transparent glass, white concrete, borealis, wide-screen, seen from the long distance, 21:9, rosenthal, centered in a frame, round-cropped, listing image, by Margareta Alströmer, hcl"
+  },
+  {
+    "object_ID": "1993-129-2",
+    "title": "['Onko järkevää tai onko Suomen pakko maksaa miljoonia päivässä Wallenbergin kukkaroon Suomessa toteutetusta ydinvoimasta', 'Är det vettigt eller måste Finland betala Wallenberg flera miljoner per dag av inkomsterna från kärnkraften som produceras i Finland', 'Is it reasonable or is Finland forced to pay Wallenberg millions every day for nuclear power built in Finland']",
+    "date": 1991,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172664&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large pair of scissors sitting on top of a table, by Cornelia MacIntyre Foley, opposite the lift-shaft, by Johan Lundbye, theater access corridor, detailed scene, spiral staircase, refrigerated storage facility, inspired by Isidor Kaufman"
+  },
+  {
+    "object_ID": "2008-9",
+    "title": "['Matkalla II', 'På väg II', 'Journey II']",
+    "date": "2006-2007",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170288&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a blurry picture of a street with a stop sign, endre penovác, paint-on-glass painting, aspect ratio 16:9, metal scapes, liminal space photography, like liangchao wei, falling snow, zinc white, ultrafine detail, snowstorm ::5, minimal painting, naturalistic technique, freman"
+  },
+  {
+    "object_ID": "1976-333",
+    "title": "['Sommitelma', 'Komposition', 'Composition']",
+    "date": 1953,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169007&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a painting on a piece of paper, by Jacques Villon, shattered crumbling plaster, alvaro siza, silver and muted colors, disassembled, white mecha, inspired by Hugo Sánchez Bonilla, oil-on-canvas, 2 d image, villages, mid - 3 0 s aged, artforum, 2 0 1 4, jazz"
+  },
+  {
+    "object_ID": "2005-158",
+    "title": "['Laituri']",
+    "date": 2004,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171605&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a teddy bear sitting on top of a red couch, cottage hippie naturalist, filling the frame, small medium and large elements, location in a apartment, inspired by Stephen Little, lake setting, medium - format print, anthropomorphic racoon, displays, official photos"
+  },
+  {
+    "object_ID": "2005-159-1",
+    "title": "['LINE']",
+    "date": 2004,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168960&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a man standing in the water holding a fishing rod, by Rebecca Horn, pacific northwest coast, moody : : wes anderson, ycbcr, high resolution print :1 red, radio signals, cgsociety 9, anamorphic, american realist"
+  },
+  {
+    "object_ID": "2010-94-2",
+    "title": "['Fucus, Sommarn']",
+    "date": 2010,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174531&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture of a map of the world made out of rocks, espoo, containing tables and walls, flat shaped chrome relief, poland flag, creative commons attribution, 3 d logo, a cosmic canada goose, 2009, 2 0 0 9, denmark, coronavirus, dialog"
+  },
+  {
+    "object_ID": "2009-61-3",
+    "title": "['Polku / Kaunis maa, Diptyykki 1 ']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173935&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a dining room with a painting on the wall, hospital lighting, swedish urban landscape, taken with a canon eos 5d, orange body, featureless, professional result, centered horizon, waiting room, an scp anomalous object, florentine school, time exposure, test, eyelevel perspective image, canva"
+  },
+  {
+    "object_ID": "1976-64",
+    "title": "['Laivalaituri Hardangerissa', 'Ångbåtsbrygga i Hardanger', 'Pier in Hardanger']",
+    "date": 1927,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167492&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of cars parked in front of a building, fjord, chuvabak, storm arriving, refugees, h 9 6 0, james gleeson, 8 h, ben maier and sakimichan, docks, rbc, at after noon, detention centre, erte, '20, laszlo"
+  },
+  {
+    "object_ID": "1992-140",
+    "title": "['Katkennut kasvu', 'Det avbrutna livet', 'Life Cut Short']",
+    "date": 1973,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175815&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of sculptures sitting on top of a cement slab, alvar aalto, artillery bombings, in triangular formation, six arms, photo courtesy museum of art, sunny day in a park, horse legs and human body, made of bronze, boulders, broken bottles, pews"
+  },
+  {
+    "object_ID": "2019-63",
+    "title": "['Kulkija', 'Vandrare', 'The Roamer']",
+    "date": 1919,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180665&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman walking in the snow, by Ernst Ludwig Kirchner, korean countryside, water color on paper, trees, landscape from a car window, auction catalogue photo, aged 13, river in front of him, trending on artforum, le corbusier, hulton archives, chinese watercolor, twisting trees"
+  },
+  {
+    "object_ID": "1996-24-5",
+    "title": "['Stills from Gingerbread Man']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177795&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a sign on a wall, martha rosler, gingerbread people, celluloid, stomach, classified government archive, patent, with his back to the viewer, hyperspace creature, text on paper, museum masterpiece, used tape, 8k definiton, year 1968, loomis, reallism, in a research facility"
+  },
+  {
+    "object_ID": "2022-4",
+    "title": "['Vankilasta, sisäkuva', 'Prison, Interior View']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2584801&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a room with a bench and a coat rack, by Hans Falk, inspired by Zhang Xiaogang, medium detail, museum archive, russian depression, ratio 16:9, fisherman's hat, weary inside, sitting on the bed, new york times, theater stage, detail shot, detention centre, medium blue, sofa"
+  },
+  {
+    "object_ID": "2022-21",
+    "title": "['Kallio iltavalaistuksessa', 'Berg i aftonljus', 'Evening Glow on Cliffs']",
+    "date": 1959,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2598683&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a person laying on a bed, mountain scape. film still, by Franz Hegi, burning clouds, 1990, pastel painting, 21:9, norwegian landscape, dynamics, by John Marin, scans from museum collection, sukkot"
+  },
+  {
+    "object_ID": "2018-351",
+    "title": "['Sammakkolampi', 'The Frog Pond']",
+    "date": "1980-1983",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180473&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a landscape with mountains and trees, inspired by Alexander Archipenko, concept art of love, by Eero Järnefelt, film still from an cartoon, inspired by Pisanello, 21:9, tetrachromacy, california, magic heart, aspect ratio 16:9, inspired by Anna Mary Robertson Moses"
+  },
+  {
+    "object_ID": "2020-9",
+    "title": "['Salle à manger']",
+    "date": 2015,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178632&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a woman sitting at a table in a room, music video, magic hour photography, vessels, long straight bangs, by Sophie Taeuber-Arp, inspired by Federico Zuccari, light fixtures, walter gropius, shield sunglasses, photo still, reallism"
+  },
+  {
+    "object_ID": "1976-77",
+    "title": "['Kotimatkalla', 'På hemväg', 'On the Way Home']",
+    "date": 1947,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170064&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of two people walking in the snow, by William Steig, merchant collector, soft pastels, trailer, human farm, photo courtesy museum of art, archival pigment print, labrador, story book illustration, kyle mclaughlin, mule, the caretaker, white fur"
+  },
+  {
+    "object_ID": "2013-7",
+    "title": "['Vallila']",
+    "date": 2011,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174313&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photograph of a man's torso, generative art, craggy mountains, one panel, image on the store website, cutout, waterfall in asteroid field, folds, white ceramic shapes, painting of landscape of faroe, simplified forms, heavy brushstrokes"
+  },
+  {
+    "object_ID": "1996-25",
+    "title": "['Accumulation Cut']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178597&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a sign on a wall, chainsaw attached to hand, technical document, in 1 9 9 5, large chain, correct proportions, from doom and warhammer, 7 0 mm entrance pupil diameter, description, by Samuel F. B. Morse, chainsaw, maths, 1 0 0 1, ebay, (((trees))), museum catalog, 105mm"
+  },
+  {
+    "object_ID": "2014-39-8",
+    "title": "['Mo(nu)ments / Egypti']",
+    "date": 2014,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169683&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a desert scene with a clock on the wall, six-dimensional, set inside of the bank, by Niels Lergaard, camels, global illuminaition, knolling, government archive, orthodoxy, educational supplies, 12 figures"
+  },
+  {
+    "object_ID": "2022-9",
+    "title": "['Kolme puuta', 'Three Trees']",
+    "date": "1949 tai 1954",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2592604&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a person in a body of water, by John Marin, full image, by Mikhail Larionov, the colours of the sunset, nymphaea, colors of jamaica, with clouds in the sky, detail, photo courtesy museum of art, 1 9 2 2, whirlwind, scans from museum collection, blowing sands, 1 9 0 9"
+  },
+  {
+    "object_ID": "1996-107",
+    "title": "['Sodanajan naisen patsas', 'Den krigstida kvinnans minnesmärke', 'Memorial to Women in Times of War']",
+    "date": 1996,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175791&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a monument in front of a large white building, swedish urban landscape, by István Regős, detention centre, tour de france, government archive photograph, 21:9, oct, scp, slovenian, les catacombes, neo norilsk, stockholm"
+  },
+  {
+    "object_ID": "2021-19",
+    "title": "['Luonnos Seitsemän veljestä -kuvitussarjaan, \"Pellolla\"', 'Skiss till verket \"På åkern\"', 'Sketch for the work \"In the field\"']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2814102&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white drawing of horses in a field, by Arthur Garfield Dove, trending on artforum, desolate arctic landscape, henry de toulouse lautrec, paper sketch, ghostly spirits, hulton archives, catalog photo, ( ( ( edward hopper ) ) ), herge, year 1 9 1 4, draft"
+  },
+  {
+    "object_ID": "2018-15",
+    "title": "['Talvi', 'Vinter', 'Winter']",
+    "date": 2008,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179850&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman standing in front of a window, panoramic view of girl, 1997, long gown, by Eliot Hodgkin, infp girl, inside an old apartment, year 1 9 7 0, inspired by Bob Byerley, olive green and venetian red"
+  },
+  {
+    "object_ID": "2015-16-5",
+    "title": "['Trädgård 5', 'Garden 5']",
+    "date": 2015,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175573&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a painting of a wave pattern, iridescent scales on her body, yellow volumetric fog, inspired by Howardena Pindell, by Katsukawa Shunkō I, magic bubble barrier, tail fin, aspect ratio 16:9, as a tarot card, width 768, mizutsune"
+  },
+  {
+    "object_ID": "2020-61-2",
+    "title": "['Put put']",
+    "date": 2020,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178806&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large rock sitting in the middle of a puddle of water, eero aarnio, town center background, rustic yet enormous scp (secure, by Þórarinn B. Þorláksson, 3-d 8k, modern neighborhood, salad and white colors in scheme, full height sculpture, moderate colors, 21:9, photograph of enchanted garden"
+  },
+  {
+    "object_ID": "2006-9",
+    "title": "['Sirenan kielet', 'Sirenas strängar', 'Sirenas strings']",
+    "date": 2005,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169821&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a group of statues in front of a building, medium format color photography, futuristic cyber subway station, by Béla Iványi-Grünwald, octopus wrestling with a sphere, dinosaur bones, hannover, maintenance area, sousaphone, set in 1999, artstatiom, jpeg artefacts, 2009, miro"
+  },
+  {
+    "object_ID": "2019-93",
+    "title": "['Early One Morning, Eternity Sculpture', 'Early One Morning, Eternity Sculpture', 'Early One Morning, Eternity Sculpture']",
+    "date": 2019,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177491&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large pink sculpture in front of a building, arabic calligraphy, beksinki, topological renders, architecture magazine, five points of articulation, city park, david baldeon, cables, dezeen, 16mm photography, piping, artforum, afshar, artgram, kaws"
+  },
+  {
+    "object_ID": "2006-77-22",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176338&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with paintings hanging on the wall, f1.8 anamorphic, in hospital bed, award winning nature photography, detmold, inspired by Matthias Weischer, photolithography, by Adrienn Henczné Deák, photorelistic, canva, hospital ward, exterior photography, glass cover, installation view"
+  },
+  {
+    "object_ID": "1999-173-3",
+    "title": "['Helsinki-sarja', 'Helsingforsserien', 'Helsinki Series']",
+    "date": 1996,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170147&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of a small island in the middle of a lake, eero aarnio, old castle, sharp polaroid photo, —n 9, entrapped in ice, 2 0 0 0, damaged buildings, photo blurring, inspired by William Nicholson, shot in the air, the imperial palace, photo taken in 1989, xerography"
+  },
+  {
+    "object_ID": "2010-93",
+    "title": "['Twice Painted']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175837&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of a forest, james jean and petra cortright, super detailed painting, blue reflections, woo kim, inspired by Zhang Kechun, camera obscura, sitting on a reflective pool, in this painting, trending on artforum, hyperrealistic shaded, midnight-blue, photo courtesy museum of art"
+  },
+  {
+    "object_ID": "1976-300",
+    "title": "['Omakuva', 'Självporträtt', 'Self-Portrait']",
+    "date": 1946,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168730&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man in a pink shirt, by David Burliuk, by Elaine de Kooning, painted overalls, front facing the camera, inspired by Albert Nemethy, award-winning portrait, green head, academia, salvia, james gleeson, post-war, taras susak, blacksmith, vest, 2070, kermit"
+  },
+  {
+    "object_ID": "2012-18",
+    "title": "['R.S.V.P.']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172949&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a tray of food on a table, wearing a purple smoking jacket, daniel richter, from a huge red glass bong, inspired by Zou Yigui, beds of shadows, 2009, table with microphones, the catholic pope in his bed, ilustration, red silk scarf, female floating, 4, fig.1, artforum"
+  },
+  {
+    "object_ID": "1996-26-5",
+    "title": "['Salt Flat']",
+    "date": 1968,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172554&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a map of a city, ffffound, new york city, soft blue and pink tints, season 3 ( 1 9 9 7 ), album photo, magenta, rivers, part of the screen, overexposed photograph, tectonics, website, super - resolution, north pole, naturalistic technique, crosshatch, by Peter Snow"
+  },
+  {
+    "object_ID": "2006-77-39",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174309&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a long hallway with white walls and blue flooring, anaesthetic, inspired by Jørgen Roed, h 1024, detailed –n 9, white panels, highly detailed soft lighting, photo of scp-173, coper cladding, h 576, grimy walls"
+  },
+  {
+    "object_ID": "2007-47",
+    "title": "['Annansilmiä ikkunalla', 'Begonias on the Windowsill']",
+    "date": 1978,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169532&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of red flowers in a vase on a table, in a snowy forest setting, from nature journal, in bloom greenhouse, carson ellis, hall of mirrors, in rows, ( watercolor ), inspired by Zhang Xiaogang, winter 1941, winter wonderland, by Edward Okuń, contest winner, award-winning artwork"
+  },
+  {
+    "object_ID": "2012-9",
+    "title": "['Love Helsinki']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171309&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a man riding a skateboard on top of a cement block, by Eero Snellman, urban playground, drawing for children, flat 2 d, digital screens on the walls, granite, residential area, jimmy nelsson, foundation, terrain"
+  },
+  {
+    "object_ID": "2003-139",
+    "title": "['Stabat mater']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167446&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a painting on a wall, by Louise Bourgeois, deep black roots, segmented armor, in 1 9 9 5, trending on artforum, inspired by Yahoo Kusama, totem pole, interconnections, hyphae, standing in a dimly lit room, wild shape : raccoon, cell journal, 1961, --n 6"
+  },
+  {
+    "object_ID": "2009-53",
+    "title": "['Katarina Bäcksbacka']",
+    "date": 1919,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169476&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man wrapped in a blanket, by Jeanne du Maurier, portrait a 1 5 - year - old boy, by Marià Fortuny, mid - 3 0 s aged, style of midjourney, ryuu, by Christian Jane Fergusson, year 1930, f11:6, midday photograph, tezuka osamu"
+  },
+  {
+    "object_ID": "2019-84",
+    "title": "['Ghost']",
+    "date": 2019,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180715&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a painting on a table, petra cortright, pink body, trending on cgartist, biomorphic, by Zhang Yin, toiletpaper magazine, charli bowater and artgeem, white sweeping arches, de kooning, stands at her easel"
+  },
+  {
+    "object_ID": "2020-37",
+    "title": "['Sommitelma', 'Komposition', 'Composition']",
+    "date": 1965,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179758&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a bird on a colorful background, by Ben Nicholson, artforum, portrait of he - man, hedgemaze, inspired by John Thomson of Duddingston, by László Moholy-Nagy, trending on artforum, cd cover artwork, brightly coloured oil on canvas, mortar and pestle"
+  },
+  {
+    "object_ID": "2020-48",
+    "title": "['KOMBO']",
+    "date": 2020,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180610&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a person's hand on a wall, colorful tiled architecture, kid drawing, by Christo, grid layout, interconnections, lifelike texture, and blue, facial texture, normal distributions, slate, medium length photography, high colored texture, urban playground, official product photo"
+  },
+  {
+    "object_ID": "2002-104",
+    "title": "['Laulavat kastelukannut']",
+    "date": 2002,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170700&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a bunch of pipes hanging from the ceiling of a building, inspired by Johan Lundbye, intubation equipment, 2 0 0 0, trending on artsatio, school courtyard, by Richard Hamilton, medical laboratory, artforum, biopunk art, skylights, cans"
+  },
+  {
+    "object_ID": "2018-465",
+    "title": "['Nimeämätön', 'Utan titel', 'Untitled']",
+    "date": 1994,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179224&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture of a dog laying on its back, zhongli from genshin impact, sydney mortimer laurence, tribal art, degas, inspired by Alexander Archipenko, photo courtesy museum of art, on a wooden tray, joongwon charles jeong, artforum, shoulder - length, two legs, subject= duck, seraphim"
+  },
+  {
+    "object_ID": "2016-33-1",
+    "title": "['Lintula / Tipu päässä']",
+    "date": 2016,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174976&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a view of a hallway through a glass door, photo of a classroom, inspired by Lodewijk Bruckman, aurora aksnes, lockers, filled with natural light, drawing for children, full building, high-tech environment, displayed on the walls, branching hallways, grid layout, anamorphic illustration"
+  },
+  {
+    "object_ID": "1976-143",
+    "title": "['Lepäävä malli', 'Vilande modell', 'Reclining Model']",
+    "date": 1968,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171814&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman sitting on a couch, inspired by Anne Redpath, bathing in light, morandi, light pink mist, on an operating table, by Armin Hansen, white clay, inspired by William McTaggart, photo courtesy museum of art, ute osterwalder, pallet, pale-skinned, inspired by Alberto Giacometti"
+  },
+  {
+    "object_ID": "2020-8",
+    "title": "['La Vague']",
+    "date": 2018,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180079&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a woman standing in front of a white wall, brutalism style stool, moth inspired dress, brown sweater, swedish design, images on the sales website, peasant dress, an empty brutalist chamber, autumnal colours, magazine article, golden collar, backrooms"
+  },
+  {
+    "object_ID": "1976-182",
+    "title": "['Keltainen maisema', 'Gult landskap', 'Yellow Landscape']",
+    "date": 1945,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169572&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a yellow field with trees, by Franz Kline, windstorm, leonora karrington, may 6 8, by Kose Kanaoka, highlands, scans from museum collection, on a canva, tumbleweed, asencio, 1966, kavisky, rolling foothills, 1 9 9 9, kenket, midday, locusts and flies"
+  },
+  {
+    "object_ID": "2006-118",
+    "title": "['Ihotta']",
+    "date": "2005-2006",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170993&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room filled with lots of red and white items, flowing wires with leaves, contemporary sculpture, in a library, jellyfish, by Margareta Alströmer, with branches reaching the sky, front view 2 0 0 0, swirling fluid, four stories high, falling petals, half - length photo, made of beads and yarn"
+  },
+  {
+    "object_ID": "2006-77-13",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174748&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with three paintings on the wall, electron microscopy photography, resin coated, blue and white colour scheme, installation view, granite, photo of zurich, hospital ward, by Nina Hamnett, sustainability, artforum, particles, mcu photograph"
+  },
+  {
+    "object_ID": "2018-30",
+    "title": "['Lentokone tulee', 'The Plane is Coming']",
+    "date": 1971,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177276&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man and a woman on a bed, inspired by Alice Rahon, two aboriginal elders, in a castle on an alien planet, blood and dead soldiers, three people running a marathon, black dog, in a dark studio room, 1971, theatrical scenery, volcanic landscape, three hairy fat cave people"
+  },
+  {
+    "object_ID": "2020-44",
+    "title": "['Pielisjärvi Revisited']",
+    "date": 2020,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180391&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting hanging on the wall of a room, panoramic anamorphic, akseli gallen kallela, brown mist, argos, 2012, mythic island, scans from museum collection, sheep grazing, from 8 k matte, google arts and cultures, multilayered paint, moses, panoramic"
+  },
+  {
+    "object_ID": "1976-262",
+    "title": "['Omakuva', 'Självporträtt', 'Self-Portrait']",
+    "date": 1913,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169383&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a painting of a person wearing a hat, inspired by Francis Cadell, looks like domhnall gleeson, young boy, wearing a vest and a tie, bandage on arms, self portrait, mid-20s, joyce ballantyne style, mid - 3 0 s aged, dylan kowalsk, shawl"
+  },
+  {
+    "object_ID": "2007-48",
+    "title": "['Metsäsaareke', 'Field Copse']",
+    "date": 1979,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167047&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a road surrounded by trees, by Gustaf Tenggren, by Mary Adshead, of a river, inspired by Jens Søndergaard, flowing pink-colored silk, inspired by Neil Welliver, inspired by Lionel Lindsay, mc escher and ronny khalil, zdzisław, by Gabriele Münter, trees bent over river"
+  },
+  {
+    "object_ID": "2019-62",
+    "title": "['Puita', 'Träd', 'Trees']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178486&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of trees in a field with a sky in the background, constructivist, simple water color, sitting under bridge, birch, inspired by Max Weber, trees bent over the river, bar in background, otto mueller, midday photograph, the grass, w 7 6 8, '20, branches"
+  },
+  {
+    "object_ID": "2019-64",
+    "title": "['Pianisti', 'Pianist', 'The Pianist']",
+    "date": 1918,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180266&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a desk with a keyboard and a monitor, by Wassily Kandinsky, a humanoid mosquito, abstract geometric sculpture, pencil and watercolour, winged head, google arts and cultures, triangle, micro - hurricane, solid coloured shapes, close-up fight, 303, inspired by Witold Pruszkówski, fi"
+  },
+  {
+    "object_ID": "2018-423",
+    "title": "['Bladen Graffiti Baanalla (Baanan väliaikainen graffiti)', 'Blades Graffiti på Banan', \"Blade's Graffiti at Baana\"]",
+    "date": 2018,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176280&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a graffiti covered wall under a bridge next to a fire hydrant, counterfeit mickey mouse head, inspired by Johan Lundbye, destroying new york city, slik design, artforum, featuring pink brains, cloese-up, # de 9 5 f 0, dope, by Menez, filmation, toon aesthetic"
+  },
+  {
+    "object_ID": "2018-32",
+    "title": "['Aatami ja Eeva', 'Adam och Eva', 'Adam and Eve']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178982&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a person standing in a room, deep dark purple waters, 1960s cartoon, climbing up a cliffside, inspired by Otakar Kubín, [bioluminescense, the dreaming, albuquerque, institutional critique, iso 125, award-winning artwork, 1 9 7 0, ant, (night), two people, 1977"
+  },
+  {
+    "object_ID": "2012-26-7",
+    "title": "['Lupiininkeltainen / Löytöretki Myllypuroon', 'Lupin Gul / Upptäcksresan till Kvarbäcken', 'Lupinus Yellow / Discovery to Myllypuro']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172442&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a waiting room with a painting on the wall, inspired by Per Kirkeby, polynesian style, hospital lighting, high - resolution photograph, artworks, panoramic anamorphic, xerography, award - winning art, midsummer, in an urban setting, osl, plant, illuminated lighting, high resolution product photo"
+  },
+  {
+    "object_ID": "2009-60",
+    "title": "['Haartmanin sairaala', 'Haartmanska sjukhuset', 'Haartman Hospital']",
+    "date": 2008,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172943&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with a painting on the wall next to a window, digital medical equipment, norrlandsskog, on high-quality paper, public art, by Edmund Blampied, clear photography, terminal text, h 1 0 2 4, inspired by Margareta Alströmer, dutiful return, high - quality photograph, orderly, security, subject center bottom of frame"
+  },
+  {
+    "object_ID": "2008-86-4",
+    "title": "['Kenraaliharjoitus']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174572&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a living room with a green couch and a painting on the wall, accessible for the disabled, inspired by Carl Larsson, corridor, delivering parsel box, features, doors to various bedrooms, pilgrim village setting, artist impression, by David Chipperfield, wood door"
+  },
+  {
+    "object_ID": "2021-51",
+    "title": "['Maisema', 'Landskap', 'Landscape']",
+    "date": 1966,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2654553&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a tree in a field, by Jørgen Nash, by Maurice Prendergast, auction catalogue photo, by Þórarinn B. Þorláksson, inspired by Leon Kossoff, lichens, twisting trees, stockholm, inspired by William Edouard Scott, inspired by Vilhelm Lundstrøm"
+  },
+  {
+    "object_ID": "1996-24-4",
+    "title": "['Stills from Gingerbread Man']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180216&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a basketball in a glass case, dreamy painting of coronavirus, inspired by Alberto Burri, photo microscope, red and brown color scheme, hulton archives, tumours, jelly - like texture. photograph, amateur photograph, blurry image, hdpe, museum photograph, by Marjorie Frances Bruford"
+  },
+  {
+    "object_ID": "2009-61-2",
+    "title": "['Polku / Kaunis maa, Triptyykki 1  ']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175377&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a waiting room with red chairs and paintings on the wall, soft coloured gel lighting, rgp artwork, panoramic photography, clean medical environment, by Mary Dignam, studio photograph, yellowish light, archive photograph"
+  },
+  {
+    "object_ID": "2022-7",
+    "title": "['Ruukkuasetelma', 'Still Life with Ceramics']",
+    "date": "1970-luvun alku",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2592391&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a red bowl on a table, inspired by Jean-Baptiste-Siméon Chardin, gun scraps, by Béla Czóbel, by Euan Uglow, artsation contest winner, magic broom, tian zi, tehran, demo scene, year 1 9 7 0, ocher, tartakovsky, asencio, 2007"
+  },
+  {
+    "object_ID": "2006-26",
+    "title": "['Menneet ritarit, Yleisen ja yhtäläisen äänioikeuden muistomerkki', 'Gångna riddare, Den allmänna och lika rösträttens minnesmärke']",
+    "date": 1982,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167968&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large metal sculpture in the middle of a park, stylized dynamic folds, photo courtesy museum of art, schomburg, bubblegum crisis, pittsburgh, jinyoung shin art, muscled, windblown, montreal, full-length view, inspired by Norman Lewis"
+  },
+  {
+    "object_ID": "2016-43-7",
+    "title": "['Höylä höylää höylää']",
+    "date": 2014,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178351&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a wall that has some kind of art on it, wooden stairs, installation view, polynesian god, mapbox, by Sophie Taeuber-Arp, tosa school, mit technology review, mountainous terrain, inspirational arthouse, toolbelt, gadigal"
+  },
+  {
+    "object_ID": "2021-55",
+    "title": "['Viuhka', 'Fan']",
+    "date": "1960-luku",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2654561&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a person sitting on a couch, inspired by Anne Redpath, still life with white vase, by Shōzaburō Watanabe, meat and lichens, artforum, food and consumerism, by Armin Hansen, done in the style of matisse, dressed in red paper bags, plum blossom, toast, radios, sukkot"
+  },
+  {
+    "object_ID": "1977-48",
+    "title": "['Hiidenkivi I', 'Trollstenen I', \"The Devil's Rock I\"]",
+    "date": "1945-1948",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170523&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a herd of cattle in a field, kenneth copeland, in the apocalyptic future, paleolithic painting, by Edward Ben Avram, sacrificial altar, soft pastels, storm of all storms, at the time of dinosaurs, idw publishing, inspired by Fred A. Precht"
+  },
+  {
+    "object_ID": "2022-80",
+    "title": "['Kukkia ikkunan edessä', 'Bouquet by the Window']",
+    "date": 1981,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2855492&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of flowers in a vase on a table, by Albert Irvin, featured in open house magazine, lipkin, orange palette, captures emotion and movement, denys tsiperko, trending on artisation, hopper, sold at an auction, tulips, expansive, aseprite, sconces"
+  },
+  {
+    "object_ID": "2022-73",
+    "title": "['Nimeämätön', 'Utan titel', 'Untitled']",
+    "date": 1987,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2854608&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman in a blue dress holding skis, benjamin netanyahu skydiving, by Jack Smith, harpy, 1948, white daoist robes, faridah malik, toiletpaper magazine, orphism style, serene and peaceful style, artforum, inspired by Maurycy Gottlieb, trending on artforum"
+  },
+  {
+    "object_ID": "1990-181",
+    "title": "['Jotain ihmeellistä liikkuu rannalla', 'Någonting underligt rör sig på stranden', 'Something Strange is Afoot on the Shore']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173181&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of a beach with a ball in the sand, eero aarnio, gold and silver ink, trending on artstattion, unpublished photo of ufo, red mechanical body, nobuyoshi araki, by Dora Maar, metaphor, symbolic metaphor, koons, provia, artforum"
+  },
+  {
+    "object_ID": "2016-43-2",
+    "title": "['Omeletti']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177024&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a long hallway with a clock on the wall, dough sculpture, inspired by Jens Jørgen Thorsen, ecovillage, multiple golden necklaces, modern technology building, wim crouwel, photo of scp-173, schools, by Gerard Soest, made of cheese, ropes and chains, osl"
+  },
+  {
+    "object_ID": "1976-80",
+    "title": "['Kerjäläinen', 'Tiggare', 'Beggar']",
+    "date": 1952,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169835&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man with a purple hat, begging for alms, inspired by Moses Soyer, charcoal and silver color scheme, scans from museum collection, elderly woman, farid ghanbari, dollars in pocket, digitally painted, hand - tinted, scornful, facing away, artist impression, looking in a mirror"
+  },
+  {
+    "object_ID": "1996-26-1",
+    "title": "['Salt Flat']",
+    "date": 1968,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179903&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a man riding a skateboard through a window, translucent pastel panels, from the thing, parallelism, 80s london city, figures fighting in the distance, reflections on wet streets, medium - format print, national gallery, comicbook art, anamorphic, 1980 cars, print"
+  },
+  {
+    "object_ID": "2018-362",
+    "title": "['Vartija', 'The Guard']",
+    "date": 1977,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179153&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a naked woman sitting on a couch, as a claymation character, blue and green, fat woman, annie lebovetz, inspired by Richard Diebenkorn, exhibited in the british museum, toiletpaper magazine, felting, qajar art, art in the style of paula rego, nymphaea, fig.1, sydney mortimer laurence"
+  },
+  {
+    "object_ID": "2009-60-10",
+    "title": "['Suomenlinna', 'Sveaborg']",
+    "date": 2008,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172771&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with a painting hanging on the wall, emanating with blue aura, opposite the lift-shaft, inspired by Arthur Merric Boyd, hospital lighting, quiet and serene atmosphere, award-winning artwork, visible sky and humid atmosphere, interior photograph, moorland, award winning artwork"
+  },
+  {
+    "object_ID": "2021-49",
+    "title": "['Puistokuva', 'Parkbild', 'Park View']",
+    "date": 1969,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2654550&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a person sitting on a bench, inspired by Richard Parkes Bonington, on the sand, in the foreground paris, style of joel meyerowitz, trending on artforum, by Sadao Watanabe, summer day, limited edition print, muddy embankment, boardwalk, paris, wu liu"
+  },
+  {
+    "object_ID": "2009-63",
+    "title": "['Paprika ja päärynä', 'Bell Pepper and Pear']",
+    "date": 1981,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169430&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a pear and a cucumber on a cloth, inspired by Giorgio Morandi, jinyiwei, brooklyn museum, by William McTaggart, art for the film in color, by Nicolas de Staël, meat and lichens, triptych, google arts and cultures, magnolias, dark paint, 21:9, trio, from left"
+  },
+  {
+    "object_ID": "1976-181",
+    "title": "['Maalaistalo', 'Bondgård', 'Farmhouse']",
+    "date": 1945,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171585&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a house near a body of water, by David Bomberg, inspired by Karel Havlíček, rbc, on a farm, neoexpressionist, art for the film in color, featured on artsation, rudolf béres, storm, 1 6 : 9, arbeitsrat für kunst, diebenkorn, refugees"
+  },
+  {
+    "object_ID": "2003-76",
+    "title": "['The Talk of the Town']",
+    "date": 2001,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169519&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a map of a city, by Elizabeth Murray, portrait of a museum art curator, walkways, photo courtesy museum of art, camouflage scheme, magenta, catalog print, mapbox, open street maps, connections, repeat pattern, metallic arrows, roads, diptych, parade"
+  },
+  {
+    "object_ID": "1986-14",
+    "title": "['Murasaki (Lila)']",
+    "date": 1986,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179243&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a piece of art on a wall, wool felting art, by Frederick Hammersley, front view 1 9 9 0, dark blue leather armor, toiletpaper magazine, orange fur, black stripes, smart textiles, carpet, pictured from the shoulders up, rectangular face, plush leather pad, official product image, nicholas kalmakoff, color study"
+  },
+  {
+    "object_ID": "2018-461",
+    "title": "['Toinen maa III', 'Another Country III']",
+    "date": 1971,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177825&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people on a beach, inspired by Eduardo Paolozzi, by Roy Newell, boat dock, pantheon, clean scan, trampling an ancient city, brightly lit blue room, in claymation, fishmen, simplified forms, the girl on a windowsill, boardwalk, connectedness"
+  },
+  {
+    "object_ID": "1940-4",
+    "title": "['Näköala Hakaniemen torilta', 'Vy från Hagnäs torg', 'View from Hakaniemi Square']",
+    "date": 1940,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167031&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a town covered in snow, inspired by Johan Edvard Mandelberg, panoramic, vibrant but muted colors, midsommar, inspired by Ernest Lawson, hues of subtle grey, 21:9, from the roof, white gallery, by Jørgen Nash, vienna, hamar, lipkin"
+  },
+  {
+    "object_ID": "2008-80",
+    "title": "['Usva, sarastus & katse']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171981&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a living room with a painting on the wall, inspired by Ralph Albert Blakelock, floodlight, real estate photography, during a sunset, inspired by Betty Churcher, bright ground, award-winning composition, background 1970s office, on a canva, craigville"
+  },
+  {
+    "object_ID": "2008-107",
+    "title": "['Sarjasta Can you tell me', 'Ur serien Can you tell me', 'From the series Can you tell me']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169283&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of a window with frost on it, kodachrome 6 4, an example of saul leiter's work, by Peter Zumthor, industrial plant environment, slow - shutter, dust molecules, taken with canon eos 5 d, anamorphic film, factory floor, kodachrome, windstorm, dissolving into the air"
+  },
+  {
+    "object_ID": "2014-44",
+    "title": "['Cityeläimet', 'Citydjur', 'City Animals']",
+    "date": 2014,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176425&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a group of statues sitting on top of a pile of cement, furry wolf, inspired by Hovsep Pushman, time travelers appear in a park, by Veikko Törmänen, meteorites, inspired by Zlatyu Boyadzhiev, swirling gardens, kremlin, 2009, red dusty soil, three animals, may 6 8"
+  },
+  {
+    "object_ID": "2007-49",
+    "title": "['Talvinen kävelyretki', 'Winter Promenade']",
+    "date": 1980,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170175&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people walking in the snow, gouache painting, in the magical forest, loosely cropped, family, inspired by Oleg Lipchenko, by The Family Circus, by Kim Myeong-guk, vertical orientation w 832, tarot card art, from 2001"
+  },
+  {
+    "object_ID": "1976-121",
+    "title": "['Tyttö', 'Flicka', 'Girl']",
+    "date": 1955,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167748&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman in a blue shirt, by Vanessa Bell, inspired by Susan Weil, soft round face, photo courtesy museum of art, inspired by Berthe Morisot, in dazzle camouflaged robes, aged 2 5, chauvet, the third… had a face like a man, pink girl, with ethereal light, gordon onslow ford"
+  },
+  {
+    "object_ID": "2018-363",
+    "title": "['Karpaattien kylä', 'Carpathian Village']",
+    "date": 1973,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180034&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a red barn in the mountains, inspired by Chiho Aoshima, shining crescent moon, by William Zorach, green and purple, transylvania, soviet town, oil on canva, ca. 1990, game dev art, mountainous terrain"
+  },
+  {
+    "object_ID": "1977-43",
+    "title": "['Juopottelua ullakolla II', 'Dryckjom i vindskammaren II', 'Drinking in the attic II']",
+    "date": 1946,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168862&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of two people drinking wine at a table, inspired by Jack Butler Yeats, made with anime painter studio, tom finland, two men hugging, three women, luigi loir, captured in bottles, trending on artforum, hergé, song of the wind"
+  },
+  {
+    "object_ID": "2020-29",
+    "title": "['Saskia']",
+    "date": 1955,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178116&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman in a blue dress, inspired by Margareta Alströmer, wearing a red sundress, blue and green light, teenager girl, still from film, mid-30s, an angel standing still, a full portrait of nordic female, vibrant scattered light, arms crossed, full body and face and head, see"
+  },
+  {
+    "object_ID": "1976-126",
+    "title": "['Tampere', 'Tammerfors', 'Tampere']",
+    "date": 1913,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168600&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a view of a town from a hill, puffs of colored smoke, inspired by Robert William Vonnoh, ultraviolet colors, in the morning light, melbourne, industrial plant environment, inspired by Anna Mary Robertson Moses, naturalistic technique, by Hermenegildo Anglada Camarasa, f11:10, natural lighing"
+  },
+  {
+    "object_ID": "1998-411",
+    "title": "['Penanno']",
+    "date": 1998,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168825&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a white wall with a circle made out of seashells, by Edward Dugmore, anamorphic 5 0 mm lens, shards of mercury, wood sculpture, archive photograph, steel archways, whole-length, thin spikes, (waterfall), focal length: 35mm, photo blurring, smooth concrete, art : : professional photograph, harp"
+  },
+  {
+    "object_ID": "2007-46",
+    "title": "['Ruokailuhetki', 'Repast']",
+    "date": 1977,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170550&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a person sitting at a table, inspired by Nikolai Astrup, 80s interior with arched windows, watercolours, two buddies sitting in a room, plate of borscht, inspired by Olga Boznańska, red and blue garments, bright day, by Grethe Jürgens, breads, multiple perspectives, christmas"
+  },
+  {
+    "object_ID": "2008-84-5",
+    "title": "['Päivä 1']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172017&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a living room with a large painting on the wall, g 7 summit press photos, inspired by Per Kirkeby, oil on canva, by Mārtiņš Krūmiņš, hospital background, paint drips, subsurface light transmission, taken with canon eos 5 d, portrait of brad pitt, yellowish light"
+  },
+  {
+    "object_ID": "2007-170",
+    "title": "['Pakokaasu', 'Avgas', 'Exhaust']",
+    "date": "2005-2007",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170689&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large rock sitting in the middle of a parking lot, by Eero Snellman, neoplasticism art, side view centered, inspired by Nikolaj Abraham Abildgaard, escherichia coli, restoration, 16:9, national geograph, nobel prize, bronze, 1 9 8 5 photograph, pochi iida, nilah"
+  },
+  {
+    "object_ID": "2007-64",
+    "title": "['Kuun loistetta ikkunapöydällä', 'Moonlit Window Table']",
+    "date": 1998,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170997&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man sitting at a table in front of a window, moon in background!, inspired by Gabriele Münter, by Elsa Beskow, photo courtesy museum of art, chinese watercolor, blue rose, red tail lights, elderly woman, by Emily Carr, aged 13, solitude, finland, artsation contest winner, crepuscule, warmly lit"
+  },
+  {
+    "object_ID": "2017-52",
+    "title": "['LXD', 'LXD', 'LXD']",
+    "date": 2017,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178408&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a colorful sculpture in the snow with a building in the background, dna strands, as an air balloon, twister, 62 x 47 inches, side view of a gaunt, northwest school, looking upwards, iv pole, h 576, darius puia, lamia, hdpe, digital image, schomburg, 7 7 7 7"
+  },
+  {
+    "object_ID": "2021-33",
+    "title": "['Luonnos teokseen Kuokkimassa', 'Skiss till verket Med hackor', 'Sketch for the work \"Hoeing\"']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2814511&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a man holding a baseball bat, sisyphus compostition, still from a music video, golf course, by Milton Menasco, the man is screaming and sad, sweeping wild blonde hair, carlos huante, buckethead, nightmare landscape, fighting each other, crayon on paper, photo documetalism"
+  },
+  {
+    "object_ID": "2006-79-3",
+    "title": "['Toiset kerrokset, osa 3']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170798&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a blue plane on a white wall, brass debris, inspired by Donald Sherwood, during a meteor storm, section model, by Meredith Garniss, at takeoff, on a canva, wood sculpture, by George Passantino, scott wozniak, brent hollowell, terrain"
+  },
+  {
+    "object_ID": "2018-354",
+    "title": "['Kesäyö', 'Summer Night']",
+    "date": 1972,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179590&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a landscape with trees and clouds, inspired by Gabriele Münter, in a dark field, color pigments spread out in air, psychedelic art nouveau, taken in the early 1910s, low key color palette, midnight color palette, by Mārtiņš Krūmiņš, inspired by Milton Avery"
+  },
+  {
+    "object_ID": "2003-65",
+    "title": "['Pitsilehti (Fittonia)']",
+    "date": 2003,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168806&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a woman sitting in a chair in front of a television, inspired by Per Kirkeby, nursing home, collaborative artwork, shot on large format film camera, people walking around, botanic, norrlandsskog, maori art, city apartment, wheelchair, centre image, by Thomas Häfner, environmental light, artforum, iris human's eye photo"
+  },
+  {
+    "object_ID": "2020-36",
+    "title": "['Sommitelma', 'Komposition', 'Composition']",
+    "date": 1968,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2597515&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting in a circle with a guitar in it, orange and turquoise and purple, title-shift, featured on artsation, rich geometry, square, expressive emotional piece, compass, 2 0 0 1, round-cropped, by Elizabeth Murray, round doors, iliad, pinnacle studio, star map"
+  },
+  {
+    "object_ID": "2007-51",
+    "title": "['Punainen tulppaanikimppu', 'Crimson Tulips']",
+    "date": 1983,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168034&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a watercolor painting of a bouquet of tulips, avatar for website, inspired by Sylvia Snowden, deep dark purple waters, the front of a trading card, in a red dish, staggered depth, hannah dodd, field depth, listing image, whitespace border, award - winning painting, award - winning epic painting"
+  },
+  {
+    "object_ID": "2018-455",
+    "title": "['Lintukauppias', 'The Bird Dealer']",
+    "date": 1972,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180873&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man holding an umbrella, outsider art, insects and birds, by Karel Havlíček, bright and saturated palette, villagers busy farming, abstract claymation, the caretaker, fishing, caretaker"
+  },
+  {
+    "object_ID": "2017-47-5",
+    "title": "['Näyttämö']",
+    "date": 2017,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178887&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with a large painting on the wall, by Erwin Bowien, in the high school gym, large patches of plain colours, japanese wood cut, set inside of parking garage, pastel colors scheme, lockers, installation view, studio gainax illustration, 2 d image, inspired by Lodewijk Bruckman"
+  },
+  {
+    "object_ID": "2004-122",
+    "title": "['Kotipesä', 'Hemboet', 'Home Base']",
+    "date": 2004,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169734&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large hanging sculpture made out of circles, high sample render, in a research facility, alien plant, by Karel Havlíček, mechanically enhanced honeycomb, by Nathan Oliveira, official artwork, dissolving into the air, featured on artstattion, dodecahedron, without text, rendered image"
+  },
+  {
+    "object_ID": "2010-94-3",
+    "title": "['Fucus, Tunnholmen']",
+    "date": 2010,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174296&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a group of cars parked on the side of a road, eero aarnio, lying scattered across an empty, meteorites, in a city square, containing tables and walls, canon 40mm view, scattered islands, planters, by Rajmund Kanelba, metallic shield, listing image, bed on the right"
+  },
+  {
+    "object_ID": "2018-446",
+    "title": "['Museo', 'Museum']",
+    "date": 1970,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178563&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people on a beach, by Chinwe Chukwuogo-Roy, viridian and venetian red, by Sylvia Wishart, paper cup, inspired by Willian Murai, on a wooden tray, art brut, the vibrant echoes of the market, copper elements, interconnections, malt, colorful dots, people at the table"
+  },
+  {
+    "object_ID": "2022-16",
+    "title": "['Linna', 'Slott', 'Castle']",
+    "date": "1940-luku",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2612630&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a red house in a field, inspired by Leon Kossoff, pink and green, wizard's tower, by Elaine de Kooning, inspired by Johan Edvard Mandelberg, destroyed church, aged 13, may 6 8, featured on artsation, heidelberg school, building along a river, photo courtesy museum of art, eeyrie"
+  },
+  {
+    "object_ID": "2005-158-6",
+    "title": "['Muistot / Unelmat 2']",
+    "date": 2004,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167415&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a bedroom with two beds and a rocking chair, scp foundation, norrlandsskog, neoplasticism art, displayed on the walls, at the hospital in patient gown, photo courtesy museum of art, green walls, pediophobia, darkroom, flowerbeds, stålenhag, syringes, 12, murals, winner of design award"
+  },
+  {
+    "object_ID": "2018-371",
+    "title": "['Loop']",
+    "date": 2017,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177459&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a cross stitch picture of a ferris wheel, blu ray cover usa, inspired by Howardena Pindell, brooklyn museum, joongwon jeong, playful and cheerful, detailed photographs, on a poststamp, oleo, digiral art, draft, 2dcg, katherine lam, jigsaw, sword and wand – water, featured on artscape"
+  },
+  {
+    "object_ID": "2013-16",
+    "title": "['Kaikenmaailmanmaailmankaikkeudet']",
+    "date": 2013,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172124&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room that has some rocks in it, by Eero Snellman, rounded roof, private academy entrance, children playground, polished with visible wood grain, mathematics and geometry, courtyard, inspired by Antonín Chittussi, full width, round-cropped, cross hatch"
+  },
+  {
+    "object_ID": "2006-79-2",
+    "title": "['Toiset kerrokset, osa 2']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168591&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large painting on a wall in a room, trending on artforum, tar pits, by Daphne Allen, interconnections, artillery bombings, on an operating table, 2013, blurry background of the library, mit technology review, black slime, the artist has used bright, erosions, interior of a tent, fig.1"
+  },
+  {
+    "object_ID": "2009-61-4",
+    "title": "['Polku / Kaunis maa, Diptyykki 2 ']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174586&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "two paintings hanging on a wall above a bed, aquamarine color palette, studio kyoto, bookshelf, waterways, installation view, panoramic widescreen view, by Elinor Proby Adams, summer lake setting, repetitiveness, graphic novel"
+  },
+  {
+    "object_ID": "1976-122",
+    "title": "['Punainen tausta', 'Röd bakgrund', 'Red Background']",
+    "date": 1966,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169097&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman in a white dress, inspired by Maximilien Luce, by Frances Hodgkins, 1 9 8 0 s, spectral evolution, facing and looking at the viewer, marie spartali stillman, in pastel shades, in colour, half - electric striking woman, volumettic light, 1 0 0 0 mm, inspired by Ernest Procter"
+  },
+  {
+    "object_ID": "2005-71",
+    "title": "['Kukinta', 'I blom', 'In Bloom']",
+    "date": 1980,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169353&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a potted plant on a table, an example of saul leiter's work, by Basil Blackshaw, daffodils, inspired by Gao Xiang, anemones and starfish, subtractive lighting, facing and looking at the viewer, interior photograph, dried plants, sydney hanson, taupe, exhibition of paintings"
+  },
+  {
+    "object_ID": "2006-77-3",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174603&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a long hallway with pictures on the walls, made of nanomaterials, by Claes Jansz. Visscher, hospital ward, stone slab, high quality material bssrdf, art : : professional photograph, biodiversity, inspired by Kusama, long brush strokes, blue and white colour scheme, inspired by Arvid Nyholm"
+  },
+  {
+    "object_ID": "1976-447",
+    "title": "['Kolme hahmoa', 'Tre gestalter', 'Three Figures']",
+    "date": 1960,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170544&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a plate with a drawing of three angels on it, soft coloured gel lighting, polished : :, maw art, resin and clay art, pictured from the shoulders up, ue marketplace, white robes, black magic crystal ring, by Bracha L. Ettinger, spiritualism, intaglio, worshipers"
+  },
+  {
+    "object_ID": "2021-60",
+    "title": "['Rantaa', 'Strand', 'Shore']",
+    "date": 1965,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2654574&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a boat in a body of water, by Gino Severini, granular detail, rainbow bubbles, dot gradient, zinc white, crashing waves and sea foam, cellular automata, escaping air bubbles, artforum, view from the sea, varying dots"
+  },
+  {
+    "object_ID": "1993-129-1",
+    "title": "['Mielikuvitus on tärkeämpää kuin tieto', 'Fantasi är viktigare än kunskap', 'Imagination is more important than knowledge']",
+    "date": 1993,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174884&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large metal sculpture in an office building, black 3 d cuboid device, by Akseli Gallen-Kallela, ankh symbol, installation view, realistic mega structure, floating molecules, columns, inspired by Bruno Liljefors, block head, unco corporate banner, white marble sculpture, 70s design"
+  },
+  {
+    "object_ID": "2014-41-2",
+    "title": "['Sea 2']",
+    "date": "2009/2014",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173345&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture hanging on a wall in a room, reflective water, horizon centered, espoo, design milk, 7000mm film, clean horizon, sea, colour photograph, creative commons attribution, commercial photograph, blissful landscape, product photograph, melting pixels, mcu photograph, epic matte painting of an island, by Jørgen Roed, office furniture"
+  },
+  {
+    "object_ID": "2012-28-2",
+    "title": "['Spectrum', 'Spectrum', 'Spectrum']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171848&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a person sitting on a bench in front of a colorful wall, the fire is made of binary code, oled, by Gerard Houckgeest, one panel, brandywine school, view from the space, upscale photo, atrium, full-color, by Tim Biskup, panoramic anamorphic"
+  },
+  {
+    "object_ID": "2003-114",
+    "title": "['Nimetön']",
+    "date": 2003,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171693&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with three paintings on the wall, peter guthrie, government archive, halftone pattern, by Sigrid Hjertén, soft gradients, installation view, large arrays, urban surroundings, 2010s, frontpage, kalevala, 2 colours, without text, lowres, colour photography"
+  },
+  {
+    "object_ID": "1976-34",
+    "title": "['Muotokuva (Leonard Bäcksbacka)', 'Porträtt (Leonard Bäcksbacka)', 'Portrait (Leonard Bäcksbacka)']",
+    "date": "1917?",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169851&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man in a suit and tie, by Jack Butler Yeats, portrait a 1 5 - year - old boy, black - and - white photograph, artforum, side portrait imagery, mid length portrait photograph, benjamin netanyahu, by Samuel Peploe, aged 13, flash image"
+  },
+  {
+    "object_ID": "2011-32",
+    "title": "['Liian painavat vieraat', 'För tunga gäster', 'Too Heavy Guests']",
+    "date": 2011,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176198&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a pile of rocks sitting on top of a sidewalk, red black and gold color scheme, inspired by Derek Chittock, creating a thin monolith, it has a red and black paint, jamal campbell, by Tim Biskup, rocks flying, broad strokes, in 2 0 1 5, detail, red and blue"
+  },
+  {
+    "object_ID": "2018-452",
+    "title": "['Kulkue', 'Procession']",
+    "date": 1971,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180093&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people in a field, by Ahmed Yacoubi, by Albert Irvin, by Iwasa Matabei, anthropomorphic humanoid, focus on the elephant, abstract claymation, wadi rum, 1 2 0 0 dpi scan, under blue clouds, oil on wood, unsaturated colors, baris yesilbas"
+  },
+  {
+    "object_ID": "1999-151-13",
+    "title": "['Sivussa, valokuvasarja Helsingin esikaupungeista']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172491&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of people that are standing in the grass, 1 9 8 0 s children's show, mourning family, deep forest on background, artwork about a road to freedom, museum archive photo, augmented reality, tourists in background, sweden, featured in artistation, nursery poster, scp-914, canon 3 0 0 mm"
+  },
+  {
+    "object_ID": "2009-61-6",
+    "title": "['Polku / Kaunis maa, nimeämätön']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168279&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with two chairs and a clock on the wall, f1.8 anamorphic, pekka halonen, whiteboards, soft strokes, bright art, lab, displayed in the exhibition hall, 'untitled 9 ', leaning against the wall, police station, by Magdalene Bärens, mcu photograph, canva, at college, dotart"
+  },
+  {
+    "object_ID": "2009-60-7",
+    "title": "['Katajanokka', 'Skatudden']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175912&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of blue chairs sitting next to each other, neoplasticism art, by Johan Lundbye, commercial lighting, iso 125, displayed on the walls, iso 1250, ekasportal, court drawing, impressionist"
+  },
+  {
+    "object_ID": "1976-106",
+    "title": "['Esikaupungin katu (Harmaa katu)', 'Förstadsgata (Den grå gatan)', 'Suburban Street (Grey Street)']",
+    "date": 1915,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171630&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a train on a train track, street light, the bauhaus, sombre mood, empty street, driveway, beatrice blue, standing in a township street, inspired by Erich Heckel, white pale concrete city, photo courtesy museum of art, standing on a bridge, beside the sea, striking artstyle"
+  },
+  {
+    "object_ID": "1947-6",
+    "title": "['Juhlat maalla', 'Fest på landet', 'Party in the Countryside']",
+    "date": 1947,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175119&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people in a forest, playing harp in magical forest, androgynous male, inspired by Émile Bernard, in a cottagecore flower garden, by Þórarinn B. Þorláksson, campfire, greenhouse, by Svend Rasmussen Svendsen, by Louise Abbéma, stockholm"
+  },
+  {
+    "object_ID": "2014-30",
+    "title": "['Kaupungin juuret', 'Stadens rötter', 'Roots of the City']",
+    "date": 2013,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173159&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a subway station with a bunch of birds hanging from the ceiling, style of flavie audi, radial, metallic, swiss, glaciers, photo courtesy museum of art, neuron dendritic monster, brussels, by Matthias Weischer, smooth concrete, large star crystals, artforum, unique landscape, jan urschel"
+  },
+  {
+    "object_ID": "2007-161",
+    "title": "['Arvohenkilölle', 'Till en person av rang', 'For a Very Important Person']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170095&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a picture of a city, by Naomi Okubo, still life with white vase, on yellow paper, inspired by Jasper Johns, of a youthful japanese girl, 62 x 47 inches, lithographics, photo courtesy museum of art, in suitcase, song nan li, year 1 9 7 0, lulu chen, medium: colored pencil"
+  },
+  {
+    "object_ID": "2017-45-2",
+    "title": "['Elämä on yhtä juhlaa']",
+    "date": 2017,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178366&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people standing next to each other, dynamic dancing pose, by Delaunay, google arts and cultures, 2009, rhythm of the wind, vienna secession, leisure activities, bright ground, zdzidaw, the room is raucous and joyful, w 1 9 2 0, inspired by Zlatyu Boyadzhiev"
+  },
+  {
+    "object_ID": "1999-147",
+    "title": "['Tavarakomero, kansakoulukirjasto, lyijykynätilastoja sekä muita teoksia ', 'Sakskåpet, folkskolebiblioteket, blyertsstatistiken och andra verk ', 'Cabinet of Things, School Library, Pencil Statistics and other works']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171284&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a wall full of different types of tools, helio oiticica, by Ethel Schwabacher, patchwork doll, fig.1, nesting glass doors, metropolitan museum collection, trash ; basement, houdini, brooklyn museum, 2 0 0 0, lgbt art, small bedroom, elevator, m. c. esher"
+  },
+  {
+    "object_ID": "2000-116",
+    "title": "['Punajalkaviklot rannalla', 'Rödbenor på stranden', 'Redshanks on the Beach']",
+    "date": 2000,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170749&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting hanging on the wall of a building, anamorphic 35 mm lens, island background, by De Hirsh Margules, an empty hallway, sunny environment, taken in 1 9 9 7, natural color palette, seaview, le corbusier, two still figures facing camera, pond scene, 2 d image"
+  },
+  {
+    "object_ID": "1976-107",
+    "title": "['Aihe Töölöstä', 'Motiv från Tölö', 'Scene from Töölö']",
+    "date": 1915,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167672&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a town with mountains in the background, by William Zorach, unsaturated and dark atmosphere, dark blue and red, stacked houses, inspired by Robert Dickerson, by Václav Brožík, magnus carlsen, beige and dark atmosphere, on the top of a hill, rolling foothills"
+  },
+  {
+    "object_ID": "2003-139-7",
+    "title": "['Stabat mater']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168561&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a clock on a wall, marlene dumas, body painted with black fluid, \\'emulador\\', theatrical poster, stephen silver, two skinny old figures, symatrical, totem, made in 1 9 9 0, sad motif, stained paper, anthropomorphized, hunger, 5 7 9, by Betye Saar, watcher"
+  },
+  {
+    "object_ID": "2010-7",
+    "title": "['Inskriptio (se mitä ei ole olemassa)', 'Inskription (det som inte finns)', 'Inscription (that which does not exist)']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167523&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a blurry picture of a person walking down a street, abstract painting in black, kimitake yoshioka, destroying a cityscape, archival pigment print, digital oil on canvas, in thick layers of rhythms, dark blue mist, 2014, oil on canva, monochrome color, tom richmond, artwork empty daylight"
+  },
+  {
+    "object_ID": "2019-80",
+    "title": "['Ohikulkijalle', 'Till den förbipasserande', 'For the Passerby']",
+    "date": 2019,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177062&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a blurry image of a person riding a bike, portholes, bang olufsen, made of stone and concrete, swiss, screen, radiosity, inspired by Johann Jakob Biedermann, frontlight, under bridge, aspect ratio, graph signals, inspired by Bartholomeus Strobel, by Ejler Bille"
+  },
+  {
+    "object_ID": "2022-75",
+    "title": "['Sunnuntaiaamu', 'Sunday Morning']",
+    "date": 1975,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2858814&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of boats in a body of water, by Elaine de Kooning, at gentle dawn pink light, canva, icebergs, pale blue fog, sea breeze rises in the air, caulfield, torn sails, soft-sanded coastlines, painting in luminist style, by William Yellowlees, subsurface"
+  },
+  {
+    "object_ID": "2007-40",
+    "title": "['Kaksi kauppahallin takaa', 'Två bakom saluhallen', 'Twosome Behind the Market Hall']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169789&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a red and green painting, kiki smith, inspired by Raphael Kirchner, exhibited at the british museum, by Frederick Hammersley, inspired by Yayoi Kusama, red brocade and blue gemstones, female face features, fig.1, minna sundberg, visible layers, protagonist in foreground, intaglio, sixties, calotype"
+  },
+  {
+    "object_ID": "1976-158",
+    "title": "['Lukija II', 'Läsande II', 'Reader II']",
+    "date": 1974,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167043&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman reading a book, inspired by Ernest Procter, boy with neutral face, by Grethe Jürgens, brochure, aged 13, inspired by Dod Procter, mark simonetti, the color red, focused gaze, color-key painting, round-cropped, by Louise Abbéma, expressing joy, dennis velleneuve, warmly lit"
+  },
+  {
+    "object_ID": "1941-7",
+    "title": "['Kivityömaa', 'Stenhuggeri', 'Stoneworkers']",
+    "date": 1941,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178934&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of men working on a construction site, vesa-matti loiri, panoramic, 3 0 s, ben maier and sakimichan, the tunnel into winter, by Grethe Jürgens, orange rocks, artsation, dynamic composition and motion, w 7 6 8, april, style of midjourney, 2 0 s"
+  },
+  {
+    "object_ID": "1998-416",
+    "title": "['Viestejä tuntemattomille', 'Signaler till okända', 'Messages to the Unknown']",
+    "date": 1998,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171623&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large metal structure sitting on top of a grass covered field, inspired by Henry Heerup, rusty metal towers, emotive faces, melancholic expression, tribute to life, facing each other, helsinki, exposed inner gears, bar charts, by Robert Falk, lament configuration, asymmetrical artwork"
+  },
+  {
+    "object_ID": "2006-77-43",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175065&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with pictures hanging on the wall, schlieren, medical photography, anamorphic wide angle lens, awardwinning, photograph of the city street, surgical iv drip, by Ulrika Pasch, pictures in sequence, hospital ward, overexposed photograph, asylum, phot, focal length : 5 0 mm, gina heyer"
+  },
+  {
+    "object_ID": "2022-28",
+    "title": "['Rouva Elvira Ruokokoski', 'Fru Elvira Ruokokoski', 'Mrs. Elvira Ruokokoski']",
+    "date": 1913,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2860563&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a woman with her eyes closed, lenin, intaglio, strong jaw, by Louise Abbéma, wpa, year 1 9 1 4, backfacing, daugerrotype, featured in artistation, 1/4 profile, printed on paper, puṣkaracūḍa, winning award image, gemini"
+  },
+  {
+    "object_ID": "2021-66",
+    "title": "['Aihe Imatralta', 'View of Imatra']",
+    "date": 1953,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2654620&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a boat in a body of water, factories and nature, ( alexander archipenko ), vibrant greenery, how a river, photo courtesy museum of art, on a road, vibrant but muted colors, lower saxony, chemical plant, low-emission-neon, by Mabel Rollins Harris, sold at an auction, domes"
+  },
+  {
+    "object_ID": "1982-54-8",
+    "title": "['Keltainen-musta: serigrafiasalkusta 4-värin etydejä', 'Gult-svart: ur serigrafiportföljen Etyder i fyra färger', 'Yellow-Black: from the Portfolio Etudes in Four Colors']",
+    "date": 1982,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167086&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a picture of a picture of a picture of a picture of a picture of a picture of a picture of a picture of a, photography of charline von heyl, trending on artstatioin, by Richard Hamilton, smooth rounded shapes, by Diane Dillon, brass sheet, 8k print, ocher, trending on artforum, musical notes"
+  },
+  {
+    "object_ID": "2008-81",
+    "title": "['Perusasiat', 'Basfakta', 'Fundamentals']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173565&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a woman on a wall above a radiator, inspired by Cornelia MacIntyre Foley, polka dot tables, portrait of nordic girl, tlingit haida lithographic, dayglo pink, heidelberg school, in a style of hyperrealism, gilding, by Matthias Weischer, gipf project, aged 13, 1 staircase"
+  },
+  {
+    "object_ID": "2005-160-2",
+    "title": "['Harjaneilikat']",
+    "date": 2005,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179417&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a bouquet of flowers with butterflies on top of it, rinko kawauchi, ffffound, artforum, venice biennale's golden lion, may 6 8, pops of triadic colors, wenfei ye, listing image, symmetric art, ai biodiversity, 70s, carnation, medium-format print, by Huang Ding"
+  },
+  {
+    "object_ID": "2007-65",
+    "title": "['Tonttu ja nuotio', 'Elf by the Campfire']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167631&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a person sitting in the snow with an umbrella, he is at camp, giuseppe, campfire, award-winning artwork, f. 1 4, by Lily Delissa Joseph, norrlandsskog, artsation contest winner, by David Burliuk, ((water color)), snowy peaks"
+  },
+  {
+    "object_ID": "2017-47-2",
+    "title": "['Näyttämö']",
+    "date": 2017,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179216&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hospital hallway with a painting on the wall, inspired by Lars Jonson Haukaness, woodland, by Erwin Bowien, flat 2 d design, painted on a giant wall, inspired by Herbert MacNair, centre image, medical lighting, high resolution image, archive photo"
+  },
+  {
+    "object_ID": "2021-59",
+    "title": "['Meilahdesta', 'Från Mejlans', 'Scene from Meilahti']",
+    "date": 1973,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2654570&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a boat sitting on top of a snow covered field, by Alfred Jensen, dusting of snow, peter lundqvist, river in the background, sold at an auction, painted with pastels, in this painting, trending on artforum, computer painting, nordic summer, by Telemaco Signorini, 1 9 th, small boat, winter vibes"
+  },
+  {
+    "object_ID": "2007-103",
+    "title": "['Yrittäjäveistos', 'Entreprenörmonumentet', 'The Enterpreneur Monument']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168269&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large metal sculpture in front of a building, 3d model of a human heart, hexagon lens flares, by Oluf Høst, honeycomb, inspired by Cornelia Parker, photo courtesy museum of art, floating molecules, diamond shaped face, morph dna, molecules, the cube, h 1024, hamar"
+  },
+  {
+    "object_ID": "2006-77-40",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172424&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a long hallway with a bunch of doors, medical photography, by Lars Jonson Haukaness, on a canva, windows and walls :5, metal plate photograph, horizon line focus, 1 0 0 0 mm, f1.8 anamorphic, h 1088, outside view, sterile minimalistic room, visible layers, information visualization"
+  },
+  {
+    "object_ID": "2014-41",
+    "title": "['Sea 1']",
+    "date": "2009/2014",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172607&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hospital room with a painting on the wall, award winning landscape photo, ocean specular, zaragoza gilberto soren, gipf project, spinal column, large twin sunset, anamorphic, clean horizon, photographic print, in a research facility, by Ulrika Pasch, calm water"
+  },
+  {
+    "object_ID": "1976-91",
+    "title": "['Poika', 'Gosse', 'Boy']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171476&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a young boy in a brown shirt, inspired by Mikhail Larionov, luminescent blue eyes, by Isaac Soyer, by Grethe Jürgens, photo courtesy museum of art, child of dark, in the 1920s, full face view, on a canva, 1 9 2 2, inspired by Willem Labeij"
+  },
+  {
+    "object_ID": "2009-61-8",
+    "title": "['Polku / jos olisit varjoton, Triptyykki ']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172706&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "three paintings hanging on the wall of a waiting room, blue hour photography, linden trees, installation view, by Edmund Blampied, winter lake setting, hospital ward, on a canva, jenni pasanen, concept image"
+  },
+  {
+    "object_ID": "2011-9",
+    "title": "['Väsytän pois turhaa ikävääni', 'Jag tröttar ut min onödiga längtan', 'Taming my Needless Boredom']",
+    "date": "2006-2011",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167482&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a sunset over a body of water, flowing salmon-colored silk, by Rachel Reckitt, inspired by Sigmar Polke, the treetops of giant oaks, cracked plastic wrap, encaustic painting, installation view, etching render, caravagio, branching, in a sunset haze, elizabeth jane gardner, artforum, intaglio"
+  },
+  {
+    "object_ID": "2016-31",
+    "title": "['Näin sinun tulevan']",
+    "date": 2015,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172700&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a person walking past a large white board, glass and metal : : peugot onyx, transportation design, by Jens Jørgen Thorsen, filled with natural light, round corners, street printed poster, white plank siding, escaping air bubbles, part of the screen, station, gipf project, john pawson"
+  },
+  {
+    "object_ID": "2006-77-16",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176773&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with pictures hanging on the wall, marsh vegetation, hospital lighting, water particules, by Ulrika Pasch, acnh, medium length photography, wide shot photograph, on display, poster tour, anamorphic wide angle lens, anaesthetic, fluorescent lighting"
+  },
+  {
+    "object_ID": "1976-428",
+    "title": "['\"Usotko sie\"', '\"Tror du inte\"', '\"Believe me now\"']",
+    "date": 1956,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2166903&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man sitting on a stool, wearing cave man clothes, takeyuki kanda, amulet, wpa, dwarf, 1 9 3 4, soft body, evil god, inspired by Kamāl ud-Dīn Behzād, official product image, by Nicomachus of Thebes, ape, bum, sold at an auction"
+  },
+  {
+    "object_ID": "2007-71",
+    "title": "['Jehu, Taru']",
+    "date": 1969,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169902&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a yellow and blue geometric design, by Margareta Alströmer, the sun on the horizon, inspired by Washington Allston, by George Ault, by Richard Hamilton, toiletpaper magazine, murals, google arts and cultures, man ray - h 1200, artforum, h- 1024, at gentle dawn blue light"
+  },
+  {
+    "object_ID": "2018-453",
+    "title": "['Eläkeläiset', 'Pensioners']",
+    "date": 1973,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179959&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people standing next to each other, inspired by William Steig, two aboriginal elders, website banner, different women's faces, 2009, dementia, professional character design, brett goldstein, carmen kass"
+  },
+  {
+    "object_ID": "2019-96",
+    "title": "['Massa', 'Massa', 'Mass']",
+    "date": 2019,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177164&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a man riding a skateboard on top of a brick walkway, infinite library, by Katsukawa Shun'ei, vortex river, lawns, eldenring, anamorphic widescreen, crater, university, ceramic base, geometrically realistic, sangsoo jeong, giant waves, pixiv, sundial, lawn"
+  },
+  {
+    "object_ID": "1989-52",
+    "title": "['Säteet', 'Rays']",
+    "date": 1989,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177138&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture of a pyramid made of rocks, nancy grossman, trending on artforum, by Anish Kapoor, monolithic granite spikes, comets, artforum aesthetic, inspired by Johann Heinrich Meyer, felting, rendered in pov - ray, hanging scroll, cone, [ metal ], victo nagai"
+  },
+  {
+    "object_ID": "2013-25",
+    "title": "['Maisema verhon takana', 'Landskap bakom draperi', 'Landscape Behind a Curtain']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174539&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large white sculpture in front of a building, kirsi salonen, materials white stone, inspired by Per Kirkeby, school courtyard, diptych, spores, height 1 7 8, quarter view, round-cropped, monolith, eyvind, by Niels Lergaard, iso 1250, private academy entrance, soft volume absorbation"
+  },
+  {
+    "object_ID": "2018-92-11",
+    "title": "['Joku metsä']",
+    "date": 2015,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180386&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with paintings on the wall and pictures on the wall, inspired by Ellen Gallagher, hospital ward, hands of men, pencil and vine charcoal drawing, awardwinning, highly detailed photograph, in the office, by Mary Callery, textiles, golem, 1 3 3 4 building, oniric, photo of the girl"
+  },
+  {
+    "object_ID": "2010-94",
+    "title": "['Fucus']",
+    "date": 2010,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172161&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a fountain with a sculpture in the middle of it, inspired by Eero Snellman, birds and trees, nautical maps, during spring, 21:9, losing feathers, 16 thousand - n 6, capillaries, 2 0 0 0, oland, stepping stones, government archive, fragments"
+  },
+  {
+    "object_ID": "2009-60-8",
+    "title": "['Aleksanterinkatu, Lahti', 'Alexandersgatan, Lahtis']",
+    "date": 2008,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175662&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting hanging on a wall next to a bench, in volumetric soft glowing mist, goto fujita, whitewashed buildings, taken with canon eos 5 d, horizon line focus, surface blemishes, golden hour photo, exhibition display, full width, overexposure"
+  },
+  {
+    "object_ID": "2018-350",
+    "title": "['Auringon laskettua', 'After Sunset']",
+    "date": 1976,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178796&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a landscape with trees in the foreground, inspired by Max Pechstein, georgia o'keefe, sunrise atmospheric phenomena, panoramic view of girl, inspired by Abram Arkhipov, barren sands, golden 1 9 2 0 s, 21:9, mongolia, flat roads, distant clouds, 16:9, color gradients"
+  },
+  {
+    "object_ID": "1976-283",
+    "title": "['Muotokuva (Mirri Sallinen)', 'Porträtt (Mirri Sallinen)', 'Portrait (Mirri Sallinen)']",
+    "date": 1912,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167532&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman in a blue shirt, 1919, hestiasula head, prominent cheekbones, asian face, height 1 7 8, marina abramovic, dramatic light on face, pale-skinned, inspired by Duncan Grant, 1907, aged 13, facing sideways"
+  },
+  {
+    "object_ID": "2022-17",
+    "title": "['Kaupunki', 'Stad', 'City']",
+    "date": 1957,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2612676&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a city with tall buildings, by Milton Menasco, inspired by Clyfford Still, menhirs, with yellow cloths, inspired by Max Walter Svanberg, plasticine, thunder clouds in the sky, mojang, yellow and greens, old humanoid ents, blowing sands, exhibited in the british museum, maui, by Mario Bardi"
+  },
+  {
+    "object_ID": "2022-5",
+    "title": "['Asetelma', 'Stilleben', 'Still Life']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2584829&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a bunch of bottles on a table, by Anne Redpath, inspired by Isidor Kaufman, light-blue, by Demetrios Farmakopoulos, she is easting a peach, a translucency, circa 1982, on a wooden tray, dust light, light blue sky, stephen conroy, cuisine"
+  },
+  {
+    "object_ID": "2016-45",
+    "title": "['SCHOP!']",
+    "date": 2016,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171860&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a piece of art that is on a wall, by Robert Rauschenberg, cel shad, solid coloured shapes, 2014, award winning historic painting, by Niels Lergaard, fragments, diptych, newspaper collage, aspect ratio 16:9, inflateble shapes, 2009, borealis, marthe jonkers, shields, descriptive art"
+  },
+  {
+    "object_ID": "1976-235",
+    "title": "['Miehen kuva', 'Mansporträtt', 'Portrait of a Man']",
+    "date": 1959,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168705&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man sitting at a table, by Basil Blackshaw, strongman, wearing a brown, taken in the early 1960s, frontal portrait of a young, portrait of karl pilkington, three-quarter body, photo courtesy museum of art, by David Bomberg, with round cheeks, big pear-shaped head, ( 3 1"
+  },
+  {
+    "object_ID": "1976-28",
+    "title": "['Auringonkukkia', 'Solrosor', 'Sunflowers']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168108&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of sunflowers in a black vase, inspired by Dorothy Johnstone, wearing a head scarf, dead flowers, cowl, ruan kia and john singer sargent, salvia, drapery, by David Bomberg, muted palette mostly white, winning award piece, holding a flower, draft, done in the style of matisse"
+  },
+  {
+    "object_ID": "1977-52",
+    "title": "['Pirtin pöydän ääressä', 'Vid matbordet i pörtet', 'At the cabin table']",
+    "date": 1946,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168735&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a group of people sitting on a bench, the ecolab industrial dishwasher, korean war, by Constance Gordon-Cumming, prison scene, holding knife, vargas, fujicolor sample, vincenzo catena style, nationalgalleryofart, in a small prison cell, shipyard, in rows, yan gisuka, inspired by Yves Tanguay, alejandro burdiso style art"
+  },
+  {
+    "object_ID": "2020-53",
+    "title": "['Katukuva, Intia', 'Gatubild, Indien', 'Street Scene, India']",
+    "date": "1971?",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180379&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people with umbrellas, by Bruce Onobrakpeya, soft and muted colors, still from l'estate, an arab standing watching over, ue marketplace, healthcare worker, layered paper, poverty, 2 d image"
+  },
+  {
+    "object_ID": "2014-26",
+    "title": "['Satakielen laulupuu', 'Näktergalens sångträd', 'The Singing Tree of Nightingale']",
+    "date": 2014,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173080&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a living room filled with furniture and a painting on the wall, the tree of life, for kids, inspired by Werner Andermatt, filled with natural light, hospital background, by Tom Wänerstrand, in a classroom, floating buildings, sconces, adjacent hallways"
+  },
+  {
+    "object_ID": "2006-77-2",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173502&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a blue couch sitting next to a blue chair in a room, medical research facility, inspired by Johan Lundbye, our art corner, displayed on the walls, satellite imagery, with professional lighting, award-winning artwork, fibres trial on the floor, corridor, h 1024, helipad, blocked drains"
+  },
+  {
+    "object_ID": "2009-54-4",
+    "title": "['Riutta, Tähtikoralli']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172578&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with a lot of windows and a ceiling lamp, made of crystalized synapse, reykjavik junior college, flowstatepaint, realistic glass sculpture, long hallway, cal-arts, photo 1 5 mm, airport, exterior photography"
+  },
+  {
+    "object_ID": "1976-289",
+    "title": "['Kylpeviä naisia', 'Badande kvinnor', 'Women Bathing']",
+    "date": 1913,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170836&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of two people sitting on a hill, inspired by John Duncan Fergusson, within a lake, perched on a rock, by Karel Havlíček, inspired by Oskar Kokoschka, on a canva, ultra detail, female bodies, looking away from viewer, vibrancy color, by Hermann Rüdisühli, 9 5"
+  },
+  {
+    "object_ID": "1976-231",
+    "title": "['Taloja', 'Hus', 'Houses']",
+    "date": 1959,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170862&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a building with a spiral in the sky, by Jean-Paul Riopelle, standing in a dark alleyway, by Christian Rohlfs, inspired by Emily Carr, gloom and lights, destroyed church, photo courtesy museum of art, by Jack Butler Yeats, photo 1960, ruined subdivision houses, set on night"
+  },
+  {
+    "object_ID": "2012-49",
+    "title": "['Tapio Wirkkalan puiston taideteokset']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174224&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a walkway in front of a brick building, swedish urban landscape, mit technology review, mixed development, hrushevka on background, swirling gardens, 985530902, a wooden, 3-d 8k, puṣkaracūḍa, single plot, frontview, inspired by Washington Allston"
+  },
+  {
+    "object_ID": "2014-42",
+    "title": "['Veteen piirretty viiva']",
+    "date": 2013,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172703&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a view of a street from a window of a building, spoon slim figure, inspired by Jesper Myrfors, floor lamps, creating a thin monolith, usb ports, on a canva, giant sculpture, dutch tilt, award-winning style, finland, cryptoblades, street lamps, artist's impression, prometheus engineering, featured on artstattion"
+  },
+  {
+    "object_ID": "2020-47",
+    "title": "['Kukkulan kuningas', 'Herre på täppan', 'King of the Hill']",
+    "date": 2020,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178367&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a baby standing on top of a water fountain, by Zhang Xiaogang, reykjavik junior college, inspired by Ernő Grünbaum, harmony of the spheres, having fun in the sun, photo courtesy museum of art, realistic depiction, onsen, mascot, iso 125, creative commons attribution, johannes vormeer"
+  },
+  {
+    "object_ID": "1999-150-2",
+    "title": "['Lattiateos']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169953&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a parking lot with a sign on the floor, mandkaws, tekla evelina severin, alchemy, made in 1999, pestle, 7 0 mm, alchemical, barometric projection, age lines, by Clarice Beckett, polished concrete, exquisit detail, from matrix ( 1 9 9 9 ), maxxis, post - minimalism"
+  },
+  {
+    "object_ID": "2008-136",
+    "title": "['Fragmentteja']",
+    "date": 2005,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2192115&size=extra_large&key=T3st1&orgid=85100",
+    "prompt": "a couple of vases sitting on top of white pedestals, otzi, looking out of the window, installation view, three fourths view, flagstones, helmond, academic art, zen atmosphere, metalwork"
+  },
+  {
+    "object_ID": "2016-20",
+    "title": "['Jäätyvältä jänkälammelta', 'Frozen Marshland Pond']",
+    "date": 1990,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172848&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white drawing of a landscape, by Luc Tuymans, in the steppe, cel shadow, draft, mountainous terrain, featured on artsation, ross draws, degas, morhbacher, environments, prairie, single color, gujian, fine dust, inspired by Isidor Kaufman"
+  },
+  {
+    "object_ID": "1976-362",
+    "title": "['Pöydän ääressä (Sisäkuva)', 'Vid bordet (Interiör)', 'At the Table (Interior Scene)']",
+    "date": 1974,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167264&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman sitting at a table, inspired by Anne Redpath, red and yellow light, living flora, nicholas kalmakoff, exhibition of paintings, the caretaker, interconnected human lifeforms, yellow translucent lace, oranges, beyond the mirror, by Larry Rivers, orthodox, bouquets, yellow infrared, mono, portrait c 12.0, pianist"
+  },
+  {
+    "object_ID": "2020-33",
+    "title": "['Roomatar', 'Romarinnan', 'Woman from Rome ']",
+    "date": 1960,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177458&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman sitting in a chair, 1966, covered in coral, aura of light, summer dress, f. 1 4, half portrait, inspired by Jan Henryk Rosen, portrait c 12.0, looking towards the camera, may 6 8, loomis, mid - length hair, cardigan, pastel coloring, inspired by Myra Landau"
+  },
+  {
+    "object_ID": "2007-102-1",
+    "title": "['Et voi koskaan tietää kaikkea mistään']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172275&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a black cat on a green background, by Alex Katz, over a chalk cliff, eraserhead, inspired by Raoul De Keyser, the moomins in moominvalley, humpback whale, installation view, low horizon, green slime, carson ellis, dredged seabed, barren sands, inspired by Will Barnet"
+  },
+  {
+    "object_ID": "2008-79-2",
+    "title": "['Water Sketches (II)']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171731&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "three black and white photographs hanging on a wall, subsurface light transmission, draped in shiny oil, james baxter and mark henn, lake scene, f1.8 anamorphic, avetetsuya studios, subsiding floodwaters, water surrounds the ship, the poolrooms, blurry image"
+  },
+  {
+    "object_ID": "2006-77-17",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172775&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with a painting hanging on the wall, electron microscopy photography, inspired by Vilhelm Lundstrøm, hospital lighting, original and creative landscape, featured on z brush, minimalist lighting, hospital ward, displayed on the walls, hamar, anamorphic film, by Matthias Weischer"
+  },
+  {
+    "object_ID": "2007-52",
+    "title": "['Kissa tuolilla', 'Cat on a Chair']",
+    "date": 1983,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169059&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of flowers in a vase on a table, inspired by Dora Carrington, cat on a windowsill, a watercolor painting, protagonist in foreground, pink door, by Genevieve Springston Lynch, black furniture, window in foreground, hong soonsang, in the original box, asymmetrical composition"
+  },
+  {
+    "object_ID": "2008-80-4",
+    "title": "['Usva, sarastus & katse']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176219&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with a plant and pictures on the wall, inspired by Robert Bevan, nursing home, sea breeze rises in the air, award-winning oil painting, the caretaker, varying locations, colour photograph, trio, inspired by Per Krohg, by Annabel Eyres, gipf project, inspired by Jesper Myrfors"
+  },
+  {
+    "object_ID": "2018-12",
+    "title": "['Ruhtinaan perhe', 'Furstens familj', \"The Prince's Family\"]",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180863&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man and a woman standing next to each other, by Steve Brodner, nicholas ii of russia, family portrait, the'other mother'from'coraline ', blue and gold, national gallery, wedding, william joyce, illustrative story telling, artforum, idealised"
+  },
+  {
+    "object_ID": "2018-356",
+    "title": "['Pelko', 'Fear']",
+    "date": 1973,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179768&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man riding a skateboard down a ramp, long violet and green trees, stephen fry, by Oluf Høst, dracula, inspired by Moïse Kisling, action bronson, photo courtesy museum of art, carmen kass, purple raincoat, zdislav beksinsk, running towards camera, inspired by Eero Järnefelt"
+  },
+  {
+    "object_ID": "2006-77-8",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172697&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a long hallway with pictures on the wall, partially biomedical design, detailed high contrast lighting, anaesthetic, mold, shallow depth or field, flowstatepaint, strong walls, polished metal, practical effect, large environment"
+  },
+  {
+    "object_ID": "2020-55",
+    "title": "['Asetelma', 'Stilleben', 'Still Life']",
+    "date": 1954,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175253&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man and a woman sitting at a table, inspired by Albert Gleizes, zaragoza gilberto soren, polygonal fragments, vases and bottles, payne's grey, jakarta, 2 d matte, post-war, spring evening, groups of people, still from l'estate, olives, andres rios, h 768, image of the day"
+  },
+  {
+    "object_ID": "2018-367",
+    "title": "['Kevätaamu', 'Spring Morning']",
+    "date": "1973 tai 1974",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177625&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a couple walking in the snow, by Paul Ranson, inspired by Edward Okuń, in front of the house, norwegian landscape, official poster artwork, ben maier and sakimichan, catalog exhibition, second colours - purple, 21:9, standing outside a house, inspired by Zlatyu Boyadzhiev, warmly lit posh study"
+  },
+  {
+    "object_ID": "2000-43",
+    "title": "['Aurinkoläikkiä viidakossa']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179271&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture of birds perched on a tree branch, transmetal ii, flowering buds, museum collection, giacometti, official artwork, side view centered, diamond trees, biomaterial, flowercore, robert cleminson, 8 h, museum art, medium detail, artforum"
+  },
+  {
+    "object_ID": "1999-151-9",
+    "title": "['Sivussa, valokuvasarja Helsingin esikaupungeista']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176417&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of people sitting on top of a wooden bench, lone girl waiting for the train, anamorphic 35 mm lens, alvaro siza, photo still of interior, with many travelers, train station, canon 2 0 0 mm, creative commons attribution, zaragoza gilberto soren, silent running, \\'emulador\\', by Alberto Burri"
+  },
+  {
+    "object_ID": "1976-364",
+    "title": "['Ukkospilvi', 'Åskmoln', 'Thunder Cloud']",
+    "date": 1974,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170793&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a house in a field, pink and blue and green mist, by Larry Rivers, on a road, by Arthur Merric Boyd, dust floats in the air, woodlathe, hand - tinted, inside a shed, grey skies with two rainbows, in a suburb, white paint, muted colour"
+  },
+  {
+    "object_ID": "1976-234",
+    "title": "['Ranta', 'Strand', 'Shore']",
+    "date": 1917,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171511&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a river with trees in the background, by Paul-Émile Borduas, taken in the early 1960s, graveyard landscape, original post impressionist art, grey shift, mark simonetti, classicism artstyle, at high noon, cumulus, trending on artforum, phragmites, old ruins, zdzisław"
+  },
+  {
+    "object_ID": "2014-39-2",
+    "title": "['Mo(nu)ments / Englanti']",
+    "date": 2014,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170360&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a display case filled with toys and a clock, inspired by Marshall Arisman, polished : :, hassleblad, featured on artscape, bearbrick, style of mike jackson, trending on artforum, panavision x iii, shopwindows, award-winning style, dan witz, marshal mathers, gm screen, 6 spotlight"
+  },
+  {
+    "object_ID": "2009-58-2",
+    "title": "['Vaaleanpunainen luonto', 'Den ljusröda naturen', 'Pink Nature']",
+    "date": "2005/2009",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173496&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large window with a painting on it, biomechanical sculpture, petal pink gradient scheme, installation view, hospital lighting, organic buildings, ldpe, anna forsterling, high resolution product photo, side view profile, anamorphic, 5 th floor, flowing forms, flora"
+  },
+  {
+    "object_ID": "2006-77-18",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174452&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with a picture hanging on the wall, medical photography, inspired by Robert Zünd, luminist polar landscape, acnh, grass surrounding it, hospital lighting, by Matthias Weischer, fungal growth, outdoor lighting"
+  },
+  {
+    "object_ID": "01/08/2012",
+    "title": "['Puiden välinen aika']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172953&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture made out of glass blocks in front of a building, green energy, foundry vtt, the tree of life, credit esa, medium sensor, mit technology review, inspired by Jaroslava Korol, parasols, by Þórarinn B. Þorláksson, made of wood, polygonal fragments"
+  },
+  {
+    "object_ID": "2003-137",
+    "title": "['Huulet']",
+    "date": 2003,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174398&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a pink heart drawn on the side of a building, glass and metal : : peugot onyx, the kiss, by Jørgen Roed, art - station, inspired by Matthias Weischer, canva, tram, opened mouth, the fifth series, inspired by Lichtenstein, part of the screen, exhibition catalog, station, hamar, lipstick"
+  },
+  {
+    "object_ID": "1998-546",
+    "title": "['Kohtauspaikat']",
+    "date": 1998,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175982&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a brick building with a sign on the side of it, by Eero Järnefelt, an upside down urinal, parks and public space, 2 0 1 4, top art-station, artforum, full image, socialist realism, lockbox, large medium and small elements, thomas kinkad, 16:9, walkable, side view"
+  },
+  {
+    "object_ID": "2022-78",
+    "title": "['Sininen asetelma', 'Composition in Blue']",
+    "date": 1981,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2858830&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of three people standing in front of a window, blue bioluminescent plastics, inspired by Peter Lanyon, beer bottles, is at dawn and bluish, reflection on the oil, by Margaret Leiteritz, an ultrafine painting, complementary color, bottle of vodka, masterpiece - h 768, lanscape"
+  },
+  {
+    "object_ID": "2006-77-9",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172268&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a long hallway with a clock on the wall, vitals visualiser!!, detailed photograph high quality, anamorphic widescreen, award winning modern design, nurse, large painting, grotty, descriptive art, tall door, coper cladding, shallow depth or field, elstree"
+  },
+  {
+    "object_ID": "2006-77-44",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174180&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with a picture hanging on the wall, medical photography, by Niels Lergaard, city quality lighting, landscapes, viewpoint is to front and left, anamorphic, hospital lighting, this painting is a large canvas, viennese actionism, overexposed photograph, wide angle lens glow in the dark"
+  },
+  {
+    "object_ID": "2019-77-2",
+    "title": "['Syvyydentavoittaja', 'Sikta mot djupen', 'Reaching for the Depths']",
+    "date": 2019,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177608&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a piece of artwork on a wall, cell journal, areas rugs, top - down photograph, rimuru, gigantic scale, partially biomedical design, studio photograph, 62 x 47 inches, palladium veins, cell cover style, antibodies, listing image, with a white background, figure in center, 12, 2000, soil landscape"
+  },
+  {
+    "object_ID": "1976-169",
+    "title": "['Rautatiesilta', 'Järnvägsbron', 'Railway Bridge']",
+    "date": 1924,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170529&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a bridge over a river, by Prudence Heward, artsation contest winner, locomotive, interconnections, website banner, finland, katherine lam, new hampshire, malcolm hart, phthalo blue, eastern front, may 1 0, parks and monuments"
+  },
+  {
+    "object_ID": "2008-86-2",
+    "title": "['Pakkasaamu']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173182&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting hanging on a wall next to a table, digital medical equipment, swedish urban landscape, nursing home, inspired by Marie-Suzanne Giroust, award - winning 4 k photograph, walking to the right, the poolrooms, official product image, high - resolution photograph, by Meredith Garniss, room"
+  },
+  {
+    "object_ID": "2012-26-2",
+    "title": "['Koivunkeltainen ja Kuhankeittäjä / Löytöretki Myllypuroon', 'Björkgul och sommargylling / Upptäcksresan till Myllypuro', 'Birch Yellow and Golden Oreole / Discovery to Myllypuro']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176284&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of chairs that are in a room, walter white botanical poster, by Colin McCahon, panoramic anamorphic, yellow apples, court archive images, design award, hospital ward, descriptive art, 1 9 6 0 s art, court images, bioart, colourful artwork, triptych, vials"
+  },
+  {
+    "object_ID": "2017-50-2",
+    "title": "['Pihlaja']",
+    "date": 2017,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180480&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting hanging on the wall of a hallway, inspired by Per Kirkeby, camo made of teeth, the bird's - eye view, overhanging branches, 3d printed building, in a school classroom, scandinavian style, visible layers, melting pixels, branches, displayed"
+  },
+  {
+    "object_ID": "2004-123",
+    "title": "['Tärkeintä elämässä', 'Det viktigaste i livet ', 'Love']",
+    "date": 2004,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167386&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a couple is hanging on the wall, rinko kawauchi, haunted spaceship hallway, stairway, sparkling atmosphere, an estate agent listing photo, installation view, blurry image, 2 0 0 4 photograph, street printed poster, round-cropped, frontlight, panoramic centered view of girl, —n 9, pedestal, cgsociety 9, photo of"
+  },
+  {
+    "object_ID": "2018-415",
+    "title": "['Epifania De Liberace', 'Epifania De Liberace', 'Epifania De Liberace']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180637&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a white piano hanging from the side of a building, generative technology, by Johan Lundbye, detailed spacecraft, featured in open house magazine, machineparts, iso 125, iso 1250, violin, artsationhq, flying machinery"
+  },
+  {
+    "object_ID": "2002-95-4",
+    "title": "['Kuvakudoksia, Kevätkesä']",
+    "date": 2002,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169226&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a living room filled with furniture and a painting on the wall, betula pendula, hospital lighting, from 2001, norrlandsskog, wooden ceiling, risoprint, creative commons attribution, by Anton Möller, mass housing, gazebos, iso 1250, triptych"
+  },
+  {
+    "object_ID": "1976-127",
+    "title": "['Intialainen pusero', 'Indisk blus', 'Indian Blouse']",
+    "date": 1971,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170588&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman sitting in a chair, inspired by Arthur Merric Boyd, honey - colored eyes, morandi colour scheme, looks a bit similar to amy adams, 6 0 s colour palette, aged 13, flower in her hair, grey orange, nightgown, sixties, exhibition of paintings, inspired by Ferdinand Hodler, 7 0 s, photo courtesy museum of art"
+  },
+  {
+    "object_ID": "1976-304",
+    "title": "['Riitta (Karjalaistyttö)', 'Riitta (Karelsk flicka)', 'Riitta (Karelian Girl)']",
+    "date": 1911,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171352&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a little girl with blue eyes, by Beauford Delaney, by Margareta Alströmer, violet, google arts and cultures, a portrait of gordon ramsay, sonic youth, photo courtesy museum of art, by Nikolai Astrup, gouache, aged 13, angel in white linen, may 6 8, courtesy of centre pompidou"
+  },
+  {
+    "object_ID": "1999-150",
+    "title": "['Matkaaja', 'Resenären', 'The Traveller']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169919&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with tables and chairs and a large painting on the wall, rammed earth courtyard, norrlandsskog, galaxies visible, 2 0 0 0 s, creative commons attribution, inspired by William MacTaggart, google arts and cultures, cafe interior, by Howardena Pindell, jörmungandr, murals"
+  },
+  {
+    "object_ID": "2009-60-3",
+    "title": "['Satamassa', 'I hamn']",
+    "date": 2008,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174599&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hospital room with a blue chair and a painting on the wall, inspired by Jaakko Mattila, loop lighting, aquasixio, art : : professional photograph, panoramic anamorphic, by Louise Abbéma, displayed on the walls, inspired by William McTaggart, crystal column, osl, award-winning concept art"
+  },
+  {
+    "object_ID": "2006-77-11",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175003&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a long hallway with paintings on the wall, electron microscopy photography, hospital ward, inspired by William Congdon, digital award winning artwork, stone slab, prussian blue, by Jemima Blackburn, black mold, visualisation, triptych, mcu photograph, lossless"
+  },
+  {
+    "object_ID": "1976-37",
+    "title": "['Asetelma', 'Nature Morte', 'Still Life']",
+    "date": 1922,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168845&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a still life with fruit and a jug, inspired by Ernest Zobole, potatoes, clutter, subject in the centre, dramatic light and shadows, captured in bottles, checkered motiffs, grey vegetables, aged 13, rosenthal, striking artstyle, identical picture, done in the style of matisse"
+  },
+  {
+    "object_ID": "2014-28-1",
+    "title": "['Kairos A', 'Kairos A', 'Kairos A']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174161&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with a large painting on the wall, hospital lighting, inspired by Jaakko Mattila, detailed –n 9, fibres trial on the floor, accessible for the disabled, stand on stone floor, transparent glass surfaces, soft blur lighting, zdislav beksinsk - h768, artforum, full details, e621"
+  },
+  {
+    "object_ID": "2010-3",
+    "title": "['Antonio at 5', 'Antonio vid 5 års ålder']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168073&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of a young boy, inspired by Vija Celmins, black wool sweater, vesa-matti loiri, precisionism, 8 h, professional studio photo, dardenne brothers, by Ivan Albright, 5 years old"
+  },
+  {
+    "object_ID": "2007-56",
+    "title": "['Tyttö ja nukkeja', 'Girl with Dolls']",
+    "date": 1988,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169636&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a little girl holding a doll, by Roz Chast, inspired by Fairfield Porter, puppets, princess in foreground, inspired by Georges Lemmen, red room, infp girl, summer camp, modernist composition, inspired by Arthur Boyd, monkey limbs, photo courtesy museum of art, ink and watercolor"
+  },
+  {
+    "object_ID": "2012-29",
+    "title": "['Omille siiville!', 'Ut på egna vingar!', 'Spread Your Wings!']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175283&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a building with a sculpture on the side of it, theater access corridor, flowstatepaint, official product image, by Mary Corkling, hanging rope, slik design, patrick o'keeffe, gate, kami"
+  },
+  {
+    "object_ID": "1977-7",
+    "title": "['Rajamäen rykmentti I', 'Rajamäki regemente I', 'The \"Rajamäki Regiment\" I']",
+    "date": "1946-1948",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168212&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people pulling a wagon, rough color pencil illustration, maelstrom, tundra, corel painter, by Fred A. Precht, inspired by Juliusz Kossak, migrant mother, by David Burliuk, turbid clouds, artsation contest winner, greta thunberg, plains"
+  },
+  {
+    "object_ID": "2018-27",
+    "title": "['Kaunis ystävä', 'Beautiful Friend']",
+    "date": 1978,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180124&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a dog sitting on a table, inspired by Zhang Xiaogang, a red bow in her hair, cecco bravo, jeffrey epstein, by Richard Pousette-Dart, there is a cat next to her, monstrous animal statues, listing image, with no mouth, cyan and magenta, top"
+  },
+  {
+    "object_ID": "1996-26-3",
+    "title": "['Salt Flat']",
+    "date": 1968,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173800&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of a city, aerial photograph, guerrillero heroico, in new york, blue - ray screenshot, by Oswaldo Guayasamín, modern scientific documents, peredvishniki, galleon, wwii, 2 d image, creative commons attribution, polygonal fragments, ekasportal, polyphonic bio - communications, nuke dropping"
+  },
+  {
+    "object_ID": "2007-169",
+    "title": "['Valiojoukko', 'Elittruppen', 'The Elite Corps']",
+    "date": "2006-2007",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169026&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a bunch of lights that are in the snow, glass obelisks, by Lars Jonson Haukaness, woodlands, commercial lighting, remembrance, panoramic anamorphic, architecture digest, fountains, in a dark field, data center, design milk, -h 1024, spring evening"
+  },
+  {
+    "object_ID": "2008-12",
+    "title": "['Tie I', 'Väg I', 'Road I']",
+    "date": "2006-2007",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170243&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a blurry picture of a car driving down a road, art genevieve gauckler, light blue mist, kai fine art, ffffound, whistler, inspired by Haddon Sundblom, empty road, hauntingly beautiful art, artforum, 64x64, cold mist, accurate roads, mark simonetti, elm tree"
+  },
+  {
+    "object_ID": "1976-233",
+    "title": "['Metsälampi', 'Skogstjärn', 'Forest Pond']",
+    "date": 1917,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168125&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a body of water surrounded by trees, by Armin Hansen, by Christian Jane Fergusson, museum archive, bright summer day, post - war scenery, mcgill, featured on artsation, marshes, chaotic landscape, round-cropped, lawns, helsinki, driveway"
+  },
+  {
+    "object_ID": "2018-25",
+    "title": "['Rannalla', 'On the Shore']",
+    "date": 1977,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180058&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a horse and other animals in a field, inspired by Victor Brauner, by Jang Seung-eop, mythic island, arab man, fish in the background, 2 0 1 2, centaur horse, lossless, by Stuart Davis, museum catalog, green cape, deep sea landscape"
+  },
+  {
+    "object_ID": "2020-61-1",
+    "title": "['Put put']",
+    "date": 2020,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177807&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a person sitting on top of a giant rock, eero aarnio, halloween ghost under a sheet, parks and public space, puffballs, by Jóhannes Sveinsson Kjarval, archival pigment print, stone sculpture, hugging and cradling, 3d printed building, beksinki, with a kid, whitehorns, ( side ) profile"
+  },
+  {
+    "object_ID": "2011-64-3",
+    "title": "['Laidunmaa; Kiviaita']",
+    "date": 2011,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173189&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a piece of wood sitting on top of a pile of dirt, by Sydney Prior Hall, espoo, sunstone, by Elizabeth Murray, shot with a canon 20mm lens, large rocky mountain, southdale center, tectonics, train station in summer, h 1 0 2 4, red cloud, quaternary"
+  },
+  {
+    "object_ID": "1999-173-4",
+    "title": "['Helsinki-sarja', 'Helsingforsserien', 'Helsinki Series']",
+    "date": 1996,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167878&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of a bus stop, pekka halonen, vinyl cover from 1988, by Ian Hamilton Finlay, necropolis, high resolution print :1 cmyk :1, moody : : wes anderson, heilung, auction catalogue photo, cumulonimbus, album is called tripmachine, single color"
+  },
+  {
+    "object_ID": "1992-94",
+    "title": "['Vesiteos', 'Vattenverk', 'Water Work']",
+    "date": 1985,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172774&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a building with a sculpture in the middle of a parking lot, by Oluf Høst, concrete art style, wide angle lense, academism, court archive images, anamorphic widescreen, side front view, university, nordic summer, sad cop looking at a, maze-like, rounded roof, the photo shows a large, beds"
+  },
+  {
+    "object_ID": "2014-36",
+    "title": "['Color Space - Imploded Neon Green 2nd Ring System']",
+    "date": 2014,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176176&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a colorful circle on a pink background, inspired by Richard Artschwager, blur: -5, ( ( dithered ) ), spiral, 1968, bright fluorescent light, inspired by Johann Liss, more relief effects, 256x256, sixties, left align, fuzzy, -w 768, dichromatism"
+  },
+  {
+    "object_ID": "2009-60-9",
+    "title": "['Kaupungintalo, Lahti', 'Stadshuset, Lahtis']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175998&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a bicycle is parked in front of a painting, pointe pose, avetetsuya studios, sell out event, houzz, featured on z brush, christopher morris photography, documentary photography, inspired by John Henry Twachtman, anamorphic illustration, connectedness, ballet, railing, golden pommel"
+  },
+  {
+    "object_ID": "2006-19",
+    "title": "['Mollamaija', 'Trasdocka', 'Rag Doll']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168739&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a white shirt is hanging on a hanger, 1 9 7 6 cut out collage, computer made out of human flesh, kundalini energy, nightgown, character is standing, photorelistic, circa 1 9 9 9, by Carol Bove, dressed thobe, ffffound, stained and bleeding, face visible, 2 0 1 4. modern attire"
+  },
+  {
+    "object_ID": "2014-28",
+    "title": "['Kairos A', 'Kairos A', 'Kairos A']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174161&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with a large painting on the wall, hospital lighting, inspired by Jaakko Mattila, detailed –n 9, fibres trial on the floor, accessible for the disabled, stand on stone floor, transparent glass surfaces, soft blur lighting, zdislav beksinsk - h768, artforum, full details, e621"
+  },
+  {
+    "object_ID": "1992-115",
+    "title": "['Heijastuksia', 'Speglingar', 'Reflections']",
+    "date": 1978,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171672&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large metal sculpture in front of a body of water, eero aarnio, teal white gold color palette, 2d side view, by Rajmund Kanelba, sawblade border, iram of the pillars, emerald, shipyard, stroboscope, augmentation"
+  },
+  {
+    "object_ID": "2011-69",
+    "title": "['Risteys', 'Korsningen', 'Crossroads']",
+    "date": 2011,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172988&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large metal sculpture sitting on top of a hard wood floor, calligraphy formula, ben maier and sakimichan, by Elizabeth Murray, metal panels, grey and silver, shabab alizadeh, placed in a living room, on a canva, refined face, pour paint, large motifs, twisted shapes, by Avigdor Arikha, cl"
+  },
+  {
+    "object_ID": "2001-108",
+    "title": "['Sju moraliska undervisningsbilder', 'Seven Moralistic Study Prints']",
+    "date": 2001,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171218&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room filled with lots of tables and chairs, photo 1 9 9 0 s, classical lighting, espoo, small library, by Inshō Dōmoto, cd cover artwork, environmental artwork, medium format, round-cropped, pendants, helsinki"
+  },
+  {
+    "object_ID": "1993-6",
+    "title": "['Maalaus', 'Målning', 'Painting']",
+    "date": 1992,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168202&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a painting on a wall, front view 1 9 9 0, stone paths, blue silver and black, 1 9 9 0 s life magazine, website banner, miners, nationalgalleryofart, -h 512, private collection, tape, - w 7 6 8, aspect ratio 16:9, geology, white ribbon, fragments"
+  },
+  {
+    "object_ID": "2009-65-4",
+    "title": "['Tarinoita, Variaatio 4.']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174338&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a laptop computer sitting on top of a desk, inspired by Alma Thomas, at the hospital in patient gown, kirsi salonen, limited edition print, anamorphic widescreen, yellow hue, displayed on the walls, healthcare, interior of a small, the photo shows a large, by Jesper Myrfors, houzz, cellular, unframed"
+  },
+  {
+    "object_ID": "2020-52",
+    "title": "['Ei nimeä', 'Utan titel', 'Untitled']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180330&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a piece of art sitting on top of a table, macuahuitl, ivan chermayeff, “portrait of a cartoon animal, patches of fur, white man with black fabric mask, may 6 8, eyes in the bark, inspired by Betye Saar, marianne collins, brooklyn museum, -w 768, young child, shipibo"
+  },
+  {
+    "object_ID": "2018-366",
+    "title": "['Ennen myrskyä', 'Before the Storm']",
+    "date": 1974,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178258&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a view of a rural area, pixar movie panorama, inspired by Agnolo Gaddi, inspired by Giuseppe Antonio Petrini, unsaturated colors, by Judy Takács, inspired by Victor Nizovtsev, scene from supplizia, smog, viewed from bellow, oil on canva, 2009, boticelli, illustrations"
+  },
+  {
+    "object_ID": "2016-47",
+    "title": "['Herttoniemen duunarit']",
+    "date": 2014,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178797&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a street sign on a pole, oversized enginee, header with logo, industrialization, by Johan Jongkind, iso 125, creative commons attribution, with merchant logo, menacing statues, machine learning, pointing index finger, swiss design, insignia"
+  },
+  {
+    "object_ID": "2014-18",
+    "title": "['Doppelgänger II']",
+    "date": 2013,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173065&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of women sitting on top of a couch, illusion painting hidden image, by Erwin Bowien, standing in front of a mirror, blue monochromatic, multiple illusory arms, hyperreal, tense design, looking backwards, merge, illusions"
+  },
+  {
+    "object_ID": "2009-61",
+    "title": "['Polku', 'Stigen', 'Path']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174124&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a living room filled with furniture and a clock, reykjavik junior college, abstract minimalism art painting, cubicles, espoo, professional studio photograph, triptych, locker room, small library, by Myra Landau, clocks, taken with a canon eos 5d, as photograph, student, by Magdalene Bärens, wall"
+  },
+  {
+    "object_ID": "1976-346",
+    "title": "['Venematka', 'Båtfärd', 'Boat Trip']",
+    "date": 1938,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169992&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a bowl of fish on a table, fog and swans over the river, inspired by John Marin, flowing pink-colored silk, indistinct man with his hand up, by Vanessa Bell, photo courtesy museum of art, by Arthur Boyd, trending on artforum, on a boat on a lake, standing in a grotto, aged 13"
+  },
+  {
+    "object_ID": "2016-43-4",
+    "title": "['Muoto-oppi']",
+    "date": 2014,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178645&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a wooden shelf with a mirror above it, tactile buttons and lights, conway's game of life, three quarter shot, by Breyten Breytenbach, sold at an auction, madhouse studio, circle forms, mechanical clock, round-cropped, simplicity, interconnections, small canoes"
+  },
+  {
+    "object_ID": "2021-30",
+    "title": "['Luonnos teokseen Pirtin pöydän ääressä', 'Skiss till verket Vid matbordet i pörtet', 'Sketch for the work \"At the cabin table\"']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2814354&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a group of people sitting around a table, by Gustaf Tenggren, cloning spell, forks, prometheus (2012), inhaling the souls of humanity, xqc, tolkien, cutlery, school class, three dwarf brothers, parallelism, three - point lighting, by Nikolai Astrup, goldilocks, don bluth animation"
+  },
+  {
+    "object_ID": "2018-410",
+    "title": "['Jaakon pavunvarsi', 'Jack och bönstjälken', \"Jack's Beanstalk\"]",
+    "date": 2018,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177157&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a vase with a bird sitting on top of it, accent lighting : : peugot onyx, big green tree, by Jürg Kreienbühl, apartment hallway, ai robot tendril remnants, inspired by Boetius Adamsz Bolswert, holding walking stick, flowstatepaint, white finish, inspired by Ernő Grünbaum"
+  },
+  {
+    "object_ID": "1976-237",
+    "title": "['Alaston', 'Naket', 'Nude']",
+    "date": 1915,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168940&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a nude woman sitting on a bed, mirror selfie, inspired by Ernest Procter, by Grethe Jürgens, viewed from behind, reading the newspaper, 8 h, with no face, scandinavian style, bathing in light, white borders, lulu chen, aged 13, f3.5, 1 6 : 9, inspired by Moïse Kisling"
+  },
+  {
+    "object_ID": "1976-141",
+    "title": "['Tuulinen päivä', 'Blåsig Dag', 'A Windy Day']",
+    "date": 1919,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168668&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a tree in the middle of a field, by Berthe Morisot, dappled silver lighting, f. 1 4, white fog painting, inspired by William Forsyth, overgrown greenery, on the mountain, h 1088, with branches reaching the sky, 1 9 6 0, museum archive, soft colours, inspired by Noémi Ferenczy"
+  },
+  {
+    "object_ID": "1976-132",
+    "title": "['Littlehampton']",
+    "date": 1912,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171427&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a boat on a body of water, by Duncan Grant, artforum, cinemascope panorama, port, sables crossed in background, google arts and cultures, belgium, 21:9, award - winning art, plein air, inspired by Willem Labeij"
+  },
+  {
+    "object_ID": "2014-39-5",
+    "title": "['Mo(nu)ments / Hollanti']",
+    "date": 2014,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168977&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a display of flowers and a windmill, wooden art toys, inside a glass box, inspired by Pieter de Bloot, tulips, framestore, detailed –n 9, artforum, miffy, detailed scenery —width 672, 2007 blog, historic artworks society, by Armin Baumgarten, octa 8k"
+  },
+  {
+    "object_ID": "2021-58",
+    "title": "['Riippuvat linnut', 'Hanging Game Fowl']",
+    "date": 1971,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2654566&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man riding a horse with a bird on his back, trending on artforum, still life of rotten flesh, subject= duck, inspired by David Burliuk, wielding a long halberd, ryan gosling fused with a goose, loosely cropped, the front of a trading card, luigi loir, fishing"
+  },
+  {
+    "object_ID": "1999-173-6",
+    "title": "['Helsinki-sarja', 'Helsingforsserien', 'Helsinki Series']",
+    "date": 1996,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169555&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of a person in a tunnel, alvaro siza, typical russian atmosphere, inspired by Konstantin Somov, golden hour photograph, by Louise Bourgeois, eiko hosoe, young child, city wall, dividing it into nine quarters, running freely, cheburashka, erosions, haunted kodachrome"
+  },
+  {
+    "object_ID": "2017-47-1",
+    "title": "['Näyttämö']",
+    "date": 2017,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178235&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with a mural of a city on the wall, reykjavik junior college, worksafe. illustration, borne space library artwork, harmony blue jacket, smart textiles, inspired by Vilhelm Lundstrøm, hospital ward, low-emission-neon, anthropomorphic silhouette, 4 5. 7 mplens, inspired by Mym Tuma"
+  },
+  {
+    "object_ID": "2010-95",
+    "title": "['Kolme aitaa', 'Tre Stängsel', 'Three Fences']",
+    "date": 2010,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170046&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a white fence sitting in the middle of a lush green field, inspired by Jaakko Mattila, racks, color restoration, gate, 3 meters, installation view, driveway, award-winning style, line sleek, equine, barrier integrity, 1 / 3 headroom, steel collar, bump mapping, 4 5. 7 mplens, smooth panelling"
+  },
+  {
+    "object_ID": "2021-52",
+    "title": "['Naisen muotokuva', 'Kvinnoporträtt', 'Portrait of a Woman']",
+    "date": 1968,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2654555&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman sitting in front of a mirror, by Jack Butler Yeats, checking her phone, gloves and jewelry. motion, inspired by Adolph Menzel, lamp ( ( ( mirror ) ) ) ), ikebana, trending on artforum, by Jean Béraud, glassware, 1884, panel of black, 1963"
+  },
+  {
+    "object_ID": "1999-148-2",
+    "title": "['Maalauksia seinälle / Hyppyruudukko aihe']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169138&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a wall with a drawing of a plane on it, shot on anamorphic lenses, by Elizabeth Murray, kids fantasy drawing, corridor, partially biomedical design, color-key painting, left align, creative commons attribution, ps 1, astronaut centaur, mit technology review"
+  },
+  {
+    "object_ID": "2006-77-29",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174297&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with a picture hanging on the wall, swedish urban landscape, medical imaging, lightbox, inspired by Paul Kelpe, award - winning photograph, anamorphic widescreen, hospital ward, product photograph, ingame image, gipf project, photograph of the city street"
+  },
+  {
+    "object_ID": "2004-123-2",
+    "title": "['Visio tulevaisuudesta', 'Framtidsvision', 'A Vision of the Future']",
+    "date": 2004,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171410&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a man is hanging on the wall, outdoor staircase, by Jürg Kreienbühl, indoor light, the caretaker, eclecticism, subject in the centre, by Jack Smith, private academy entrance, confortable atmosphere, morandi color scheme, anamorphic film, viewpoint is to front and left, 8 h"
+  },
+  {
+    "object_ID": "1976-9",
+    "title": "['Syksy', 'Höst', 'Autumn']",
+    "date": 1932,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170760&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a tree with yellow leaves, wet reflections in square eyes, 1 9 2 3, finland, raindrop, museum catalog photograph, weeping tears of black oil, ermine, ca. 1990, serov, bottom - view, h 1088, johfra, f11:10, sad sky, —n 9"
+  },
+  {
+    "object_ID": "2006-77-30",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176365&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with pictures on the wall and a door, medical research facility, swedish urban landscape, panoramic photography, installation view, pandemic, hospital lighting, street printed poster, mit technology review, urban city photography, canon 1 - dx, walkways, tourism photography"
+  },
+  {
+    "object_ID": "2018-369",
+    "title": "['Sirkuksen johtaja', 'Circus Director']",
+    "date": 1970,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179607&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man wearing a crown, by David Burliuk, nicolas cage, inspired by Mary Blair, by Raymond Briggs, inspired by Béla Iványi-Grünwald, old john lennon, photo courtesy museum of art, dressed as a queen, wearing red robes, colorised, artist arata yokoyama, 3 2 - year - old man"
+  },
+  {
+    "object_ID": "2007-45",
+    "title": "['Mummo letittää pikkutytön tukkaa', \"Old Woman Braiding a Young Girl's Hair\"]",
+    "date": 1976,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167832&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man and a little girl sitting in front of a window, inspired by Nikolai Astrup, braids in hair, christmas, award - winning illustration, kete butcher, back turned, by Veikko Törmänen, elderly woman, watercolour realism, inspired by Władysław Malecki, 9 4, tension"
+  },
+  {
+    "object_ID": "1999-151-11",
+    "title": "['Sivussa, valokuvasarja Helsingin esikaupungeista']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172448&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a group of people waiting at a bus stop, anamorphic film, caledonian forest, pekka halonen, featured in artistation, beuteful, by Breyten Breytenbach, dog man, “gas station photography, person in foreground, a telephone receiver in hand, postmodern painting, gridless"
+  },
+  {
+    "object_ID": "2008-84-4",
+    "title": "['Ilta 1']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175049&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a table and chairs in a room with a painting on the wall, healthcare worker, f1.8 anamorphic, product photograph, photo of a painting, award-winning artwork, contemporary dance, medical research facility, commercial photograph, sitting in dean's office, listing image, by Annabel Eyres, professional corporate portrait, canvas art print"
+  },
+  {
+    "object_ID": "2018-43",
+    "title": "['UHO']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177971&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a chandelier hanging from the ceiling of a building, inspired by Taro Okamoto, silver iodide, spherical body, inspired by Johan Edvard Mandelberg, photo courtesy museum of art, mit technology review, joongwon jeong, hydra with eight heads, antibodies, silver"
+  },
+  {
+    "object_ID": "1999-208-4",
+    "title": "['Uni']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178603&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman laying in the snow, inspired by Jacob Lawrence, midnight hour on jupiter, standing on street corner, as a claymation character, inuit heritage, wearing pajamas, blue hour stars, photo courtesy museum of art, black teenage boy, parks and monuments, carson ellis"
+  },
+  {
+    "object_ID": "2012-26-4",
+    "title": "['Pietaryrtti ja Hickory / Löytöretki Myllypuroon', 'Renfana och Hickory / Upptäcksresan till Kvarbäcken']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176685&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of people sitting at a table in a room, plants on pots and on the walls, espoo, award arhitectural photography, botanical herbarium paper, pharmacy, eye - level view, inspired by Vilhelm Lundstrøm, drawing for children, environmental portrait, hospital, mycology, yellow walls"
+  },
+  {
+    "object_ID": "2005-160-3",
+    "title": "['Matkalla keväässä']",
+    "date": 2005,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170079&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a living room filled with furniture and a flat screen tv, hospital interior, inspired by Veikko Törmänen, studio medium format photograph, nursing home, led floodlights, subject in the centre, round-cropped, urban surroundings, brochure, ecological art, unique environment, soft filtered outdoor lighting, the backrooms liminal space, large-format photography"
+  },
+  {
+    "object_ID": "2020-2",
+    "title": "['Tyttö ja huilu', 'Flicka med flöjt', 'Girl with Flute']",
+    "date": 1967,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176937&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman playing a flute, by Margareta Alströmer, inspired by Moses Soyer, 21:9, joe pera, mixed techniques, focus on the musicians, illustration for children, website banner, greta thunberg, by Giovanni Giacometti, inuk, muted color (blues, close - up profile face, top"
+  },
+  {
+    "object_ID": "2018-92-10",
+    "title": "['Sade']",
+    "date": 2015,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180386&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with paintings on the wall and pictures on the wall, inspired by Ellen Gallagher, hospital ward, hands of men, pencil and vine charcoal drawing, awardwinning, highly detailed photograph, in the office, by Mary Callery, textiles, golem, 1 3 3 4 building, oniric, photo of the girl"
+  },
+  {
+    "object_ID": "2018-22",
+    "title": "['Ponding 3 D']",
+    "date": 2018,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179236&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a sculpture of a person's face, by Yasuo Kuniyoshi, in a nest, wooden bowl, paper chrysanthemums, official product image, gutai group, anthropomorphic wolf male, facing the viewer, egg, detailled face, matteo salvini, unfotable studio, a boy, rounded face, expressively"
+  },
+  {
+    "object_ID": "2011-30",
+    "title": "['Lilliputti', 'Lilleputt', 'Lilliput']",
+    "date": 2011,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175204&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a young boy leaning over a black and white box, inspired by Sylvia Snowden, empathy machines, audiophile, by Niels Lergaard, partial robotic body, anguish, subwoofer, gameshow, biophilia, by Werner Andermatt, for kids, facets"
+  },
+  {
+    "object_ID": "2006-78",
+    "title": "['Hedelmäpuu', 'Fruktträd', 'Fruit Tree']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176167&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a pole with a bunch of balls hanging from it, cherenkov radiation, gastronomica magazine, espoo, 3/4 view from below, bottle, all growing inside an enormous, hi - fructose, high fov, blueberry, boticelli, stands at the top, red mechanical body, full view, hdpe, 7000mm film"
+  },
+  {
+    "object_ID": "2022-74",
+    "title": "['Asetelma', 'Stilleben', 'Still Life']",
+    "date": "1975 epävarma",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2858647&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of flowers and fruit on a table, trending on artforum, inspired by Ken Howard, pink arches, by Tim Biskup, portrait of taylor swift, by William Crozier, emulating reality, fruit basket, inspired by Charles Conder, dayglo pink, expansive grand scale"
+  },
+  {
+    "object_ID": "2019-88-2",
+    "title": "['Biomipeli']",
+    "date": 2019,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178029&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with a glass wall and a desk, foundry vtt, intricate dotart, ilm and digital domain, opening door, otzi, polished : :, inspired by Albert Bertelsen, award - winning design, brocade, intricate symmetrical artwork, professional result, bump mapping"
+  },
+  {
+    "object_ID": "2021-27",
+    "title": "['Luonnos Seitsemän veljestä -kuvitussarjaan', 'Sketch for a series of illustrations for The Seven Brothers']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2814254&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a woman standing in front of a group of people, russian depression, in a cabin, people are eating, compassionate, by Bracha L. Ettinger, drawing for children, featured on artsation, in despair, malnourished, looking to his left, official artwork, settlement, disney artist, 6"
+  },
+  {
+    "object_ID": "2021-23",
+    "title": "['Luonnos teokseen Jouluvalkean ääressä', 'Skiss till verket Vid julbrasan', 'Sketch for the work \"Sitting by the fire on Christmas Eve\"']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2814191&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a group of people around a fire, inspired by Robert Bevan, auschwitz camp, hands, photo courtesy museum of art, disney concept artists, nick park, by Eduardo Kingman, chimney, hunger, provenance, climate change, libertas, by Alfons Walde"
+  },
+  {
+    "object_ID": "2018-13",
+    "title": "['Prinsessa', 'Prinsessa', 'Princess']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179329&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a naked man with a crown on his head, inspired by Luc Tuymans, short skirt length, portrait of a young girl, full human hairy body, thigh gap, loosely cropped, riccardo federici, by Rachel Reckitt, furry female, inspired by Gwen John, in 2 0 0 2, the woman has long dark hair"
+  },
+  {
+    "object_ID": "1976-35",
+    "title": "['Pihlajia syksyllä (Syksyinen puu, Sääksmäki)', 'Höstlig rönn (Träd om hösten, Sääksmäki)', 'Rowans in Autumn (Autumnal Tree, Sääksmäki)']",
+    "date": 1920,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167099&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a tree in a field, september 1937, inspired by Max Slevogt, storm sky, nothofagus, by Noémi Ferenczy, sukkot, photo of a painting, gnarled, standing alone, palette of primaries, stylised storm, by Béla Czóbel, mini, jamaica, cone"
+  },
+  {
+    "object_ID": "2006-77-35",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172262&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with three pictures hanging on the wall, made of nanomaterials, iso 1 0 0 wide view, inspired by Ulrika Pasch, water running down the walls, hospital lighting, gravel and scree ground, detailed surroundings, with anamorphic lenses, 2 d image, by Nils Hamm, electronic case display"
+  },
+  {
+    "object_ID": "1976-60",
+    "title": "['Kerjäläisiä', 'Tiggare', 'Beggars']",
+    "date": 1924,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170860&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man and a woman on a mountain, inspired by Albin Egger-Lienz, work-wheels, walking towards camera, exhibited at the british museum, by Demetrios Farmakopoulos, refugees, csp, florence harrison, raphaelites, workers, digital provio, gazeta"
+  },
+  {
+    "object_ID": "2004-145",
+    "title": "['Joy']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170350&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of sculptures that are on a platform, photo taken with provia, an anthropomorphic deer, un meeting at the hague, with anamorphic lenses, that resembles a bull\\'s, trending on vehicle design, broken machinery, lossless, art brut, by Weiwei, zeiss"
+  },
+  {
+    "object_ID": "2011-32-1",
+    "title": "['Liian painavat vieraat, hahmo 1', 'För tunga gäster', 'Too Heavy Guests']",
+    "date": 2011,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176198&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a pile of rocks sitting on top of a sidewalk, red black and gold color scheme, inspired by Derek Chittock, creating a thin monolith, it has a red and black paint, jamal campbell, by Tim Biskup, rocks flying, broad strokes, in 2 0 1 5, detail, red and blue"
+  },
+  {
+    "object_ID": "2018-365",
+    "title": "['Karvainen muisto', 'A Hairy Memory']",
+    "date": 1970,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178246&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman holding a cell phone to her ear, by Tsuguharu Foujita, big moustache, inspired by Alfred Wallis, focus close on mischievous eyes, frank moth, official illustration, 2 0 2 0 award winning painting, prosthetic, red faced, facing each other"
+  },
+  {
+    "object_ID": "1999-151-6",
+    "title": "['Sivussa, valokuvasarja Helsingin esikaupungeista']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173977&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a woman standing next to a van in a parking lot, inspired by Jan Hackaert, impactful ambient, gas station in space, 90s, scans from museum collection, left - hand drive, food and consumerism, swedish urban landscape, five points of articulation, featured on artsation, ecopunk, improvisation"
+  },
+  {
+    "object_ID": "2009-38",
+    "title": "['Talvipuutarhassa', 'I Vinterträdgården', 'In the Wintergarden']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173762&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a wall with a picture of palm trees on it, mit technology review, indoor liminal space, walkways, cubicles, photo 1 5 mm, standing in a botanical garden, by Bracha L. Ettinger, panoramic widescreen view, inside a science facility, taken with a canon eos 5d, bioremediation, by Jørgen Roed"
+  },
+  {
+    "object_ID": "2016-33-4",
+    "title": "['Lintula / Kolme sorsaa, hyppäävä jänis, kaksi timanttia ja Suukkopusun paikka']",
+    "date": 2016,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175567&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large room with a mural on the wall, sofie the giraffe, danube school, design milk, small animals, espoo, avian-inspired, dancing with each other, branching hallways, artistic impression, doors, image in center, rgp artwork, northwest school, three animals"
+  },
+  {
+    "object_ID": "2020-51-3",
+    "title": "['Satujen palatsit: Pietarhovi']",
+    "date": 2020,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179104&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a long wooden floor in a white room, colorful geometric pattern, inspired by Alexander Deyneka, trending on artstattion, ecopunk rococo, an empty office hallway, archviz, trending on artforum, rusticated stone base, inspired by Johann Ludwig Bleuler, black resin"
+  },
+  {
+    "object_ID": "2016-16",
+    "title": "['Divina Proportione']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174020&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a wooden sculpture in a dimly lit room, hexagons in the sky, partial robotic body, centred, gallery display photograph, polyhedral, umber color scheme, real-life skin, korean artist, open metal maw, photo still of, repetitiveness, print, windings"
+  },
+  {
+    "object_ID": "1999-151-8",
+    "title": "['Sivussa, valokuvasarja Helsingin esikaupungeista']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172969&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a train traveling down a snow covered train track, brutalist city architecture, photo of cthulhu, anamorphic 35 mm lens, photo still of behind view, in low fog, a ghetto in germany, psion, half - length photo, crane, archive photo, walking to the right, april, galleon, swedish urban landscape, restored photo, munich"
+  },
+  {
+    "object_ID": "03/07/2013",
+    "title": "['Vallila']",
+    "date": 2011,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174313&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photograph of a man's torso, generative art, craggy mountains, one panel, image on the store website, cutout, waterfall in asteroid field, folds, white ceramic shapes, painting of landscape of faroe, simplified forms, heavy brushstrokes"
+  },
+  {
+    "object_ID": "1996-25-1",
+    "title": "['Accumulation Cut']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178597&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a sign on a wall, chainsaw attached to hand, technical document, in 1 9 9 5, large chain, correct proportions, from doom and warhammer, 7 0 mm entrance pupil diameter, description, by Samuel F. B. Morse, chainsaw, maths, 1 0 0 1, ebay, (((trees))), museum catalog, 105mm"
+  },
+  {
+    "object_ID": "2022-8",
+    "title": "['Appelsiinimatadori', 'Matador with Oranges']",
+    "date": "1970-luvun alku",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2592599&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man sitting on a bench, inspired by William Nicholson, in a red dish, arab man, the dreaming, museum archive, 1 9 6 5, torn sails, riccardo federici, gunwoo kim and j.dickenson, maroon hat, bosnian, embers adrift in the air, round-cropped, inspired by William Forsyth"
+  },
+  {
+    "object_ID": "1976-260",
+    "title": "['Isäni (Ukko)', 'Min far (Gubbe)', 'My Father (Old Man)']",
+    "date": 1915,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167913&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man wearing a hat, inspired by Robert Colquhoun, the look of an elderly person, muted brown yellow and blacks, woman with freckles, inspired by Walter Sickert, light falling on face, male teenager, medium close - up ( mcu ), aged 13, of an old man, done in the style of matisse"
+  },
+  {
+    "object_ID": "2006-80",
+    "title": "['Elämän virta', 'Livets ström', 'Elämän virta / Work of Hesperia Hospital']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171689&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a tall building sitting next to a parking lot, irregularly shaped mosaic tiles, uk, alvar aalto, exterior shot, resin coated, inspired by Edwin Deakin, cascading highrise, white concrete, photo of scp-173, fzd school of design, 2 0 0 0 s, rich house, 1 0 0 0 mm"
+  },
+  {
+    "object_ID": "2021-31",
+    "title": "['Luonnos teokseen Aapon kertomus', 'Skiss till verket Aapos berättelse', 'Sketch for the work \"Aapo\\'s tale\"']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2814500&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white drawing of a group of people, by Jean Delville, the 13th doctor regenerating, the rapture, by Per Krohg, in the burning soil desert, two heads one body, standing under a beam of light, angel-themed, mike ploog, reinassance style"
+  },
+  {
+    "object_ID": "1992-162",
+    "title": "['Pulut', 'Duvorna', 'The Pidgeons']",
+    "date": 1959,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174623&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a fountain with a statue in the middle of it, by Margareta Alströmer, very detailed birds, f1.8 anamorphic, nordic summer, energetic beings patrolling, natural botanical gardens, featured on vimeo, ( alexander archipenko ), winning award image, by Bjørn Wiinblad, eagle"
+  },
+  {
+    "object_ID": "2021-22",
+    "title": "['Luonnos Seitsemän veljestä -kuvitussarjaan', 'Sketch for a series of illustrations for The Seven Brothers']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2814184&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a bird sitting on a fence, by Eero Järnefelt, storm on horizon, field of dreams, twisting trees, solitude, in thick layers of rhythms, cross - hatching, werecrow, sorrow, espoo, of an old man, squared border, aged 13, high grain"
+  },
+  {
+    "object_ID": "2018-450",
+    "title": "['Aamusade', 'Morning Rain']",
+    "date": 1977,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177562&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a cow grazing in a field, autumn rain turkel, inspired by Charles W. Bartlett, deer, painting of splashing water, unsaturated colors, inspired by Jacques-François Ochard, cypress trees, sleet, anthropomorphic deer, day after raining, 64x64, artwork in the style of z.w. gu"
+  },
+  {
+    "object_ID": "2007-162",
+    "title": "['Padatsanin makkari', 'Padatsans sovrum', \"Padatsan's Bedroom\"]",
+    "date": 2005,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2166962&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a room with a lot of things on it, by David Diao, tea drinking and paper lanterns, printed on paper, sarong, blue and yellow ribbons, william murray, studio mappa, museum catalog, anna forsterling, clipart, louise zhang"
+  },
+  {
+    "object_ID": "2016-33-3",
+    "title": "['Lintula / Sieniperhe ja sorsat']",
+    "date": 2016,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176086&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room filled with lots of windows next to a wall, childrens drawing, stunning sunny lighting, sustainable, birds and trees, classroom in background, playful and cheerful, floodplains, medical lighting, sloped site, highly photographic render, swedish design, inspired by Charles Bird King"
+  },
+  {
+    "object_ID": "2015-3",
+    "title": "['Kuurottaista valoa']",
+    "date": 1987,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172392&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a dining room with a chandelier hanging from the ceiling, big tech corporate art design, f1.8 anamorphic, swiss design, featuring flowing fountains, cascading highrise, smooth solid concrete, by Hans Hinterreiter, supply chain economics, interconnections, winding branches, atrium"
+  },
+  {
+    "object_ID": "2018-462",
+    "title": "['Rannalla', 'On the Shore']",
+    "date": 1972,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178076&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people on a beach, inspired by Roy Newell, fishing boats, summer camp, colored paper collage, portrait of 1 5 - year - old boy, a girl playing tennis, abstract claymation, plastic waste, polygonal fragments, connectedness, florence harrison, lake scene, blue sunshine"
+  },
+  {
+    "object_ID": "2006-117",
+    "title": "['Iso tyttö']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170148&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room filled with lots of different types of art, flowing wires with leaves, minna sundberg, 3 / 4 extra - wide shot, wingspan, displayed in a museum, by Johannes Mytens, on high-quality paper, mycology, full building, 2d side view, dynamic folds, paper decoration, as seen from the canopy, airy"
+  },
+  {
+    "object_ID": "2002-102",
+    "title": "['Elämänkaari', 'Levnadsloppet', 'Life Arc']",
+    "date": 2002,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167030&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large painting on a wall in a room, knitted mesh material, rainbow bubbles, heidelberg school, large arrays, 1980s metal artwork, rain sensor, mappa studio artstyle, creative commons attribution, lgbt flag, junichi oda, office interior, flares anamorphic, ochre, environmental artwork, trending on artststion, geiger art"
+  },
+  {
+    "object_ID": "2017-48-1",
+    "title": "['Betula pendula (1948–2016)', 'Betula pendula (1948–2016)', 'Betula pendula (1948–2016)']",
+    "date": 2017,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180339&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a bookshelf filled with lots of books in a library, trending on artforum, the texas revolution, wooden ceiling, commercial photo, simple elegant design, interconnections, inspired by Robert Scott Lauder, biomorphic, southdale center, fine stippled lighting, fluxus"
+  },
+  {
+    "object_ID": "2018-460",
+    "title": "['Toinen maa II', 'Another Country II']",
+    "date": 1971,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177671&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man standing in front of a boat, inspired by Richard Pousette-Dart, girl under lantern, an diver is under the sea, cups and balls, inspired by Roy Newell, in a mediterranean lanscape, aged 13, listing image, protagonist in foreground, farid ghanbari, merchant collector"
+  },
+  {
+    "object_ID": "1992-34",
+    "title": "['Pyhä Yrjänä ja lohikäärme', 'Sankt Göran och draken', 'Saint George and the Dragon']",
+    "date": "1962,  1938",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172527&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man with a sword in a fountain, inspired by Gustaf Tenggren, sports mascot, biodiversity heritage library, featured on artsation, naturist, hospital background, 2014, devilman, panorama, by Alfred Jensen, iso 125, pochi iida, artforum, 2 0 0 7, mewtwo"
+  },
+  {
+    "object_ID": "1993-129",
+    "title": "['Merilahden peruskoulun teoskokonaisuus']",
+    "date": 1993,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174884&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large metal sculpture in an office building, black 3 d cuboid device, by Akseli Gallen-Kallela, ankh symbol, installation view, realistic mega structure, floating molecules, columns, inspired by Bruno Liljefors, block head, unco corporate banner, white marble sculpture, gatson bussiere"
+  },
+  {
+    "object_ID": "2012-3",
+    "title": "['Untitled (Sakura 3)']",
+    "date": 2010,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171828&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a blurry photo of a tree over a body of water, feng zhu |, flowing sakura-colored silk, digital painting of zurich, artforum, large-format photography, part petra cortright, precisionism, photo courtesy museum of art, dawn setting, stylized painterly"
+  },
+  {
+    "object_ID": "2009-37",
+    "title": "['Heijasteleva järvi', 'Speglande sjö', 'Reflected lake # 1']",
+    "date": 2008,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167208&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a blurry photograph of trees in a forest, lindsay adler, painted in bright water colors, feng zhu |, hassleblad, ripple, large-format photography, michael margetts, rivers and lakes, anamorphic film, award - winning photograph, by Louise Abbéma, air brush, brook, high resolution photograph"
+  },
+  {
+    "object_ID": "2008-113",
+    "title": "['Tuttua kasvojen edessä, tuntematon selän takana', 'En bekant framför ansiktet, en obekant bakom ryggen', 'Familiar in Front of You, Unknown Behind Your Back']",
+    "date": 2008,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168147&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with two benches and a painting on the wall, graafland, playground, by Bjørn Wiinblad, floor tiles, mcu photograph, by Hilde Goldschmidt, rectangular, northwest school, 2007 blog, scene inside forest, norrlandsskog, american school, brett goldstein"
+  },
+  {
+    "object_ID": "2000-118",
+    "title": "['Lapsen yhdeksän elämää', 'Barnets nio liv', \"A Child's Nine Lives\"]",
+    "date": 2000,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169182&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room filled with lots of tables and chairs, brutalist buildings tower over, photo 1 9 9 0 s, ancient library, by Modest Urgell, iso 1250, exterior photo, reconstruction, swedish design, shoulders can be seen, decorations, installation view, lampposts, floating detailes, industrial architecture"
+  },
+  {
+    "object_ID": "1976-255",
+    "title": "['Flokseja', 'Floxblommor', 'Phloxes']",
+    "date": 1948,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167231&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of flowers in a vase on a table, inspired by Maximilien Luce, by Sō Shiseki, head made of carnations flower, inspired by Louis Glackens, verbena, photo courtesy museum of art, blue and purple plants, georgia anne muldrow, portrait of benjamin netanyahu"
+  },
+  {
+    "object_ID": "2011-64-2",
+    "title": "['Laidunmaa; Päiväperhoset']",
+    "date": 2011,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173022&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a butterfly on a wall, tooth wu : : quixel megascans, 9 / 1 1 attacks, cementary, installation view, bronze material, concrete balcony, blossoming rhythm, reportage photography, artforum, symbolism, connectedness, heroic history, falling hearts, behance, the western wall"
+  },
+  {
+    "object_ID": "2005-159",
+    "title": "['LINE']",
+    "date": 2004,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168960&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a man standing in the water holding a fishing rod, by Rebecca Horn, pacific northwest coast, moody : : wes anderson, ycbcr, high resolution print :1 red, radio signals, cgsociety 9, anamorphic, american realist"
+  },
+  {
+    "object_ID": "2008-99",
+    "title": "['Avaran kosketus (Madrid)']",
+    "date": 2004,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175619&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a person sitting at a table in a room, reykjavik junior college, photos of family on wall, by Magnus Colcord Heurlin, inspired by Cerith Wyn Evans, floor lamps, iso 1250, anamorphic widescreen, winning award image, library books, atrium, landscape photo-imagery, real estate photography"
+  },
+  {
+    "object_ID": "2019-92",
+    "title": "['Siimes']",
+    "date": 2019,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177910&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with a mural of animals and trees, activity play centre, by John Nicolson, retaildesignblog.net, hospital background, visual identity, enjoying a stroll in the forest, grizzly, image on the store website, branching hallways, creative commons attribution, behance, nest, distinct"
+  },
+  {
+    "object_ID": "1999-173-7",
+    "title": "['Helsinki-sarja', 'Helsingforsserien', 'Helsinki Series']",
+    "date": 1996,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167826&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of a large building, carl gustav, by Roy DeCarava, archs and columns, google arts and cultures, still image from the movie, mikko, court politics, old stone steps, dictatorship, precisionism, concept image, national archives, medium detail"
+  },
+  {
+    "object_ID": "1976-493",
+    "title": "['Rahapuu']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2166906&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a stained glass window with a peacock on it, victor horta, trending on artforum, detailed scenery —width 672, santiago calatrava, “ iron bark, yggdrasil, glazed ceramic, buenos aires, trending on artsatio"
+  },
+  {
+    "object_ID": "1976-61",
+    "title": "['Saarnaaja', 'Predikanten', 'Preacher']",
+    "date": 1925,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171655&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of two people sitting on a couch, the man is screaming and sad, pastel drawing, 1904, pogrom, dressed in black, still image from tv series, by Taravat Jalali Farahani, brooklyn museum, 1987 photograph, speech, visibly angry, 1 9 0 9, jury, fig.1"
+  },
+  {
+    "object_ID": "2018-361",
+    "title": "['Myrskyn jälkeen', 'After the Storm']",
+    "date": 1978,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177221&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a lone tree on a hill, by Betye Saar, 1 9 8 0 s concept art, sunset on mars, by Jens Ferdinand Willumsen, flowing hills, inspired by Maryam Hashemi, progressive rock album cover, by Ernő Grünbaum, green cloak, soft pastels, sufism, by Troels Wörsel"
+  },
+  {
+    "object_ID": "2006-77-37",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172640&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with a picture of a cat on the wall, electron microscopy photography, poster tour, inspired by Per Kirkeby, research complex, flowing lava and ash piles, inspired by Vilhelm Lundstrøm, anamorphic illustration, hospital ward, by Jürg Kreienbühl, gravel, awarded photograph, high resolution photography, skin reflective metallic"
+  },
+  {
+    "object_ID": "2008-10",
+    "title": "['Matkalla III', 'På väg III', 'Journey III']",
+    "date": "2006-2007",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170297&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a blurry picture of a fire hydrant in a parking lot, endre penovác, driving through the city, by Louise Abbéma, guardrails, photo courtesy museum of art, motion and action and tragedy, reflections on wet streets, high speed camera, by Mary Dignam, oleo"
+  },
+  {
+    "object_ID": "2018-34",
+    "title": "['Ratsastus', 'Riding']",
+    "date": 1977,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179126&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people riding horses, by Bhupen Khakhar, inspired by Peter Lanyon, riding a giant silver wolf, photo courtesy museum of art, on a canva, 1 9 6 0, collaborative artwork, cowboy dream, blue sky and green grassland, all terrain vehicle race, greek fantasy panorama, 1948"
+  },
+  {
+    "object_ID": "2006-77-36",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175579&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with pictures hanging on the wall, made of nanomaterials, by Thomas de Keyser, highly detailed rock structures, clean medical environment, the photography artwork, anamorphic film, mottling coloring, 5 th floor, swiss design, granite, neoplasticism"
+  },
+  {
+    "object_ID": "2022-14",
+    "title": "['Kupoleja', 'Onion Domes']",
+    "date": "1958 epävarma",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2592670&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of water lillies in a pond, inspired by Robert Colquhoun, sukkot, stalagmites, by Václav Brožík, star roof, sand dune, inspired by David Bomberg, view from bottom to top, photo courtesy museum of art, by Jenő Gyárfás, oil on canva"
+  },
+  {
+    "object_ID": "1999-151-7",
+    "title": "['Sivussa, valokuvasarja Helsingin esikaupungeista']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174542&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a little girl that is standing in the snow, 1 9 8 9 movie still, swedish urban landscape, courtesy mbari, story board format, side portrait rugged girl, narrow footpath, production photo, wearing a baggy, by Washington Allston, college students, movie filmstill, wes anderson film screenshot"
+  },
+  {
+    "object_ID": "1976-157",
+    "title": "['Leipä ja suola', 'Bröd och salt', 'Bread and Salt']",
+    "date": 1968,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171535&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a loaf of bread on a cutting board, irish mountains background, post - war scenery, jars, white and pale blue, inspired by Ettore Tito, website banner, eating garlic bread, the artist has used bright, summer setting, pale-skinned, post - minimalism, pixiv, displayed in a museum"
+  },
+  {
+    "object_ID": "2008-80-2",
+    "title": "['Usva, sarastus & katse']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176219&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with a plant and pictures on the wall, inspired by Robert Bevan, nursing home, sea breeze rises in the air, award-winning oil painting, the caretaker, varying locations, colour photograph, alla prima, jesper esjing, hospital ward, descriptive art"
+  },
+  {
+    "object_ID": "1976-445",
+    "title": "['Viisi hahmoa', 'Fem gestalter', 'Five Figures']",
+    "date": 1959,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171170&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a plate on a table, angel spirit guide, 35mm 8k product photo, 3 sisters look into the mirror, carved soap, blurry distant background, group of people in a dark room, studio medium format photograph, creative commons attribution, wearing white robes, ring light, product photograph, avatar image, aum, 3 2 mm photograph"
+  },
+  {
+    "object_ID": "2008-84",
+    "title": "['nimeämätön kokonaisuus, teososat nimetty']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174004&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a living room filled with furniture and a painting, medical research facility, norrlandsskog, nursing home, h 1 0 2 4, landscape architecture photo, 2 d image, featured on artscape, partially biomedical design"
+  },
+  {
+    "object_ID": "2012-49-1",
+    "title": "['Tapio Wirkkalan puiston taideteokset, Pieni hevonen']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172185&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a metal dog sculpture sitting on top of a wooden floor, inspired by Oluf Høst, pony facing away, angular minimalism, inspired by Mathieu Le Nain, outdoor design, black fork, listing image, square nose, mule, artist impression, taken with canon eos 5 d, thigh gap, man turning into pony, hamar, introduction factory photo"
+  },
+  {
+    "object_ID": "2017-50",
+    "title": "['Ketun uni ja Pihlaja']",
+    "date": 2017,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178844&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a staircase with a painting on the wall above it, inspired by Jean-Paul Riopelle, reykjavik junior college, by Max Walter Svanberg, art : : professional photograph, panoramic anamorphic, inspired by Jackson Pollock, featured in open house magazine, h 576, heidelberg school, martin emond"
+  },
+  {
+    "object_ID": "2006-77-25",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176005&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a long hallway with a painting on the wall, electron microscopy photography, by Thomas Häfner, hospital background, environmental art, dirt and luch landscape, anamorphic film, on canvas, hospital ward, inspired by Matthias Weischer, black floor, awarded photograph, digital photograph"
+  },
+  {
+    "object_ID": "2006-77-7",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172006&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with three pictures hanging on the wall, medical photography, asphalt and metal, schlieren flow visualisation, environment lighting, by Ulrika Pasch, wide shot photograph, critical moment photograph, hospital, anamorphic film, in a research facility, inspired by Thomas Corsan Morton, award winning photos, taken with a canon eos 5d, art cover"
+  },
+  {
+    "object_ID": "1976-426",
+    "title": "['Tyttö', 'Flicka', 'Girl']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168613&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a woman with her hands on her head, 2. sigara aşırmak, award-wining, sold at an auction, inspired by Nassos Daphnis, by Jankel Adler, wearing wooden mask, art-deco style, inspired by Witold Pruszkówski, exhibition catalog"
+  },
+  {
+    "object_ID": "2008-77",
+    "title": "['Hiljaisuus', 'Tystnad', 'Silence']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170072&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of cement blocks sitting on top of a lush green field, by Richard Artschwager, in a garden, new hampshire mountain, geometrical figures, h 1 0 2 4, inflateble shapes, scratches, round-cropped, bed on the right, boulders, by Myra Landau, benches, side view centered, nicholas kalmakoff"
+  },
+  {
+    "object_ID": "2020-39",
+    "title": "['Kylpijät', 'Bathers']",
+    "date": 1971,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179030&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman sitting in a chair, inspired by Yaacov Agam, largely biomechanical, double bass, by Amadeo de Souza Cardoso, pieces of land, spectral color, featured on artstattion, two women kissing at a carnival, de kooning, defined lines"
+  },
+  {
+    "object_ID": "2018-352",
+    "title": "['Seepravaras', 'The Zebra Poacher']",
+    "date": 1971,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180169&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a person walking a dog on a leash, inspired by Ernst Ludwig Kirchner, painting of landscape of faroe, next to a farm house and a barn, yihao ren, aged 13, green colours, by Armin Hansen, moma, listing image, tibet, suburban neighborhood, kalevala"
+  },
+  {
+    "object_ID": "2016-31-1",
+    "title": "['Näin sinun tulevan']",
+    "date": 2015,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172700&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a person walking past a large white board, glass and metal : : peugot onyx, transportation design, by Jens Jørgen Thorsen, filled with natural light, round corners, street printed poster, white plank siding, escaping air bubbles, part of the screen, station, gipf project, john pawson"
+  },
+  {
+    "object_ID": "2017-37",
+    "title": "['According to Shadow']",
+    "date": 2017,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177482&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a stack of rocks sitting on top of a cement floor, by Mary Corkling, black dynamic hair, brown fur, mold, scandinavian design, new contemporary art, artforum, looking away from viewer, balding, 2014, rock and dust, color restoration"
+  },
+  {
+    "object_ID": "2021-24",
+    "title": "['Luonnos teokseen Kotimatkalla tappelusta II', 'Skiss till verket På hemväg från slagsmål II', 'Sketch for the work \"On the way home after a fight II\"']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2814234&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a group of people and a dog, mamou - mani, people walking into the horizon, by Isidor Kaufman, geert wilders, scans from museum collection, disney artist, famine, featured on artsation, asencio, still from the film, racoon"
+  },
+  {
+    "object_ID": "2006-77-41",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174342&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with pictures hanging on the wall, f1 cars blurred in background, hospital lighting, by Bettina Heinen-Ayech, with anamorphic lenses, art direction, police officers, swiss design, press photograph, combat photography, barriers, hospital, reflective surfaces, metallic reflective surfaces, focal length : 1 8. 0 mm, advertisement photography, wall art"
+  },
+  {
+    "object_ID": "2018-92-5",
+    "title": "['Vaatteet']",
+    "date": 2016,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179111&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a row of drawings hanging on a wall, reykjavik junior college, charlie immer and jenny saville, hospital room, woodcut art, walls are covered with vines, in - frame. photorealistic, face shown, by Veikko Törmänen, by Lars Jonson Haukaness, gipf project, woodcut, one line drawing"
+  },
+  {
+    "object_ID": "2016-31-2",
+    "title": "['Näin sinun tulevan']",
+    "date": 2015,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172265&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a man riding a skateboard up the side of a building, lacquered oak reception desk, with lots of dark grey rocks, futuristic cyber subway station, pair of keycards on table, highly detailed stonework, gloss finish, barrier integrity, polished : :, barriers"
+  },
+  {
+    "object_ID": "2016-43-5",
+    "title": "['Kielioppi']",
+    "date": 2016,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177259&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a clock on a wall, by Colin McCahon, panoramic anamorphic, devanagari script, levers, sculpture made of wood, sculpture of carving marble, 1 6 : 9 ratio, by Mario Sironi, rusted steel, artforum, engraved, unmistakably kenyan, in a row, whole-length"
+  },
+  {
+    "object_ID": "2021-56",
+    "title": "['Keltainen sohva', 'Yellow Sofa']",
+    "date": 1960,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2654562&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman sitting on a couch, inspired by Henry Lamb, with soft pink colors, post-war, disordered, facing and looking at the viewer, nicholas kalmakoff, naples, museum catalog, midday light, clay wilson, economist, motif, dream sequence, 6, pensive, she has a distant expression"
+  },
+  {
+    "object_ID": "2016-33-5",
+    "title": "['Lintula / Pikku-ukkelit']",
+    "date": 2016,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173944&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with wooden walls and a tiled floor, greta thunberg smiling, inside elementary school, floating translucent graphics, nesting glass doors, keyhole, building facing, skydsgaard, convoluted halls, hrd, houzz, school, caparison, tall door, minn"
+  },
+  {
+    "object_ID": "2019-88-1",
+    "title": "['Biomipeli']",
+    "date": 2019,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177956&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a ceiling that has some lights hanging from it, glass and metal : : peugot onyx, laboratory, high details photo, glass ball, lens interoperability, by Édouard Debat-Ponsan, trending on artforum, transmitters on roof, interconnections, bottom up green lighting, gipf project, museum photo"
+  },
+  {
+    "object_ID": "2007-44",
+    "title": "['Kevättalven maisema ja lintuja', 'Birds in the Spring Thaw ']",
+    "date": 1975,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167295&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of birds flying over a snowy forest, by Margareta Alströmer, style of stephen jones, magenta trees, grief, hides in the shadows of trees, inspired by John Brack, feathered arrows, the 'american gothic' painting, naturalistic technique, bill lowe gallery, icicles, oaks, artist arata yokoyama, finland"
+  },
+  {
+    "object_ID": "1972-96",
+    "title": "['Yksin', 'Ensam', 'Alone']",
+    "date": 1972,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178213&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a rug on a wall, by Roy Newell, in a vast serene landscape, dark purple garments, the cube, centered in a frame, yellow mist, unborn soul, small finely stippled light, green moss, height 1 7 8, inspired by Robert Zünd, fig.1, 5 colors, hexglow"
+  },
+  {
+    "object_ID": "2019-36",
+    "title": "['Sarjasta Kultakutri', 'Ur serien Guldlock', 'From the series Goldilocks']",
+    "date": 2005,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180869&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman's legs in pink tights, alec soth : : love, inspired by Gerhard Richter, by Constance Gordon-Cumming, velvet stockings, wearing organza gown, a teenage girl cheerleader, trending on artforum, fransico goya, lolita"
+  },
+  {
+    "object_ID": "2009-54-5",
+    "title": "['Riutta, Merivuokko']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172957&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a bunch of broccoli sitting on top of a glass shelf, accent lighting : : peugot onyx, hallway, inspired by Bruce Munro, houzz, bright yellow color scheme, solar sails, inspired by Didier Mouron, balcony door, clematis design, algae, blog-photo, by Gregory Gillespie, city apartment"
+  },
+  {
+    "object_ID": "1972-094",
+    "title": "['Avoin syli', 'Den öppna famnen ', 'Open Arms']",
+    "date": 1972,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179386&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a stone bench sitting in front of a brick building, selk ´ nam god of the sun, swedish urban landscape, by Cornelia MacIntyre Foley, time travelers appear in a park, slightly - pointed ears, ifa deity, groups of happy people, creative commons attribution, on a canva, the three fates, valerian, arney freytag, intricately carved"
+  },
+  {
+    "object_ID": "2021-107",
+    "title": "['Eilisen ja huomisen saaristo', 'Gårdagens och morgondagens skärgård', 'Archipelago of Past and Future']",
+    "date": "2020-2021",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2594604&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a bunch of shells on a blue surface, spores floating in the air, yellow clouds, james stokoe, metallic asteroid, based on geographical map, by Zou Yigui, shmup, by Brett Whiteley, 2d game art, artforum, paint splashes, craters, colin searle"
+  },
+  {
+    "object_ID": "2018-92-2",
+    "title": "['Minä rakastan sinua']",
+    "date": 2015,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179058&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a long hallway with paintings on the wall, antennae on a hestiasula head, pen and ink drawings, hospital lighting, by Veikko Törmänen, twisting organic tendrils, artistic lithography, h 1 0 2 4, medical complex, de kooning, 2 d image, high - resolution photograph, by Rajmund Kanelba"
+  },
+  {
+    "object_ID": "1976-337",
+    "title": "['Modulaatioita II', 'Modulationer II', 'Modulations II']",
+    "date": 1966,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169052&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of blue, yellow, and white clouds, judy boyle intricate, inspired by Richard Schmid, with frozen flowers around her, aspect ratio 16:9, soft pale tone, simplified forms, hues of subtle grey, by Anne Redpath, by Sesshū Tōyō, aerial photograph, ratio 16:9, depicting a flower"
+  },
+  {
+    "object_ID": "2015-17",
+    "title": "['Sokerityttö', 'Sockerflickan', 'The Sugar Girl']",
+    "date": 1956,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173921&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a girl with a dog in front of a building, by Eero Snellman, police station, suzanne engelberg, bauhaus, biodiversity heritage library, guardian project, iso 1250, children's, anthropomorphic _ humanoid, monuments"
+  },
+  {
+    "object_ID": "2005-170",
+    "title": "['Virtaa', 'Ström', 'Current']",
+    "date": 2005,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171379&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with a piano and a chandelier hanging from the ceiling, inspired by William Congdon, flowing forms, winding branches, bentonville arkansas, soft outdoor light, totem 2, pictured from the shoulders up, made of intricate metal and wood, entangled"
+  },
+  {
+    "object_ID": "2022-24",
+    "title": "['Kaksi puuta', 'Two Trees']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2614473&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a desert scene with cactus trees, brutal shapes stormy sky, trending on artforum, inspired by Harold Gilman, zdislav beksinsk - h768, scanned, in claymation, a yellow sun shining down, brooding clouds', outside a storm rages, two figures, alton kelley, image of the day, farm"
+  },
+  {
+    "object_ID": "1976-6",
+    "title": "['Esikaupungista ja Iltamaisema (kääntöpuolella)']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169415&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a village in the snow, inspired by Jørgen Nash, by Elsie Dalton Hewland, rubble, with radiating hill, by Christian Jane Fergusson, 21:9, frontpage, doves, bjørn skalldrasson, moor, panorama, by Maurice Prendergast, photo courtesy museum of art, theatrical scenery"
+  },
+  {
+    "object_ID": "2013-25-1",
+    "title": "['Maisema verhon takana']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174539&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large white sculpture in front of a building, kirsi salonen, materials white stone, inspired by Per Kirkeby, school courtyard, diptych, spores, height 1 7 8, quarter view, round-cropped, monolith, one panel, private academy entrance, classroom in background, edge-to-edge print, sideview, plumes of smoke and ash"
+  },
+  {
+    "object_ID": "1999-151-5",
+    "title": "['Sivussa, valokuvasarja Helsingin esikaupungeista']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176614&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a man talking on a cell phone at an airport, anamorphic 5 0 mm lens, shopping cart, police scene, inspired by Per Kirkeby, looking away from viewer, shuttered mall store, sweden, troops searching the area, retrofuturist, hyperreal, 9 0's, canon 300mm, policeman, escalators, listing image"
+  },
+  {
+    "object_ID": "2002-95-2",
+    "title": "['Kuvakudoksia, Kevät']",
+    "date": 2002,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170331&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with a painting hanging on the wall, hospital lighting, by Rajmund Kanelba, cloth and metal, photo 1998, by Friedel Dzubas, city environment, iso 125, funeral, by Anton Räderscheidt, soft blur lighting, artstatiom, sanctuary"
+  },
+  {
+    "object_ID": "2006-77-31",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174936&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with pictures hanging on the wall, hospital lighting, swedish urban landscape, mcu photograph, full width, installation view, subsiding floodwaters, godray lighting, inspired by Frederik Vermehren, event photography, taken with a canon eos 5d"
+  },
+  {
+    "object_ID": "1976-274",
+    "title": "['Tyttö', 'Flicka', 'Girl']",
+    "date": 1975,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167772&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a young girl with long hair, by Leon Kossoff, helen mcrory, post-war, 1 7 - year - old boy thin face, inspired by May Louise Greville Cooksey, inspired by James Guthrie, oil on canva, with bangs, 1960, aged 13, dressed in cloak, 1958, hong soonsang"
+  },
+  {
+    "object_ID": "2020-51-6",
+    "title": "['Satujen palatsit: Venetsia']",
+    "date": 2020,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179808&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with a circular design on the floor, trending on artsation, sufism, inspired by Maria van Oosterwijk, geometric wolf, decorated with opera motifs, the eye of providence, a brightly coloured, orange and white color scheme, polished concrete, plotter, artforum"
+  },
+  {
+    "object_ID": "2019-91",
+    "title": "['Pitkä halaus', 'Den långa kramen', 'The long hug']",
+    "date": 2018,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179301&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a ceramic sculpture of a man and a woman hugging, inspired by Billy Childish, ornamental bow, captures emotion and movement, brown hair in a ponytail, gipf project, featured on illustrationx, connectedness, the caretaker, hugging each other, may 6 8, round dance"
+  },
+  {
+    "object_ID": "2019-67",
+    "title": "['Soittaja', 'Musikant', 'The Musician']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2576481&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a man playing a guitar, by Jules Pascin, wearing a fancy dress, aged 13, pink and triadic color scheme, set photograph in costume, sketch book, bandolier, gouache, roaming entertainers, circa 1 9 2 4, rogue bard, ( boris johnson ), helio oiticica, photo courtesy museum of art, knyazev konstantin"
+  },
+  {
+    "object_ID": "2018-92-1",
+    "title": "['Piilossa']",
+    "date": 2016,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179058&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a long hallway with paintings on the wall, antennae on a hestiasula head, pen and ink drawings, hospital lighting, by Veikko Törmänen, twisting organic tendrils, artistic lithography, h 1 0 2 4, medical complex, de kooning, 2 d image, high - resolution photograph, by Rajmund Kanelba"
+  },
+  {
+    "object_ID": "2005-158-4",
+    "title": "['Kotipaikkoja - valokuvarasia']",
+    "date": 2004,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169694&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a table and chairs in a room with a window, nursing home, sweden, jpeg artefacts on canvas, aperture f11, curtain, f 0. 4, installation view, art : : professional photograph, airbnb, f1.8 anamorphic, awarded photograph, yellow details, ingame image, set inside of office, white vase"
+  },
+  {
+    "object_ID": "2018-464",
+    "title": "['Puinen sermi', 'Wooden Screen']",
+    "date": 1971,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180363&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of wooden sculptures sitting on top of a table, intricate stained glass triptych, inspired by Jacob Lawrence, blue and red color scheme, tall metal towers, mohamed chahin, hanging scroll, listing image, by Edward Ben Avram, female ascending, 1 6 : 9, ankh, official product image, on artstastion, refugees, towers"
+  },
+  {
+    "object_ID": "2015-16-1",
+    "title": "['Trädgård 1', 'Garden 1']",
+    "date": 2015,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173699&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a yellow and red background, ethereal rainbow bubbles, art for the film in color, redshift. micro details, stipple brush technique, bubblegum pop, by Hannah Tompkins, aspect ratio 16:9, fish flocks, ( ( strong dither ) ), dissolving into the air, blimps, dayglo pink, fishlike"
+  },
+  {
+    "object_ID": "1976-295",
+    "title": "['Anna Riukka']",
+    "date": 1941,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168056&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman sitting on a bench, chris farley, by Max Pechstein, inspired by David Burliuk, angry and helpless, highly saturated colors, baselitz, visibly angry, gnome, full-length portrait, inspired by Grethe Jürgens, season 3 ( 1 9 9 7 ), peasant dress, zdzidaw, in garden"
+  },
+  {
+    "object_ID": "2008-80-8",
+    "title": "['Usva, sarastus & katse']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176509&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a doll sitting on top of a dresser next to a painting, mit technology review, nursing home, by Lydia Field Emmet, reportage photo, supporting characters, pianos, apparitions, retracing, open room, florentine school, orthodoxy"
+  },
+  {
+    "object_ID": "2006-81",
+    "title": "['Silmä', 'Ögat', 'The Eye']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168574&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a manhole in the middle of a cobblestone street, eero aarnio, shining nordic runes, 8k resolution – w 1024, hamar, artist impression, anamorphic lens flare, town square, guardian project, environmental artwork, marble hole, ‘luca’, beksinki, walkable, renderhub"
+  },
+  {
+    "object_ID": "2018-373",
+    "title": "['Tyttö Joka Muuttui Ruusupensaaksi', 'Flickan som förvandlades till en rosenbuske', 'The Girl who Turned Into a Rosebush']",
+    "date": 2018,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177070&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture of a man sitting on top of a tree stump, colorful muscular eldritch, inspired by Georg Baselitz, various refining techniques, nancy grossman, fleshy creature above her mouth, glazed ceramic, pompadour, dazzling gem in the hilt, vulcano, polychromatic color palette, artfact, young child"
+  },
+  {
+    "object_ID": "02/07/2013",
+    "title": "['Vallila']",
+    "date": 2011,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174313&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photograph of a man's torso, generative art, craggy mountains, one panel, image on the store website, cutout, waterfall in asteroid field, folds, white ceramic shapes, painting of landscape of faroe, simplified forms, heavy brushstrokes"
+  },
+  {
+    "object_ID": "2014-28-2",
+    "title": "['Kairos B', 'Kairos B', 'Kairos B']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176122&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with a painting hanging on the wall, hospital lighting, inspired by Eero Snellman, detailed –n 9, - 9, white floor, inspired by Richard Wilson, displays, point finger with ring on it, transparency glass, reflect photograph, by Niels Lergaard, anaesthetic"
+  },
+  {
+    "object_ID": "1976-104",
+    "title": "['Koristeellinen maalaus (Luonnos)', 'Dekorativ målning (Skiss)', 'Decorative Painting (Sketch)']",
+    "date": 1915,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170180&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man and a woman in a boat, inspired by John Duncan Fergusson, standing in a forest, by Karel Havlíček, humanoids, topless, magnus carlsen, photographed from behind, young and beautiful, body of water, avatar image, faceted, 834779519, mid-20s"
+  },
+  {
+    "object_ID": "2018-46",
+    "title": "['DXT']",
+    "date": 2018,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179150&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a multicolored quilt with birds and flowers on it, data bending, pink and grey muted colors, abstracted painterly techniques, danny fox, hanging scroll, inspired by Chuck Close, colored gems, a translucency, spritesheet, mariko mori, listing image, gigapixel, nancy grossman"
+  },
+  {
+    "object_ID": "2006-3",
+    "title": "['Trembler']",
+    "date": 2005,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171219&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting with a lot of paint on it, by Julian Schnabel, diaphanous iridescent silks, by Anne Redpath, using the degrade technique, supernova explosion, catalog photo, purple and white thich cloak, hollow earth, strands of being, iridescent and gold and crystal, paper texture 1 9 5 6, microscopy"
+  },
+  {
+    "object_ID": "2018-43-1",
+    "title": "['UHO 1']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177971&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a chandelier hanging from the ceiling of a building, inspired by Taro Okamoto, silver iodide, mit technology review, photo courtesy museum of art, orbs, inspired by Johan Edvard Mandelberg, supernovas, full height sculpture, by Kose Kanaoka, joongwon jeong"
+  },
+  {
+    "object_ID": "2012-8",
+    "title": "['Puiden välinen aika']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172953&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture made out of glass blocks in front of a building, green energy, foundry vtt, the tree of life, credit esa, medium sensor, mit technology review, inspired by Jaroslava Korol, parasols, by Þórarinn B. Þorláksson, made of wood, polygonal fragments"
+  },
+  {
+    "object_ID": "2022-20",
+    "title": "['Iltapilviä', 'Aftonmoln', 'Evening Clouds']",
+    "date": 1959,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2612698&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a red and yellow sky, by Isaac Soyer, by Per Kirkeby, painted with a thin brush, inspired by Christian Rohlfs, drawn with crayons, apparent brush strokes, expansive grand scale, in forcasted sky, aged 13, wreathed in flame, oil pastel"
+  },
+  {
+    "object_ID": "2016-33",
+    "title": "['Lintula ', 'Lintula', 'Bird World']",
+    "date": 2016,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174976&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a view of a hallway through a glass door, photo of a classroom, inspired by Lodewijk Bruckman, aurora aksnes, lockers, filled with natural light, drawing for children, full building, high-tech environment, displayed on the walls, branching hallways, grid layout, anamorphic illustration"
+  },
+  {
+    "object_ID": "2001-184-2",
+    "title": "['Laskos / Juhlapöytä ja laskos']",
+    "date": 2001,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167279&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a pile of white towels sitting on top of a rock, by Eero Järnefelt, front and side view, granite, landscape 35mm veduta photo, by John McLaughlin, midsummer, citadel colour, artforum, landscape - scenery, panel, 2008, polished white marble, flora, 2 0 0 1, near forest"
+  },
+  {
+    "object_ID": "2012-13",
+    "title": "['Polku 19', 'Väg 19', 'Path 19']",
+    "date": 2011,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173493&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a person walking down a path in the middle of a forest, archival pigment print, creepy skies, blurred backround, warp, soft lighting album cover, photographic print, an ai generated image, gloom, low visibility, reduced visibility, distant hooded figures"
+  },
+  {
+    "object_ID": "2011-66",
+    "title": "['Koralli-muralli', 'Korall-mural', 'Coral-Mural']",
+    "date": 2011,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173204&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with a mural of penguins and trees, inspired by John Nicolson, drawing for children, colorful medical equipment, nesting glass doors, award - winning illustration, medical research facility, large patches of plain colours, soft brush strokes, centre image"
+  },
+  {
+    "object_ID": "2006-77-27",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173799&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a child's play area with a slide in the middle of the room, anamorphic 24 mm lens, corporate photo, city panorama, danube school, artist arata yokoyama, shelf, environmental light, 8 5 mm photograph, hikkikomori"
+  },
+  {
+    "object_ID": "1992-113",
+    "title": "['Larin Paraske']",
+    "date": 1949,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171150&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man sitting on a bench, by Kamāl ud-Dīn Behzād, gauss, wearing a lab coat, dante, slightly - pointed ears, ryohji hase, in a chill position, sigma female, closer view, website, scholar, orphism, zdzisław, ueshiba riichi"
+  },
+  {
+    "object_ID": "1982-54-6",
+    "title": "['Ruskea-sininen: serigrafiasalkusta 4-värin etydejä', 'Brunt-blått: ur serigrafiportföljen Etyder i fyra färger', 'Brown-Blue: from the Portfolio Etudes in Four Colors\\n']",
+    "date": 1982,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167063&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a picture of a picture of a picture of a picture of a picture of a picture of a picture of a picture of a, fortunato depero painting style, by Sophie Taeuber-Arp, blue grey and white color scheme, trending on artforum, a screenprint, military art, by Richard Hamilton"
+  },
+  {
+    "object_ID": "2022-79",
+    "title": "['Asetelma', 'Stilleben', 'Still Life']",
+    "date": 1972,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2855461&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a bowl of fruit on a table, by Barbara Nessim, orange yellow ethereal, by Gordon Browne, in a mediterranean lanscape, trending on artforum, claroscuro, gustave bauman, at midday, cheerful, gourds, nocturnal palette, persephone, cannonballs"
+  },
+  {
+    "object_ID": "2010-85",
+    "title": "['Tyyny']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167822&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a table and chairs in front of a building, featured in artscape, sculpture of carving marble, by senior environment artist, prairie landscaping, an scp anomalous object, reading under a tree, inspired by Paul-Émile Borduas, white ceramic shapes, osl, obelisks"
+  },
+  {
+    "object_ID": "2014-39-9",
+    "title": "['Mo(nu)ments / Ranska']",
+    "date": 2014,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167798&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of the eiffel tower in a picture frame, detailed and complex environment, inspired by Joseph Cornell, vivarium, old experimentation cabinet, a jigsaw puzzle, 2 0 0 8, jaquet droz, katherine lam, museum catalog, -h 960, vignette, exhibition catalog, puzzle, window with flower box, 64x64"
+  },
+  {
+    "object_ID": "2020-51-4",
+    "title": "['Satujen palatsit: Firenze']",
+    "date": 2020,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180314&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with a circular pattern on the floor, made of nanomaterials, inspired by Jørgen Roed, yantra, in a research facility, purple and white thich cloak, detailed patterned rug, inspired by Carl-Henning Pedersen, mosque, in a open-space working space, h 1024, trending on artststion"
+  },
+  {
+    "object_ID": "2019-100",
+    "title": "['Talvisodan kansallinen muistomerkki', 'Det nationella minnesmärket över vinterkriget', 'National Memorial to the Winter War']",
+    "date": 2017,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179116&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture of a man standing on top of a metal object, trypophobia acne face, finnish naturalism, in the evening, made out of shiny white metal, official artwork, inspired by Louise Bourgeois, pillars of creation, zentai suit, standing in a city center, h 1088, voitv, 3/4 profile, yutja"
+  },
+  {
+    "object_ID": "2016-43-3",
+    "title": "['Kahdeksan kierrosta']",
+    "date": 2016,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180844&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a white wall with a bunch of gold pieces on it, by Sophie Taeuber-Arp, wooden banks, wiry, oak, canva, canyon topography, interconnections, pete morbacher, on a canva, sinew, by Jean Arp, objects, artforum, cartography, toiletpaper magazine, sinuous, figuring"
+  },
+  {
+    "object_ID": "2008-8",
+    "title": "['Matkalla I', 'På väg I', 'Journey I']",
+    "date": "2006-2007",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171212&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a blurry picture of a train passing by, peter guthrie, hyperrealism painting, industrial photography, loosely cropped, calm and contented painting, aspect ratio 16:9, wintermute, shipyard, silver light, transmetal ii, color burn, tar roads, by Mārtiņš Krūmiņš"
+  },
+  {
+    "object_ID": "2012-26-5",
+    "title": "['Pietaryrtin vihreä / Löytöretki Myllypuroon', 'Renfana grön / Upptäcksresan till Kvarbäcken', 'Tnasy Green / Discovery to Myllypuro']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174741&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with a bench and a table in it, botanical herbarium paper, swedish urban landscape, hospital lighting, art cover, ekas portal, aurora aksnes, displays, detailed professional art, depicting a flower, awardwinning, showcase, entrance, cds, connectivity, pixel mosaic, 3/4 view, hcl"
+  },
+  {
+    "object_ID": "2014-33",
+    "title": "['Color Space - Shutter 70, Take 1']",
+    "date": 2013,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176512&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "an orange square with a black center, by Richter, translucent neon skin, brown sauce, 100 mm sigma art, data visualization, red mist, inspired by Shōzō Shimamoto, spectral evolution, translucent body, lipkin, polarized lens, color restoration"
+  },
+  {
+    "object_ID": "1992-10",
+    "title": "['Kahlaaja', 'Vaderskan', 'Die Wader']",
+    "date": 1923,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178780&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a woman with a bird on her shoulder, inspired by Moïse Kisling, white stone, 2007, image of the day, denmark, lively irregular edges, venus effect, young woman with long dark hair, in the 1920s, nymphaea, artforum"
+  },
+  {
+    "object_ID": "2014-39-4",
+    "title": "['Mo(nu)ments / Saksa']",
+    "date": 2014,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167139&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of dolls sitting on top of a table, inside a glass box, inspired by Gustaf Tenggren, reykjavik junior college, richard scarry, digital display, award - winning brand agency, cinematatic lighting, capsule hotel, christmas, mit technology review"
+  },
+  {
+    "object_ID": "2021-34",
+    "title": "['Luonnos teokseen Kuusen alla', 'Skiss till verket Under granen', 'Sketch for the work \"Under the spruce\"']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2814522&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a group of people standing in front of a tree, by Andrew Loomis, scp foundation, christmas tree, camp half-blood, somber atmosphere, kids playing, prison scene, spruce trees, albert kiefer, aged 13, story art, sitting in ten forward, round hood"
+  },
+  {
+    "object_ID": "2021-57",
+    "title": "['Maisema', 'Landskap', 'Landscape']",
+    "date": 1968,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2654564&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of birds flying over a body of water, by Jack Butler Yeats, brutal shapes stormy sky, trending on artforum, nuclear explosion on the horizon, by Max Liebermann, caravagio, circa 1958, sunlit sky, roughled fur, bog, dramatic swirling clouds, by Justin Currie, billowing clouds"
+  },
+  {
+    "object_ID": "2020-7",
+    "title": "['Ruusu-unelma', 'Rosendröm', 'The Rose Dream']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179932&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman laying on a bed, inspired by Margaret Macdonald Mackintosh, islamic art, on a botanical herbarium paper, :14 80s anime style, floating bouquets, bill lowe gallery, medium detail, inspired by Ram Chandra Shukla, by Ogata Kōrin, textiles, puṣkaracūḍa"
+  },
+  {
+    "object_ID": "2011-64",
+    "title": "['Laidunmaa', 'Betesmarken', 'The Pasture']",
+    "date": 2011,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176264&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large rock sitting in front of a building, inspired by Jaakko Mattila, inside elementary school, tula, installation view, university, passive house, 21:9, official artwork, iso 1250, stony"
+  },
+  {
+    "object_ID": "2007-72",
+    "title": "['Vaihtuva perspektiivi', 'Shifting Perspective']",
+    "date": 1970,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167348&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of yellow and white blocks on a black background, by Hedda Sterne, upward perspective, simplified shapes, visible space, subtle color variations, gray anthropomorphic, non - euclidean space, optical flare, 1 / 3 headroom, large triangular shapes, fig.1, art »"
+  },
+  {
+    "object_ID": "2007-128",
+    "title": "['Onirique']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168709&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man flying a kite over a body of water, nancy grossman, splashes of neon clouds, blair armitage, thin wires, a photorealistic painting, membrane wings, artforum, balloons, powerlines, submechanophobia, mit technology review, on a canva, inlets, the scary empty liminal spaces, metallic bridge, streamers"
+  },
+  {
+    "object_ID": "2006-119",
+    "title": "['Kertaamus', 'Upprepning', 'Repeatance']",
+    "date": "2005-2006",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172699&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a stairway way with a painting on the wall, mit technology review, hexagons, reykjavik junior college, wall painting, by Emily Murray Paterson, simple curvilinear watercolor, panoramic anamorphic, visualisation, norrlandsskog, 2 d logo, polygon, color dispersion, interconnections"
+  },
+  {
+    "object_ID": "2021-62",
+    "title": "['Meilahdesta', 'Från Mejlans', 'Scene from Meilahti']",
+    "date": 1976,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2654588&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a person riding a horse by a lake, by Louise Abbéma, sold at an auction, inspired by Jack Butler Yeats, lonely tree, in the foreground paris, contemplation, 1 9 6 0 s art, trees bent over river, fjord, photo courtesy museum of art, by Maurice Prendergast, persephone in spring"
+  },
+  {
+    "object_ID": "2019-6",
+    "title": "['Bäcksbackan tilalta Pohjanmaalta', 'Bäcksbacka hemman, Purmo']",
+    "date": 1976,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177583&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a red house in the snow, by Charles Demuth, by Eero Järnefelt, by Larry Rivers, on a road, photo courtesy museum of art, in thick layers of rhythms, white cyc, springtime, in an american suburb, artist sketch, post-war, on a bright day, sweden, very very coherent painting"
+  },
+  {
+    "object_ID": "2018-443",
+    "title": "['Smiley']",
+    "date": 2018,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180223&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a smiley face hanging on a wall, kenny scharf, made of felt and cloth and beads, georgia anne muldrow, ornamented armor, trending on artforum, colorful mold, untitled mixed media, feather boa, by Mary Elizabeth Groom, fine art museum piece, afro comb"
+  },
+  {
+    "object_ID": "2019-66",
+    "title": "['Ateljeen ikkuna', 'Våret Ateljefönstret ', 'The Studio Window']",
+    "date": 1931,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178492&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a view of a city through a window, by Alexander Rodchenko, behind red curtains, lucien freud, in winter, google arts and cultures, cathedral in the background, by Jørgen Nash, panorama, high detail 1024, detail shot, aspect ratio 16:9, greenhouse"
+  },
+  {
+    "object_ID": "1976-39",
+    "title": "['Omakuva', 'Självporträtt', 'Self-Portrait']",
+    "date": 1919,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171808&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man in a shirt and tie, by Arthur Merric Boyd, defined cheekbones, self-portrait, 16:9, darren shaddick, moody painting, young man, inspired by Dod Procter, machiavellian, the caretaker, medium close-up shot, portrait of tall, john berry, marsh"
+  },
+  {
+    "object_ID": "2021-28",
+    "title": "['Luonnos Seitsemän veljestä -kuvitussarjaan', 'Sketch for a series of illustrations for The Seven Brothers']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2814281&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a bunch of food on a plate, by Ossip Zadkine, bone dress, neoplasticism, ossuary, grain, precisionism, reconstruction, by Victorine Foot, sprouting, neckline, before the final culling, production art, harrowing, high grain, boots"
+  },
+  {
+    "object_ID": "2016-43-6",
+    "title": "['Ympäristöoppi']",
+    "date": 2016,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179317&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a brown piece of leather on a white wall, 1980s metal artwork, person made of tree, scattered islands, copper oxide material, unmistakably kenyan, libertas, inspired by Veikko Törmänen, patriotism, ( side ) profile, stencil, kurdistan, rhode island, dog head, 62 x 47 inches, biden"
+  },
+  {
+    "object_ID": "2009-60-4",
+    "title": "['Vesijärvellä', 'Vid Vesijärvi']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172044&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hospital room with a bed and a painting on the wall, glass and metal : : peugot onyx, helsinki, environment lighting, 8 l, featured in artistation, defibrillator, minimalist art style, corridor, in this painting, by Richter, visible space, helmond, atrium"
+  },
+  {
+    "object_ID": "2021-39",
+    "title": "['Luonnos Seitsemän veljestä kuvitussarjaan', 'Sketch for a series of illustrations for The Seven Brothers']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2815122&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white drawing of a group of people, alvar aalto, eating, us soldiers, nightclub, drinking and smoking, topknot, female sailor uniforms, campfire, terence nielsen, two young men, expressionist, creative commons attribution, british pathe archive, chef table, court sketch"
+  },
+  {
+    "object_ID": "2018-92-7",
+    "title": "['Lehvät']",
+    "date": 2016,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178883&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with pictures hanging on the wall, gesture drawings, by Elfriede Lohse-Wächtler, medical complex, wild brush strokes, vernadskys noosphere, on high-quality paper, hospital lighting, archive photography, anamorphic illustration, stanisław szukalski, botanical photo, line - art"
+  },
+  {
+    "object_ID": "1996-26-4",
+    "title": "['Salt Flat']",
+    "date": 1968,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179260&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a picture of a picture of a picture of a picture of a picture of a picture of a picture of a picture of a, typographic annotation, by Bruce Nauman, powdered sugar, in - frame. photorealistic, desert composition, svg art, equation heaven, the price of ncr, large scale scene, in a kitchen, utah"
+  },
+  {
+    "object_ID": "1976-130",
+    "title": "['Aallonmurtaja, Dover', 'Piren vid Dover (Vågbrytaren)', 'Breakwater, Dover']",
+    "date": 1907,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2166846&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a beach with a pier in the background, war theatre, featured in art magazine, les automatistes, wind - swept, inspired by Henry Wallis, tigers, trading depots, 21:9, ycbcr, albert kiefer, the shackled, on his left hand, spring day, catalog photo, 8 0 0 mm, wikimedia"
+  },
+  {
+    "object_ID": "2010-38",
+    "title": "['Pilvimaisemia / Sama taivas']",
+    "date": 2010,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169251&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room filled with wooden benches next to a blue wall, hourglass volumetric lighting, by Totte Mannes, rounded ceiling, official courthouse, pale pastel colours, white sea cloud, jury, anaesthetic, cloud and sky color scheme, pendant"
+  },
+  {
+    "object_ID": "2008-83",
+    "title": "['Torso']",
+    "date": 2008,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171214&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue in the middle of a body of water, inspired by Jankel Adler, the goddess of fertility, john pawson, koi pond, by Christian Jane Fergusson, covered breasts, stylised design, female body elements, with a garden as foreground, hanging scroll, left align, inspired by Vilhelm Lundstrøm"
+  },
+  {
+    "object_ID": "2009-61-9",
+    "title": "['Polku / jos olisit varjoton, Diptyykki ']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176041&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a conference room with a long table and blue chairs, inspired by Akseli Gallen-Kallela, art : : professional photograph, by Veikko Törmänen, hospital room, linen canvas, creative commons attribution, on a canva, official government photo, maintenance area, security camera photo, fall-winter 2015-2016"
+  },
+  {
+    "object_ID": "2019-85-2",
+    "title": "['Sarjasta Queue (2019)', 'From the series Queue (2019)']",
+    "date": 2019,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180369&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a painting on a wall, white and red body armor, toiletpaper magazine, by Fritz Bultman, chequered cape, dividing it into nine quarters, 2 0 1 2 watermelon diner, oil on wood, dynamic folds, mixed race woman, paint-on-glass painting, tesselation, gouache"
+  },
+  {
+    "object_ID": "2001-184",
+    "title": "['Juhlapöytä / Juhlapöytä ja laskos', 'Festbord', 'Dinner Table']",
+    "date": 2001,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168547&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a white table covered in a white cloth, noise rock album cover, swedish urban landscape, parks and monuments, ffffound, double layer fold over hem, stone roads, various point of view, merge, cloth, garden utopia, monuments"
+  },
+  {
+    "object_ID": "2018-463",
+    "title": "['Sade', 'Regn', 'Rain']",
+    "date": 1968,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177659&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people with umbrellas, by Willie Ito, vivd colour, oil on aged tin, abstract claymation, villa, zulu, bright red cape on her back, velvia 100, by Irvin Bomb, vineyard, by Évariste Vital Luminais, scans from museum collection, 2 0 0 0, by Vladimír Vašíček"
+  },
+  {
+    "object_ID": "2015-15",
+    "title": "['Nosto', 'Lyftet', 'Up in the Air']",
+    "date": 2015,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174375&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a man in a red shirt holding a stuffed animal, installation view, acrobatic, martinne johanna, angel protecting man, ilya, covered in pink flesh, agile, alexander abdulov, modelsociety, photo of zurich, falling apart, private collection, einar jonsson, artforum"
+  },
+  {
+    "object_ID": "1963-39",
+    "title": "['Piazza']",
+    "date": 1963,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174010&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man standing in front of a building, inspired by Elizabeth Murray, nursing, blue and gray colors, young middle eastern woman, representation with abstraction, complex city, pieces of land, james gleeson, workers, dancers, modernist"
+  },
+  {
+    "object_ID": "2011-32-3",
+    "title": "['Liian painavat vieraat, hahmo 3', 'För tunga gäster', 'Too Heavy Guests']",
+    "date": 2011,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175554&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large rock sitting on the side of a road, by Ruud Janssen, in a city with a rich history, metal works, installation view, baars, collar on neck, iso 1250, parking lot, ruan jian, destroying a cityscape, inspired by Niels Lergaard, oniric, liege, zoomorphic, object oriented ontology"
+  },
+  {
+    "object_ID": "2015-96",
+    "title": "['Et tiedä kuinka kaunis olet']",
+    "date": 2015,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174419&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a bathroom with two sinks and a mirror, immersed within a glitch network, purple trees, by Mary McEvoy, trending on artsation, in realistic data center, pixel mosaic, wall, relief sculpture, by Katsukawa Shun'ei, clean photorealistic realistic, pixiv 3dcg, dezeen"
+  },
+  {
+    "object_ID": "2000-343",
+    "title": "['Alkuskeittarit, 1980', 'Urskejtare', 'Skate Crew']",
+    "date": 1980,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176736&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of a group of men laying on the ground, trending on artforum, wearing jetpack, erste boden, workout, by Margareta Sterian, kids playing, very asphalt, laying down with wrists together, evenly spaced, by Henry Heerup, wearing helmet, sport t-shirt, young women"
+  },
+  {
+    "object_ID": "2022-76",
+    "title": "['Asetelma', 'Stilleben', 'Still Life']",
+    "date": 1976,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2858820&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of fruit and flowers on a table, by Nicolas de Staël, artforum, meze audio, by William Crozier, food and consumerism, inspired by Daphne Fedarb, in a war - torn desert village, trending on artforum, fantastically pastel colors, congas, by Ossip Zadkine"
+  },
+  {
+    "object_ID": "2007-63",
+    "title": "['Taiteilija työnsä ääressä', 'The Artist at Work']",
+    "date": 1997,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170070&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man sitting in a rocking chair, view out of a window, inspired by Henry Carr, inspired by Hugo Simberg, a storybook illustration, strathmore 2 0 0, the caretaker, canada, joe pera, the yellow creeper, telescope, dvd cover, half-length portrait, looking through a window frame"
+  },
+  {
+    "object_ID": "2017-45",
+    "title": "['O-la la']",
+    "date": 2017,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177988&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "three pieces of art hanging on a wall, dancing character, by Julius Hatofsky, disassembled, being delighted and cheerful, inspired by Mary Blair, the girl plays the guitar, tokusatsu, flat triangle - shaped head, 4k press image, multiple limbs, inspired by Ernő Grünbaum, female warrior"
+  },
+  {
+    "object_ID": "2020-26",
+    "title": "['Lepäävä', 'Vilande', 'Reclining Nude']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178958&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman laying on a bed, inspired by James Ensor, by George Wyllie, oil on canva, caulfield, inspired by Hermenegildo Anglada Camarasa, year 1968, palette knife textures, hands in her hair. side-view, nicholas kalmakoff, dawn setting, two exhausted, height 1 7 8"
+  },
+  {
+    "object_ID": "2009-61-1",
+    "title": "['Polku / Kaunis maa, Triptyykki 2 ']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174124&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a living room filled with furniture and a clock, reykjavik junior college, abstract minimalism art painting, cubicles, espoo, professional studio photograph, triptych, locker room, small library, by Myra Landau, clocks, taken with a canon eos 5d, as photograph, student, by Magdalene Bärens, wall"
+  },
+  {
+    "object_ID": "1999-151-3",
+    "title": "['Sivussa, valokuvasarja Helsingin esikaupungeista']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172661&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of women standing in front of a store, inspired by Per Kirkeby, food court in a mall, album photo, called elysion, featured in artistation, bakery, lossless quality, art direction, helsinki, joongwon charles jeong, round-cropped, brochure, cuisine, inside an old magical sweet shop, scandinavia, artforum"
+  },
+  {
+    "object_ID": "2019-51",
+    "title": "['Numeritos']",
+    "date": 2019,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179020&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man with a red tie, photography of charline von heyl, paper craft, black and yellow color scheme, disconnected shapes, simplified forms, female dancer, official artwork, stylised design, beveled edges, man and woman in love, two characters, 2 0 1 6, brochure, detail face"
+  },
+  {
+    "object_ID": "2018-349",
+    "title": "['Leirintäalue', 'Camping Grounds']",
+    "date": 1973,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180331&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of tents in a field at night, by Gertrude Harvey, purple and green, moon rising, calarts, cypresses and hills, ( alexander archipenko ), artforum, by Róbert Berény, traveling in france, green magic, campsites, florence harrison"
+  },
+  {
+    "object_ID": "2019-68",
+    "title": "['Tyttö', 'Flicka', 'Girl']",
+    "date": "1913?",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2576623&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a woman in a dress, by František Kupka, orange neon stripes, style of beatrix potter, aged 13, plus size woman, trending on artforum, joaquin sorolla, by Moïse Kisling, martinière"
+  },
+  {
+    "object_ID": "2017-48-2",
+    "title": "['Malus Domestica 2017–', 'Malus Domestica 2017–', 'Malus Domestica 2017–']",
+    "date": 2017,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176893&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "an apple tree with white flowers in front of a building, inspired by Eero Snellman, lab in the background, nordic summer, sustainability, high quality reflections, lecture halls and gambling dens, news archive, edible flowers, iphone selfie, botanic, test"
+  },
+  {
+    "object_ID": "2020-28",
+    "title": "['Merimaisema', 'Marin', 'Seascape']",
+    "date": 1955,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180464&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of boats in a body of water, by Beauford Delaney, by Fritz von Dardel, ocean cliff view, in gentle green dawn light, scans from museum collection, aged 13, oil on canva, pastel coloring, caulfield, herluf bidstrup, acrylic"
+  },
+  {
+    "object_ID": "1976-273",
+    "title": "['Poika', 'Gosse', 'Boy']",
+    "date": 1971,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171356&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a painting of a person, by Margareta Alströmer, blond boy, brian wilson, boyish face, aged 2 5, rust and dust and fire and dirt, 6 0 s colour palette, pale grey skin, exhibited at the british museum, toru furuya, barnet, boris johnson, 1 7 - year - old boy thin face"
+  },
+  {
+    "object_ID": "02/08/2012",
+    "title": "['Puiden välinen aika']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171907&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with tables, chairs, and a counter, wearing nanotech honeycomb robe, inspired by Josep Rovira Soler, maintenance area, bright modern style, tiles curtains, reykjavik junior college, ecovillage, by Eva Gonzalès, the ecolab industrial dishwasher"
+  },
+  {
+    "object_ID": "2018-28",
+    "title": "['Eläinten juhlat', 'Creature Carnival']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178634&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a cat sitting on top of a table, blood and dust in the air, dayanita singh, an anthropomorphic deer, by Carlo Carrà, four faces in one creature, red lake, asymmetrical artwork, wolves, photo courtesy museum of art, untitled mixed media, 1 9 4 7, horses, nivanh chanthara, . background: jungle river"
+  },
+  {
+    "object_ID": "2009-58-1",
+    "title": "['Viileä mätäs', 'Den svala tuvan', 'Cool Tussock']",
+    "date": "2005/2009",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173169&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a view of a hallway through a glass wall, paper art, mit technology review, large white clouds, interconnections, flowing tendrils, balcony door, reykjavik junior college, by Lydia Field Emmet, school classroom, medical research facility, katherine lam, environmental artwork, photo courtesy museum of art, by Niels Lergaard, artforum, sketchlab"
+  },
+  {
+    "object_ID": "1999-173-2",
+    "title": "['Helsinki-sarja', 'Helsingforsserien', 'Helsinki Series']",
+    "date": 1996,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171603&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of a ship in the water, by Hilma af Klint, post - soviet courtyard, wes anderson), catalog photo, blurry image, but as a photograph, promotional photograph, renzo piano, engraving, russian constructivism"
+  },
+  {
+    "object_ID": "1976-328",
+    "title": "['Piru soittaa', 'Fan blåser', 'The Devil Playing']",
+    "date": 1896,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168949&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man sitting on top of a red rug, succubus | medieval, kintsukuroi, sorrow and despair, card template, f. 1 4, cut out of cardboard, by Sara Saftleven, dark-skinned, scp-049, the tarot card of earthly demise, 666, marginalia, drow"
+  },
+  {
+    "object_ID": "2021-17",
+    "title": "['Luonnos Seitsemän veljestä -kuvitussarjaan', 'Sketch for a series of illustrations for The Seven Brothers']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2814092&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a group of people standing in a field, ghost of kiev, by Narayan Shridhar Bendre, camp half-blood, light halos, in the midst of high mountains, two young men, berets, page scan from book, by Eero Järnefelt, human prisoners, aged 13"
+  },
+  {
+    "object_ID": "2009-60-2",
+    "title": "['Näkymä Kauppatorilta', 'Vy från Salutorget']",
+    "date": 2008,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171843&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting hanging on a wall next to a chair, f1.8 anamorphic, container ship, government archive, glass cover, brown mist, by Veikko Törmänen, hospital ward, collaborative artwork, by George Wyllie, photorealistoc, anaesthetic, trireme"
+  },
+  {
+    "object_ID": "2018-458",
+    "title": "['Metsäkoira', 'Hunting Hound']",
+    "date": 1973,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177318&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a dog and a teddy bear in a field, inspired by Roy Newell, pink and grey clouds, portrait of an anthro fox, little girl, jinyoung shin, brandywine school, collaborative painting, cougar, deer"
+  },
+  {
+    "object_ID": "2019-89",
+    "title": "['Pihahommia']",
+    "date": 2019,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179815&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room filled with lots of tables and chairs, wolff olins |, children's artwork, woodlands, office ceiling panels, mural, hyperdetailed colourful, made of wood, university, pictured from the shoulders up, featured in artistation, central hub, hanging scroll"
+  },
+  {
+    "object_ID": "2012-28-1",
+    "title": "['Night Sky']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175453&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a building with a street light in front of it, super - resolution microscopy, f1.8 anamorphic, alvar aalto, detailed –n 9, inspired by Vilhelm Lundstrøm, crepuscule, corporate photo, pixar film setting, glass walls, cgi 8k, side front view, medical research facility, realstic lighting"
+  },
+  {
+    "object_ID": "2009-39",
+    "title": "['Pursuit II']",
+    "date": 2008,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167301&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of flowers in a vase on a table, by Fiona Rae, the third… had a face like a man, by Richter, oozing black goo, inspired by Willem de Kooning, crackling black lightning, skin painted with green, soft motion blur, 2009, zhong lin, magnolia, artforum, dark forests surrounding"
+  },
+  {
+    "object_ID": "2009-49",
+    "title": "['Viuhka-asetelma', 'Stilleben med solfjäder', 'Still Life with Fan']",
+    "date": 1955,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168167&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of grapes and a bottle on a table, inspired by Harold Gilman, purple robe and veil, scans from museum collection, inspired by William Nicholson, ned kelly, 4k —height 1024 —width 1024, aspect ratio 16:9, brancusi, lamps and flowers, midday, aged 13, vignette"
+  },
+  {
+    "object_ID": "2008-80-7",
+    "title": "['Usva, sarastus & katse']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174174&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a table with a vase of flowers on top of it, nursing home, liminal space photography, ballet, kirsi salonen, (waterfall), displayed on the walls, healthcare worker, mcu photograph, frame around picture"
+  },
+  {
+    "object_ID": "2013-25-2",
+    "title": "['Maisema verhon takana']",
+    "date": 2013,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173803&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a conference room with blue chairs and a table, white carved abstract sculpture, “puffy cloudscape, by Karl Hagedopoorn, in realistic data center, paper decoration, mojang, h 640, tinnitus, children's artwork, 1 3 3 4 building, xray art, creative commons attribution, home office interior, scp"
+  },
+  {
+    "object_ID": "2019-99",
+    "title": "['Siimes', 'Siimes', 'Shade']",
+    "date": 2019,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178531&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a colorful mural on the side of a building, inspired by Jaakko Mattila, school classroom, roof with vegetation, polished concrete, forest environment, award - winning design, loki's pet project, pews, maintenance photo, fully frontal view, panorama shot, lockers, inspired by Carl Gustaf Pilo, baki"
+  },
+  {
+    "object_ID": "1998-70",
+    "title": "['Kampa', 'Kam', 'Comb']",
+    "date": 1995,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2967124&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a hair brush on a white surface, blue archive, inca, wrapped in wires and piones, by Karl Hofer, teal, 2 5 6 colours, american veteran gi, c1970, creative commons attribution, steel choker, kakashi, 2d side view, merged machima, width 768, whole-length"
+  },
+  {
+    "object_ID": "2006-77-28",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174736&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with pictures hanging on the wall, swedish urban landscape, medical photography, “wide shot, medical lighting, inspired by Matthias Weischer, poster tour, central focus, exhibition catalog, inspired by Vilhelm Lundstrøm"
+  },
+  {
+    "object_ID": "1990-180",
+    "title": "['Yhdeksäntoista pakettia', 'Nitton paket', 'Nineteen packets']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171934&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of a bunch of bags on a blanket, government archive photograph, aboriginal, various refining methods, by John Nelson Battenberg, charge explosives, ffffound, trap made of leaves, awarded photograph, lossless, in prison, linen, 1 0 0, website, high-resolution photo, commercially ready, reagents, wrapped, bags"
+  },
+  {
+    "object_ID": "2010-80",
+    "title": "['Sky Sample', 'Sky Sample', 'Sky Sample']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168080&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room filled with tables and white chairs, sky mural on the room ceiling, by Niels Lergaard, pixelart, food court, cumulus, showing a screen playing tetris, paper cutout, long blue-cape, archival pigment print, schools, cloud and sky color scheme, tiles"
+  },
+  {
+    "object_ID": "2022-29",
+    "title": "['Naisen muotokuva B. Stenman', 'Porträtt av en kvinna, B. Stenman', 'Portrait of a Woman, B. Stenman']",
+    "date": 1913,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2860606&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white drawing of a woman, by Emil Nolde, aged 13, human staring blankly ahead, araki, hammershøi, diana levin, offset lithography print, monserrat gudiol, stylized face, gitital art, daughter of death, without text, imagenet, 9, still from l'estate, precisionism"
+  },
+  {
+    "object_ID": "2020-5",
+    "title": "['Henkilökuva', 'Figurstudie', 'Figure Study']",
+    "date": 1972,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178033&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman sitting in front of a window, inspired by Betty Churcher, muted complementary colors, looking out over the sea, inquisitive look, alex kiesling, pointing index finger, she is quiet, connectedness, portrait no. 1, marge, victo nagai, portait"
+  },
+  {
+    "object_ID": "2010-95-3",
+    "title": "['Kolme aitaa', 'Tre Stängsel', 'Three Fences']",
+    "date": 2010,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170912&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a group of cement blocks sitting on top of a lush green field, dragging a pile of chains, espoo, installation view, graveyard tombstones, ernest khalimov body, presidential cross, neo norilsk, chain, official artwork, panoramic, cad, minn, the shackled"
+  },
+  {
+    "object_ID": "2018-368",
+    "title": "['Aamu vuoristossa', 'Morning in the Mountains']",
+    "date": "1970-luvun loppu",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178171&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a landscape with mountains in the background, by Etel Adnan, by Nikolai Astrup, orange sun set, ffffound, korean countryside, inspired by Fern Coppedge, by Tom Wesselmann, green cape, 1 9 8 0 s concept art, purple sun, trending on artforum, midsummer, feng zhu |"
+  },
+  {
+    "object_ID": "1998-410",
+    "title": "['Molekyyli merihädässä', 'En molekyl i sjönöd', 'Molecule at Sea']",
+    "date": 1998,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167517&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a long hallway with a bench next to a brick wall, translucent pastel panels, there is a window to the sea, taken in 1 9 9 7, inspired by Ned M. Seidler, the sky is grey 2 0 0 0, photography photorealism, avetetsuya studios, media art, mezzanine, songlines, 2003"
+  },
+  {
+    "object_ID": "1976-224",
+    "title": "['Syyskuutamoa', 'Höstmånsken', 'Autumn Moonlight']",
+    "date": 1949,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169830&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a boat on a body of water, inspired by Knud Agger, standing in the grass at sunset, abstracted painterly techniques, inspired by Lovis Corinth, color 1970, small fence, bob dylan, sold at an auction, inspired by David Bomberg, close scene, 1961, nightfall"
+  },
+  {
+    "object_ID": "2011-32-2",
+    "title": "['Liian painavat vieraat, hahmo 2', 'För tunga gäster', 'Too Heavy Guests']",
+    "date": 2011,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173952&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large rock sitting on top of a sidewalk, by Ancell Stronach, featured on artscape, in prison, university, side profile artwork, metal sculpture, aspect ratio 16:9, by David Budd, alaska, critically condemned, detention centre, standing on two feet, merged"
+  },
+  {
+    "object_ID": "2009-60-5",
+    "title": "['Vuoristomaisema', 'Bergslandskap']",
+    "date": 2008,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176401&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting hanging on a wall next to a blue chair, hospital lighting, inspired by Per Kirkeby, incubator medpods, by Veikko Törmänen, simple ceiling, h 1088, detailed surroundings, 21:9, wooden ceiling, neutral sky"
+  },
+  {
+    "object_ID": "2020-4",
+    "title": "['Asetelma', 'Stilleben', 'Still Life']",
+    "date": 1969,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180736&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a laptop and a bottle on a table, inspired by Li Rongjin, test tubes, post-war, smoker, by Otake Chikuha, professional oil painting, moulting, joongwon jeong, offhand, cigarettes, glazing, fishing pole, in this painting, in a workshop, flasks, calm and contented painting, studio ghibili"
+  },
+  {
+    "object_ID": "1976-423",
+    "title": "['Suomen neito', 'Finlands mö', 'The Maiden of Finland']",
+    "date": 1929,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180619&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a woman with her hand on her head, girl frontal in a flower field, marble skin, stylized and expressive, standing in front of a mirror, venus effect, inspired by Paul Émile Chabas, girl looking at the ocean waves, in full growth, pristine skin, with a figure in the background"
+  },
+  {
+    "object_ID": "2020-51-2",
+    "title": "['Satujen palatsit: Gent']",
+    "date": 2020,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180687&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with a tiled floor and a window, by Erwin Bowien, black and white zig zag floor, school courtyard, maze, asymmetrical art, mathematical interlocking, bang olufsen, danhausen, hallways, prison"
+  },
+  {
+    "object_ID": "2020-51",
+    "title": "['Satujen palatsit']",
+    "date": 2020,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177830&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with yellow and black tiles on the floor, by Erwin Bowien, avetetsuya studios, symmetrical facial, anti - aliasing, inspired by Wilhelm Marstrand, art deco, institutional critique, water reservoir, award - winning design, arbeitsrat für kunst, anamorphic, tileable, by Caro Niederer"
+  },
+  {
+    "object_ID": "1997-228",
+    "title": "['Propelli 2']",
+    "date": 1997,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176211&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large rock sitting on top of a lush green field, russian soviet motifs, oversized shuriken, inspired by Paul-Émile Borduas, jesus christ on the cross, makoto kobayashi, montreal, in a city park, insignia, cathedrals and abbeys, by Veikko Törmänen, 27, pilgrimage"
+  },
+  {
+    "object_ID": "2001-180",
+    "title": "['Mielen puutarha', 'Sinnets trädgård', 'Garden of the Mind']",
+    "date": 2001,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167465&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a library with lots of books on the walls, inspired by Per Kirkeby, pendants, schools of fish, photo 1998, brooklyn museum, borne space library artwork, swedish design, ceilings, tosa school, winning award image, interconnections, fig.1, pouches"
+  },
+  {
+    "object_ID": "2007-147",
+    "title": "['Jänismetsä']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173238&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of two rabbits running through a forest, art jiro matsumoto, inspired by Cuno Amiet, a screenprint, last light, award - winning illustration, similar to the bifrost, birches, blue woodcut print, hand - tinted, mezzotint, lithograph, running sequence, still from a nature documentary, puṣkaracūḍa"
+  },
+  {
+    "object_ID": "2020-54",
+    "title": "['Rakennuksia', 'Buildings']",
+    "date": 1964,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174025&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a boat on a body of water, by Anne Redpath, moroccan new york city street, standing on a rooftop, viewed from above, inspired by Janet Fish, muted pastel colors, circa 1970, oil on canva, riccardo federici, subdivision, parisian buildings, 1962, mark simonetti, totem 2"
+  },
+  {
+    "object_ID": "2008-86-5",
+    "title": "['Lasikuisti']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2190802&size=extra_large&key=T3st1&orgid=85100",
+    "prompt": "a painting of a cat sitting on a chair in front of a window, huge greenhouse, by Edward Okuń, britt marling style 3 / 4, plants in scientific glassware, the sky is grey 2 0 0 0, anamorphic illustration, above the family room, artforum, cobalt, kenwood"
+  },
+  {
+    "object_ID": "2008-85",
+    "title": "['Retkipäivä vuorella', 'Utflyktsdag på berget', 'Outing on a Mountain']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167147&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large rock with a face carved into it, alvar aalto, portal made of roses, padlocks, photo courtesy museum of art, badge, igneous rock materials, by Asger Jorn, standing in a city center, breastplate, haruhiko mikimoto, stone hand raised up, bronze age, reallism, artist interpretation"
+  },
+  {
+    "object_ID": "2007-59",
+    "title": "['Puut heijastuvat veteen', 'Trees Reflected in the Water']",
+    "date": 1993,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168224&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of trees reflected in a body of water, by Margareta Alströmer, muted water color, hand - drawn animation, banish fiction and illusion, panoramic anamorphic, birches, gouache on paper, ranjit ghosh, facing sideways, woo kim, bullrushes, midsommar, inspired by Josef Jackerson"
+  },
+  {
+    "object_ID": "1992-234",
+    "title": "['Maalaus']",
+    "date": 1992,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171905&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a red couch sitting in a room next to a plant, large arrays, in realistic data center, by Pascal Blanché, displayed on the walls, blackwork, iso 125, art of édouard bisson, black. airports, starport, 12, original artwork, panoramic anamorphic, carrara marble, sharp geometrical squares"
+  },
+  {
+    "object_ID": "2010-4",
+    "title": "['Dora at 7', 'Dora vid 7 års ålder']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170628&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of a young girl, dan witz, southern gothic art, ektachrome film, photo courtesy museum of art, wide angle lens photography, black ears, trending on artisation, 2.35:1 ratio, caustic projection, law of thirds"
+  },
+  {
+    "object_ID": "04/07/2013",
+    "title": "['Vallila']",
+    "date": 2011,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174313&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photograph of a man's torso, generative art, craggy mountains, one panel, image on the store website, cutout, waterfall in asteroid field, folds, white ceramic shapes, painting of landscape of faroe, simplified forms, heavy brushstrokes"
+  },
+  {
+    "object_ID": "2008-82",
+    "title": "['Silta', 'Bron', 'Bridge']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169746&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture in the middle of a park with buildings in the background, by Mym Tuma, battlefield landscape, in summer, copper elements, university, panel, inspired by Mustafa Rakim, naval landscape, panorama, mikko, iso 125, tundra, monuments, installation view, frontpage, galleon, motif"
+  },
+  {
+    "object_ID": "1999-151-4",
+    "title": "['Sivussa, valokuvasarja Helsingin esikaupungeista']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172148&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a group of people sitting at tables in a mall, swedish urban landscape, photo 1 9 9 0 s, advertisment, many people walking about, golden ration composition, coffee shop, yellow scheme, hot food, photo courtesy museum of art, ancient civilisation, mullet, boardwalk"
+  },
+  {
+    "object_ID": "2020-11",
+    "title": "['In Memoriam 1895 Impi Marjatta Gallén']",
+    "date": 1895,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178811&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white drawing of a man in a boat, berlin secession, photograph of enchanted garden, isolde, - signature, gertrude, inspired by Albrecht Altdorfer, historic artworks society, circa 1912, inspired by William Nicholson, aspect ratio 16:9, 1915"
+  },
+  {
+    "object_ID": "2006-77-26",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172373&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a long hallway with pictures on the walls, swedish urban landscape, medical photography, highly detailed soft lighting, anamorphic wide angle lens, magnum award winning photograph, inspired by Christoffel van den Berghe, environmental design, dlsr photo, acnh"
+  },
+  {
+    "object_ID": "2006-52",
+    "title": "['Kuru']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167230&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large metal sculpture in front of a building, paper marbling, mit technology review, barnet, soft twirls curls and curves, angular dynamic white rock floor, tsubasa chronicles, sangyeob park, liege, pouring techniques, photorealistic-n 9, richard pearce, sheet, refined face, celestial collision, print, grey robes"
+  },
+  {
+    "object_ID": "2018-91",
+    "title": "['Tähteet', 'Rester', 'Leftovers']",
+    "date": 2017,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179535&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with a plant and a display case, inspired by Jan Theuninck, industrial photography, legos, corporate photo, full width, zaragoza gilberto soren, maintenance area, made of plastic, horizon line focus, inspired by Nicolaes Maes, factorio"
+  },
+  {
+    "object_ID": "2009-61-5",
+    "title": "['Polku / Kaunis maa, Diptyykki 3 ']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172096&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a dining room table with two chairs and a painting on the wall, medical research facility, f1.8 anamorphic, visible sky and sunny atmosphere, inspired by Willem de Poorter, minimalist photorealist, the photo was taken from afar, awarded photograph, by Ruud Janssen, backrooms office space, canvas art, central tree, artgem"
+  },
+  {
+    "object_ID": "2012-35",
+    "title": "['Kuka kertoo meille, että on tullut aika kääntyä', 'Vem talar om för oss när det är tid att vända om', 'Who Tells Us When It Is Time to Turn']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174993&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman standing next to a tree, inspired by Nancy Spero, in a golden sunset sky, long skirt, witness stand, american barbizon school, the man stands out on the image, slender man, longing, black tar particles, intricate oil pastel glow, photo courtesy museum of art, artforum"
+  },
+  {
+    "object_ID": "1992-80",
+    "title": "['Graniittipursi', 'Granitbåt', 'The Granite Boat']",
+    "date": 1983,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176508&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture in the middle of a lush green park, red brown and grey color scheme, grain 1 9 9 0, inspired by István Regős, featured on artsation, toronto, elegant proportions, pointed face, h 768, standing on the street, harmony of the spheres, 1 9 7 4, helsinki, frontview, molecular, andrei riabovitchevy"
+  },
+  {
+    "object_ID": "2018-355",
+    "title": "['Huhtikuu', 'April', 'April']",
+    "date": 1974,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179487&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a landscape with houses and trees, inspired by Marianne von Werefkin, bhutan, winter sun, by Moïse Kisling, the shining overlook hotel, artforum, sukkot, swedish forest, vibrance scheme, inspired by Hermenegildo Anglada Camarasa"
+  },
+  {
+    "object_ID": "2005-160-4",
+    "title": "['Raparperinlehdet']",
+    "date": 2005,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176829&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of people that are standing in the grass, dress made of green leaves, by Anna Haifisch, kids playing, ffffound, rituals, by Wenzel Lorenz Reiner, large leaves, diptych, big lilies, canon a1, artforum, kids, unclad, fauns, ruffles"
+  },
+  {
+    "object_ID": "2020-12",
+    "title": "['nimeämätön', 'utan titel', 'untitled']",
+    "date": 1942,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180402&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a clock with a drawing of an angel on it, by Akseli Gallen-Kallela, fish swimming, on a plate, juno promotional image, biodiversity heritage library, award-winning artwork, iliad, h 1 0 2 4, alchemic, latin writing, loki, artwork"
+  },
+  {
+    "object_ID": "2012-26-6",
+    "title": "['Prosessi / Löytöretki Myllypuroon', 'Prosessen / Upptäcksresan till Kvarbäcken', 'Process / Discovery to Myllypuro']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176229&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a table and chairs in a room with pictures on the wall, inspired by Margareta Alströmer, healthcare worker, espoo, international photography awards, terminals, southdale center, sequences, military photography, by Per Krohg, court archive images, creative commons attribution, serene environment, photo 1 5 mm, by Hedda Sterne"
+  },
+  {
+    "object_ID": "2016-34",
+    "title": "['Ruohometsä', 'Grässkogen', 'Grass Forest']",
+    "date": 2015,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175126&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting on the wall of a building, inspired by Elsa Beskow, inflatable landscape with forest, hospital interior, by Christen Købke, architectural finishes, head of broccoli, on a canva, hospital ward, kirsi salonen, private academy entrance, oak leaves"
+  },
+  {
+    "object_ID": "2018-372",
+    "title": "['Koralli', 'Korall', 'Coral']",
+    "date": 2018,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179228&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture of a cat sitting on top of a table, by Cecily Brown, colourful slime, clay render, ruffled and tattered dress, colorful muscular eldritch, museum catalog, side view profile, phoenix head, eastman color, pigment, strongman, wayne barlow"
+  },
+  {
+    "object_ID": "2008-80-10",
+    "title": "['Usva, sarastus & katse']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177679&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a horse grazing in a field, foggy volumetric light morning, inspired by Zhang Xiaogang, louisiana swamps, inspired by Charles H. Woodbury, oil on canva, looming trees, lampposts, drawn in the style of mark arian, art for the film in color, inspired by Charles Ragland Bunnell"
+  },
+  {
+    "object_ID": "2013-23",
+    "title": "['Tjuvskärin Vasilij']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175052&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture of a man's head on a white surface, by Huang Ding, boy with neutral face, 1 : 1 album artwork, marble white complexion, bump mapping, dead child, face centred, design milk, young female face, very clear face, mottling coloring"
+  },
+  {
+    "object_ID": "2020-51-1",
+    "title": "['Satujen palatsit: Casablanca']",
+    "date": 2020,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177830&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with yellow and black tiles on the floor, by Erwin Bowien, avetetsuya studios, symmetrical facial, anti - aliasing, inspired by Wilhelm Marstrand, art deco, institutional critique, water reservoir, award - winning design, arbeitsrat für kunst, anamorphic, tileable, by Caro Niederer"
+  },
+  {
+    "object_ID": "2021-53",
+    "title": "['Helsingin satamasta', 'View of Helsinki Harbour']",
+    "date": 1975,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2654557&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a city by the water, by Basil Blackshaw, cold snowy, taken in the early 1960s, by Willem Pieterszoon Buytewech, by Theodore Robinson, acrylic palette knife, sold at an auction, by Willem Labeij, viewed from the harbor, inspired by Jean-Paul Riopelle, art toy"
+  },
+  {
+    "object_ID": "1976-324",
+    "title": "['Pihalla', 'På gården', 'In the Yard']",
+    "date": 1906,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177986&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman standing in a field, inspired by Henry Ossawa Tanner, sculpture gardens, 1 9 6 6, orthodox icon, healthcare worker, circa 1912, contemplation, street scene, petzval lens, 1991, the reaper, shore of the lake, ratio 16:9, aged 13, midday"
+  },
+  {
+    "object_ID": "2011-29",
+    "title": "['Virginian puu ']",
+    "date": 2011,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175316&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting on a wall in an office, wide angle landscape shot, helmond, tall broad oaks, 3 d film, medium length photography, painted in bright water colors, flowstatepaint, super-resolution, award - winning epic painting"
+  },
+  {
+    "object_ID": "1998-415",
+    "title": "['Surrealistinen juhannussalko', 'Den surrealistiska midsommarstången', \"Surrealistic Midsummer's Pole\"]",
+    "date": 1998,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169159&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a group of children playing in a playground, inspired by Jaakko Mattila, floating trees, made from mechanical parts, photographed on colour film, the great marble wizards tower, by Christen Dalsgaard, detention centre, high resolution print, norrlandsskog, a person standing in front of a"
+  },
+  {
+    "object_ID": "2015-95",
+    "title": "['Bubo Bubo']",
+    "date": 2015,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174561&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of an owl on the side of a building, andor kollar, dripping black and grey paint, photo of zurich, large-scale, ultra high face symmetry, by Eero Snellman, spatter, guardian project, anamorphic, thomas jane"
+  },
+  {
+    "object_ID": "2006-77-20",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175551&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a person walking down a path, cracked and faded photo paper, installation view, cpl filter, parks and lakes, photo still of behind view, studio photography dslr, listing image, deblurring, time travelers appear in a park, boards of canada, on a canva"
+  },
+  {
+    "object_ID": "2021-63",
+    "title": "['Alpit', 'Alps']",
+    "date": 1950,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2654604&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting with a mountain in the background, colored dots, by De Hirsh Margules, snow and ice, varying dots, mid-30s, sakimichan and frank franzzeta, distinct horizon, pale greens and whites, ice shards, tundra, made of dots, tropicalism, values as flat shapes, award - winning painting"
+  },
+  {
+    "object_ID": "1977-4",
+    "title": "['Hiihtämässä', 'På skidor', 'Skiing']",
+    "date": 1946,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169171&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people in the snow, inspired by Tsuguharu Foujita, soldiers running, the front of a trading card, painted with pastels, at the mountains of madness, museum catalog, labrador, peter eisenman, official illustration, gig, h 640, pictured from the shoulders up, zoo, artsation contest winner, monkeys, christmas"
+  },
+  {
+    "object_ID": "1999-151-12",
+    "title": "['Sivussa, valokuvasarja Helsingin esikaupungeista']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174314&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a group of people sitting outside of a restaurant, swedish urban landscape, 90's color photo, busy restaurant, beach bar, inspired by Vilhelm Lundstrøm, story board format, photographed from the back, digital banner, tention, front view 2 0 0 0, brochure, some stalls"
+  },
+  {
+    "object_ID": "2006-77-23",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176771&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a long hallway with pictures on the walls, inspired by Theodor Philipsen, award winning image, productphoto, hospital ward, midsommar color theme, ecological art, anamorphic widescreen, environmental lighting, diagnostics, photorealistic image, tumours, door to lab, nursery poster, hamar"
+  },
+  {
+    "object_ID": "2008-2",
+    "title": "['8 6 4 1 1, sarjasta Thought Patterns', '8 6 4 1 1, ur serien Thought Patterns', '8 6 4 1 1, from the series Thought Patterns']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167549&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black hole in the middle of a gray surface, by Ross Bleckner, volumetric dust rays, ffffound, hexagon blocking the sun, xray, jinyoung shin art, spray paint, crystalline, sharp focus - c 1 5. 0, sharp foccus ilustration, ballistic, autechre, the sky is black, hcl"
+  },
+  {
+    "object_ID": "2006-77-34",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173313&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a long hallway with pictures on the wall, made of nanomaterials, by Elfriede Lohse-Wächtler, dusty environment, foundry vtt, slit-scan photography, hospital lighting, woodcut, mcu photograph, soft surfaces"
+  },
+  {
+    "object_ID": "2018-347",
+    "title": "['Draculan yö', \"Dracula's Night\"]",
+    "date": 1972,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177381&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a tree in the middle of a field, inspired by William Zorach, set in observatory at night, by Edward Okuń, inspired by Milton Avery, purple and green, two moons, by Vilhelm Lundstrøm, aged 13, cypresses, 2009, jugendstil, flowing hills, james clyne"
+  },
+  {
+    "object_ID": "1976-200",
+    "title": "['Metsäpolku', 'Skogsstig', 'Path in the Forest']",
+    "date": 1972,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170584&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of two people walking through a forest, by Tim Biskup, inspired by Neil Welliver, skiing, road to perdition, a landscape of hedge maze, inspired by Flora Macdonald Reid, ( ( photograph ) ), andrey remnev, wanderers traveling from afar, retracing"
+  },
+  {
+    "object_ID": "1941-1",
+    "title": "['Siltavuorenranta', 'Brobergskajen']",
+    "date": 1941,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179163&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a boat docked at a dock, einar jonsson, by Emily Carr, mission arts environment, by Marc-Aurèle de Foy Suzor-Coté, industrial steam, panoramic, eugene gottsnake, archimedes, stormclouds, mojang, stathmore 2 0 0, green field, 1951, by karolis strautniekas"
+  },
+  {
+    "object_ID": "2008-84-3",
+    "title": "['Aamu 1']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175473&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couch sitting in a living room next to a potted plant, this painting is a large canvas, inspired by Per Kirkeby, sheer cliffs surround the scene, on a canva, by Mathieu Le Nain, green tone, interior photograph, by Troels Wörsel, 21:9, tall ceilings, canva, small flowing stream from wall"
+  },
+  {
+    "object_ID": "2018-18",
+    "title": "['MansikkaSoftis', 'JordgubbSoftis', 'Strawberry SoftIceCream']",
+    "date": 2017,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178216&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of figurines sitting next to each other, ffffound, by Philip Guston, part petra cortright, dribbble, animal eyes, made in 2019, celadon glaze, toiletpaper magazine, giraffe, dog, metmuseum, single eye, inspired by Jan Nieuwenhuys, 2021, a muscular"
+  },
+  {
+    "object_ID": "2007-118",
+    "title": "['Omfalomiini', 'Omfalominen', 'Omfalomiini']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175084&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a metal trash can sitting on top of a brick walkway, by Eero Järnefelt, sunny day in a park, spherical body, installation view, chrome silver, greta thunberg, surface hives, architecture digest, espoo, air pollution, sharing an oxygen tank, reliquary, smog, hyperpop, panoramic anamorphic"
+  },
+  {
+    "object_ID": "1976-451",
+    "title": "['Taidesalongin merkki', 'Konstsalongens märke', 'The Logo of the Taidesalonki Gallery']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170918&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a ring on a table, elegant lady with alabaster skin, subject= chimp, birth of venus, rounded logo, mouse body, on display in a fossil museum, inspired by Henry Snell Gamley, showcases full of embryos, the white rabbit, kneeling, listing image, enamel"
+  },
+  {
+    "object_ID": "2003-67",
+    "title": "['Työ ja vapaa-aika', 'Arbete och fritid', 'Work and Leisure']",
+    "date": 2003,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169626&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with two framed pictures on the wall, healthcare worker, inspired by Jaakko Mattila, taken in the 2000s, southdale center, award - winning brand agency, repeating 3 5 mm photography, triptych, installation, exterior photography, documentary photograph, nursing, center of the frame, by Arvid Nyholm, gipf project"
+  },
+  {
+    "object_ID": "2018-45",
+    "title": "['Lokki']",
+    "date": 2018,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179912&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a seagull on top of a building, clemens ascher, face center close-up, gigantic creature, promotional media, palast der republik in berlin, panoramic anamorphic, facing the viewer, detail, bald eagle, 2 0 1 2, wide opened eyes, at the sea, nft, big nose, zeiss, imposing presence"
+  },
+  {
+    "object_ID": "2022-31",
+    "title": "['Hampurin katu', 'Street View in Hamburg']",
+    "date": 1909,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2860613&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a street with houses in the background, mono printing, by Breyten Breytenbach, crumbling buildings, tzimisce, aged 13, by Louise Abbéma, bad print, inspired by Tuvia Beeri, flesh buildings, hand - tinted, ute osterwalder, tachism, scheme, bunkers"
+  },
+  {
+    "object_ID": "2007-76",
+    "title": "['Mastodontti', 'Mastodon']",
+    "date": 1973,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168630&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture of a giraffe with a ball in its mouth, inuit heritage, courtesy mbari, chalk, toy guillotine, polynesian style, fibres trial on the floor, medium details, more details, cannonballs, pestle, by Kōno Michisei, scans from museum collection, lava, 2 d image, subject= duck, yarn"
+  },
+  {
+    "object_ID": "2009-60-6",
+    "title": "['Kosketus', 'Beröring']",
+    "date": 2008,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176734&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a living room filled with furniture and a painting, hospital background, swedish urban landscape, metal plate photograph, no light penetrates to room, commercial lighting, mate painting, low ceiling, taken with canon eos 5 d, real-life photograph, public space, scp, non-illuminated backdrop, n9"
+  },
+  {
+    "object_ID": "2012-26-8",
+    "title": "['Kanervan keltainen / Löytöretki Myllypuroon', 'Ljung brun / Upptäcksresan till Kvarbäcken', 'Heather Brown / Discovery to Myllypuro']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175887&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a row of chairs sitting next to a wall, medical photography, children's artwork, by Johan Lundbye, lumion rendering, vials, panoramic anamorphic, branching hallways, paid artwork, frame around picture, image dataset, tim jacobus art, medical depiction"
+  },
+  {
+    "object_ID": "2007-43",
+    "title": "['Kaksi hiihtäjää', 'Two Skiers']",
+    "date": 1974,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167278&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of two people skiing down a hill, by Margareta Alströmer, pink and green, kingdom of elves, sundown, from nature journal, golf course, inspired by Hugo Simberg, childrens book art, zeiss"
+  },
+  {
+    "object_ID": "2021-1",
+    "title": "['Triad']",
+    "date": 2021,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177472&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room that has tables and chairs in it, reykjavik junior college, illuminated orbs, houzz, round format, colored spotlights, inspired by Johan Edvard Mandelberg, featured on artstattion, flying saucer, wall torches, school courtyard, glowing yellow face, rounded"
+  },
+  {
+    "object_ID": "2021-54",
+    "title": "['Korkeasaaresta', 'Från Högholmen', 'From Korkeasaari']",
+    "date": 1977,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2654558&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of people on a beach near a body of water, helsinki, some dust in the air, storm in the distance, by Henry B. Christian, h. kyoht luterman, seen from a distance, boats, spring early morning, day after raining, photo courtesy museum of art, water paint, industrial environment, trending on artforum, jpg artifacts"
+  },
+  {
+    "object_ID": "2018-92-3",
+    "title": "['Pikkusisko']",
+    "date": 2015,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178989&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of paintings hanging on a wall, kiki smith, declan mckenna, pencil on paper, sitting in dean's office, feng zhu |, photo courtesy museum of art, elaborate hairstyles, drawn in fine-tip pen, by William Kentridge, stylised, 2 d image"
+  },
+  {
+    "object_ID": "2007-168",
+    "title": "['Vedet', 'Vattnen', 'The Waters']",
+    "date": "2001-2007",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168071&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a fountain with a statue of a man and a bird in it, swedish urban landscape, anamorphic 80mm lens, montreal, installation view, parks and public space, torus energy, reportage photo, waterways, by Þórarinn B. Þorláksson, sound waves, photo courtesy museum of art, 2013"
+  },
+  {
+    "object_ID": "1976-327",
+    "title": "['Omakuva', 'Självporträtt', 'Self-Portrait']",
+    "date": 1945,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171787&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man wearing a hat, dafne keen, by Billy Childish, face like ester exposito, by Elaine de Kooning, creeping forward, her gaze is downcast, bandana, featured on artsation, fleurfurr, circa 1940s, post - war scenery, endre penovác, indoors"
+  },
+  {
+    "object_ID": "2000-229",
+    "title": "['Linja-autoasema, 1964', 'Busstation, 1964', 'Bus Station, 1964']",
+    "date": 1964,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174598&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of a woman holding an umbrella, moody : : wes anderson, by Vija Celmins, nurse uniform, tallinn, eighties amateur photography, artforum, rain puddles, swiss, circa 1958, draft, auction catalogue photo, guy bourdin, slovenian, nurse, outside, postapo, museum picture"
+  },
+  {
+    "object_ID": "1996-152",
+    "title": "['Verkosto', 'Nätverk', 'Network']",
+    "date": 1996,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175820&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a building that has neon lights on it, hallway landscape, by Fernand Verhaegen, terminals, green lines, wired, bright and colourful, by Jan Victors, underground, meeting point, multilayered paint"
+  },
+  {
+    "object_ID": "2021-36",
+    "title": "['Luonnos Seitsemän veljestä -kuvitussarjaan', 'Sketch for a series of illustrations for The Seven Brothers']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2815095&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a woman with a bird on her shoulder, ashcan school, the wake of the unseen object, jean gireaud, begging for alms, inspired by John F. Peto, gryphon, death of the money lenders, bob dylan, lamp ( ( ( mirror ) ) ) ), frank sedlacek, lucifer, vignette, art »"
+  },
+  {
+    "object_ID": "2009-65-3",
+    "title": "['Tarinoita, Variaatio 3.']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176378&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a chair sitting in front of a painting on a wall, grained risograph, trending on artforum, hospital interior, picton blue, installation view, circuit board, repeating pattern, at the hospital in patient gown, hanging scroll, 'untitled 9 ', detailed –n 9, artforum"
+  },
+  {
+    "object_ID": "2000-322",
+    "title": "['Siskoni Anneli, Kolmas linja 32, 1960', 'Min syster Anneli, Tredje linjen 32, 1960', 'My Sister Anneli, Kolmas linja 32, 1960']",
+    "date": 1960,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173505&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of a man leaning against a building, eero aarnio, elton john, auction catalogue photo, swedish, dissociation, half - length photo, doorway, watcher, portrait a 1 5 - year - old boy, diane ramic, full width, image split in half, square face, high resolution auction photo"
+  },
+  {
+    "object_ID": "2008-117",
+    "title": "['Kivi', 'Stenen', 'Stone']",
+    "date": 2008,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167445&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large rock sitting on top of a lush green field, eero aarnio, town center background, documentary photography, f1.8 anamorphic, by Veikko Törmänen, environmental art, the panorama, 2 0 0 2 photo, petri rahkola, cumulonimbus, in autumn, 2011"
+  },
+  {
+    "object_ID": "1997-216",
+    "title": "['Seuraava päivä', 'Dagen efter', 'The Day After']",
+    "date": 1997,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171155&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a child's drawing of a cat sitting on a chair, photography of charline von heyl, giant pink full moon, expressing joy, the room is raucous and joyful, long trunk holding a wand, inspired by Richard Wilson, the queen of hearts, midsommar - t, -h 960, skye meaker, savanna"
+  },
+  {
+    "object_ID": "2018-24",
+    "title": "['Kuuhullu', 'Lunatic']",
+    "date": 1977,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178032&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a bull with a heart on it, painted tower of the moon, by Robert Dickerson, mixed media with claymorphism, quiet forest night scene, standing on rock, inspired by Otakar Kubín, photo courtesy museum of art, childrens illustration, jörmungandr, monoliths, limited edition print"
+  },
+  {
+    "object_ID": "2005-159-4",
+    "title": "['FALLING']",
+    "date": 2005,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168135&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a person jumping in the air on a snowboard, stephen shore & john j. park, birches, red cloak, still image from tv series, inspired by Louis le Brocquy, perched in a tree, bullets whizzing past camera, we dehumanize ourselves, detailed studio photograph, spiralling bushes, running from bear"
+  },
+  {
+    "object_ID": "2003-139-6",
+    "title": "['Stabat mater']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170994&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a group of drums sitting on top of a table, marlene dumas, dressed in dark garment, panels, organic mechanical shapes, in this painting, dreamcatcher, coherent symmetry, oozing black goo, ladder, being-in-itself, official art, editorial image, from 2001, looking directly at the viewer"
+  },
+  {
+    "object_ID": "2016-44",
+    "title": "['Armour']",
+    "date": 2016,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172483&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large metal tree sitting in the middle of a park, trending on artstatioin, beksinki, 3-d 8k, by Erwin Bowien, side view from afar, mechanical limbs, gray skies, limbs, physical painting"
+  },
+  {
+    "object_ID": "2013-30",
+    "title": "['Nimeämätön sarjasta Lampi', 'Obenämnd från serien Träsk', 'Untitled from the series Pond']",
+    "date": 2013,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175385&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman walking in the rain, simon birch, blue - turquoise fog in the void, creepy child, masahiro ito, burned city, inspired by Gerhard Richter, a blue dress, of a family standing in a park, in a dark dungeon, installation view, kids playing"
+  },
+  {
+    "object_ID": "2014-27",
+    "title": "['Lehtipuu', 'Lövträdet', 'Leaf-Tree']",
+    "date": 2014,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174522&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a christmas tree made out of hearts hanging from a ceiling, inspired by Morris Louis Bernstein, reykjavik junior college, made in 2019, metal scales, inspired by Willem de Poorter, official product image, biodiversity heritage library, osl, crane, ldpe"
+  },
+  {
+    "object_ID": "01/02/1965",
+    "title": "['nimeämätön 1']",
+    "date": 1965,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169998&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a painting on a wall, yellow and charcoal leather, open books, front view 1 9 9 0, inspired by Anne Redpath, diptych, a painting of white silver, david kassan, 62 x 47 inches, 1 9 6 0 s art, mono-yellow, zinc white, aspect ratio 16:9, aerial photograph"
+  },
+  {
+    "object_ID": "2008-86-1",
+    "title": "['Juhannusaamu']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175928&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a group of chairs sitting next to each other in a room, vesa-matti loiri, nursing home, scenery artwork, f1.8 anamorphic, sitting in front of a lake, award - winning painting, by Myra Landau, colour photography, two people, waiting room, high - resolution photograph, comforting and familiar"
+  },
+  {
+    "object_ID": "1977-31",
+    "title": "['Peltotyötä', 'Åkerarbete', 'Working in the field']",
+    "date": 1946,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169952&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a man with a shovel in a field, inspired by Paula Modersohn-Becker, pastel art, blessing the soil at night, cd cover artwork, inspired by Luc Tuymans, by Milton Menasco, caretaker, jeremy pitkin, photorealist, blonde man, exploited, iowa, artificer"
+  },
+  {
+    "object_ID": "2009-65-1",
+    "title": "['Tarinoita, Variaatio 1.']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175357&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with a painting hanging on the wall, a very macular woman in white, hospital ward, inspired by David Chipperfield, white and yellow scheme, high resolution photograph, dotting, research complex, inspired by Alma Thomas, detailed photographs"
+  },
+  {
+    "object_ID": "1999-173-8",
+    "title": "['Helsinki-sarja', 'Helsingforsserien', 'Helsinki Series']",
+    "date": 1996,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169897&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of a person standing on a ledge, lenin, by Richard Hamilton, large sun in sky, peter saville, progressive rock album cover, parks and monuments, by Christopher Williams, blurry photography"
+  },
+  {
+    "object_ID": "2022-71",
+    "title": "['Nō-näyttelijä', 'Noh Theatre Actress']",
+    "date": 1986,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2854567&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man with an umbrella, by Lois Dodd, geisha prima ballerina, bird on his shoulder, by Helene Schjerfbeck, flowing sakura-colored silk, she wears a dark green dress, inspired by Kanō Motonobu, {uncertain look}, circa 1958, inspired by John Thomson of Duddingston, bird"
+  },
+  {
+    "object_ID": "2011-32-4",
+    "title": "['Liian painavat vieraat, hahmo 4', 'För tunga gäster', 'Too Heavy Guests']",
+    "date": 2011,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173330&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large rock sitting on top of a wooden bench, pritzker architecture prize, vienna city, mit technology review, kumamoto, artwork of pedro bell, full width, the nature of existence, inspired by Joaquín Clausell, unbalanced, by Ernő Grünbaum, port, norilsk"
+  },
+  {
+    "object_ID": "2020-42",
+    "title": "['Fake Star (Aqua Mercurii)']",
+    "date": 2020,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178552&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a tapestry hanging on a wall in a room, inspired by Einar Hakonarson, during a meteor storm, made of felt and cloth and beads, inspired by Dod Procter, church chandelier, inspired by Haukur Halldórsson, firenado, fabrics and textiles, heidelberg school, reflecting an erupting volcano, trending on artforum, giant star"
+  },
+  {
+    "object_ID": "1977-20",
+    "title": "['Simeonin matka kuuhun pirun selässä I', 'Simeonis månresa på fans rygg I', \"Simeoni journeying to the moon on the Devil's back I\"]",
+    "date": 1945,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2166870&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a dragon flying in the sky, dangerous mephisto from faust, painted with pastels, inspired by John Sloan, by Steve Brodner, promotional images, dithering, false human features, artist rendition, bat, by Charles W. Bartlett, terry moore"
+  },
+  {
+    "object_ID": "2005-159-7",
+    "title": "['EXTRA HANDS']",
+    "date": 2004,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169742&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a person standing on some rocks in the water, by Ren Hang, magical fishing rod weapon, ffffound, in the dolomites, artforum, inspired by Alexander Stirling Calder, rope bridge, rowing boat, lossless, ladders, anamorphic film, behance.net, strong man, by Denis Eden, inuit, analogue"
+  },
+  {
+    "object_ID": "2020-46",
+    "title": "['Kaveripiknik']",
+    "date": 2020,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180395&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a bunch of tables and chairs in a room, inspired by Elsa Beskow, hi - fructose art magazine, un restaurant avec une terrasse, drawing for children, wooden walls brass panels, photo courtesy museum of art, painted on a giant wall, trending on artforum, rabbits"
+  },
+  {
+    "object_ID": "2021-61",
+    "title": "['Meilahdesta', 'Från Mejlans', 'Scene from Meilahti']",
+    "date": 1974,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2654581&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a body of water surrounded by trees, wlop : :, sold at an auction, warsaw, ivan plusch artwork, canvas art print, muddy embankment, snowy plains, hollis dunlap, 1 2 0 0 dpi scan, by Jean Messagier, boat dock, sharp focus on scenery, trending on artforum, iowa, may gibbs"
+  },
+  {
+    "object_ID": "2021-18",
+    "title": "['Luonnos teokseen \"Juopottelua ullakolla I\"', 'Skiss till verket \"Dryckjom i vindskammaren I\"', 'Sketch for the work \"Drinking in the attic I\"']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2814101&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a group of people sitting around a table, drunkard, inspired by Everett Shinn, drinks bourbon, by Frances Hodgkins, in nazi occupied france, scans from museum collection, hergé, artforum, the second… like a calf, diptych, louis kahn"
+  },
+  {
+    "object_ID": "1996-26-2",
+    "title": "['Salt Flat']",
+    "date": 1968,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174335&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a fire hydrant sitting on the side of a road, sol lewitt, white cloth in wind shining, 1 9 7 0 s film, anamorphic illustration, museum archive photo, factory floor, strongshadows, rectangular, floating over a city sidewalk, by Viola Paterson, net art, carpet, 1988, sheet, stone slab"
+  },
+  {
+    "object_ID": "2017-36",
+    "title": "['Pocket Monument']",
+    "date": 2017,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179060&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a white sculpture sitting on top of a white pedestal, focus on torso, 1 9 7 0 s female alive, still image, white stone, various artworks, jinyoung shin, 2d side view, plasticine, toiletpaper magazine"
+  },
+  {
+    "object_ID": "2006-77-10",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173713&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with a door and a picture on the wall, biomaterial, swedish urban landscape, hallway landscape, dlsr photograph, installation view, hospital ward, anamorphic, accessible for the disabled, street printed poster, stand on stone floor, proof photograph, environmental art, 6 0 0 mm"
+  },
+  {
+    "object_ID": "1998-409",
+    "title": "['Expose', 'Expose', 'Expose']",
+    "date": 1998,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169983&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a group of people standing around a train station, glass and metal : : peugot onyx, canopies, by Tim Biskup, full width, yeg, amusement park buildings, as seen from the canopy, hydroponic farms, matrix film color, payne's grey and venetian red"
+  },
+  {
+    "object_ID": "2020-30",
+    "title": "['Karjalaistyttö', 'Karelsk flicka', 'Karelian Girl']",
+    "date": 1955,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178472&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman in a blue dress, inspired by Beauford Delaney, dressed in a pink dress, by Jeanne Hébuterne, timid and vulnerable expression, ditka, full image, on a bright day, sitting, hopeful expression, with round cheeks, year 1 9 4 4, male teenager, inspired by Maximilien Luce, hera"
+  },
+  {
+    "object_ID": "2006-77-1",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173569&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of blue chairs sitting next to each other, borne space library artwork, norrlandsskog, corporate photo, offices, by Elfriede Lohse-Wächtler, stone etchings, hospital lighting, collaborative painting, by Enzo Cucchi, subsurface, taken with canon eos 5 d, anamorphic illustration"
+  },
+  {
+    "object_ID": "2009-64",
+    "title": "['Lehmiä laitumella', 'Cattle Grazing']",
+    "date": 1989,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169765&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of cows grazing in a field, by Paul-Émile Borduas, inspired by Childe Hassam, season 3 ( 1 9 9 7 ), oil on canva, circa 1958, website banner, inspired by Abram Arkhipov, partially covered with dust, sunny at noon, by Janet Fish, naturalistic technique, railroad"
+  },
+  {
+    "object_ID": "2014-41-1",
+    "title": "['Sea 1']",
+    "date": "2009/2014",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172607&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hospital room with a painting on the wall, award winning landscape photo, ocean specular, zaragoza gilberto soren, gipf project, spinal column, large twin sunset, anamorphic, clean horizon, photographic print, in a research facility, by Ulrika Pasch, ekasportal"
+  },
+  {
+    "object_ID": "1999-173-9",
+    "title": "['Helsinki-sarja', 'Helsingforsserien', 'Helsinki Series']",
+    "date": 1996,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168490&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of a clock tower, red square, eiko hosoe, trending on artforum, 16mm, file photo, second coming, test, by Josef Jackerson, lithograph, accidentally photographed, first photograph ever taken, cathedrals, 1 9 7 8, artforum, fluxus, srgb"
+  },
+  {
+    "object_ID": "2021-20",
+    "title": "['Luonnos Seitsemän veljestä -kuvitussarjaan', 'Sketch for a series of illustrations for The Seven Brothers']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2814104&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a fire with smoke coming out of it, by Mario Sironi, back of head, thunderclouds, o'neill cylinder colony, inspired by Ilya Glazunov, by Moïse Kisling, disney concept artists, golem, courtesy of moma, wildfire"
+  },
+  {
+    "object_ID": "2018-19",
+    "title": "['Sukulaku', 'Sukulaku Liquorice']",
+    "date": 2017,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177069&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture of a giraffe with a ball in its mouth, inspired by Yasuo Kuniyoshi, redshift render, interconnected human lifeforms, oozing black goo, a person standing in front of a, imbalanced mars. rugged, woman posing, two large horns on the head, 7, lipkin, top"
+  },
+  {
+    "object_ID": "2003-66",
+    "title": "['Juuret']",
+    "date": 2003,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168201&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a living room filled with furniture and a flat screen tv, shot on large format film camera, hospital background, by Jakob Häne, environmental artwork, blue wall, nursing home, slow - shutter, photo taken at night, various artworks, homelander, large format, triptych, tvs, arthouse cinema, by Arvid Nyholm, artforum"
+  },
+  {
+    "object_ID": "2009-54-2",
+    "title": "['Riutta, Kissantassukoralli']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172518&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a bunch of orange and yellow umbrellas hanging from a ceiling, inspired by Lambert Jacobsz, incubator medpods, lantern, houzz, by Maria van Oosterwijk, hd —h 1024, artistation, hospital interior, new sculpture, lollipop, intricately designed, interconnections, ilse gort"
+  },
+  {
+    "object_ID": "2006-77-42",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172620&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with pictures hanging on the wall, schlieren, medical photography, anamorphic wide angle lens, awardwinning, hospital ward, street photograph, poster tour, inspired by Gloria Stoll Karn, archive photograph, by Ulrika Pasch, police shot, taken with a canon eos 5d, long distance photo"
+  },
+  {
+    "object_ID": "2016-17",
+    "title": "['Kallioharjanne', 'Rocky Ridge']",
+    "date": 1980,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175966&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white drawing of a mountain range, by Luc Tuymans, deserted sand, on a hill, brush, prairie, retracing, by ashley wood, low horizon, shan shui, on an island, cel shadow"
+  },
+  {
+    "object_ID": "2010-78-4",
+    "title": "['Voikukka']",
+    "date": 2010,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168314&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a metal sculpture of a dandelion in front of a building, inspired by Thomas Aquinas Daly, school courtyard, by Anton Möller, floor lamps, osl, bright sun, paddle and ball, award - winning design, inspired by Georg Schrimpf, on a canva, metaballs, round-cropped"
+  },
+  {
+    "object_ID": "2022-3",
+    "title": "['nimeämätön', 'utan titel', 'untitled']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2584500&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a man sitting at a table, by Ludwig Bemelmans, rendering of checkmate, inspired by Ramon Casas i Carbó, two buddies sitting in a room, john kricfalusi, calotype, subject action: smoking a cigar, inspired by Isidor Kaufman"
+  },
+  {
+    "object_ID": "2007-62",
+    "title": "['Ruskapuita ja järvi', 'Autumn Trees and Lake']",
+    "date": 1996,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170830&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a field of trees with a lake in the background, william f. buckley graphic novel, fall colors, by Peter Doig, inspired by Alfred Wallis, full image, watercolour, photo courtesy museum of art, barren sands, in thick layers of rhythms, tundra, color pigments spread out in air"
+  },
+  {
+    "object_ID": "1976-228",
+    "title": "['Ilta merellä', 'Kväll på havet', 'Evening at Sea']",
+    "date": 1952,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168407&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of two people standing in a field, by John Hoyland, film still from god of war, horizon of an erupting volcano, gondolas, made of wax and oil, felting, three women, in the sunset, broken road, zhuoxin ye, aged 13, complementary colour, stormclouds"
+  },
+  {
+    "object_ID": "1970-9",
+    "title": "['Tähystyslaatikko', 'Låda med titthål', 'Lookout Box']",
+    "date": 1969,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171383&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a window with a view of the ocean, inspired by Stanisław Ignacy Witkiewicz, by Karl Gerstner, isometric island in the sky, vesa-matti loiri, 3 2 x 3 2, album cover art, museum painting, autechre, fresco, inspired by Zoltán Joó, cerulean"
+  },
+  {
+    "object_ID": "1968-50",
+    "title": "['Metsä', 'Skog', 'Forest']",
+    "date": 1967,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176746&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a rug on a white surface, eric carle, trending on artforum, verdant gradient, made entirely from gradients, 4, medium: colored pencil, panoramic anamorphic, overgrown with moss, inspired by Zoltán Joó, by Ernő Grünbaum, by Béla Czóbel, coloured marker"
+  },
+  {
+    "object_ID": "2011-61",
+    "title": "['Kristallikallo', 'Kristallskalle', 'Crystal Skull']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174969&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a sculpture of a skull, girl with a pearl earringl, by Cornelia MacIntyre Foley, death dreaming about death, wearing a bejeweled mask, white with black spots, rock and dust, spherical body, in a luminist style, white and silver, japanese pottery, celebrating day of the dead"
+  },
+  {
+    "object_ID": "2016-43-1",
+    "title": "['Sisävuoro']",
+    "date": 2013,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176962&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a blue and brown clock on a white wall, wicker art, inspired by Cornelia MacIntyre Foley, corporate logo, oak parquet, by Eduardo Lefebvre Scovell, avetetsuya studios, polynesian style, featured on artsation, nasa archives, interior photograph, woven armour, hdpe, smooth curvilinear design"
+  },
+  {
+    "object_ID": "2011-68",
+    "title": "['Lentävä puutarha', 'Den flygande trädgården', 'Flying Garden']",
+    "date": 2011,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176506&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a child's room with a mural of animals on the wall, inspired by Peter Zumthor, activity play centre, royal commission, owls, high - resolution photograph, medical complex, image on the store website, corridor, maintenance area, by Antoni Pitxot, biodiversity, osl, centre image, birds"
+  },
+  {
+    "object_ID": "1990-184-2",
+    "title": "['Hommage a Keiji Uematsu']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173196&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of snow and rocks, gutai group, photogravure, harmony of the spheres, mather brown, motion photo, museum catalog photograph, lake scene, evenly spaced, photo courtesy museum of art, photo of a model, octave rendey, full width, reportage photo"
+  },
+  {
+    "object_ID": "2019-98",
+    "title": "['USKO TOIVO RAKKAUS', 'TRO HOPP KÄRLEK']",
+    "date": 2019,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177021&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture in the middle of a plaza with buildings in the background, eero aarnio, golden chain, the stone is round, diptych, by Peter Madsen, launching a straight ball, on a canva, flares anamorphic, white eclipse, h 1 0 2 4, orbital rings, gateway, height 1 7 8, orb"
+  },
+  {
+    "object_ID": "2021-35",
+    "title": "['Luonnos Seitsemän veljestä -kuvitussarjaan', 'Sketch for a series of illustrations for The Seven Brothers']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2815082&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a house and a tree on a hill, distant twinkling stars, torchlight. sketch, siberia, ( ( extreme detail ) ), scp-914, at a campfire at night, by Isidor Kaufman, inspired by Eero Snellman, looking down at the forest floor, by William Gropper"
+  },
+  {
+    "object_ID": "2003-115",
+    "title": "['Play', 'Play', 'Play']",
+    "date": 2003,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2166847&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a man sitting at a table in front of a window, children playing with pogs, modern architecture design, ffffound, red adornements, simple ceiling, wearing a white folkdrakt dress, ceilings, pendants, coper cladding, lumens, from 2001, ten flats, by Karl Hagedopoorn, hanging scroll"
+  },
+  {
+    "object_ID": "2019-88",
+    "title": "['Biomipeli', 'The Game of Biomes']",
+    "date": 2019,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177956&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a ceiling that has some lights hanging from it, glass and metal : : peugot onyx, laboratory, high details photo, glass ball, lens interoperability, by Édouard Debat-Ponsan, trending on artforum, transmitters on roof, interconnections, bottom up green lighting, gipf project, museum photo"
+  },
+  {
+    "object_ID": "2020-56",
+    "title": "['Kompositio', 'Komposition', 'Composition']",
+    "date": 1949,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172322&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of abstract shapes on a white background, gurney, by Charles Mahoney, richly colored, a cubist painting, in thick layers of rhythms, olives, negative and positive shapes, h 1088, gray anthropomorphic, webbing, shapes and colours, color field painting, square lines, hoang lap"
+  },
+  {
+    "object_ID": "2017-47-3",
+    "title": "['Näyttämö']",
+    "date": 2017,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180716&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with a table and a radiator, green wall, gestural lines, installation view, kids place, by Charles Angrand, wetbrushes, avec des dents pointues, 2 d image, elm tree, 2 d matte, 2d matte"
+  },
+  {
+    "object_ID": "2005-158-3",
+    "title": "['Kotipaikkoja - omenapuu']",
+    "date": "1999/2005",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168534&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of red chairs sitting next to a window, wearing a white hospital gown, sweden, 2 d image, with soft bushes, iso 125, 2 0 1 1, neoplasticism art, parallax photography, one panel, black female, an scp anomalous object, inside a tall vetical room, warm and soft and subdued colors"
+  },
+  {
+    "object_ID": "2019-79",
+    "title": "['Ajaton', 'Tidlös', 'Timeless']",
+    "date": 2019,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179239&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a clock mounted to the side of a building, us journalism ministry photo, by Aldus Manutius, oak acorns, utrecht, 2 d logo, inspired by Niels Lergaard, full width, neo classical architecture, scp, installation view, by Sophie Taeuber-Arp, norrlandsskog, artforum, heraldry, symbolic metaphor"
+  },
+  {
+    "object_ID": "1977-17",
+    "title": "['Jouluvalkean ääressä', 'Vid julbrasan', 'Sitting by the fire on Christmas Eve']",
+    "date": 1946,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171257&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a group of children around a fire, inspired by Henry Lamb, trending on artforum, wearing school uniform, animation illustrative style, by Peter Churcher, one man is blond, cosy fireplace, detention centre, midsommar, 8 h, robes, stalingrad, candlelit, google arts and cultures"
+  },
+  {
+    "object_ID": "2018-92-12",
+    "title": "['Herää!']",
+    "date": 2015,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180386&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with paintings on the wall and pictures on the wall, inspired by Ellen Gallagher, hospital ward, hands of men, pencil and vine charcoal drawing, awardwinning, highly detailed photograph, in the office, by Mary Callery, textiles, golem, 1 3 3 4 building, oniric, photo of the girl"
+  },
+  {
+    "object_ID": "2020-40",
+    "title": "['Harmaa ympyrä', 'Grey Circle']",
+    "date": 1974,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180492&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a person standing in front of a building, by Roy Newell, inspired by Paul Klee, portrait of hugh laurie, google arts and cultures, tessellating patterns, two buddies sitting in a room, 4k —height 1024 —width 1024, inspired by Frances Hodgkins, the goddess of autumn harvest"
+  },
+  {
+    "object_ID": "2018-92-9",
+    "title": "['Lihakset']",
+    "date": 2015,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178883&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with pictures hanging on the wall, gesture drawings, by Elfriede Lohse-Wächtler, medical complex, wild brush strokes, vernadskys noosphere, on high-quality paper, hospital lighting, archive photography, anamorphic illustration, stanisław szukalski, botanical photo, gthl.art"
+  },
+  {
+    "object_ID": "2019-65",
+    "title": "['Huivipäinen nainen', 'Kvinna i duk', 'Woman in Headscarf']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177008&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman with a red hat, inspired by Natalia Goncharova, an idyllic vineyard, photo courtesy museum of art, inspired by Franklin Carmichael, fabrics and textiles, award - winning painting, female anthropomorphic wolf, georgia o'keefe, auction, summer siberian forest taiga, greta thunberg, inspired by Zlatyu Boyadzhiev"
+  },
+  {
+    "object_ID": "2014-39",
+    "title": "['Mo(nu)ments', 'Mo(nu)ments', 'Mo(nu)ments']",
+    "date": 2014,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171965&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with a table and pictures on the wall, swedish urban landscape, hospital lighting, brick, fzd school of design, 7 0 mm entrance pupil diameter, featured on artstattion, wall torches, inspired by Jaakko Mattila"
+  },
+  {
+    "object_ID": "2018-359",
+    "title": "['Yöllinen purjehdus', 'Sailing by Night']",
+    "date": 1977,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180308&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of sailboats sailing in the ocean, inspired by William Zorach, vibrant moody colors, the city of santa barbara, inspired by Moses Soyer, oil on canva, ca. 2001, schomburg, james piack, 1950, strathmore 2 0 0, searchlight"
+  },
+  {
+    "object_ID": "2012-26-1",
+    "title": "['Koivu, pietaryrtti, lupiini ja kanerva / Löytöretki Myllypuroon', 'Björk, renfana, lupin och ljung / Upptäckresan till Myllypuro']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174819&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of people sitting at a table in a room, walter white botanical poster, installation view, by Afewerk Tekle, espoo, photorelism, pictures in sequence, made of flowers and leaves, photo of a classroom, stroboscope, reportage photography, published art, underexposed photography"
+  },
+  {
+    "object_ID": "2008-104",
+    "title": "['Avaran kosketus (Lapland)']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171841&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with desks, chairs and pictures on the wall, swedish urban landscape, medical lighting, featured in artistation, photography of bill brauer, large arrays, photo taken from far, detention centre, scenic environment, rows of canteen in background, iso-250, taken with a canon eos 5 d"
+  },
+  {
+    "object_ID": "2022-70",
+    "title": "['Nō-näyttelijä', 'Noh Theatre Actress']",
+    "date": 1985,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2851545&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a person holding a stick, by Helen Berman, a blue skirt, inspired by Gao Xiang, wearing japanese school uniform, inspired by Arthur Boyd, depicting a flower, she has a distant expression, circa 1958, wearing white clothes, in red gardens, sukkot, inspired by Shi Zhonggui"
+  },
+  {
+    "object_ID": "2008-114",
+    "title": "['Lätäköt – näyttämö sateelle', 'Vattenpölar – en scen för regnet', 'Puddles – A Stage for Rain']",
+    "date": 2008,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167626&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a truck that is sitting on the side of the road, rooftop solar panels, vesa-matti loiri, installation view, blurry image, hospital background, windstorm, making of, extreme panoramic, caparison, flattened, timelapse, draft, torn cape, water damage, sheet"
+  },
+  {
+    "object_ID": "2009-51",
+    "title": "['Asetelma', 'Stilleben']",
+    "date": "1980-luku",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168948&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of cactus plants and vases on a table, by Nicolas de Staël, inspired by Ken Howard, unsaturated and dark atmosphere, inspired by Ye Xin, taupe, in a darkly lit laboratory room, inspired by William Nicholson, installation view, shin jeongho"
+  },
+  {
+    "object_ID": "2019-97",
+    "title": "['Kuppi kummaa', 'En kopp konstighet', 'Odd cup of Coffee']",
+    "date": 2019,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177188&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large metal sculpture sitting in the middle of a parking lot, by Johan Lundbye, hexagon in front of the sun, by Tuvia Beeri, historical artworks, rolling dice, twisted shapes, andy park, shipyard, inspired by Rajmund Kanelba, 2019, triptych, iso 1250, the hard and strong buildings, muddy village square"
+  },
+  {
+    "object_ID": "1976-380",
+    "title": "['Keinutuolissa', 'I gungstolen', 'In a Rocking Chair']",
+    "date": 1924,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168507&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman sitting in a rocking chair, by Armin Hansen, inspired by Henry Lamb, standing near a window, photo courtesy museum of art, inspired by Eppo Doeve, in a sunbeam, wistful, in muted colours, weaving, greta thunberg, trying to read, in a red dish, in the middle of the day"
+  },
+  {
+    "object_ID": "2021-41",
+    "title": "['Luonnos teokseen Ateria', 'Skiss till verket Måltid', 'Sketch for the work \"The meal\"']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2815152&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white drawing of a group of people, by Max Pechstein, eating ramen, still from film, by Gustaf Tenggren, working in the forge, concept sketches, loose coat collar sailor uniform, 1948, kalevala, creative commons attribution, round-cropped, pirates in a tavern, nomadic, camp, photo courtesy museum of art"
+  },
+  {
+    "object_ID": "2019-87",
+    "title": "['Toivo on höyhenpukuinen', 'Hoppet är det där med fjädrar', 'Hope is the thing with feathers']",
+    "date": 2019,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180326&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a blurry picture of a man walking in front of a building, product display, hospital interior, by Oluf Høst, digital screens, architecture magazine, vending machine, seen from the long distance, inspired by Barent Fabritius, medium format photography, artforum"
+  },
+  {
+    "object_ID": "2008-5",
+    "title": "['Konjunktio', 'Konjunktion', 'Conjunction']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2166850&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white drawing of two men with skis, gutai group, synthetic polymer paint on linen, ropes and chains, by Zhang Xiaogang, people's silhouettes close up, rubber hose animation, 3 2 x 3 2, standing on two legs, crutches, torn paper, design award, two characters, circus performance"
+  },
+  {
+    "object_ID": "2021-25",
+    "title": "['Luonnos teokseen Äiti ja vitsa', 'Skiss till verket Modern och riset', 'Sketch for the work \"Mother and the birch-rod\"']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2814237&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a group of people in a field, whirlwind, by Avigdor Arikha, weeping angels, moses, by Gustaf Tenggren, wildfire, people running away, 6"
+  },
+  {
+    "object_ID": "2008-106",
+    "title": "['Sarjasta Can you tell me', 'Ur serien Can you tell me', 'From the series Can you tell me']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168893&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a window with a view of trees through it, 65mm 1.5x anamorphic lens, dust clouds | homoerotic, frosted glass, safehavenhq, inspired by Arnold Newman, widescreen shot, winter atmosphere, darkslategray wall, zack snyder 3 8 4 0 x 2 1 6 0, ambient art, featured on unsplash, windows 7"
+  },
+  {
+    "object_ID": "1996-24",
+    "title": "['Stills from Gingerbread Man']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177898&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of a man eating a donut, glass pipes showing red, by Penny Rimbaud, educational display case, health spa and meditation center, long hair blue centred, psychedelic lsd, digital screens, anamorphic film, the doors, museum photo, photos"
+  },
+  {
+    "object_ID": "2006-77-24",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174700&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a long hallway with a painting on the wall, medical photography, inspired by Eero Järnefelt, medical complex, helipad, eyelevel perspective image, environment lighting, by Thomas de Keyser, mcu photograph, canva, h 9 6 0, high-tech environment, cells"
+  },
+  {
+    "object_ID": "2018-29",
+    "title": "['Nimeämätön (Sonnin siesta)', \"Untitled (The Bull's Siesta)\"]",
+    "date": 1968,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176992&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a living room with a bicycle on the wall, inspired by Antoni Tàpies, by Man Ray, sat at her desk, synthesizer, magenta and gray, ranjit ghosh, courtesy of moma, mixed medias, atmospheric and depressed, iron frame, by Charles Blackman, partially covered with dust, squid"
+  },
+  {
+    "object_ID": "2018-92",
+    "title": "['Teoskokonaisuus Stadin ammatti- ja aikuisopiston Prinsessantien toimipisteeseen', 'Verkhelheten för Yrkesinstitutet Stadin ammatti-ja aikuisopistos enhet vid Prinsessvägen', \"A series of work for Helsinki Vocational College's Prinsessatie Facility \"]",
+    "date": 2016,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179058&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a long hallway with paintings on the wall, antennae on a hestiasula head, pen and ink drawings, hospital lighting, by Veikko Törmänen, twisting organic tendrils, artistic lithography, h 1 0 2 4, medical complex, de kooning, 2 d image, high - resolution photograph, by Rajmund Kanelba"
+  },
+  {
+    "object_ID": "2011-32-5",
+    "title": "['Liian painavat vieraat, hahmo 5', 'För tunga gäster', 'Too Heavy Guests']",
+    "date": 2011,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172211&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large rock sitting on top of a sidewalk, by Eero Snellman, inspired by Georg Baselitz, beside the river, panoramic anamorphic, dmitry bogdanov, metalhead, photo courtesy museum of art, monolithic temple, jeongseok lee, artforum, helsinki, frontview, 2009, ceremonial portrait, 2014"
+  },
+  {
+    "object_ID": "2021-38",
+    "title": "['Luonnos teokseen Lukkari oppimestarina I', 'Skiss till verket Klockaren undervisar I', 'Sketch for the work \"The parish clerk teaching I\"']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2815111&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a group of people sitting around a table, hayao miyazak, boris johnson hairstyle, by Karel Havlíček, inspired by Samuel Hieronymus Grimm, detention centre, american realist, battling demons, private school, zdzidaw, yuya nagai, akseli gallen kallela"
+  },
+  {
+    "object_ID": "2022-32",
+    "title": "['Elvira']",
+    "date": 1912,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2860526&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a woman with blue eyes, by Dora Carrington, aged 13, small blond goatee, hergé, shoulders can be seen, by Hubert van Ravesteyn, trending on artforum, louis kahn, by William Crozier, herzog de meuron, daguerrotype, gemmy woud - binendijk"
+  },
+  {
+    "object_ID": "2008-86",
+    "title": "['Juhannusaamu']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175928&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a group of chairs sitting next to each other in a room, vesa-matti loiri, nursing home, scenery artwork, f1.8 anamorphic, sitting in front of a lake, award - winning painting, by Myra Landau, colour photography, two people, waiting room, high - resolution photograph, deathscape, julia hetta"
+  },
+  {
+    "object_ID": "2009-54-3",
+    "title": "['Riutta, Puukoralli']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174358&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a bunch of lights hanging from the ceiling of a building, holly herndon origami statue, highly detailed fire tendrils, in a open-space working space, flowers in foreground, theater access corridor, fiery bird, colour photograph, 1km tall, black plastic, creative commons attribution, by Maginel Wright Enright Barney, 3d printed building, transmitters on roof"
+  },
+  {
+    "object_ID": "1992-33",
+    "title": "['Pellingin retkeläisten muistomerkki', 'Pellingekårens minnesmärke', 'Battle of Pellinki Memorial']",
+    "date": 1921,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175177&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man sitting on top of a stone block, technoviking male with no shirt, parks and monuments, london, national geograph, displayed on the walls, puṣkaracūḍa, julia hetta, editorial awarded design, inspired by William John Thomson, panoramic, oak"
+  },
+  {
+    "object_ID": "2013-31",
+    "title": "['Tähtien synty', 'Stjärnornas födelse', 'The Birth of Stars']",
+    "date": 2013,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176347&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a staircase with a colorful mural on the wall, data visualization, by Rebecca Horn, dart board, school curriculum expert, inspired by Washington Allston, anamorphic film, svg art, collaborative, artforum, flat 2 d design"
+  },
+  {
+    "object_ID": "2018-92-6",
+    "title": "['Koira leikkii']",
+    "date": 2015,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179111&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a row of drawings hanging on a wall, reykjavik junior college, charlie immer and jenny saville, hospital room, woodcut art, walls are covered with vines, in - frame. photorealistic, face shown, by Veikko Törmänen, by Lars Jonson Haukaness, gipf project, woodcut, one line drawing"
+  },
+  {
+    "object_ID": "2015-30",
+    "title": "['Fan Fiction #1']",
+    "date": 2015,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180801&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a piece of art that is on a wall, flowing pink-colored silk, trending on artforum, bandana, interconnections, by Sara Saftleven, black opals, 'untitled 9 ', cell biology, combat, albuquerque, panel, animated still, yard, lizzo, intarsia"
+  },
+  {
+    "object_ID": "1992-110",
+    "title": "['Merestä noussut', 'Uppstigen ur havet', 'Risen from the Sea']",
+    "date": 1975,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175139&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man sitting on top of a cement block, inspired by Gerda Wegener, exposed toes, by Akseli Gallen-Kallela, creative commons attribution, medical complex, panoramic anamorphic, woman with braided brown hair, thomas reimann, female viking, foot path, sie boob, university, fhd"
+  },
+  {
+    "object_ID": "2012-26-3",
+    "title": "['Intiaanitarina / Löytöretki Myllypuroon', 'Indianberättelse / Upptäckresan till Myllypuro', 'Indian Story / Discovery to Myllypuro']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176600&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a man and a child sitting in a waiting room, mushroom trees, featured on artscape, by Keren Katz, displayed on the walls, inspired by Bracha L. Ettinger, medical supplies, depicting a flower, helsinki, gal yosef, large arrays, published art, 2011, ashcan school, interior shot, 12"
+  },
+  {
+    "object_ID": "2022-11",
+    "title": "['Punainen tehdas', 'Red Factory']",
+    "date": 1949,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2592623&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a sunset over a city, by John Hoyland, smokestacks, city of industry, stalingrad, exhibited in the british museum, softair arena landscape, exhibited at the british museum, shades of red, nuclear waste, stockholm, photo courtesy museum of art, paul bonner, rising steam, bonnard"
+  },
+  {
+    "object_ID": "2008-79-1",
+    "title": "['Water Sketches (II)']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168926&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a stage with a waterfall in the middle of it, synthetic polymer paint on linen, black and silver, in 2 0 0 2, pixel rain, hanging scroll on wall, by Christen Dalsgaard, water texture, theatrical, bubbly underwater scenery, layered paper style, submechanophobia, high - resolution photograph, artforum"
+  },
+  {
+    "object_ID": "2006-77-14",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173584&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with a picture hanging on the wall, super wide view of a cityscape, norrlandsskog, medical lighting, exterior photography, medium length photography, 1km tall, anaesthetic, helsinki, physical painting, horizon view, fluorescent led, nursing, flat image"
+  },
+  {
+    "object_ID": "2019-18",
+    "title": "['Omakuva', 'Självporträtt', 'Self-Portrait']",
+    "date": 1910,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179594&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a drawing of a person, by Max Pechstein, portrait of 1 5 - year - old boy, stephen fry, mid-20s, with full bangs, inspired by David Bomberg, hand - tinted, lionel messi, looking to the right, liepke, poster, portrait of wild"
+  },
+  {
+    "object_ID": "2008-57",
+    "title": "['Sarjasta Kaikki katoavat yhdeksi', 'Ur serien Alla försvinner och blir ett', 'From the series Everything Disappears and Becomes One']",
+    "date": "2001/2007",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169750&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of a boat dock, by Marina Abramović, transparency glass, swedish design, hut, front page, joel meyerowitz, progressive rock album cover, by Béla Czóbel, rectangular, gazebos, dispersion, horizon"
+  },
+  {
+    "object_ID": "2009-75",
+    "title": "['Manttelimadonna', 'Mantelmadonna', 'Mantle Madonna']",
+    "date": 2008,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167246&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a woman in a blue robe with a red face painted on her face, trending on artforum, body armour, inspired by Lin Tinggui, wearing knee and elbow pads, 2 0 1 4. modern attire, wearing a nightgown, inuit, scary pose, she wears a jacket, godes sculpture, kwak ji young"
+  },
+  {
+    "object_ID": "2022-1",
+    "title": "['Sininen mysteeri', 'Blue Mystery']",
+    "date": 1970,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2577626&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a blue elephant on a blue background, by Etel Adnan, by Alfred Manessier, round doors, atlantis, trending on artforum, inspired by Felice Casorati, beside the sea, untitled mixed media, artforum, by Antoni Tàpies, mythological map, artgram, naples"
+  },
+  {
+    "object_ID": "2021-42",
+    "title": "['Luonnos Seitsemän veljestä -kuvitussarjaan', 'Sketch for a series of illustrations for The Seven Brothers']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2815166&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a group of people walking up a hill, scout boy, inspired by Arthur Merric Boyd, by Hugo Simberg, year 1 9 4 4, troops searching the area, where the ash gathered, hong lei, hansel and gretel, by Robert Bevan, kuang hong, gehenna, labrador"
+  },
+  {
+    "object_ID": "2021-29",
+    "title": "['Luonnos teokseen Seitsemän veljestä', 'Sketch for a series of illustrations for The Seven Brothers']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2814293&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a group of people sitting on a bench, by David Bomberg, detention centre, by Bruce Nauman, court session images, nervous and terrified, travellers, year 1 9 4 4, wim wenders, ( boris johnson ), prison, readhead, us court, 2 0 1 9, worshipers, passengers, photo courtesy museum of art, 7"
+  },
+  {
+    "object_ID": "2006-77-38",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176444&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a long hallway with several windows and a red fire hydrant, sterile minimalistic room, f1.8 anamorphic, metal cladding wall, x-ray photography, by Claes Jansz. Visscher, medium close - up ( mcu ), award winning lighting, large patches of plain colours, cell bars, by Lars Jonson Haukaness"
+  },
+  {
+    "object_ID": "2019-77-1",
+    "title": "['Kahdeksannen rautamunan hautoja', 'Kläckaren av det åttonde järnägget ', 'Hatcher of the Eighth Iron Egg']",
+    "date": 2019,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179180&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a painting on a wall, detailed patterned rug, large pore fungi embroidered, inspired by Richard Artschwager, official product image, standing on rock, breads, with a black dark background, printmaking, lying on a fuzzy blanket, tumours"
+  },
+  {
+    "object_ID": "2011-31",
+    "title": "['Untitled (Milano N5 + N6)']",
+    "date": 2010,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173865&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a reflection of a building in a glass wall, unsplash, by Thomas Struth, aspect ratio 16:9, ( ( abstract ) ), featured on artscape, interconnections, townscape, compositing, deblurring, speculative futures, blue - print"
+  },
+  {
+    "object_ID": "2005-72",
+    "title": "['Lasikannuasetelma', 'Stilleben med glaskanna', 'Still Life with Glass Pitchers']",
+    "date": 1983,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167245&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of vases on a table in front of a window, by Lois Dodd, trending on artforum, bottles, art of émile eisman-semenowsky, light yellow, intravenous drip, lavender, hanging scroll, blair armitage"
+  },
+  {
+    "object_ID": "2009-84",
+    "title": "['Toinen todellisuus', 'En annan verklighet', 'Another Reality']",
+    "date": "2004-2009",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171450&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a wall with a bunch of hooks on it, by Yanagawa Nobusada, leaping towards viewer, broken pipes, stairs, houzz, sofubi, scp, inspired by Lodewijk Bruckman, reykjavik junior college, water stream, mit technology review, wood sculpture, photo courtesy museum of art, medical research facility"
+  },
+  {
+    "object_ID": "1976-288",
+    "title": "['Toni (Tony Rydeng)']",
+    "date": 1913,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168278&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a little girl with a flower in her hair, by Margareta Alströmer, inspired by Isaac Soyer, shoulder - length blonde hair, serious and stern expression, still from film, pink face, by Béla Kondor, highlighted, aged 13, front view 2 0 0 0, circa 1958, mid - 3 0 s aged"
+  },
+  {
+    "object_ID": "1976-249",
+    "title": "['Carl Wargh ateljeessaan', 'Carl Wargh i sin ateljé', 'Carl Wargh in his Studio']",
+    "date": 1918,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178644&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man smoking a cigarette, inspired by Gwen John, wearing a light blue suit, exhibition catalog, pipes, muted colors with minimalism, photo courtesy museum of art, fig.1, caulfield, by Per Krohg, detail on scene, mid century art, facing the viewer, youth, trending on artforum, 🎨🖌️"
+  },
+  {
+    "object_ID": "2009-61-7",
+    "title": "['Polku / Kaunis maa, Diptyykki 4 ']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174252&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a living room with a couch and two paintings on the wall, mit technology review, orange and blue, installation view, azure sky tones, louise dalh - wolfe, offset photography, calm seas, impressionism painting, hospital background, simplified forms, artforum"
+  },
+  {
+    "object_ID": "2000-45",
+    "title": "['Ukonilman jälkeen, Köyliö 1967']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170626&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a child's drawing of a sailboat, interior of a mountain hut, in style of juergen teller, 8 h, icelandic landscape, artforum, eyelevel perspective image, toiletpaper magazine, volcanoes, blog-photo, 2019, ruan kia and john singer sargent, otzi, by Christo"
+  },
+  {
+    "object_ID": "2018-411",
+    "title": "['Jääkarhupoika', 'Isbjörnspojken', 'Polar Bear Boy']",
+    "date": 2018,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177402&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man in overalls stands in front of a building, giant bear human hybrid, inspired by Eero Järnefelt, wood art, health spa and meditation center, inuit, by Ulrika Pasch, sap, art magazine, hayao myiazaki, in 2 0 1 5, pine, kemono, torri, library"
+  },
+  {
+    "object_ID": "2018-26",
+    "title": "['Pyramidikukka sarjasta Merellinen kosinta', 'Pyramid Flower from the series Seaside Proposal']",
+    "date": 1977,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178611&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man and a woman on a beach, inspired by Beauford Delaney, dark cave room, with pterosaurs flying, fuchsia and blue, by Armin Hansen, inspired by Charles Blackman, toiletpaper magazine, nighthawks, yanjun chengt, kiyoko suzuki, trending on artforum, miro"
+  },
+  {
+    "object_ID": "2021-21",
+    "title": "['Luonnos Seitsemän veljestä -kuvitussarjaan', 'Sketch for a series of illustrations for The Seven Brothers']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2814181&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a teddy bear reading a book, phoenix head, maurits cornelius escher, marc davis, serpent body, connectedness, pitt, twisting leaves, recursion, small flames, curled up on a book, the letter a, non - euclidian, phi, maxwell boas, 8 h, forbidding"
+  },
+  {
+    "object_ID": "2002-95-3",
+    "title": "['Kuvakudoksia, Kesä']",
+    "date": 2002,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169195&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting hanging on a wall next to a chair, wool felting art, several hearts, by Susan Weil, features intricate detail, warmer and softer colours, warm colors scheme, square, hanging scroll, textiles"
+  },
+  {
+    "object_ID": "2008-80-3",
+    "title": "['Usva, sarastus & katse']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176219&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with a plant and pictures on the wall, inspired by Robert Bevan, nursing home, sea breeze rises in the air, award-winning oil painting, the caretaker, varying locations, colour photograph, alla prima, jesper esjing, hospital ward, descriptive art"
+  },
+  {
+    "object_ID": "2006-77",
+    "title": "['Kaupunkimaisemat', 'Stadsvyer', 'Cityscapes']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173569&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of blue chairs sitting next to each other, borne space library artwork, norrlandsskog, corporate photo, offices, by Elfriede Lohse-Wächtler, stone etchings, hospital lighting, collaborative painting, by Enzo Cucchi, subsurface, taken with canon eos 5 d, anamorphic illustration"
+  },
+  {
+    "object_ID": "2018-445",
+    "title": "['Kirjeitä Madonnalle', 'Brev till Madonna', 'Letters to Madonna']",
+    "date": 2018,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177311&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a bunch of towels hanging on a clothes line, by Grayson Perry, writing a letter, sophia lillis, made in 2019, inspired by Jean Messagier, court images, artsation contest winner, exhibition catalog, innocence, placards, pictured from the shoulders up, 2010s, codex, delicate details"
+  },
+  {
+    "object_ID": "2020-61",
+    "title": "['Put put']",
+    "date": 2020,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178806&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large rock sitting in the middle of a puddle of water, eero aarnio, town center background, rustic yet enormous scp (secure, by Þórarinn B. Þorláksson, 3-d 8k, modern neighborhood, salad and white colors in scheme, full height sculpture, moderate colors, 21:9, photograph of enchanted garden"
+  },
+  {
+    "object_ID": "2009-65",
+    "title": "['Tarinoita', 'Berättelser', 'Stories']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175357&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with a painting hanging on the wall, a very macular woman in white, hospital ward, inspired by Carol Bove, inspired by William Yellowlees, listing image, by David Chipperfield, displayed, viewed from afar, shift photography, yellow scheme, hospital, detailed photograph high quality"
+  },
+  {
+    "object_ID": "2008-124",
+    "title": "['Solitude IV']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170202&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of a park bench, offset lithography print, by Helene Schjerfbeck, rich volumetric light, idyll, stephen shore & john j. park, louis kahn, 2022 photograph, grabado, by Jean Jouvenet, solitude, 'untitled 9 ', scattering, inspired by Barthel Bruyn the Younger"
+  },
+  {
+    "object_ID": "2019-52",
+    "title": "['Numeritos']",
+    "date": 2019,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179639&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and yellow abstract painting on a white wall, flat triangles, gelatin silver process, scepter, charlie immer, still image from tv series, simplified forms, matte print, edward steichen, optical flare, 1 0 2 4 farben, without text, dynamic angles, john eaves, 6"
+  },
+  {
+    "object_ID": "2016-32",
+    "title": "['Shadowplay']",
+    "date": 2016,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175603&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with tables and chairs and a mural on the wall, inspired by Holger Roed, biodiversity, featured on z brush, for kids, inspired by Christoph Amberger, in a open-space working space, reindeer made out of shadows, urban surroundings, lascaux, flat 2 d"
+  },
+  {
+    "object_ID": "2022-13",
+    "title": "['Punainen katedraali', 'Röd Katedral', 'Red Cathedral']",
+    "date": 1958,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2592626&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a church with a green background, by Philip Guston, detail shot, pink arches, inspired by Leon Kossoff, the face emerges from pamukkale, incandescent lighting, high - resolution scan, archeology journal cover, height 1 7 8, the city of santa barbara, soft lighting sold at an auction, pink door, vibrancy color"
+  },
+  {
+    "object_ID": "2006-77-33",
+    "title": "['Kaupunkimaisemat']",
+    "date": 2006,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175205&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a long hallway with several doors and pictures on the wall, electron microscopy photography, inspired by Jørgen Roed, dust clouds and building debris, hospital lighting, collaborative artwork, by Albert Paris Gütersloh, panspermia, blue walls"
+  },
+  {
+    "object_ID": "2020-6",
+    "title": "['Kesäkukka', 'Sommarblomma', 'Summer Blooms']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180831&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a church in the middle of a field, abstract sun in background, energy core, coronation of the flower prince, inspired by Ethel Schwabacher, experimental techniques, pink sun, 1929, auction, sunburst, inspired by Alice Rahon, ibiza, by John Armleder, 1961, image of the day"
+  },
+  {
+    "object_ID": "1990-184-1",
+    "title": "['Hommage a Keiji Uematsu']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173588&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of rocks in the snow, by Tina Modotti, rinko kawauchi, balancing the equation, 1 9 4 0 picture, path, inspired by Simon Gaon, trending on artforum, brown cobble stones, by Shōzaburō Watanabe, judy chicago, by Ellsworth Kelly"
+  },
+  {
+    "object_ID": "1998-404",
+    "title": "['Löylyssä', 'I bastun', 'In the Sauna']",
+    "date": 1998,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170309&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a man sitting on a chair next to a fish bowl, by Victor Brauner, human babies, jpeg artefacts on canvas, inspired by William Nicholson, scp-106, kid playing with slime monster, 2010, an anthropomorphic stomach, golden-white robes, artforum, himba, painting illustration, gutai group"
+  },
+  {
+    "object_ID": "2000-114",
+    "title": "['Hattutemppu', 'Hattrick', 'Hat Trick']",
+    "date": 2000,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169109&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a chandelier hanging from the ceiling of a building, inspired by Jørgen Roed, view is centered on the robot, children's artwork, bars on the windows, made in 1 9 9 0, sundial, private academy entrance, atrium, photo courtesy museum of art, twisted wire, osl, levers, hamar, whole-length, dial"
+  },
+  {
+    "object_ID": "1990-9",
+    "title": "['Keltapossu']",
+    "date": "1989-1990",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167963&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a yellow circle on a yellow background, trending on artforum, celestial light, by Wuzhun Shifan, plaster, by Ambrose McCarthy Patterson, sacral chakra, dividing it into nine quarters, light cream and white colors, containing tables and walls, the sun up on the sky is strong"
+  },
+  {
+    "object_ID": "1992-73",
+    "title": "['Tellervo, Tapion tytär ', 'Tellervo, Tapios dotter ', 'Tellervo, Tapios daughter']",
+    "date": 1928,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175616&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a woman in front of a building, nordic summer, luminous body, time travelers appear in a park, left align, 16:9, reaching for the sky, on a canva, bronze - skinned, shallow depth of focus, dancing with each other, looking to the right, 3 0 s, morph, 12, 2 0 0 0"
+  },
+  {
+    "object_ID": "2003-65-2",
+    "title": "['Seinäsammal (Pleurozium schreberi)']",
+    "date": 2003,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167527&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a living room with a red couch and a television, volumetric wool felting, field of grass, by Fay Pomerance, panoramic anamorphic, hanging scroll, fine texture, floating kelp, narrow hallway, from 2001, green charts, flowerbeds, 35mm photograph, string art, hip-length, 62 x 47 inches"
+  },
+  {
+    "object_ID": "2019-11",
+    "title": "['Isoisän muotokuva', 'Portrait of Grandfather']",
+    "date": 1923,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178846&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a man in a tuxedo, by Leon Kossoff, portrait of bertrand russell, 82 mm sigma art -, artforum, 8 h, liepke, klee, zaragoza gilberto soren, 3 2 - year - old, daguerrotype, zdislav beksinsk - h768, drawing"
+  },
+  {
+    "object_ID": "2002-101",
+    "title": "['Safari', 'Safari']",
+    "date": 2002,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168422&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a bunch of lights hanging from the ceiling of a building, by Rube Goldberg, google design, featuring rhodium wires, espoo, executive industry banner, 2000s photo, by Alexander Stirling Calder, inside a science facility, goldsrc, 3 dcg, ladders, 2003, made from paper, vernadskys noosphere"
+  },
+  {
+    "object_ID": "1992-236",
+    "title": "['Kotimaa, diptyykki']",
+    "date": 1992,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177046&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of pieces of wood sitting next to each other, geometric third eye triangle, by Thomas de Keyser, obsidian, 3 colors, fig.1, three guilders : a magician, pyramids of giza, grain 1 9 9 0, ƒ5.6, ( ivory black ), triangle shards, deep and dense coloration"
+  },
+  {
+    "object_ID": "1992-62",
+    "title": "['Väinö Tannerin muistomerkki', 'Väinö Tanners minnesmärke']",
+    "date": 1985,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179725&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of two people standing in front of a stone wall, by Asger Jorn, big and structured valhalla city, tane skin, doors to various living quarters, yeltsin, by Allan Linder, full width, by Totte Mannes, verdigris, 9 4, raising an arm, beveled edges, cubic blocks, in the park"
+  },
+  {
+    "object_ID": "1976-128",
+    "title": "['Merimaisema', 'Marin', 'Seascape']",
+    "date": 1903,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178838&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a sailboat in a body of water, by Anna Boch, inspired by Ernest Lawson, ayanami, on a canva, fades to the horizon, color pigments spread out in air, by Johan Edvard Mandelberg, azulejo, view from the sea, wind - swept, white clouds, blue and red, nika maisuradze"
+  },
+  {
+    "object_ID": "1976-221",
+    "title": "['Asetelma (Sininen kannu)', 'Nature morte (Den blå kannan)', 'Still Life (Blue Jug)']",
+    "date": 1917,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171369&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a vase and a book on a table, booze, by Roy De Maistre, dark light, by Max Weber, empty pet bottles, google arts and cultures, barnet, ratio 16:9, lamp ( ( ( mirror ) ) ) ), charles sheeler, noise and grain, dark library, snapshot"
+  },
+  {
+    "object_ID": "1998-411-2",
+    "title": "['Antrosea']",
+    "date": 1998,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171250&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a model airplane hanging from the ceiling of a building, inspired by Alexander Stirling Calder, corporate photo, weta digital, wooden walls brass panels, flying car, by Georges Seurat, futuristic product design, government archive photograph, lab, large format, mechanical engineering, f 1 1"
+  },
+  {
+    "object_ID": "1976-168",
+    "title": "['Hauhon mylly talvella', 'Kvarn om vintern, Hauho', 'Hauho Mill in Winter']",
+    "date": 1946,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170888&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a winter scene with snow on the ground, josip broz tito, fonte à la cire perdue, white and black color palette, abandoned japaense village, oil on linen, award-winning composition, waterway, style of constructivism, during the day, zdzidaw, captures emotion and movement, sam shearon"
+  },
+  {
+    "object_ID": "1976-285",
+    "title": "['Sateenkaari', 'Landskap med regnbåge', 'Rainbow']",
+    "date": 1912,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176623&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a rainbow over a river, by Sigrid Hjertén, by Joan Brown, album artwork, highlands, inspired by Peder Severin Krøyer, solar field plains, day after raining, frontpage, lush valley, by Munch, stream, cover"
+  },
+  {
+    "object_ID": "1994-119",
+    "title": "['Kenkä', 'Skon', 'The Shoe']",
+    "date": 1994,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178093&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a colorfully painted shoe sitting in the middle of a parking lot, irregularly shaped mosaic tiles, inspired by József Borsos, chimney with smoke, giant mushroom, award - winning design, large nose, 6 0 0 mm, wooden toilets, height 1 7 8, mausoleum, 24 35 mm, park, 16:9"
+  },
+  {
+    "object_ID": "1971-87",
+    "title": "['Kollaasi']",
+    "date": 1971,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169847&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a mirror hanging on the side of a wall, inspired by Eduardo Paolozzi, front view 1 9 9 0, museum archive, organic acrylic flow art, london underground tube station, smooth streamline, aspect ratio 1:3, mechanical wings, design award, cubo-futurism, notation"
+  },
+  {
+    "object_ID": "2002-111",
+    "title": "['Aurinkolahden peruskoulun teos', 'Verket vid Solvikens finska grundskola', 'Artwork at Aurinkolahti Elementary School ']",
+    "date": 2002,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167241&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large yellow object in a metal cage, by Eero Järnefelt, by Gao Cen, 2d side view, shot with a canon 35mm lens, sundial, confortable atmosphere, rectangular, urban surroundings, james webb, round format, archive photograph"
+  },
+  {
+    "object_ID": "1977-11",
+    "title": "['Simeoni palaa kuusta II', 'Simeonis återfärd från månen II', 'Simeoni returning from the moon II']",
+    "date": 1946,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167152&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a person flying through the air, grass mountain night landscape, crayon on paper, medium gargoyle soft light, sitting sad in spaceship, creative commons attribution, inspired by Peter de Seve, in an ice storm, holding hands in the moonlight, norwegian man, bill lowe gallery, on a canva, child, neo - primitivism, tarot card the hermit"
+  },
+  {
+    "object_ID": "2001-75-1",
+    "title": "['Teoksia kokonaisuudesta Albumi (1955-1963)', 'Verk från helheten Album (1955–1963)', 'Works from the collection Album (1955–1963)']",
+    "date": "1997-1999",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170438&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of a young girl, finnish naturalism, by Cerith Wyn Evans, sosaku hanga, ayahausca, red writing, banish fiction and illusion, four years old, blonde girl, printed on paper, vertical orientation, color image, stone etchings, 2 d image, w 7 6 8, indi sulta"
+  },
+  {
+    "object_ID": "1976-213",
+    "title": "['Omakuva', 'Självporträtt', 'Self-Portrait']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167419&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man in a blue shirt, by Billy Childish, payne's grey and venetian red, circa 1940s, showing forehead, artforum, stylised military clothes, inspired by Christopher Wood, portrait of saitama, ( ( photograph ) ), art in the style of paula rego, age 3 0, museum archive, vril"
+  },
+  {
+    "object_ID": "1992-87",
+    "title": "['Ystävät ja kylänmiehet', 'Vänner och bymän', 'Friends and Neighbours']",
+    "date": 1983,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2166970&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a group of people standing next to a fountain, by Veikko Törmänen, political meeting in the woods, by Hovsep Pushman, constructivism, woman in black robes, 2013, 1996), healthcare worker, social realism, harmony of the spheres, front view 1 9 9 0"
+  },
+  {
+    "object_ID": "1996-25-2",
+    "title": "['Accumulation Cut']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180116&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture hanging on a wall in a store, inspired by Mikalojus Konstantinas Čiurlionis, collodion photograph, teak table, inspired by Jaakko Mattila, national geography photography, in a research facility, eka's portal, eyelevel perspective image, diptych, 600mm, viewed in profile, by J. L. Lund"
+  },
+  {
+    "object_ID": "2012-49-3",
+    "title": "['Tapio Wirkkalan puiston taideteokset, Kaivon äänilaitteet']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172941&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a manhole with a hole in the middle of it, product picture, mesh structure, clean black outlines, floor grills, protection, 7 0 mm entrance pupil diameter, one panel, airscape, uk, crossbreed, gaia, vertically flat head, full subject shown in photo, gravels around"
+  },
+  {
+    "object_ID": "1992-141",
+    "title": "['Arvo Turtiainen']",
+    "date": 1990,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179279&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture in the middle of a park with a building in the background, black main color, inspired by Veikko Törmänen, big open book, triptych, 21:9, shaft, pointing to heaven, academia, by Rajmund Kanelba, school courtyard, 8 0 0 mm, may 6 8, wind rose, mekka"
+  },
+  {
+    "object_ID": "1977-42",
+    "title": "['Kahvitauko II', 'Kafferast II', 'The coffee-break II']",
+    "date": 1948,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170515&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of two people sitting on a bench, drinking tea, chalk digital art, the three marys at the sepulchre, nursing home, full of steaming coffee, inspired by Hovsep Pushman, artsation contest winner, inspired by Moses Soyer, chimneys, refugees, ko-fi"
+  },
+  {
+    "object_ID": "2000-120",
+    "title": "['Noin 6 mrd kilometriä', 'Cirka 6 mrd kilometer', 'Approx. 6 Billion Kilometres']",
+    "date": 2000,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167311&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a yellow and black object hanging from the ceiling of a building, anamorphic 24 mm lens, dark blue spheres fly around, ashford black marble sculpture, bars on the windows, school of fishes, sterile colours, environmental artwork, inspired by Vilhelm Lundstrøm, media photo, modernist design, very coherent symmetrical work, apartments"
+  },
+  {
+    "object_ID": "2000-344",
+    "title": "['Alkuskeittarit, 1980', 'Urskejtare', 'Skate Crew']",
+    "date": 1980,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174026&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of a person on a skateboard, two heads one body, frank sedlacek, kids playing, photo of zurich, (anthropology of wonder), 1980s photograph, dynamic energic pose, jinsung lim, for kids, connectedness, steep, on a road, wheels, tomboy, rotated, awarded photograph"
+  },
+  {
+    "object_ID": "1992-158",
+    "title": "['Kiikkujat (Välitunti)', 'Gungande barn (Rasten)', 'Swinging children']",
+    "date": 1962,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179674&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a woman laying on a man's back, by Niels Lergaard, jumping towards viewer, garden utopia, mid century art, creative commons attribution, panoramic view of girl, bronze, celestial collision, defying gravity, nordic summer, trending on artforum, diptych, thomas kinkad, artforum"
+  },
+  {
+    "object_ID": "1940-1",
+    "title": "['Keskuskadulta', 'Från Centralagatan', 'From Keskuskatu']",
+    "date": 1939,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172557&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a building with a clock tower in the background, by Margareta Alströmer, winter 1941, in 1 9 8 5, university, wide long view, prison scene, w 7 6 8, by Reuben Nakian, low - lighting, 2 0 0 6, 1959, yard"
+  },
+  {
+    "object_ID": "1977-22",
+    "title": "['Juopottelua ullakolla I', 'Dryckjom i vindskammaren I', 'Drinking in the attic I']",
+    "date": 1945,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171366&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man and a woman drinking wine, by Raymond Briggs, two men hugging, digital art h 9 6 0, pastel drawing, inspired by Edward Lamson Henry, year 1 9 4 4, chimneys, trending on artforum, by Patrick Nasmyth, inspired by Leon Kossoff, captured in bottles, celebrating a birthday, wlop |"
+  },
+  {
+    "object_ID": "2003-69",
+    "title": "['Ystäväpiiri', 'Vänkrets', 'Circle of Friends']",
+    "date": 2003,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171406&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture of two people in a room, hallway landscape, by Jürg Kreienbühl, biodiversity heritage library, quadrupedal, by André Masson, right angled view, hospital lighting, front and side view, baselitz, contorted, full subject shown in photo, ps1, blue wolf, residential design, iso 125, copyright tsr 1989"
+  },
+  {
+    "object_ID": "1995-129",
+    "title": "['Viheltelevä helsinkiläinen', 'Den visslande helsingforsaren', 'The Whistling City-Dweller']",
+    "date": 1995,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172437&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a group of people walking down a sidewalk next to a statue, antennae on a hestiasula head, by Veno Pilon, thigh gap, the scream, 1km tall, giant wooden club, superflat art, man sitting facing away, yinyang shaped, swedish, fullbodysuit, listing image, nubile body, tuomas korpi bouguereau"
+  },
+  {
+    "object_ID": "1992-238",
+    "title": "['Kaksiosainen maalaus']",
+    "date": 1992,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180593&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a wall with a hole in it, inspired by Will Barnet, set in bank vault room, interior gameplay screenshot, fez video game, hand on the doorknob, silver and yellow color scheme, jonathan dufresne, dividing it into nine quarters, lonely atmosphere, inspired by Richard Artschwager"
+  },
+  {
+    "object_ID": "1992-123",
+    "title": "['Georg Malmsténin muistomerkki', 'Georg Malmsténs minnesmärke', 'Memorial to Georg Malmstén']",
+    "date": 1992,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172198&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a bust of a man on a pedestal in front of a building, petri rahkola, nobel prize, medallions, f1.8 anamorphic, in 2 0 1 2, orthodox saint christopher, alvar aalto, flat top haircut, mit technology review, moleksandra shchaslyva, by Sven Nordqvist, medal, marker"
+  },
+  {
+    "object_ID": "2002-103",
+    "title": "['Merkkien järjestäytyminen', 'Tecknen ordnar sig', 'The Organisation of the Signs']",
+    "date": 2002,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167586&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a building with a statue on the side of it, installation view, by Ian Hamilton Finlay, subject= chimp, award winning modern design, light brown fur, dark stone, octrane render, second eagle head, inspired by James Pittendrigh MacGillivray, tomb, vesa-matti loiri, driveway, velvia film"
+  },
+  {
+    "object_ID": "1976-449",
+    "title": "['Profiili', 'Profil', 'Profile']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168566&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a woman's profile in a gold frame, calcite, 1811, soap carving, stylised design, 3 2 mm, rounded face, inspired by Thyrza Anne Leyshon, gemstone forehead, grisaille, pearl, ermine, by Augustus Dunbier, aristocrat"
+  },
+  {
+    "object_ID": "1992-137",
+    "title": "['Soihtu, Miina Sillanpään muistomerkki', 'Facklan, Miina Sillanpääs minnesmärke', 'The Torch, Memorial to Miina Sillanpää']",
+    "date": 1968,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174558&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a stack of rocks in a park, by Ernő Rubik, james nares, vladimir abat-cherkasov, hanging scroll, inspired by Jens Jørgen Thorsen, featured on artscape, polsat, listing image, inspired by Vilhelm Lundstrøm, twisted trunk, height 1 7 8, minneapolis, fra"
+  },
+  {
+    "object_ID": "1976-247",
+    "title": "['Viimeinen kauppakirje', 'Det sista kontraktekt', 'The Last Bill of Sale']",
+    "date": 1971,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168966&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people sitting around a table, herman nitsch and herman nitsch, vampires, by Václav Brožík, artist arata yokoyama, giving a speech, the longest night, xianxia, ute osterwalder, academician prokhor zakharov, new objectivity"
+  },
+  {
+    "object_ID": "2001-182",
+    "title": "['Piilopaikka suljettujen silmien takana', 'Gömställe bakom slutna ögon', 'Hiding Place Behind Closed Eyes']",
+    "date": 2001,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172327&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a blue sculpture in front of a building, foundry vtt, school classroom, blue brain, midsummer, blob, anthropomorphic, by senior environment artist, medical research facility, during spring, iso 1250, high school mascot, niea 7, by Toros Roslin, full width, deep learning, maintenance area, aum"
+  },
+  {
+    "object_ID": "1992-66",
+    "title": "['Älä jännitä', 'Spänn inte', 'Take it easy']",
+    "date": 1989,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173885&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man standing next to a bicycle, by Troels Wörsel, interesting shapes & form, the three body problem, outdoor scene, featured in artistation, evenly spaced, post - war scenery, interconnected human lifeforms, naturist, imet2020, finnstark, workshop"
+  },
+  {
+    "object_ID": "2001-039",
+    "title": "['Epigrammeja Helsingin kaupungin jalankulkijoille', 'Epigram för fotgängarna i Helsingfors centrum', 'Epigrams for Helsinki citizens']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176504&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a manhole cover on a sidewalk, vesa-matti loiri, voroni diagram, listing image, hdpe, hasbulla, vault, loki, full subject shown in photo, otorhinology, luca, angular metal, cell cover style, fig.1, vents, identical picture, múseca illil"
+  },
+  {
+    "object_ID": "2001-2",
+    "title": "['Kajsa']",
+    "date": 2000,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167810&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture of a dog on a black background, by Dorothea Tanning, on a yellow paper, gerenuk, papier - mache, joongwon jeong, aged 13, willow 1 9 8 5, scp 3008, rivuletpaper art, inspired by Goyō Hashiguchi, four legs, props containing trees"
+  },
+  {
+    "object_ID": "1992-215",
+    "title": "['Kosminen kehto', 'Kosmisk vagga', 'Cosmic Cradle']",
+    "date": 1992,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167732&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a yellow ball with a star cut out of it, by Shōzō Shimamoto, strong grain, full - body art, oil on oak wood, winning award image, focus on the object, fibbonacci, thick paint, golden number, booster, solid works, gourd, 62 x 47 inches, 4 dimensions, rounded logo, rachel walpole art"
+  },
+  {
+    "object_ID": "1992-67",
+    "title": "['Maailmanrauha', 'Världsfred', 'World Peace']",
+    "date": 1990,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168159&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a woman holding a globe in her hands, communist hammer and sickle, time travelers appear in a park, dynamic composition and motion, in style of heikala, medallions, f - 9 1 / 1 2 5, standing together, helsinki, reaching towards the heavens, left align content, russian constructivism, google images search result, goldsrc"
+  },
+  {
+    "object_ID": "2003-66-5",
+    "title": "['Siimeksessä']",
+    "date": 2003,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173861&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of two men standing next to each other, old film overlay, by Master of the Embroidered Foliage, bonnie maclean, overexposed sunlight, bride and groom, pine tree, filmstill, unfinished, detail content, floating bodies, textiles"
+  },
+  {
+    "object_ID": "1976-339",
+    "title": "['Omakuva', 'Självporträtt', 'Self-Portrait']",
+    "date": 1974,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169376&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man in a suit and tie, by Basil Blackshaw, 1 7 - year - old boy thin face, by Sohrab Sepehri, exhibited at the british museum, halfrear lighting, de stijl, dylan kowalski, male teenager, palette of primaries, ted nasmuth, face centred, aged paper, stockholm city portrait"
+  },
+  {
+    "object_ID": "1976-96",
+    "title": "['Pesulaiturilla', 'På tvättbron', 'Washing Jetty']",
+    "date": 1943,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180565&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of two people sitting on a dock, inspired by Mark Gertler, inspired by Mary Cassatt, standing in shallow water, exhibition of paintings, triptych, photography of bill brauer, espoo, childhood, nymphaea, artforum, wpa, post-war, beaver"
+  },
+  {
+    "object_ID": "1996-112",
+    "title": "['Esirippu']",
+    "date": "1994-1996",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172627&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large piece of wood on display in a room, trending on artforum, curved perspective, by Kelly Sueda, a gigantic wall, wave, creative commons attribution, inspired by Robert Weaver, landslides, by Jeong Seon, brooklyn museum, detailed body shape, by Sōami, warping"
+  },
+  {
+    "object_ID": "2000-48",
+    "title": "['Kaivopuiston ranta 1999']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170898&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a child's drawing of a yellow and blue kite, james jean and petra cortright, 'untitled 9 ', by Thomas de Keyser, panoramic anamorphic, ratio 16:9, in style of juergen teller, scanned 2400 dpi, child of light, james nares, by Ronnie Landfield, white bed, colour, angel wings"
+  },
+  {
+    "object_ID": "1976-341",
+    "title": "['Tyttöjä (Tytöt niityllä)', 'Flickor (Flickorna på ängen)', 'Girls (Girls in the Meadow)']",
+    "date": 1906,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177227&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of two people in a field, depressed girl portrait, on her knees, ca. 1990, 1 9 1 6, looking at the ground, two girls, by Konrad Klapheck, emeralds"
+  },
+  {
+    "object_ID": "1992-134",
+    "title": "['Urheilija', 'Idrottaren', 'The Athlete']",
+    "date": "1937,  1950",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174595&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man kneeling in front of a bush, by Grethe Jürgens, anguish, by Robert Falk, baki, thinker pose, interconnected human lifeforms, cgtrader, round-cropped, humanization, loss of molecular cohesion, on a canva, conformity, torn edges, by Bjørn Wiinblad"
+  },
+  {
+    "object_ID": "1976-150",
+    "title": "['Yksinäinen puu', 'Den ensamma trädet', 'Solitary Tree']",
+    "date": 1959,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167275&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a sheep standing in a field, by Roy Newell, inspired by Leopold Gottlieb, overlooking a vast serene forest, muted multi-color lapis, landscape from a car window, muted green, 2 d image, noise and grain, listing image, with a french garden, pallet, 2009, gray anthropomorphic, n 2, terraces"
+  },
+  {
+    "object_ID": "1976-336",
+    "title": "['Sommitelma (Apina sepittämässä sonetteja)', 'Komposition (Apa diktande sonetter)', 'Composition (A Monkey Penning Sonnets)']",
+    "date": 1965,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170756&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people standing next to each other, inspired by James Brooks, vibrant scattered light, muted color (blues, farid ghanbari, holding intimately, muted green, michael margetts, bits of broken light, ethnic, the caretaker, muted color scheme"
+  },
+  {
+    "object_ID": "2007-68",
+    "title": "['Sininen tausta', 'Blue Background']",
+    "date": 1970,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170004&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of circles on a blue background, by Helen Berman, maroon red, artforum, atomic bomb, wearing gilded ribes, dividing it into nine quarters, lens orbs, clustered, crimson - black beehive, 1 6 x 1 6, one panel, ilustration, hubbard sundblom, orb"
+  },
+  {
+    "object_ID": "1992-49",
+    "title": "['Hei vaan ', 'Hejsan', 'Hey']",
+    "date": 1940,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170589&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a boy playing with a fish, by Eero Snellman, down-town, a storybook illustration, - w 1 0 2 4, on a canva, pouncing, featured in artistation, brass beak, flooko, andromeda, closer view, 1 2 k"
+  },
+  {
+    "object_ID": "2000-111",
+    "title": "['Arcum Tendit Apollo']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167821&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man riding a horse in a park, by Eero Järnefelt, installation view, man ray - h 1200, aiming a bow and arrow, kreuzberg, half horse - half mouse, h 1 0 2 4, helsinki, satanic symbolism, michel - ange, private collection, superrealism, 2000"
+  },
+  {
+    "object_ID": "1992-132",
+    "title": "['Moduli', 'Modul', 'The Module']",
+    "date": 1973,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176581&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large stone cross sitting on top of a hill, pictoplasma, swedish urban landscape, brutalist, creative commons attribution, chrome face symmetry, vigo the carpathian, front page, 2013, arrow shaped, evil knight, eastern front, panorama, modernist"
+  },
+  {
+    "object_ID": "1976-119",
+    "title": "['Tyttö', 'Flicka', 'Girl']",
+    "date": 1927,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171597&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman in a green shirt, inspired by Moses Soyer, with short hair with bangs, exhibited at the british museum, by Susan Weil, mixed race woman, inspired by David Bomberg, portrait of sofia vergara, verbena, aged 13, cheerful expression"
+  },
+  {
+    "object_ID": "1990-178",
+    "title": "['Seita II', 'Sejte II']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172870&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of rocks stacked on top of each other, inspired in balthus, by Louis Stettner, totem 2, by Tōshi Yoshida, ( ( photograph ) ), the non-binary deity of spring, new hampshire mountain, by Herb Ritts, gungnir, the stone is round, trending on artforum, objective abstraction"
+  },
+  {
+    "object_ID": "1992-233",
+    "title": "['Itämeri']",
+    "date": 1992,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172209&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a grassy area with a statue in the middle of it, birch forest clearing, underexposed, underground bunker, in summer, sprial, featured on artsation, horizon centered, left align, slow - shutter, hard shadows, graveside, right elevation, still shot, eastern front"
+  },
+  {
+    "object_ID": "1976-185",
+    "title": "['Tätini', 'Min faster', 'My Aunt']",
+    "date": 1959,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167500&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman wearing a scarf, blue diamond, by Armin Hansen, half - electric woman, virgin mary, courtesy of moma, the non-binary deity of spring, glowering judging eyes, inspired by Noel Counihan, hasanabi, the morning star"
+  },
+  {
+    "object_ID": "1976-308",
+    "title": "['Voimamies', 'Kraftkarl', 'Strongman']",
+    "date": 1917,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167420&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man with a scarf on his head, by Akseli Gallen-Kallela, healthcare worker, depressed sad expression, documentary lighting, dementia, by Elaine de Kooning, exhibited at the british museum, figure in the darkness, low dark light, hergé"
+  },
+  {
+    "object_ID": "1976-175",
+    "title": "['Kairosta', 'Från Kairo', 'Scene from Cairo']",
+    "date": 1972,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168986&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man standing next to a cart of vegetables, inspired by Riad Beyrouti, smoke rising in the background, dream sequence. the apprentice, classic children's illustrations, standing on the street, featured in artscape, by Shin Yun-bok, propane tanks"
+  },
+  {
+    "object_ID": "1996-59",
+    "title": "['Viiva', 'Strecket', 'Line']",
+    "date": 1996,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178082&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a piece of paper on a table, a minimalist painting, fencer, minimalissimo, ari aster, wide long view, 1 6 : 9, displayed on the walls, sword pointed at sky, anamorphic widescreen, painted marble sculptures, by Thomas Kluge, blue scales, width 768"
+  },
+  {
+    "object_ID": "1976-246",
+    "title": "['Turistit', 'Turister', 'Tourists']",
+    "date": 1971,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169960&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of two people and a dog in a park, inspired by Moïse Kisling, standing on a bridge, tropical coastal city, inspired by Gabriele Münter, night city in the background, photo courtesy museum of art, a man sitting on a jetty, people looking at a house, art brut, photo of zurich, 1920', panorama"
+  },
+  {
+    "object_ID": "1997-9",
+    "title": "['Pieni opetus']",
+    "date": 1997,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179483&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting hanging on a wall in a room, 35mm film still from 1989, inspired by Jaakko Mattila, anamorphic illustration, cloudy sky in the background, minimalist furniture, chalk digital art, by János Kass, portrait of tintin, inspired by Lisa Nankivil, trending on artsstation, storyboard"
+  },
+  {
+    "object_ID": "1998-507",
+    "title": "['Maalaus', 'Målning', 'Painting']",
+    "date": 1998,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175102&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting that is on a wall in a room, yellow and ornage color scheme, trending on artforum, grunged up, james yang, greyscale 1 9 9 0, rusted panels, canva, thangka, by Robert Goodnough, subsurface, experimental techniques, on a canva, printed page, featured on artsation"
+  },
+  {
+    "object_ID": "1999-150-1",
+    "title": "['Seinäteos']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169919&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with tables and chairs and a large painting on the wall, rammed earth courtyard, norrlandsskog, galaxies visible, 2 0 0 0 s, creative commons attribution, inspired by William MacTaggart, google arts and cultures, cafe interior, by Howardena Pindell, jörmungandr, murals"
+  },
+  {
+    "object_ID": "2003-68",
+    "title": "['Palapeli', 'Puzzle']",
+    "date": 2003,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168922&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a brick wall with puzzle pieces on it, by Karl Gerstner, ice cream cone, by Frits Van den Berghe, children playground, scans from museum collection, exhibition catalogue, transparencies, metal panels, hospital interior, integration, corridor, official artwork, inspired by Sven Nordqvist"
+  },
+  {
+    "object_ID": "1976-365",
+    "title": "['Luxembourgin puistosta', 'Från Luxembourg-trädgården', 'Scene from the Jardin de Luxembourg']",
+    "date": 1890,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177526&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man standing next to a statue, by Albert Marquet, focus on the elephant, time travelers appear in a park, inspired by William Nicholson, gazing at the water, each having six wings, museum catalog photograph, detail on scene, sculpture, véronique meignaud, by Jozef Israëls, auction"
+  },
+  {
+    "object_ID": "1976-51",
+    "title": "['Katu', 'Gata', 'Street']",
+    "date": 1915,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169167&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people standing next to each other, by William Gropper, soft pastels, street perspective, detail shot, passengers, herman nitsch, charcoal, style of beatrix potter, artforum, masterful art"
+  },
+  {
+    "object_ID": "1976-305",
+    "title": "['Leppiä keväällä (Puita vasten aurinkoa)', 'Alar om våren (Träd i motsol)', 'Alders in Spring (Trees Seen against the Sun)']",
+    "date": 1911,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179871&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of some trees in a field, by Nassos Daphnis, inspired by Per Krohg, blue trees, by Karel Havlíček, near the sea, inspired by Ferdinand Hodler, windblown, photo courtesy museum of art, in 1 9 8 5, by Hermenegildo Anglada Camarasa, sukkot"
+  },
+  {
+    "object_ID": "1992-65",
+    "title": "['Kyösti Kallion muistopatsas', 'Kyösti Kallios minnesmärke', 'Kyösti Kallio Memorial']",
+    "date": 1962,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169463&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man sitting in a chair, photo of džesika devic, huge mustache, in the park, character is standing, the shackled, an scp anomalous object, pharmacy, protagonist, yasuhiko yoshikazu, tourism, short dark blond beard, streets of salvador, rutkoswki, kinemacolor, economist"
+  },
+  {
+    "object_ID": "1976-68",
+    "title": "['Hiilenkantaja', 'Kolbäraren', 'Coal Bearer']",
+    "date": 1934,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171199&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man walking in the snow, by Moses Soyer, inspired by Gustaf Tenggren, carrying big sack, large pastel, photo courtesy museum of art, migrant mother, the shackled, portrait of 14 years old boy, bob dylan, style of midjourney, pastel drawing, creative commons attribution, fall-winter 2015-2016"
+  },
+  {
+    "object_ID": "1992-81",
+    "title": "['Tähystäjä', 'Spanaren', 'The Watchman']",
+    "date": 1977,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174115&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a metal sculpture sitting in the middle of a park, priestess in a conical hat, miami beach, symmetry features proportions, celestial collision, grey shift, expressive emotional piece, dish, jerusalem, void vortex, faceted, by Henrik Weber, open belly, sideview, protagonist in foreground"
+  },
+  {
+    "object_ID": "1977-10",
+    "title": "['Simeoni palaa kuusta I', 'Simeonis återfärd från månen I', 'Simeoni returning from the moon I']",
+    "date": 1946,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170662&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a bird flying in the sky, inspired by Edward Henry Potthast, holding a snowboard, color slide, sheep wool, alice goes down the rabbit hole, inspired by Frank Schoonover, ray of light through white hair, sitting on a martian rock, at midday, inspired by Brothers Hildebrandt"
+  },
+  {
+    "object_ID": "1977-25",
+    "title": "['Simeonin ja Eeron kotiinpaluu markkinoilta II', 'Simeoni och Eero returning home from the Hämeenlinna Market II']",
+    "date": 1946,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168357&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man riding a horse drawn carriage, broken forests, inspired by Moses Soyer, exhibited at the british museum, gloomy and depressed, pastel artwork, by Alfons Walde, post-nuclear, work-wheels, hand - tinted, aged 13, lapland, two figures, ( land )"
+  },
+  {
+    "object_ID": "1976-280",
+    "title": "['Tyttö hattu päässä', 'Flicka i hatt', 'Girl Wearing a Hat']",
+    "date": 1913,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170199&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman wearing a large hat, inspired by Chaim Soutine, smiles and colors, by Jørgen Nash, single light, single person with umbrella, happy face, verbena, puṣkaracūḍa, by Samuel Peploe, ditka, anthropology of wonder, while smiling for a photograph, norwegian man"
+  },
+  {
+    "object_ID": "1991-323",
+    "title": "['Ellipsografi', 'Ellipsograf', 'Ellipsograph']",
+    "date": 1982,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2652590&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white clock sitting on top of a table, highly detailed generative art, turntables, soft butterfly lighting, plotter, levitating sand, depicting a flower, schematic in a notebook, mit technology review, unfotable studio, interconnections, ffffound, tabletop, by Harriet Zeitlin, featured on behance, heated coils, hovering"
+  },
+  {
+    "object_ID": "1998-546-1",
+    "title": "['Kohtauspaikat']",
+    "date": 1998,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175982&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a brick building with a sign on the side of it, by Eero Järnefelt, an upside down urinal, parks and public space, 2 0 1 4, top art-station, artforum, full image, socialist realism, lockbox, large medium and small elements, thomas kinkad, 16:9, walkable, side view"
+  },
+  {
+    "object_ID": "1976-29",
+    "title": "['Täti', 'Faster', 'Aunt']",
+    "date": 1917,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167901&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man with a leaf on his head, portrait 6 0 - year - old woman, inspired by Thomas Cantrell Dugdale, small square glasses, year 1930, john longstaff, exhibition of paintings, behaelterverfolgung, ekasportal, aged 2 5, portrait of gigachad, artur bordello"
+  },
+  {
+    "object_ID": "1977-39",
+    "title": "['Lukkari oppimestarina II', 'Klockaren undervisar II', 'The parish clerk teaching II']",
+    "date": 1947,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167269&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a group of people sitting at a table, court session images, shot on kodachrome, inspired by John Macdonald Aiken, girl with white hair, arguing, soft pastels, courtroom sketch, ca. 1990, inspired by Edward Willis Redfield, pictured from the shoulders up, kete butcher"
+  },
+  {
+    "object_ID": "1992-76",
+    "title": "['Malmi', 'Malm']",
+    "date": 1990,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174421&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture of a watering can in front of a building, by Jóhannes Geir Jónsson, giant spider foreground, parks and public space, dital painting, full width, polygonal fragments, the cube, residential area, creative commons attribution, peter lundqvist, by Noel Counihan, ekas portal, yard, height 1 7 8"
+  },
+  {
+    "object_ID": "1999-188",
+    "title": "['Huilunsoittaja ja mustarastas', 'Flöjtspelaren och koltrasten', 'The flute player and the blackbird']",
+    "date": 1981,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170417&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of a man sitting on rocks, by Cerith Wyn Evans, pacific northwest, cinematic ， - h 7 6 8, cliffs, h 1088, right - side composition, high res photograph, colour photograph"
+  },
+  {
+    "object_ID": "1994-111",
+    "title": "['Hyppynarutyttö', 'Flicka med hopprep', 'Girl Skipping Rope']",
+    "date": 1994,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172831&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a woman with two braids in her hair, by Rebecca Horn, trending on artforum, back pose, artforum, combover, satyr, in style of ren hang, the justice tarot card, maler collier, inuit, award - winning pencil drawing, mariko mori, scorpion tail, connectedness, wild ginger hair"
+  },
+  {
+    "object_ID": "1976-30",
+    "title": "['Veli (Kalle Carlstedt)', 'Min bror (Kalle Carlstedt)', 'Brother (Kalle Carlstedt)']",
+    "date": 1917,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169963&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man in a suit and tie, by Leon Kossoff, portrait of young man, taken in the early 1930s, stephen fry, by Christian Jane Fergusson, trending on artforum, stanley kubrick, age 3 0, by Moïse Kisling, andrew dickson, twink, portrait of face, 9 5"
+  },
+  {
+    "object_ID": "1976-66",
+    "title": "['Bretagnelainen eukko (Akka, Douarnenez)', 'Gumma från Bretagne (Gumma, Douarnenez)', 'Old Breton Woman (Old Woman, Douarnenez)']",
+    "date": 1928,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167579&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman sitting on a chair, sad cerulean eyes, winter 1941, marfan syndrome, of an old man, 1 9 0 9, très détaillé, blue grey and white color scheme, national gallery, grumpy [ old ], september 1937, monk, peasant dress, her face is coated in a whitish"
+  },
+  {
+    "object_ID": "1977-41",
+    "title": "['Rajamäen rykmentti II', 'Rajamäki regemente II', 'The \"Rajamäki Regiment\" II']",
+    "date": 1946,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168980&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a group of people pulling a wagon, inspired by Wojciech Kossak, bright sunshine, promotional render, pastel artwork, kardur\\'s vicious return, scanned, sam hyde, still from film, by Taravat Jalali Farahani, north pole, the shackled"
+  },
+  {
+    "object_ID": "1994-81",
+    "title": "['Metri valkoista metri mustaa, virkaten', 'En meter vitt en meter svart, genom virkning', 'One Metre of Black, Crochet']",
+    "date": 1994,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2968966&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a kite that is flying in the sky, white gallery, 2015, thin round earrings, hanging scroll on wall, subject made of cracked clay, twisted energy flow, spiral smoke, the passing of time, head is centered, pulling strings, round-cropped, 2000, listing image, conductor"
+  },
+  {
+    "object_ID": "1976-42",
+    "title": "['Kukkia ikkunalla', 'Blommor i fönstret', 'Flowers on the Window-Sill']",
+    "date": 1942,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168103&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of flowers in a vase on a window sill, garis edelweiss, inspired by Émile Bernard, david bates, displayed in the exhibition hall, peder severin kroyer, vibrant but dreary blue, stands at her easel, de stijl, google arts and cultures, véronique meignaud"
+  },
+  {
+    "object_ID": "1971-29",
+    "title": "['Ketju', 'Kedjan', 'The Chain']",
+    "date": 1971,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170869&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large white sculpture in a room with a glass floor, siamese twins made of spaghetti, bernd and hilla becher, stone pillars, f11:10, israel, symmetry concpet art, twelve arms, conformity, milan jozing, pictured from the shoulders up, unity of mood, office furniture, kerberos, art »"
+  },
+  {
+    "object_ID": "1976-369",
+    "title": "['Pariisi Mont-Valerieniltä nähtynä', 'Paris från Mont-Valérien', 'View of Paris from Mont-Valérien']",
+    "date": 1890,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168707&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a dirt road next to a building, with eiffel view, wylops, dreamy light, craiyon, overgrown greenery, gumroad, looking towards the horizon, ratio 16:9, vass roland, on top of a hill, early spring, twisting streets, driveway"
+  },
+  {
+    "object_ID": "1976-374",
+    "title": "['Kevätlaitumelle', 'Ut på vårbete', 'To Spring Pastures']",
+    "date": 1975,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170699&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a deer and a butterfly on a hill, inspired by Desmond Morris, by Alfons Walde, inspired by Gao Xiang, levitating agricultural sphere, inspired by Alberto Morrocco, connected to nature via vines, goat horns, provenance, fernando guerra, cycles"
+  },
+  {
+    "object_ID": "1976-46",
+    "title": "['Kirjakojuja Seinen rannalla', 'Boklådor vid Seine', 'Bouquinistes on the Bank of the Seine']",
+    "date": 1910,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179024&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people in a park, an alley in paris in winter, display case, presenting wares, in a park and next to a lake, inspired by Moïse Kisling, protagonist in foreground, website banner, eyecandy, a busy arcade, exhibant au naturel, banknote, listing image, trending top art"
+  },
+  {
+    "object_ID": "1976-442",
+    "title": "['Setripuu', 'Ceder', 'Cedar']",
+    "date": 1950,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167374&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a plate with a horse on it, magic frozen ice phoenix egg, ivory carved mantle, shadowy castle background, 16mm, with his back to the viewer, ghostly white trees, taoist temples and monks, rectangular piece of art, trending on artforum, 1 6 mm, creative commons attribution, d20 made of teeth, pendants"
+  },
+  {
+    "object_ID": "1976-210",
+    "title": "['Silakkavati', 'Strömmingsfatet', 'Dish with Baltic herring']",
+    "date": 1962,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169833&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a plate of fish on a table, inspired by William MacTaggart, by Frances Hodgkins, red rim light, diptych, inspired by Zinaida Serebriakova, inlets, borealis, piled around, 1 9 6 0 s art, aspect ratio 16:9, private collection, on a canva, circular, art »"
+  },
+  {
+    "object_ID": "2018-476",
+    "title": "['Lehmiä', 'Cattle']",
+    "date": 1938,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180800&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man leading a herd of horses, by Max Pechstein, film still from 'thor', moomins, hair like dark clouds, cows, photo courtesy museum of art, green gas spreading across land, denis velleneuve, by Théodore Chassériau, villagers busy farming, 1 0 0 m, f11:10"
+  },
+  {
+    "object_ID": "2003-66-3",
+    "title": "['Tuokiokuvia']",
+    "date": 2003,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170736&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with pictures hanging on the wall, by Yuki Ogura, tight wrinkled cloath, centred in image, toiletpaper magazine, 2009, wearing loincloth, vignetting, creative commons attribution, jpeg artefacts on canvas, by Narashige Koide, studio photograph, tartan garment, hikkikomori"
+  },
+  {
+    "object_ID": "2003-138",
+    "title": "['Kurki on laskeutunut', 'Tranan har landat', 'The Crane Has Landed']",
+    "date": 2003,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171621&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a bird in a grassy area, by Eero Snellman, anamorphic widescreen, photogrammetry, village square, puṣkaracūḍa, featured on artsation, cute goose, alvar aalto, by Konstantin Savitsky, pterosaurs flying, hassleblad"
+  },
+  {
+    "object_ID": "2000-49",
+    "title": "['Polkujen risteys', 'Where Paths Meet']",
+    "date": 1998,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176950&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a painting of a person's feet, overgrown garden environment, hands reaching for her, violet ants, by Myra Landau, inspired by Martinus Rørbye, young child, by Larry Rivers, nothofagus, floodplains, “berries, seedlings, 2 0 0 0, april, two hands, crawling, hand - tinted"
+  },
+  {
+    "object_ID": "1965-2",
+    "title": "['Kaksi kirjettä']",
+    "date": 1965,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169998&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a painting on a wall, yellow and charcoal leather, open books, front view 1 9 9 0, inspired by Anne Redpath, diptych, a painting of white silver, david kassan, 62 x 47 inches, 1 9 6 0 s art, mono-yellow, zinc white, aspect ratio 16:9, aerial photograph"
+  },
+  {
+    "object_ID": "1977-55",
+    "title": "['Kotimatkalla tappelusta II', 'På hemväg från slagsmål II', 'On the way home after a fight II']",
+    "date": 1947,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170847&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a group of people and a dog, volodymyr zelensky at war, soft pastels, inspired by Dugald Sutherland MacColl, walking over sand dunes, digital art h 9 6 0, red cross, milkboys, pictured from the shoulders up, sumi - e art, animation still, monks"
+  },
+  {
+    "object_ID": "1974-170",
+    "title": "['Sininen lintu', 'Blå fågel', 'Bluebird']",
+    "date": 1974,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176186&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a blue sculpture of a child, tired appearance, by Huang Ding, sleeping, post-war, 3 d printing, cobalt blue and pyrrol red, ( ( mask ) ), european face, body and head in view, young boy, diebenkorn, object features, left behind, side view centered, lossless"
+  },
+  {
+    "object_ID": "1976-78",
+    "title": "['Köyhät aterialla (Setubal)', 'Fattigbespisning (Setubal)', 'Poor People Eating (Setubal)']",
+    "date": 1951,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167715&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people sitting at a table, by Akseli Gallen-Kallela, detention centre, people outside eating meals, inspired by David Bomberg, carravaggio, government archive, bogna gawrońska, compassionate, by Maruja Mallo, pointed hoods, brooklyn museum, in a dark corridor, tallinn, warmly lit"
+  },
+  {
+    "object_ID": "1976-460",
+    "title": "['Energia siirtyy']",
+    "date": 1976,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174665&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a colorful wall mounted to the side of a white wall, 1981, ultrastation hq, by John Wollaston, large arrays, ca. 1990, corporate logo, artsation, flowstatepaint, interior photo, straight edges, painted in oil colours, by Sydney Prior Hall, rainbow shift, flat tone"
+  },
+  {
+    "object_ID": "1992-97",
+    "title": "['Aurinkokello', 'Solur', 'Sundial']",
+    "date": 1931,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178097&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a boat on a beach next to a body of water, antennae on a hestiasula head, shark head, finnish cartoon, left align, coin of secret society, 4 5. 7 mplens, by Don Arday, oak, tourist destination, marker, forrest, medallion"
+  },
+  {
+    "object_ID": "2009-14",
+    "title": "['Toivo', 'Hopp', 'Hope']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2166988&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a wire sculpture of a kangaroo hanging from the ceiling, spinosaurus, northwest school, houzz, as seen from the canopy, maxar, featured on artsation, by Breyten Breytenbach, funimation, goldsrc, open office, artists rendition, volcanic skeleton, tosa school, interconnections, 3dcoat h 648"
+  },
+  {
+    "object_ID": "1992-37",
+    "title": "['Kolme astiaa kantavaa poikaa', 'Tre pojkar som bär på ett kärl', 'Tre gossar med fat', 'Three Vessel-carrying Boys']",
+    "date": 1962,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175293&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a child holding a bowl on top of it, inspired by Boris Kustodiev, she is the center of the garden, marble table, with two suns in the sky, 2 0 0 8, quebec, with hooves and wings, museum archive, cherub, long table, left align, gray stone, arbor, bucolic"
+  },
+  {
+    "object_ID": "1997-225",
+    "title": "['Saari jossa sateenkaari asuu', 'The Island Where the Rainbow Lives']",
+    "date": 1997,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169362&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture of a woman holding a wheelbarrow, full body character design, bright and sunny, school classroom, inspired by Oluf Høst, standing on the mast, the room is raucous and joyful, softplay, mamiya, a creature 5 meters tall, as photograph, jester, arms raised"
+  },
+  {
+    "object_ID": "1977-9",
+    "title": "['Härkien hyökkäys', 'Oxarna anfaller', 'The bulls attack']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168972&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of soldiers in a field, finnish cartoon, inspired by Max Slevogt, battle action shot, a color pencil sketch, by Eero Järnefelt, white wood, scans from museum collection, inspired by František Kupka, screenshot from the game, in the wood, inspired by Ignacio Zuloaga, attacking nyc"
+  },
+  {
+    "object_ID": "1976-188",
+    "title": "['Maisema', 'Landskap', 'Landscape']",
+    "date": 1918,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170152&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a river with trees in the foreground, inspired by Lovis Corinth, by Lajos Kassák, evergreen branches, low horizon, monochromatic green, year 1968, plein air, oil on canva, le corbeusier, lake, 1 9 6 2, with a square, 21:9, lerapi, seen from a distance"
+  },
+  {
+    "object_ID": "2003-67-2",
+    "title": "['Työ ja vapaa-aika']",
+    "date": 2003,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168230&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of pictures hanging on a wall, a girl playing tennis, medical photography, low angle photograph, in a dark corridor, professional photograph, sterile colours, different women's faces, set in 1998, maintenance area, golden trims, high specs, anderson"
+  },
+  {
+    "object_ID": "1977-56",
+    "title": "['Hiidenkivi II', 'Trollstenen II', \"The Devil's Rock II\"]",
+    "date": 1946,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167478&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a herd of cattle in a field, forbidden planet 1 9 5 6, biblical art lighting, raining ash, by Simon Gaon, drawn in the style of mark arian, trending on artforum, apocalyptic sky, dust and blood, with symbolic elements, bolts of lightning, necrosis, sukkot"
+  },
+  {
+    "object_ID": "1977-085",
+    "title": "['Aamulla ', 'På morgonen ', 'In the Morning  ']",
+    "date": 1978,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180496&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a goat and a dog in front of a building, by Margareta Alströmer, the three moiras, cows, hull, a photorealistic rendering, brown cobble stones, by Jens Jørgen Thorsen, research center, iso 1250, migrant mother, elk, official artwork, mud, idealised, university"
+  },
+  {
+    "object_ID": "1993-123",
+    "title": "['Maalaus', 'Målning', 'Painting']",
+    "date": 1993,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172386&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of three faces on a red background, flaming mountain, 1958, jormungandr, the streamer, puṣkaracūḍa, seahorses, 1 9 6 1, dark mountains, by Zou Yigui, tribal paint, 62 x 47 inches, parallel, 1 9 9 0 s"
+  },
+  {
+    "object_ID": "1976-90",
+    "title": "['Meilahdesta', 'Från Mejlans', 'Scene from Meilahti']",
+    "date": 1974,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169486&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a person standing in the middle of a field, caledonian forest, by Eppo Doeve, walking on ice, featured on artsation, seen in the distance, branches, asencio, official artwork, on a canva, fisherman, rocky terrain, marshes"
+  },
+  {
+    "object_ID": "1992-148",
+    "title": "['Topelius ja lapset ', 'Topelius och barnen', 'Topelius and Children']",
+    "date": 1909,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175201&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a family in front of a building, nobel prize, by Lars Jonson Haukaness, sitting on green grass, holding books, iso 1000, neoplasticism, children's, academia, by Henriett Seth F., school of fishes, 21:9, the shackled"
+  },
+  {
+    "object_ID": "1992-53",
+    "title": "['Arvid Mörne']",
+    "date": 1951,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176187&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man standing next to a rock, inspired by Eero Järnefelt, police officer hit, imperial officers in white, azores, by Johan Edvard Mandelberg, metal panels, pre - ww 1 submarine, nazare (portugal), parks and monuments, by Veikko Törmänen, chamonix, europe, anakin skywalker"
+  },
+  {
+    "object_ID": "1992-153",
+    "title": "['Synnytys']",
+    "date": 1977,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176177&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture of two people holding hands in the shape of a heart, reykjavik junior college, alien trees, photo courtesy museum of art, histological, on a canva, zaragoza gilberto soren, by Václav Brožík, lichen, alien plants, krzysztof kononowicz, concrete"
+  },
+  {
+    "object_ID": "1976-138",
+    "title": "['Kukkaniitty', 'Blomsteräng', 'Meadow with Flowers']",
+    "date": 1970,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169747&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a giraffe standing next to a tree, lake filed with molten gold, ranjit ghosh, still from l'estate, odilon, moonlight through trees, texturized, oil on wood, by Hans Werner Schmidt, waterways, colored layers, birches, mangrove swamp, from 2001, sparkling in the flowing creek, rutkowski |"
+  },
+  {
+    "object_ID": "1977-49",
+    "title": "['Lukkari oppimestarina I', 'Klockaren undervisar I', 'The parish clerk teaching I']",
+    "date": 1946,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167575&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a group of people sitting around a table, mark twain as huckleberry finn, studio ghibli painterly style, film still from avengers endgame, by Johann Gottfried Steffan, artforum, log cabin, court room sketch, conceptual mystery pokemon, full image, white haired, holding court, forest of neckties, hi res, creative commons attribution"
+  },
+  {
+    "object_ID": "1991-210",
+    "title": "['Kuutamo', 'Månsken', 'Moonlight']",
+    "date": 1986,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178161&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a wooden plate with a carved design on it, inspired by Huang Ding, ''dragon breathing fire, product render, inspired by Shiba Kōkan, fusion reactor, a jigsaw puzzle, props containing trees, top lid, key is on the center of image, sculptures"
+  },
+  {
+    "object_ID": "1976-429",
+    "title": "['Aurinkohattu', 'Solhatten', 'Sun Hat']",
+    "date": 1959,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168392&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a woman sitting on a rock, inspired by Jankel Adler, brown hat, by Louise Abbéma, rust, 1960, centered position, barefoot beautiful girl alien, looking away from viewer, side - view, prompt: fragile looking figure, directed gaze, zora"
+  },
+  {
+    "object_ID": "1976-373",
+    "title": "['Merellinen kosinta', 'Frieri på djupen', 'Maritime Proposal']",
+    "date": 1975,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170532&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman and a dog, eero aarnio, a mermaid in the sea, in a nest, naga-hakash, holding hands in the moonlight, undersea environment, shipibo, featured on artsation, by Herbert MacNair, black sand, bengal school of art, printmaking, miro, inuk"
+  },
+  {
+    "object_ID": "2005-159-2",
+    "title": "['DAWN']",
+    "date": 2004,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171670&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a man standing on top of a body of water, tarmo juhola, netting, frans lanting, airy colors, canon 3 5 mm photography, lakes, tending on arstation, membrane wings, intrincated, long flowing fabric, fisherman, shot onfilm, midlands, aerodynamic frame, 2006 photograph, polish, fine art print"
+  },
+  {
+    "object_ID": "1961-65",
+    "title": "['Roihutulia']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179367&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture made out of newspaper sitting on top of a window sill, 3d printed building, dna, swedish design, solid concrete, made of crystalized synapse, installation view, flowing forms, 2d side view, detailed studio photograph, reconstruction, by Mary Corkling, architectural render"
+  },
+  {
+    "object_ID": "1976-153",
+    "title": "['Moumoune peilin ääressä', 'Moumoune framför spegeln', 'Moumoune in front of the Mirror']",
+    "date": 1938,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170364&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man sitting in front of a mirror, flower in her hair, neo-expressionist style, patiphan sottiwilaiphong, inspired by Ernest Lawson, no clothes, naturalistic technique, in her room, keng lye, palette of primaries, bright and saturated palette, by Jørgen Nash, complete model, vibrancy color"
+  },
+  {
+    "object_ID": "1976-205",
+    "title": "['Maisema', 'Landskap', 'Landscape']",
+    "date": 1952,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167003&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman standing in a field, inspired by Franz Sedlacek, ned kelly, pompeii, 1 9 8 4 ethiopian famine, derelict house, by John Alexander, the horse and his boy, featured on artsation, alexandria's genesis, graveyard landscape, james gleeson, silo, inspired by Bridget Bate Tichenor, kangaroos, dystopian surrealism"
+  },
+  {
+    "object_ID": "1976-201",
+    "title": "['Aamukävely', 'Morgonpromenad', 'Morning Walk']",
+    "date": 1972,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168969&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of two people walking in the snow, by Margareta Alströmer, yellow school bus, by Edward Okuń, red fabric coat, ancestors, vesa-matti loiri, artforum, single tree, warehouses, older woman, intimately holding close, two people, one house, 2009, illustrative, black crows"
+  },
+  {
+    "object_ID": "1994-79",
+    "title": "['Pieniä harmaita väriympyröitä', 'Små gråa färgcirklar', 'Small Grey Colour Circles']",
+    "date": 1994,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2968935&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a person is flying a kite in the sky, pressed penny art, installation view, by Carol Bove, ratio 16:9, salami, in a row, vine, inspired by Samuel F. B. Morse, coins, height 1 7 8, studio photograph”, time is running out, tarot cards floating, gong, ropes"
+  },
+  {
+    "object_ID": "1976-172",
+    "title": "['Asetelma', 'Still Life']",
+    "date": 1917,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2166982&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a still life with a bottle of beer, by David Bomberg, water color paper, ice cave, subject= duck, inspired by Helene Schjerfbeck, alcohol with blue delirium skies, apples on the ground, three cats drinking in a bar, mule, brooklyn museum, inspired by William John Thomson"
+  },
+  {
+    "object_ID": "1976-359",
+    "title": "['Tyttö keltaista taustaa vasten', 'Flicka mot gul fond', 'Girl against a Yellow Background']",
+    "date": 1963,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170939&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman sitting in front of flowers, inspired by James Brooks, at a dinner table, yellow and orange color scheme, inspired by Jules Pascin, the caretaker, portrait of tom cruise, bathing in light, eating outside, by Albert Irvin, face visible, may 1 0, hints of yayoi kasuma"
+  },
+  {
+    "object_ID": "1976-198",
+    "title": "['Kylpevä tyttö (Tyttö lähteellä)', 'Badande flicka (Flicka vid källa)', 'Girl Bathing (Girl at a Spring)']",
+    "date": 1914,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171146&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man sitting in the grass, inspired by Maximilien Luce, nymphaea, by Zbigniew Nowosadzki, black oil bath, a maid in a magical forest, by Louise Abbéma, small pond, ivory skin, inspired by Konstantin Korovin, acorns, tundra, female body, rapids"
+  },
+  {
+    "object_ID": "1976-431",
+    "title": "['Haaveilija', 'Svärmare', 'Dreamer']",
+    "date": 1971,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168781&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a woman sitting on a rock, inspired by Mark Gertler, awe - inspiring award - winning, maternity feeling, valerian, inspired by Jóhannes Sveinsson Kjarval, inspired by Vilhelm Lundstrøm, by Willem Labeij, official artwork, megaliths, chauvet, dan mora, fat"
+  },
+  {
+    "object_ID": "1976-82",
+    "title": "['Tummaihoisia miehiä kahvipöydässä', 'Mörkhyade män vid kaffebordet', 'Black Men at the Coffee Table']",
+    "date": 1956,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170903&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of two people sitting at a table, marlene dumas, men look up at the sky, modern pastel colours, 1960s illustration, inspired by John Zephaniah Bell, blacksad, photo courtesy museum of art, blurred detail, paul bonner, adut akech, arguing, 1958, al fresco, gig, speech"
+  },
+  {
+    "object_ID": "1977-3",
+    "title": "['Kulon sammutus', 'Elden släckes', 'Putting out the fire (burning a clearing)']",
+    "date": 1945,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169681&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people riding horses, torn paper smouldering smoke, by Noémi Ferenczy, dancing around a fire, scans from museum collection, by Edward Sorel, 2 0 1 4. modern attire, dust floats in the air, may 1 0, turban, trampling over pyongyang, hairdryer"
+  },
+  {
+    "object_ID": "1976-184",
+    "title": "['Johanna']",
+    "date": 1956,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170639&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man in a blue shirt, portrait of a melancholic lady, inspired by Gabriele Münter, dark grey robes, inspired by Frederick Hammersley, focus and ( gaussian blur ), she is looking at us, gray anthropomorphic, the third… had a face like a man, photo courtesy museum of art, 2 0 1 9"
+  },
+  {
+    "object_ID": "1976-69",
+    "title": "['Kreikkalaiskatolinen jumalanpalvelus (Raivola)', 'Grekisk-katolsk gudstjänst (Raivola)', 'Greek-Orthodox Liturgy (Raivola)']",
+    "date": "1935-1936",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168351&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people in a church, inspired by Nikolai Astrup, by Isaac Soyer, diptych, holy ceremony, prayer, inspired by Moïse Kisling, emanating white smoke, in court, wearing a veil, brainwashing, standing posture, by Eero Järnefelt, vienna, 50"
+  },
+  {
+    "object_ID": "1976-276",
+    "title": "['Valamo', 'Valamo', 'Valamo Monastery']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170122&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a rainbow in the sky, by Karel Štěch, by Oskar Kokoschka, black domes and spires, photo courtesy museum of art, small water stream, kirchner, orphism, searchlight, circa 1912, mosque, blue tunic, ravine, by László Beszédes"
+  },
+  {
+    "object_ID": "2000-117",
+    "title": "['Seitsemän veljeksen serviisi', 'Sju bröders servis', \"Seven Brothers' Tableware\"]",
+    "date": 2000,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171193&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a group of children sitting at tables in a building, rgb wall light, espoo, fzd school of design, warm lantern lighting, very tall ceilings, fuji superia, business surrounding, iso 125, exterior design, library books, panoramic, photo from the back, vivd"
+  },
+  {
+    "object_ID": "1992-143",
+    "title": "['Vooki', 'Vågen', 'The Wave']",
+    "date": 1974,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173090&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a very tall building next to a body of water, trending on artforum, white sea cloud, by Lajos Vajda, cyberpunk statue, spiral lines, wind and dust, pencil miniskirt, 1km tall, plexus, vents, height 1 7 8, swedish design, artforum, moire, 2009, houzz, smokey chimney"
+  },
+  {
+    "object_ID": "2019-21",
+    "title": "['Rouva Elvira Ruokokoski', 'Fru Elvira Ruokokoski', 'Mrs. Elvira Ruokokoski']",
+    "date": 1910,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178530&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white drawing of a woman, by Robert Bevan, young face, featured in artistation, around 1 9 years old, inspired by Cornelia MacIntyre Foley, year 1 9 1 4, stern face, kramskoi, printmaking, photograph of april, aged 13, diebenkorn, kalevala"
+  },
+  {
+    "object_ID": "1977-19",
+    "title": "['Sovinto', 'Försoning', 'Reconciliation']",
+    "date": 1945,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171575&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of two men shaking hands at a table, color study, inspired by Lilla Cabot Perry, drawfolio, defense attorney, inspired by Theodor Philipsen, necktie, g 7 summit press photos, from the tusk movie, storybook design, app, three - point lighting, customer, artsation contest winner"
+  },
+  {
+    "object_ID": "1976-332",
+    "title": "['Eteläinen kaupunki', 'Sydländsk stad', 'Southern City']",
+    "date": 1949,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167804&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of sailboats on a body of water, inspired by William Congdon, panorama of crooked ancient city, 1950s, light grey blue and golden, hicham habchi, standing in desert, staggered terraces, by Milton Menasco, artforum, street vendors, 1956, squares, trending on artstattion"
+  },
+  {
+    "object_ID": "1976-105",
+    "title": "['Valkopukuinen tyttö (Inni Siegberg)', 'Vitklädd flicka (Inni Siegberg)', 'Girl in White (Inni Siegberg)']",
+    "date": 1915,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171652&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman sitting on a chair, inspired by Giovanni Giacometti, blue-white dress, sad lighting, aged 13, standing in front of a mirror, brancusi, phone in hand, sitting alone at a bar, wearing a white folkdrakt dress, harsh light and shadow, by Marc-Aurèle de Foy Suzor-Coté"
+  },
+  {
+    "object_ID": "2005-48",
+    "title": "['Kaunis tie', 'Vacker väg', 'Beautiful Road']",
+    "date": 2005,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167935&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a road with sheep on it, by Julian Schnabel, gradient light yellow, adrian tomine, 62 x 47 inches, white fog painting, an ai generated image, inspired by Euan Uglow, highways, lossless, without text, stands at her easel, middle distance, albino, roads, 2009, driving"
+  },
+  {
+    "object_ID": "2000-300",
+    "title": "['Saanko luvan, Linja-autoasema, 1980', 'Får jag lov, Busstationen, 1980', 'May I, Bus Station, 1980']",
+    "date": 1980,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175045&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a group of people walking down a street, artforum, disco diffusion, swedish urban landscape, white shirts, androgyny, boston, flares, attacking nyc, sweden, wide skirts, downtown, walking"
+  },
+  {
+    "object_ID": "1992-32",
+    "title": "['Saksalaisten sotilaiden hauta', 'De tyska soldaternas grav', \"The German Soldiers' Grave\"]",
+    "date": 1920,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173702&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a wreath is placed in front of a stone wall, light blue colors, inspired by Johann George Schmidt, crushing despair, badge, bathing inside the tar pit, may 1 0, cornelia geppert, symbolization, year 1 9 4 4, freemasons, at noon, more details, dutch, boston, famine, poland, exquisit detail"
+  },
+  {
+    "object_ID": "2001-192",
+    "title": "['Rauhanpaasi', 'Fredsstod', 'Peace Slab']",
+    "date": 2001,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172974&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large rock sitting in the middle of a forest, hito steyerl, runestone, generative design, 62 x 47 inches, anya forger, by Veikko Törmänen, midsommar, dynamic folds, regeneration, 7 7 7 7, lossless, high walls, bjørn, vandalism"
+  },
+  {
+    "object_ID": "2001-75-2",
+    "title": "['Teoksia kokonaisuudesta Albumi (1955-1963)', 'Verk från helheten Album (1955–1963)', 'Works from the collection Album (1955–1963)']",
+    "date": "1997-1999",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170549&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of a red building, by Cerith Wyn Evans, coloured lithograph engraving, hair loops, tumbleweed, blood rivers, washington, gelatin silver process photo, one house, lossless, matte print, topology, draft, disjoint haphazard, prairie, damage"
+  },
+  {
+    "object_ID": "2003-64",
+    "title": "['Heijastus', 'Spegling', 'Reflection']",
+    "date": 2003,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2166843&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "an empty room with a glass block wall, swedish urban landscape, from 2001, full width, deblurring, plaster, elevator, c1970, inspired by Arnold Bronckhorst, width 768, johanna rupprecht, visible texture"
+  },
+  {
+    "object_ID": "1976-318",
+    "title": "['Vantaa, Hyvinkää', 'Vanda, Hyvinge', 'Vantaa, Hyvinkää']",
+    "date": 1942,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169929&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a river surrounded by trees, by Margareta Alströmer, by Riusuke Fukahori, janis rozentals, contemporary masterpiece, wide-perspective, oil on canva, by Bjørn Wiinblad, low horizon, roadside"
+  },
+  {
+    "object_ID": "1976-193",
+    "title": "['Ratsulähetti (Punainen hevonen)', 'Ridstafett (Röd häst)', 'Mounted Messenger (Red Horse)']",
+    "date": 1945,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167828&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a horse in a snowy field, by Fritz Bultman, banff national park, night forest, summer camp, last light, inspired by Joseph Kleitsch, red paint, blue dog, inspired by William John Thomson, ( ( photograph ) ), award-winning painting, an elephant, may 6 8, front page, the caretaker"
+  },
+  {
+    "object_ID": "2002-108",
+    "title": "['Oo!', 'Oo!', 'Oo!']",
+    "date": 2002,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169663&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a spiral staircase inside of a building next to a window, crt screens in background, inspired by Cornelia MacIntyre Foley, northwest school, front view 2 0 0 0, clear glass wall, vast library, with backdrop of natural light, 2000s photo, mayfield parish, commercial photograph, triptych, taken from the high street, panorama, rectangular"
+  },
+  {
+    "object_ID": "2005-69",
+    "title": "['Piipunpolttaja', 'Piprökare', 'Pipe Smoker']",
+    "date": 1967,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170514&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man sitting on a chair with a pipe in his mouth, by Grethe Jürgens, man in dark blue full body suit, jewish young man with glasses, 1955, shabab alizadeh, aged 2 5, peter parker, brooding, albert kiefer"
+  },
+  {
+    "object_ID": "2004-147",
+    "title": "['Urajärveltä', 'Från Urajärvi', 'From Urajärvi']",
+    "date": 1973,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168276&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a view of a body of water, by Sean Scully, by Charles E. Burchfield, folk art, the metropolitan museum of art, inspired by George Catlin, ( ( illustration, blotter art, mountains and lakes, jamaica, comic panel, 1 : 1 aspect ratio, inspired by Ellsworth Kelly, midsommar - t, 9"
+  },
+  {
+    "object_ID": "1976-245",
+    "title": "['Uniikki (Omakuva)', 'Unikum (Självporträtt)', 'Unique (Self-Portrait)']",
+    "date": 1971,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169569&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man with a mustache, by Dora Carrington, biker, portrait of kim wexler, looking to his left, asymmetrical face, photo courtesy museum of art, jean paul fiction, gary busey, focused gaze, critically condemned, split - complementary - colors, alphonse fly, smiling man, hyprrealism"
+  },
+  {
+    "object_ID": "1976-108",
+    "title": "['Ateljeen sisäkuva (Taidesalonki, Aleksanterinkatu 7)', 'Ateljéinteriör (Konstsalongen, Alexandersgatan 7)', 'Studio Interior (Taidesalonki, Aleksanterinkatu 7)']",
+    "date": 1917,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168931&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man sitting in front of a window, 1 9 2 0 s room, absence makes heart grow fonder, black stripes, van lieven, scans from museum collection, medium detail, 2 0 1 4. modern attire, solitude, on ship, caulfield, google arts and cultures, post - war scenery"
+  },
+  {
+    "object_ID": "1996-82",
+    "title": "['Kirjanpitäjän muotokuva', 'Porträtt av en bokförare', 'Portrait of a Bookkeeper']",
+    "date": 1996,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2966847&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man with no shirt on, el anatsui, futuristic glossy latex suit, back - view, 1 9 7 0 s comic book, blue silver and black, inspired by Louise Bourgeois, tom finland, diaper-shaped, her back is to us, stencil art, smart textiles"
+  },
+  {
+    "object_ID": "1976-434",
+    "title": "['Pan']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169780&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man playing a flute, holding a mug of beer, mingei, ooak, boy, full body; front view, early cuyler, omar ortiz, polyphonic bio - communications, featured on artsation, fetus, anthropology, congas, private collection, listing image"
+  },
+  {
+    "object_ID": "1976-361",
+    "title": "['Malliharjoitelma', 'Modellstudie', 'Model Study']",
+    "date": 1969,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170357&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man standing next to a trash can, inspired by Pierre Bonnard, as the goddess of the sun, by Grethe Jürgens, ancient ochre palette, year 1968, lightly dressed, roman bath, inspired by Jens Søndergaard, subject in the centre, serpent, yellow sunshine, 27, simple figures"
+  },
+  {
+    "object_ID": "1976-192",
+    "title": "['Asetelma', 'Nature Morte', 'Still Life']",
+    "date": 1925,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171524&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman's head next to a potted plant, inspired by Gabriele Münter, blue and orange lighting, colorful bottles and plants, blue archive, by Ottó Baditz, displayed in the exhibition hall, morhbacher, vignette, by Charles Blackman, by Grethe Jürgens, featured on artsation, pot"
+  },
+  {
+    "object_ID": "1976-378",
+    "title": "['Pesutupa, Käpylä', 'Tvättstuga, Kottby', 'Laundry, Käpylä']",
+    "date": 1925,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168900&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a house surrounded by trees, inspired by Francis Cadell, uttarakhand, 1930s, white and purple, blue archive, featured on artsation, painting of a man, inspired by Hermann Rüdisühli, speilbergian lighting, inspired by Władysław Czachórski, auction, swiss"
+  },
+  {
+    "object_ID": "1998-410-1",
+    "title": "['Molekyyli merihädässä']",
+    "date": 1998,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167517&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a long hallway with a bench next to a brick wall, translucent pastel panels, there is a window to the sea, taken in 1 9 9 7, inspired by Ned M. Seidler, the sky is grey 2 0 0 0, photography photorealism, avetetsuya studios, media art, mezzanine, 2003, waterscape"
+  },
+  {
+    "object_ID": "1992-95",
+    "title": "['Itämeren tytär, Maila Talvion muistomerkki', 'Östersjöns dotter, Maila Talvios minnesmärke', 'The Daughter of the Baltic Sea, Maila Talvio Memorial']",
+    "date": 1971,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174772&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture of a bird on a pedestal in a park, inspired by Mikalojus Konstantinas Čiurlionis, by Eero Järnefelt, swirling scene in forest, woman in black robes, july 2 0 1 1, kirill leonov, nebula, right side profile, h 576, flowing curves, by Béla Kondor"
+  },
+  {
+    "object_ID": "1976-424",
+    "title": "['Karkauspäivä', 'Skottårsdag', 'Leap Day']",
+    "date": 1949,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170620&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man and a woman hugging, by Art Spiegelman, google arts and cultures, miniature resine figure, inspired by Willem Pieterszoon Buytewech, 1966, draft, french kiss, trending on artforum, brown clothes, circa 1940s, holding up a night lamp, in the air"
+  },
+  {
+    "object_ID": "1999-118",
+    "title": "['Valon virsi (Kalevala-kuvitus)', 'Ljusets psalm (Kalevala-illustration)', 'Song of Light (Illustrations for Kalevala)']",
+    "date": 1998,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171050&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a boat with a flag on it, by Alice Rahon, floating spheres and shapes, contrails, gold dripping in spiral, hiroo isono, metallic arrows, dandelion seeds float, anthropomorphic dog, inspired by Agnes Martin, craters, round-cropped, anthropomorphic, swirl, anthropomorphic machine"
+  },
+  {
+    "object_ID": "1976-131",
+    "title": "[\"Scurdy Ness'in majakka, Skotlanti (Aallonmurtaja)\", 'Scurdy Ness fyrbåk, Skottland (Pir)', 'Scurdy Ness Lighthouse, Scotland (Breakwater)']",
+    "date": 1908,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179656&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a boat in the water, vargas, mid-30s, by Witold Wojtkiewicz, terracotta, dreadnought, vladimir abat-cherkasov, horizon line focus, vehicle, john j. park, by Abram Arkhipov, h 1088, marine, festival, inspired by Witold Pruszkówski"
+  },
+  {
+    "object_ID": "1976-207",
+    "title": "['Palkkasoturi', 'Kondottiären', 'Mercenary']",
+    "date": 1966,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169959&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman in a green dress, by Nancy Spero, portrait of a medieval old king, inspired by Gwilym Prichard, wearing intricate fur armor, inspired by Corneille, scottish folklore, wearing a pinstripe suit, the caretaker, style of daniel merriam, aged 4 0, 2 0 2 0 award winning painting"
+  },
+  {
+    "object_ID": "1976-89",
+    "title": "['Venäläinen tyttö', 'Rysk flicka', 'Russian Girl']",
+    "date": 1966,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167704&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman wearing a hat, photo still of behind view, pale pastel colours, white and black color palette, inspired by Eva Gonzalès, sitting on a chair, scans from museum collection, over the shoulder closeup, pony facing away, anorexic figure, shoulders can be seen, trending on artstatioin, morandi color scheme, gustave loiseau"
+  },
+  {
+    "object_ID": "1973-24",
+    "title": "['Siili', 'Igelkott', 'Hedgehog']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172143&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a piece of wood sitting on top of a metal plate, driftwood sculpture, tall and slender, centered focus, official artwork, images on the sales website, by Karel Havlíček, vase, 8k h 768, living tree"
+  },
+  {
+    "object_ID": "1977-29",
+    "title": "['Kotimatkalla tappelusta I', 'På hemväg från slagsmål I', 'On the way home after a fight I']",
+    "date": 1946,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167191&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people with white turbans, inspired by Avigdor Arikha, d-day, digitally drawn, bumpy mottled skin, full of smoke and dust, hopelessness, remembrance, human farm, female sailor uniforms, illustration - n 9, diptych, artist sketch"
+  },
+  {
+    "object_ID": "2007-127",
+    "title": "['Ole rohkea']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174017&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a building with a large sculpture hanging from the ceiling, mit technology review, crochet, corporate photo, tonal topstitching, streams of flowing light, carbon fibers, hospital room, rivuletpaper art, diptych, solidworks, southdale center, yarn, warping"
+  },
+  {
+    "object_ID": "1992-100",
+    "title": "['Gunnar Bärlundin näköispatsas']",
+    "date": 1991,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174389&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man holding a baseball bat, by Margareta Alströmer, disfigured figure, courtyard, inspired by Peder Severin Krøyer, the garden of eden, the thinker, summer evening, viewed from earth, w 7 6 8, hear no evil, emaciated, titan, face shown, in a park, wearing modern headphone"
+  },
+  {
+    "object_ID": "1999-148-1",
+    "title": "['Maalauksia seinälle / Paperinukke-aihe']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170586&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with a lot of clothes hanging on the wall, brutalist buildings tower over, school courtyard, by Gregorio Lazzarini, warm lantern lighting, norrlandsskog, florentine school, media photo, set in 1998, round-cropped, large patches of plain colours, floodlight, children's artwork, warmly lit"
+  },
+  {
+    "object_ID": "2003-139-2",
+    "title": "['Stabat mater']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167858&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white drawing of a snake, by Julian Schnabel, draped with water and spines, polaroid image, entwined in vines, radiohead singer thom yorke, coloured woodcut, black slime, blood smear"
+  },
+  {
+    "object_ID": "01/06/1976",
+    "title": "['Esikaupungista', 'Från förstaden', 'View from the Suburb']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169415&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a village in the snow, inspired by Jørgen Nash, by Christian Jane Fergusson, rubble, central farm, environment, by Maurice Prendergast, panoramic, shin jeongho, lush landscape, by Herbert MacNair, elliot anderson, 1 6 : 9, stathmore 2 0 0, rongier, frontpage, carrington"
+  },
+  {
+    "object_ID": "1992-108",
+    "title": "['Aleksanteri II']",
+    "date": "1884-1894",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169548&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue in front of a large white building, finnish naturalism, photo taken with provia, bustling with people, salvia, panoramic view, lawns, photograph of the city street, 80mm focal length, mit technology review, full body; front view, full width, petros"
+  },
+  {
+    "object_ID": "2005-124",
+    "title": "['Nimetön', 'Utan titel', 'Untitled']",
+    "date": 2005,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169274&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a factory with smoke coming out of it, in the world of andrew wyeth, artforum, around everlasting darkness, viewed from the harbor, dramatic reddish light, detention centre, ca. 1990, inspired by J.M.W. Turner, dark neighborhood, maryport, 2009, by Alasdair Grant Taylor"
+  },
+  {
+    "object_ID": "2010-78-2",
+    "title": "['Kukka']",
+    "date": 2010,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167318&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a staircase going up to a building with a sign on it, stylized geometric flowers, by Karl Hagedopoorn, inspired by Robert Bevan, augusta national, espoo, stone art, tassels, strathmore 2 0 0, public art, animation still, northwest school, helmond, hamar, iso 1250, white ceramic shapes"
+  },
+  {
+    "object_ID": "2003-67-4",
+    "title": "['Työ ja vapaa-aika']",
+    "date": 2003,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173895&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with three framed pictures on the wall, healthcare worker, inspired by Jaakko Mattila, 2000s photo, brochure, installation view, families playing, inside of a cabin, shot on anamorphic lenses, hospital background, medium-format print, official product photo, by Gerard Soest, bright it interiors, wall art, rockwell"
+  },
+  {
+    "object_ID": "1990-183",
+    "title": "['Laulava kivi', 'Sjungande sten', 'Singing Stone']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172069&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of people laying on top of a large rock, by Antanas Sutkus, inspired by Arthur Boyd, heidelberg school, crouching, live-action archival footage, award- winning photography, inspired by Ambrose McCarthy Patterson, large rocks, winning award image"
+  },
+  {
+    "object_ID": "1976-65",
+    "title": "['Peltotyötä, Île de Sein', 'Åkerarbete, Île de Sein', 'Working the Field, Île de Sein']",
+    "date": 1928,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2166993&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman walking down a dirt road, church in the background, eeire, rows of lush crops, sea plants, inspired by Esther Blaikie MacKinnon, dunwall city, rows of canteen in background, cobblestones on the ground, two women, during the day, flowerbeds, award-winning composition, celtic, cathedrals and abbeys"
+  },
+  {
+    "object_ID": "1976-43",
+    "title": "['Asetelma', 'Nature Morte', 'Still Life']",
+    "date": 1964,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171472&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a table with a lamp on it, inspired by Jean-Baptiste-Siméon Chardin, by David Bomberg, pale cyan and grey fabric, carrying a bottle of perfume, desaturated blue, by Mario Sironi, hanging scroll, trending on artforum, wearing a white robe, rosetti"
+  },
+  {
+    "object_ID": "1972-19",
+    "title": "['Tulipalo', 'Conflagration']",
+    "date": 1971,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170667&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a painting of a face on a balloon, daniel richter, fighting monster with magic, dust clouds | homoerotic, interconnected human lifeforms, pendleton ward, scans from museum collection, turquoise pink and yellow, toiletpaper magazine, -h 960, kites, it\\'s name is greeny"
+  },
+  {
+    "object_ID": "1976-342",
+    "title": "['Lukuhetki (Gerda Thesleff ja Sigrid Schauman)', 'Lektyr (Gerda Thesleff och Sigrid Schauman)', 'Reading (Gerda Thesleff and Sigrid Schauman)']",
+    "date": 1906,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178542&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of two people sitting in a hammock, inspired by Harriet Backer, movie frame still, by Marianne von Werefkin, two japanese schoolgirls posing, cinemascope panorama, shadows from trees, colored pencils, photographed in film, strathmore 2 0 0, ponds, inspired by William Glackens"
+  },
+  {
+    "object_ID": "1976-372",
+    "title": "['Ensimmäinen lentokone A', 'Första flygmaskinen A', 'First Aeroplane A']",
+    "date": 1973,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171065&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting on the side of a building, by Bhupen Khakhar, underwater sea monster, circa 1970, inspired by Stanisław Witkiewicz, by Taravat Jalali Farahani, lorenzo vitturi, oil on canvas, megaliths, smog, inspired by Taravat Jalali Farahani, blue body, 27"
+  },
+  {
+    "object_ID": "1977-21",
+    "title": "['Pirtti tulessa', 'Pörtet brinner', 'The cabin on fire']",
+    "date": 1945,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169649&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people running in the snow, inside a decaying hospital room, looking into the flames, painted with pastels, hans zatska, official concept art, tumours, loss of control, inspired by Max Slevogt, nurse scrubs, hand - tinted, take cover"
+  },
+  {
+    "object_ID": "2001-75-3",
+    "title": "['Teoksia kokonaisuudesta Albumi (1955-1963)', 'Verk från helheten Album (1955–1963)', 'Works from the collection Album (1955–1963)']",
+    "date": "1997-1999",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171732&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a house with a staircase going up to it, by Julian Schnabel, with a xerox machine, red car, trending on arstation, holographic projection, inspired by Ambrose McCarthy Patterson, official product image, stephen shore, the house in the forest"
+  },
+  {
+    "object_ID": "1970-41",
+    "title": "['Lepotauko 2', 'Vilopaus 2', 'Rest 2']",
+    "date": "1970-1975",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171998&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a woman sitting on a bench in a park, inspired by Jaakko Mattila, torn cape, 2009, arvalis, image from afar, taiga, by Alfred Jensen, iso 125, migrant mother, woman in black robes, ancient astronauts, urban surroundings"
+  },
+  {
+    "object_ID": "1992-89",
+    "title": "['Kalastava karhu', 'Fiskande Björn', 'The Fishing Bear']",
+    "date": 1916,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172759&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a stone statue of a bear holding a skateboard, taps with running water, finnish naturalism, water swirling, mid-20s, minneapolis, low pressure system, in a park, -w 768, feed troughs, neoplasticism, image from afar, by P.C. Skovgaard, midsommar, sap"
+  },
+  {
+    "object_ID": "2003-66-1",
+    "title": "['Juuret']",
+    "date": 2003,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168201&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a living room filled with furniture and a flat screen tv, shot on large format film camera, hospital background, by Thomas Häfner, environmental artwork, soft blur outdoor lighting, various artworks, norrlandsskog, defibrillator, triptych, minn, blue image"
+  },
+  {
+    "object_ID": "1976-74",
+    "title": "['Nukkuva akka', 'Sovande gumma', 'Old Woman Asleep']",
+    "date": 1945,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167879&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a person sleeping on a bed, inspired by Fern Coppedge, photo of poor condition, painted with pastels, by Thomas Cantrell Dugdale, artsation contest winner, in a war - torn desert village, by Hilda May Gordon, caroline gariba, artist rendition, camp"
+  },
+  {
+    "object_ID": "1976-134",
+    "title": "['Veneet (Sommitelma)', 'Båtar (Komposition)', 'Boats (Composition)']",
+    "date": 1957,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170388&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a cup of coffee on a table, by Johannes Itten, nebula in the sky, jungle fruit, inspired by Sean Scully, seen through a kaleidoscope, photo courtesy museum of art, 1946, dressed in dark garment, surrounding onions, colours red and green, inspired by William John Thomson"
+  },
+  {
+    "object_ID": "1996-25-4",
+    "title": "['Accumulation Cut']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178352&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of a stream in the snow, hito steyerl, gallery display photograph, panoramic anamorphic, stalin, large format photograph, protagonist in foreground, there is a loose wire mesh, museum quality photo, jacques villegle, colour photograph"
+  },
+  {
+    "object_ID": "1976-195",
+    "title": "['Omakuva', 'Självporträtt', 'Self-Portrait']",
+    "date": 1971,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168447&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman in a red coat, by Betty Churcher, award - winning painting, dark portrait, aging, as photograph, caretaker, augusta savage, caravagio, thomas kinkad, c1970, oil on canva, zdzidaw, 2021 award winning painting, facing the viewer"
+  },
+  {
+    "object_ID": "1976-62",
+    "title": "['Talvikuva (Talvinen katu Helsingissä)', 'Vinterbild (Helsingforsgata on vintern)', 'Winter Scene (Street in Helsinki in Winter)']",
+    "date": 1926,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167458&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people walking in the snow, temporary emergency shelter, war action, treacherous road, trucks, inspired by John Macdonald Aiken, website banner, by Jørgen Nash, photo courtesy museum of art, 21:9, workers, crushing despair, postage, wanderers traveling from afar, scott burdick, fish market, wpa, warmly lit"
+  },
+  {
+    "object_ID": "1976-317",
+    "title": "['Omakuva, Hattu päässä', 'Självporträtt med hatt', 'Self-Portrait, Wearing a Hat']",
+    "date": 1942,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167441&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man wearing a hat, by Hans Falk, healthcare worker, wearing glack glasses, photo courtesy museum of art, inspired by Isaac Soyer, looking in mirror at older self, pensive and hopeful expression, still image from the movie, by Grethe Jürgens, exhibited at the british museum"
+  },
+  {
+    "object_ID": "1976-287",
+    "title": "['Rouva Rydeng', 'Fru Rydeng', 'Mrs. Rydeng']",
+    "date": 1913,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168451&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman with a hat on, inspired by Gabriele Münter, a portrait of a plump woman, bitter, portrait of gordon ramsay, inspired by Jozef Israëls, auction, solo 3 / 4 portait, 1 9 1 0, ‘luca’, angela merkel, still from the film, hasselblatt, achille mauzan"
+  },
+  {
+    "object_ID": "1996-23",
+    "title": "['Kissing Racks']",
+    "date": 1990,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174526&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of red sculptures sitting on top of a cement floor, large full lips, supercomputers text to images, by Margareta Sterian, detailed-wheels, french kiss, rack focus, repeating, smart design, 2010s, stems, circular towers, beautiful lips, munich"
+  },
+  {
+    "object_ID": "1976-230",
+    "title": "['Ilta', 'Kväll', 'Evening']",
+    "date": 1958,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171474&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people standing in a field, horizon of an erupting volcano, c1970, expressionistic lighting, circa 1958, worshipers, rolling foothills, by Solomon Gessner, oil on canva, triptych, theatrical scenery, humanoids, yellows, year 1 9 4 4, image"
+  },
+  {
+    "object_ID": "1942-11",
+    "title": "['Hakaniemen tori', 'Hagnäs torg', 'Hakaniemi Square']",
+    "date": 1942,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178280&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a city covered in snow, by Eero Järnefelt, urban patrol, train station in summer, the panorama, warehouses, inspired by Július Jakoby, 3 pm, midday photograph, pochi iida, provenance, inspired by Harold Harvey, barracks, private collection, 16:9, delivering parsel box"
+  },
+  {
+    "object_ID": "2000-115",
+    "title": "['Avaruuskeitto', 'Rymdsoppa', 'Space Soup']",
+    "date": 2000,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171086&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large clock on the wall of a building, esa, by Karl Hagedopoorn, taken in 1 9 9 7, tentacle motifs, large staircase, planets on the background, fzd school of design, by Willem Pieterszoon Buytewech, copyright tsr 1989, made of cement, school of fishes"
+  },
+  {
+    "object_ID": "1992-43",
+    "title": "['Sibelius-monumentti \"Passio Musicae\"', 'Sibeliusmonumentet \"Passio Musicae\"', 'Sibelius Monument \"Passio Musicae\"']",
+    "date": 1967,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167652&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture made out of pipes in the middle of a park, eero aarnio, pipe organ album art, dripping stalagtites, trending on artstattion, oil on canevas, kalevala, by Ryoji Ikeda, wind - swept, crowns, park on a bright sunny day, artforum, vial of stars, discogs"
+  },
+  {
+    "object_ID": "1976-196",
+    "title": "['Asetelma II', 'Nature morte II', 'Still Life II']",
+    "date": 1974,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169704&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of two pots and a bowl on a table, inspired by Jozef Israëls, woody\\'s homework, black and white palette, scans from museum collection, inspired by Theodore Robinson, post - minimalism, broken bottles, in this painting, by Cézanne, prizewinning, rocks"
+  },
+  {
+    "object_ID": "1976-88",
+    "title": "['Asetelma', 'Nature morte', 'Still Life']",
+    "date": 1965,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169630&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a plate of food on a table, by Anne Redpath, trending on artforum, muted pastels, seinfeld fancy tea party, inspired by Diego Giacometti, photo courtesy museum of art, li zixin, artforum, by Bonnard Pierre, muted complementary colors, white mist, sea breeze rises in the air"
+  },
+  {
+    "object_ID": "2000-315",
+    "title": "['Kolme Masaa, Wallininkatu 7, 1960', 'Tre pojkar vid namn Masa, Wallinsgatan 7, 1960', 'Three Boys Named Masa, Wallininkatu 7, 1960']",
+    "date": 1960,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174147&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a group of men standing next to each other, inspired by Antanas Sutkus, youthful appeal, irish, triptych, sun in the zenith, hustlers, photographic print, social realism, rennes - le - chateau, aged 13, by Bruce McLean, brooklyn museum, polish hyper - casual, brotherhood, f4, 60s"
+  },
+  {
+    "object_ID": "1965-7",
+    "title": "['Kevät ihmisessä']",
+    "date": 1965,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180361&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture of two bears hugging each other, caustics lighting from above, swirling fluid, in a rock chair, by Evelyn Abelson, angel is split in two with smoke, photo courtesy museum of art, cracked mud, metallic light, being-in-itself, rendered image, dynamic folds, art »"
+  },
+  {
+    "object_ID": "1992-70",
+    "title": "[' J.K.Paasikiven muistomerkki', 'J.K.Paasikivis minnesmärke', 'J.K.Paasikivi Memorial']",
+    "date": "1975-1980",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172416&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of black vases sitting on top of a stone slab, giant sculpture, gravitational lensing, twin towers, creative commons attribution, denmark, steel blades, spinal column, front view 2 0 0 0, city square, nubian, frederik heyman, - h 768, panel of black, no two bodies, star lines"
+  },
+  {
+    "object_ID": "2000-112",
+    "title": "['Lähde, UKK-monumentti', 'Källan/UKK-monumentet', 'Spring/UKK Monument']",
+    "date": 2000,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174050&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a pool in the middle of a park surrounded by trees, installation view, vernadskys noosphere, street lamps, by Ernő Grünbaum, full width, the caretaker, alien abduction, featured in artscape, green hills, zabrocki, ravine, artforum, norrlandsskog, diptych"
+  },
+  {
+    "object_ID": "1992-41",
+    "title": "['Kohottava voima', 'Upplyftande kraft', 'Lifting Power']",
+    "date": 1962,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176292&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man on top of a ball, dragging a pile of chains, scientific earth crust, by Sydney Prior Hall, rutkoswki, inspired by Johan Edvard Mandelberg, panoramic anamorphic, high-body detail, earth colors, hulk body type, united nations, half - length portrait"
+  },
+  {
+    "object_ID": "2003-139-4",
+    "title": "['Stabat mater']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167619&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white painting of a bunch of skulls, by Francesco Clemente, smouldering charred timber, by Luc Tuymans, pictured from the shoulders up, strands of being, dark blue segmented armor, torches, listing image, by Marsden Hartley, scp-106, woodfired, beings of astonishing structure"
+  },
+  {
+    "object_ID": "1977-28",
+    "title": "['Äiti ja vitsa', 'Modern och riset', 'Mother and the birch-rod']",
+    "date": 1946,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171251&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a group of men riding horses, final fantasy 1 4 screenshot, inspired by Paula Rego, drawn with crayons, local people chasing to attack, momoshiki ōtsutsuki, in a grass field, exploitable image, anime keyframe, migrant mother, rocks falling"
+  },
+  {
+    "object_ID": "1998-69",
+    "title": "['Suhde', 'Förhållande', 'Relationship']",
+    "date": 1995,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2967083&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of combs sitting next to each other, style of angela deane, product view, breaking apart, pink and black, skin color, unsaturated colors, in plastic, brush hard, unbalanced, shag, separated, official artwork, dichromatism, bald"
+  },
+  {
+    "object_ID": "1976-31",
+    "title": "['Talvipäivä (Luukkaalan talo, Sääksmäki)', 'Vinterdag (Luukkaala Gård, Sääksmäki)', \"A Winter's Day (Luukkaala Farm, Sääksmäki)\"]",
+    "date": 1917,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167222&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a farm in the snow, concrete building, jörmungandr, after the storm, mid-30s, hollister ranch, winter season, bitter, captures emotion and movement, vancouver, looking straight ahead, 5 0 0 px, by David Burliuk, by Þórarinn B. Þorláksson"
+  },
+  {
+    "object_ID": "2003-33",
+    "title": "['Lempeät kätesi', 'Dina mjuka händer', 'Your Gentle Hands']",
+    "date": 2003,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168310&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of a man in a suit, female figure in maxi dress, kirsi salonen, the front of a trading card, with round face, in her early 20s, inspired by Margareta Alströmer, in full growth, cap, convention photo, young women, 2 0 s, rounded face, aurora"
+  },
+  {
+    "object_ID": "1996-47",
+    "title": "['Omega']",
+    "date": 1993,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167442&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a blue sculpture sitting in the grass in front of a building, by Eero Snellman, logo for research lab, supernovas, photo courtesy museum of art, particle physics, inside elementary school, by Carl-Henning Pedersen, iso 1250, anamorphic, celestial bodies, h 1088, in a research facility"
+  },
+  {
+    "object_ID": "1976-148",
+    "title": "['Pallosommitelma', 'Komposition med klot', 'Ball Composition']",
+    "date": 1956,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169078&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of an orange on a table, by Béla Nagy Abodi, the tesseract, in the original box, holding a glowing orb, modern studio light soft colour, with dappled light, faceted, round-cropped, color blocks, by Władysław Malecki, in style of niko pirosmani, fineart"
+  },
+  {
+    "object_ID": "1999-208-3",
+    "title": "['Havis Amanda hylkeineen']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178733&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a statue of liberty flying a kite, inspired by Sigmar Polke, mermaids and fish, still from a nature documentary, by Genevieve Springston Lynch, mesh structure, anthropomorphic silhouette, netting, by Jane Carpanini, destroyed nature, without text, 2 d gouache illustration, hera, two muscular men entwined, fisherman, restoration"
+  },
+  {
+    "object_ID": "1955-59",
+    "title": "['Allegro']",
+    "date": 1957,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173144&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people on a wall, summer swimming party, inspired by Oluf Høst, escalators, post - war scenery, activity play centre, inspired by Pietro Lorenzetti, by Þórarinn B. Þorláksson, 1 9 4 8 photo, a painting of two people, creative commons attribution"
+  },
+  {
+    "object_ID": "1992-164",
+    "title": "['Ilmansuunnat', 'Väderstrecken', 'Points of the compass']",
+    "date": 1935,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176550&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a stone bench sitting on top of a rock, antennae on a hestiasula head, very coherent symmetrical work, by Rajmund Kanelba, sewers, orbital rings, national geograph, inspired by William Zorach, ancestors, capital plaza, h 1088, photo of head, tables, by Jacob Kainen, 2013"
+  },
+  {
+    "object_ID": "2000-226",
+    "title": "['Puotinharju, 1967', 'Botbyhöjden, 1967']",
+    "date": 1967,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176387&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a woman riding a skateboard down a dirt road, soviet apartment buildings, old photobook, 8 h, miniskirt, backpfeifengesicht, parks and public space, standing still, from 2001, single portrait, streamlined, jugendstill, squatting, circa 1970, fotorealism"
+  },
+  {
+    "object_ID": "1976-27",
+    "title": "['Sommitelma', 'Komposition', 'Composition']",
+    "date": 1952,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167044&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man sitting in a chair, inspired by Albert Gleizes, with the beak of an eagle, by Sophie Taeuber-Arp, muted green, oil on canvas on geometric rock, artforum, chuck jones, aerial combat, mc escher tessellation, disconnected shapes, payne's grey"
+  },
+  {
+    "object_ID": "1996-61",
+    "title": "['Maisema', 'Landskap', 'Landscape']",
+    "date": 1996,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172599&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a yellow field with trees, by Fiona Rae, by Ivan Albright, post-apocalyptic earth, detailed and complex environment, inspired by James Ensor, the shrike, shoreline, detailed studio photograph, rotten textures, as well as scratches, birch, woodcut, overgrown with shiny blobs"
+  },
+  {
+    "object_ID": "2018-471",
+    "title": "['Tohvelit', 'Tofflor', 'Slippers']",
+    "date": 1954,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179227&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a pair of boots and a book, by Mario Sironi, muted pastels, by Gerard Sekoto, production art, looking in the mirror, yellow and charcoal, monks, inspired by Georges Lemmen, light study, photo courtesy museum of art, animation film still, medium: colored pencil, vendors"
+  },
+  {
+    "object_ID": "1976-19",
+    "title": "['Ateljeen sisusta', 'Ateljéinteriör', 'Studio Interior']",
+    "date": 1938,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2166934&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a table with a vase of flowers on it, pink door, inspired by Paul Émile Chabas, mezzanine, post-war, looking towards the horizon, bright summer day, le corbeusier, photo still of interior, by Marie Krøyer, balconies, technical environment"
+  },
+  {
+    "object_ID": "1976-179",
+    "title": "['Tuulikukkasia', 'Vindrosor', 'Wind Flowers']",
+    "date": 1946,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167387&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a bunch of colorful flowers, inspired by Louis Marcoussis, turbines, big oaks, by Gladys Kathleen Bell, 9 4, small elongated planes, installation view, fans, norrlandsskog, roadside, mana art, kerlee, earle, whirlwind"
+  },
+  {
+    "object_ID": "1976-344",
+    "title": "['Arno', 'Arno', 'The River Arno']",
+    "date": 1914,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171435&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a boat in a body of water, lime and violet, by Frank O'Meara, in mountains, aseprite, inspired by William Congdon, stands at her easel, magenta and blue, inspired by Paul Henry, inspired by William John Thomson, two young men, the caretaker, skiing, tall purple and pink trees"
+  },
+  {
+    "object_ID": "1976-367",
+    "title": "['Luxembourgin puistosta', 'Från Luxembourg-trädgården', 'Scene from the Jardin de Luxembourg']",
+    "date": 1890,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176921&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a statue in a park, by Émile Bernard, inspired by Euan Uglow, sculpture gardens, facing and looking at the viewer, stone sculpture, swirling gardens, pale pastel colours, outside enclosure, midday photograph, figurine, panorama, facing the viewer, masterwork sculpture, walk"
+  },
+  {
+    "object_ID": "2019-23",
+    "title": "['Saiman muotokuva', 'Porträtt av Saima', 'Portrait of Saima']",
+    "date": 1916,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178463&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white drawing of a woman, by Albin Egger-Lienz, sad expression, daniel richter, inspired by Willem Maris, woodblock, portrait of zendaya, aged 13, the woman is behind bars, colored woodcut, by Emil Nolde, with a square, kuntilanak, listing image, ditka, brooklyn museum, print"
+  },
+  {
+    "object_ID": "1976-338",
+    "title": "['Helsinki', 'Helsingfors', 'Helsinki']",
+    "date": 1972,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168055&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a city by the water, inspired by Frances Hodgkins, athene, by James Brooks, oil on linen, blue and pink shift, inspired by Ken Howard, taken in the early 1960s, old town, constantine, limited palette, award-winning artwork, by John Noble Barlow, museum archive, brom redshift"
+  },
+  {
+    "object_ID": "1976-194",
+    "title": "['Piirtävä tyttö', 'Ritande flicka', 'Girl Drawing']",
+    "date": 1967,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168471&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman sitting at a table, inspired by Theodore Robinson, by Alberto Morrocco, aged 13, by Armin Hansen, european woman photograph, infp young woman, in liminal space, inspired by Balthus, soft pastels, red shoes, jane rosenberg, véronique meignaud, on a yellow paper, warmly lit posh study"
+  },
+  {
+    "object_ID": "2018-469",
+    "title": "['Mattokauppias kalliolla', 'Matthandlaren på berget', 'Carpet Dealer on the Rock']",
+    "date": 1952,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179096&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of two men looking at a rug, inspired by Nikolai Astrup, at gentle dawn red light, walk in a funeral procession, photo courtesy museum of art, sukkot, standing in a city center, cloak flittering in the wind, inspired by Otakar Kubín, displacement"
+  },
+  {
+    "object_ID": "1957-40",
+    "title": "['Kotimaani ompi Suomi']",
+    "date": 1959,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175921&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people on a wall, united nations, by Shirley Teed, people at work, gateway to futurisma, hospital ward, panoramic anamorphic, by Alexander Archipenko, mosaic, in school hallway, human portrait, two characters, airport, youth, 2045, april, ue, hrd"
+  },
+  {
+    "object_ID": "1976-20",
+    "title": "['Välimeren rantaa', 'Medelhavsstrand', 'Mediterranean Shore']",
+    "date": 1951,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170554&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a beach with palm trees and a body of water, by Vanessa Bell, swirling flows of energy, inspired by Avigdor Arikha, flowing pink-colored silk, a painting of white silver, rolling foothills, art for the film in color, seen in the distance, at midday, inspired by Paul Émile Chabas"
+  },
+  {
+    "object_ID": "2002-100",
+    "title": "['Jeans', 'Jeans', 'Jeans']",
+    "date": 2002,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168813&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large painting on the wall of a building, inspired by Louise Nevelson, in a school classroom, by Alexander Stirling Calder, in moscow centre, blue image, government archive, helsinki, detailed »"
+  },
+  {
+    "object_ID": "1976-125",
+    "title": "['Keittiössä', 'I köket', 'In the Kitchen']",
+    "date": 1910,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171408&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman sitting at a table, house kitchen on a sunny day, soft blue and pink tints, taps with running water, inspired by Marie Krøyer, sunrise coloring the room, covered in dust, ripple, baking a cake, mid - action, white and pale blue, churning"
+  },
+  {
+    "object_ID": "1977-23",
+    "title": "['Talvinen metsä', 'Vinterskog', 'The forest in winter']",
+    "date": 1946,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168263&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a group of people in the snow, custer's last stand, dense thickets on each side, inspired by E.H. Shepard, soft pastels, by Albert Namatjira, snow army war, stop-motion film (1924), close-up fight, scanned, spying, hellhounds, aged 13, pictured from the shoulders up"
+  },
+  {
+    "object_ID": "1992-210",
+    "title": "['Puun kuuntelija']",
+    "date": 1991,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178395&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man sitting on some steps, by Wendy Froud, young boy, the librarian, protagonist, amulet, by Frank O'Meara, in a style of hyperrealism, student, museum archive, round-cropped, koji morimoto, malnourished, reading a book, viridian, anthropomorphic humanoid, sculptor"
+  },
+  {
+    "object_ID": "1976-347",
+    "title": "['Kukkia', 'Blommor', 'Flowers']",
+    "date": 1943,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178257&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of flowers in a vase on a table, by Margareta Alströmer, shades of pink and blue, by William MacTaggart, made in tones of white and grey, official artwork, white gallery, of letting go, 1958, with symbolic elements, idealised, “loss of inner self, beautifully bright white"
+  },
+  {
+    "object_ID": "1994-118",
+    "title": "['Tuulipussi', 'Vindstruten', 'Windsock']",
+    "date": 1994,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167587&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large colorful object hanging from the ceiling of a building, glass railing, front view 2 0 0 0, tosa school, centered horizon, featured on artsation, sun coast, csp, vast empty hall, 2 5 6 colors, full-length, engineered"
+  },
+  {
+    "object_ID": "1976-242",
+    "title": "['Maisema', 'Landskap', 'Landscape']",
+    "date": 1946,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169287&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of rocks and trees in a field, inspired by Louis Glackens, mausoleum, by Robert Falk, award-winning composition, sunny park background, inspired by Archibald Robertson, by Moïse Kisling, forestry, strathmore 2 0 0, obelisk, alain beneteau, theatrical scenery, cemetery, shrubbery"
+  },
+  {
+    "object_ID": "1977-59",
+    "title": "['Sovinnonjuhla II', 'Försoningsfest II', 'The feast of reparation II']",
+    "date": 1946,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169279&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people standing in a room, inspired by Nikolai Astrup, rough color pencil illustration, by Peter Fiore, bible illustration, conformity, sacrament, camp, finland, community celebration, by Joan Tuset, reconstruction, gary chalk"
+  },
+  {
+    "object_ID": "2000-143",
+    "title": "['Raitiolinjat muuttuu, 1959', 'Spårvagnslinjerna förändras, 1959', 'New Tram Routes, 1959']",
+    "date": 1959,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176052&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of a man on a bus, trending on artforum, secret service photos, courtesy of moma, frank sedlacek, artforum, ( ( photograph ) ), small crowd of people, polyphonic bio - communications, cleveland, new objectivity, paparazzi photography, the caretaker"
+  },
+  {
+    "object_ID": "1976-248",
+    "title": "['Varhainen lumisade', 'Tidigt snöfall', 'Early Snowfall']",
+    "date": 1975,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170904&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of people walking down a road, by Shirley Teed, thunderstorm in the sky, lush vista, inspired by Mikhail Larionov, connectedness, the city of santa barbara, 21:9, panoramic view of girl, by Sheng Maoye, blue cloak, ascending form the sky, expansive view, vast expansive landscape"
+  },
+  {
+    "object_ID": "1992-35",
+    "title": "[' Topeliuksen muistomerkki Taru ja totuus.', \"Topelius' minnesmärke Saga och Sanning \", ' Fable and Fact, Memorial to Topelius ']",
+    "date": "1929-1932",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180808&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man and a woman holding hands, by Tom Wänerstrand, drink milkshakes together, golden - ratio, two girls, inspired by Hallsteinn Sigurðsson, torch lighting, shaking hands, betraying eden, symbolic, cloning spell, inspired by Ejnar Nielsen, image from afar, nobel prize, wikiart"
+  },
+  {
+    "object_ID": "2000-113",
+    "title": "['Kihlaus', 'Förlovning', 'Engagement']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168621&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture of two glass cubes sitting on top of a metal ring, swedish urban landscape, artforum, photo courtesy museum of art, large star crystals, lament configuration, lampposts, mamiya 7 4 3, solar sails, -h 960, by Nína Tryggvadóttir, single pair of hands, realistic architecture"
+  },
+  {
+    "object_ID": "2010-69",
+    "title": "['Helios']",
+    "date": 2010,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167169&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a small white building with a dome on top of it, by Erwin Bowien, in a park, 400 steps, cartouche, beksinki, installation view, historic artworks society, sufism, inspired by Troels Wörsel, inventing a time machine, top lid, set in observatory at night, 21:9, tomb"
+  },
+  {
+    "object_ID": "1992-235",
+    "title": "['Kohtaaminen', 'Möte', 'The Encounter']",
+    "date": 1992,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170225&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a building with a sculpture in front of it, pekka halonen, studio medium format photograph, trending on artstarion, school courtyard, by Rebecca Horn, art : : professional photograph, photo of scp-173, school classroom, agfa isopan iso 2 5, flagstones, kodak photo"
+  },
+  {
+    "object_ID": "1976-144",
+    "title": "['Vihreä ovi', 'Den gröna dörren', 'Green Door']",
+    "date": 1969,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169772&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a chair in a room, by Cecily Brown, pale pink grass, by Dorning Rasbotham, image on the store website, inspired by Christopher Wood, bathing in light, smoke and rubble, may 6 8, inspired by John Thomson of Duddingston, summer sunlight, prizewinning, pink white and green"
+  },
+  {
+    "object_ID": "1977-50",
+    "title": "['Ateria I', 'Måltid I', 'The meal I']",
+    "date": 1946,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167589&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a person sitting at a table with a bowl of food, inspired by Carl Larsson, pastel drawing, image dataset, inspired by Jean-François Millet, slurping spaghetti, octoberfest, artsation contest winner, thief, young child, app, noise and grain, red vest"
+  },
+  {
+    "object_ID": "2004-126",
+    "title": "['Olo n:o 22']",
+    "date": 2000,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167136&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of silver balls sitting on top of a gravel field, by Niels Lergaard, harbour, neoism, central subject, displacement, several continents, floating bodies, golden pillars, left align, large format, no epaulettes, portholes, lacking in three-dimensionality"
+  },
+  {
+    "object_ID": "2002-114",
+    "title": "['Pelto', 'Åker', 'Field']",
+    "date": 2002,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171240&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with tables, chairs and a painting on the wall, shot on large format film camera, reykjavik junior college, restaurant interior photography, inspired by Louis le Brocquy, speech bubbles, collaborative artwork, government archive photograph, by Nina Hamnett, detention centre, migrant mother, 2009, photo of scp-173, art stand"
+  },
+  {
+    "object_ID": "1976-354",
+    "title": "['Muotokuva', 'Porträtt', 'Portrait']",
+    "date": 1916,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167648&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a painting of a person wearing a hat, helen mcrory, teenage girl, neutral focused gaze, by Peter Prendergast, inspired by David Bomberg, standing in a dimly lit room, by Nikolai Astrup, selfie, tired expression, directed gaze, midday photograph, portrait of female rogue"
+  },
+  {
+    "object_ID": "1976-425",
+    "title": "['Hevoset', 'Hästarna', 'Horses']",
+    "date": "1940,  1976-2015,  2015",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180546&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man sitting on top of a rock, slavic dog head man, by Robert Falk, kirsi salonen, foundation, late autumn, biodiversity heritage library, lovecraft country, featured on artscape, horse is running, made in 1 9 9 0, by Okada Hanko, black cape, 2 0 1 5, brandishing halberd"
+  },
+  {
+    "object_ID": "1999-210",
+    "title": "['Nocturnal']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167113&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a group of metal structures sitting on top of a brick ground, inspired by Akseli Gallen-Kallela, made of leaf skeleton, kites, pillars and arches, photo courtesy museum of art, artforum, cables and tubes, birch trees, waterways, glass arms, anya forger"
+  },
+  {
+    "object_ID": "2008-137",
+    "title": "['Rajamaa']",
+    "date": 2008,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169759&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a painting of a cow, the smooth black lioness, metallic reflective surfaces, matt betteker, hundreds of eyes, inspired by John La Gatta, by Ye Xin, feline, joongwon charles jeong, royo, fur visible, epic diptych, half lion, both faces visible, artful"
+  },
+  {
+    "object_ID": "2003-66-4",
+    "title": "['Taivas']",
+    "date": 2003,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169984&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a blue piece of art hanging on a wall, knitted mesh material, paper texture. 1968, in 2 0 0 2, depth blur, by Niels Lergaard, textured like a carpet, soft fur texture, jinyoung shin art, 2d texture, soft surfaces"
+  },
+  {
+    "object_ID": "2010-48",
+    "title": "['TILA (Greyish Interior)']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169713&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a view of a hallway through a glass door, by Wilhelm Sasnal, diffraction grading, anamorphic film, architectural photograph, still image from tv series, large-format photography, horizontal symmetry, blurry image, 1 : 1 aspect ratio, highly reflective"
+  },
+  {
+    "object_ID": "2017-45-1",
+    "title": "['Swing']",
+    "date": 2017,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177988&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "three pieces of art hanging on a wall, dancing character, by Julius Hatofsky, disassembled, being delighted and cheerful, inspired by Mary Blair, the girl plays the guitar, tokusatsu, flat triangle - shaped head, 4k press image, multiple limbs, inspired by Ernő Grünbaum, female warrior"
+  },
+  {
+    "object_ID": "1992-135",
+    "title": "['Juhani Aho']",
+    "date": 1961,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170672&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man standing in front of a building, by Haukur Halldórsson, baggy pants, stylish suit, front view 2 0 0 0, hdt, vernadskys noosphere, jc park, large head, mid - 3 0 s aged, 1km tall, mid-20s, 2000, protagonist in foreground"
+  },
+  {
+    "object_ID": "2002-109",
+    "title": "['Ikuinen valo', 'Evigt ljus', 'Eternal Light']",
+    "date": 2002,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170953&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a group of people sitting at a table in a large room, glass and metal : : peugot onyx, by Malcolm Morley, private academy entrance, colourful light, clockface, inspired by Peter McArdle, school courtyard, glasgow, 9 9 designs, 15 mm"
+  },
+  {
+    "object_ID": "1976-448",
+    "title": "['Puu ja viisi hahmoa', 'Träd och fem gestalter', 'Tree and Five Figures']",
+    "date": 1960,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168417&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a white plate with a picture of a group of people, translucent body, egyptian atmosphere, inspired by Ernest William Christmas, religious imagery, auction, soap, creative commons attribution, date palm trees, installation view, ue marketplace, jello, second coming, profile image, tactile"
+  },
+  {
+    "object_ID": "2019-16",
+    "title": "['Naismuotokuva profiilissa', 'Damporträtt i profil', 'Profile Portrait of a Woman']",
+    "date": 1913,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178128&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a woman with a flower in her mouth, portrait of a cat, by Jacques Villon, green tonalities, francis goya, georgia anne muldrow, year 1 9 1 4, backfacing, kid, 1 9 7 7, silkscreen, gustav moreau, daugerrotype, portrait of alexandre dumas, private collection"
+  },
+  {
+    "object_ID": "1976-299",
+    "title": "['Kevät (Vantaan joki)', 'Vår (Vanda å)', 'Spring (Vantaanjoki River)']",
+    "date": 1942,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171781&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a house in the woods, edd cartier, synchromism, mirror lake, beds of shadows, early spring, h 1088, torchlit, museum art, displacement, rgp artwork, neville page, at midday"
+  },
+  {
+    "object_ID": "2013-65",
+    "title": "['Neljä vuodenaikaa - life is shit, then you die', 'Fyra årstider - life is shit, then you die', 'Four Seasons - life is shit, then you die']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170424&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a river running through a forest, by Grayson Perry, green and red radioactive swamp, jeongseok lee, between sedimentary deposits, in a ruined cityscape, reflection on the oil, deep red roots, inspired by Sean Scully, highly detailed-h 704, inspired by Charles Ragland Bunnell"
+  },
+  {
+    "object_ID": "1992-151",
+    "title": "['J. V. Snellman']",
+    "date": "1915,  1923",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176418&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man sitting on a bench in front of a building, vernadskys noosphere, the librarian, side view centered, portrait of homelander, floating particles, iso 1250, full width, in style of billelis, midsommar style, smashed wall, style of stephen bliss, set in 1 8 6 0"
+  },
+  {
+    "object_ID": "1980-2",
+    "title": "['Aidan takaa', 'Bakom stängslet', 'Behind the Fence']",
+    "date": 1980,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171774&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman with feathers on her head, acid color smoke, done in the style of matisse, 2 0 th century, midday sun, photo courtesy museum of art, garden of eden, a centaur, giacometti, mixed-race woman, smoking cigar, exhibited at the british museum, wearing a flower headpiece"
+  },
+  {
+    "object_ID": "1993-40",
+    "title": "['Riemukaari-veistoksen pienoismalli']",
+    "date": 1993,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178249&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a metal object on a table, by Henry Moore, mana flowing around it, standing astride a gate, steppe landscape, placed in a living room, inspired by Bruce Nauman, carrying a saddle bag, medallion, blue grass, listing image, bronze, by david lynch, swirling"
+  },
+  {
+    "object_ID": "2018-467",
+    "title": "['Omistuskirjoitus', 'Dedikation', 'Dedication']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179622&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white spiral staircase in a building, vantablack wall, award winning engraving, inspired by Colin McCahon, photographed for reuters, immersed within a network, etched inscriptions, fulldome, award-winning-photograph, ceiling, glasgow, chaumet"
+  },
+  {
+    "object_ID": "1976-136",
+    "title": "['Perhe', 'Familjen', 'Family']",
+    "date": 1970,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170336&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman and a child surrounded by balloons, inspired by Johannes Itten, unblur, family portrait, by Anni Albers, digital oil on canvas, air bubbles, three heads, high resolution print :1 red, inspired by L. S. Lowry, gravitational lens, blue - print, art »"
+  },
+  {
+    "object_ID": "1976-93",
+    "title": "['Lihavati', 'Köttfatet', 'Meat Dish']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168793&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a bowl of meat on a table, by David Bomberg, google arts and cultures, an example of saul leiter's work, inspired by William Crozier, cow skull, by Nicolas de Staël, in a red dish, gunwoo kim and j.dickenson, cutlery, detail, yanjun chengt, exhibited in the british museum"
+  },
+  {
+    "object_ID": "1976-252",
+    "title": "['Kaupunkikuva, Helsinki', 'Stadsbild, Helsingfors', 'City Scene, Helsinki']",
+    "date": 1936,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170504&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people walking in the snow, soviet apartment buildings, muted browns, by Veikko Törmänen, people looking at a house, 21:9, dark alley, award painting, by Henry Heerup, tartakovsky, the caretaker, churches, felix englund, workers"
+  },
+  {
+    "object_ID": "1976-282",
+    "title": "['Sirkusakrobaatteja', 'Cirkusakrobater', 'Circus Acrobats']",
+    "date": 1911,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171176&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of two women in front of a mirror, circus performance, inspired by Christian Rohlfs, muted tonal colors, facing and looking at the viewer, manara, people walking around, stage at a club, hand - tinted, silver palette, john eaves, skin painted with green, scans from museum collection"
+  },
+  {
+    "object_ID": "1976-427",
+    "title": "['Kalapoika', 'Gosse med fisk', 'Fisher Boy']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169893&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a woman holding a baby, inspired by Jankel Adler, two little horn on the head, grain 1 9 9 0, copper patina, nymph, hanging scroll, auction, inspired by Johan Edvard Mandelberg, sculptor, matisse, portrait of 14 years old boy, holding a staff, 2 0 1 0, mamou - mani, panoramic view of girl"
+  },
+  {
+    "object_ID": "2019-15",
+    "title": "['Monsieur et madame']",
+    "date": 1909,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179495&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of two people walking side by side, by Leopold Gottlieb, aged 13, on a canva, glair, [ colourful, mamou - mani, inspired by Harold Gilman, by Käthe Kollwitz, trending on artstaton, artstyle hiraku tanaka, by Honoré Daumier, the kiss, art »"
+  },
+  {
+    "object_ID": "1976-319",
+    "title": "['Sammaltunturi, Pallas (Tie Pallakselle)', 'Sammaltunturi, Pallas (Vägen till Pallas)', 'Sammaltunturi Fell, Pallas (Road to Pallas)']",
+    "date": 1944,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168255&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a landscape with mountains in the background, inspired by Eero Järnefelt, by David Burliuk, overgrown greenery, inspired by Einar Hakonarson, 16:9, moorland, panorama, by Wojciech Weiss, oil on canva, ben maier and sakimichan, jörmungandr, protagonist in foreground"
+  },
+  {
+    "object_ID": "1993-131",
+    "title": "['Jokaisella on valinnan aika', 'Alla måste göra val', 'We All Have a Moment of Choice']",
+    "date": 1993,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167224&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a bookshelf filled with lots of books in a library, by John Hoyland, a large sphere of red energy, in a open-space working space, decorative panels, reykjavik junior college, photo 1998, diptych, large motifs, by Alexander Milne Calder, tall terrace, h 1088, klee. mathematical paradise, barnet"
+  },
+  {
+    "object_ID": "1993-12",
+    "title": "['Tauno Palon muistomerkki', 'Tauno Palos minnesmärke', 'Tauno Palo memorial']",
+    "date": 1993,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179558&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a refrigerator sitting on top of a lush green field, inspired by Eero Järnefelt, bronze, signature on the bottom, sangyeob park, placed in a lush forest, stone grotto in the center, newspaper picture, peter lundqvist, eos 5d, streetscape, insignia, fluxus, necropolis, height 1 7 8, rectangular"
+  },
+  {
+    "object_ID": "1981-5",
+    "title": "['Ilta sirkuksessa', 'En kväll på cirkus\\xa0 ', 'Night at the Circus']",
+    "date": 1981,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179300&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a blue and pink abstract painting with white lines, tessellated planes of rock, geocities, seamless game texture, wand, reduce duplication interference, purple ribbons, unrefined gold nugget, motif, blue: 0.25, traverse, varying dots, repetitiveness"
+  },
+  {
+    "object_ID": "1998-408",
+    "title": "['Nonstop', 'Nonstop', 'Nonstop']",
+    "date": 1998,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176756&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a train station with a train pulling into the station, metal cladding wall, ruan jian, wearing translucent veils, wellington, trending on artstattion, artforum, dull red flaking paint, part of the screen, metal lid, on a canva, enveloped in ghosts, deblurring"
+  },
+  {
+    "object_ID": "1976-32",
+    "title": "['Syysmaisema (Peltoja, Sääksmäki)', 'Höstlandskap (Åkrar, Sääksmäki)', 'Autumn Landscape (Fields, Sääksmäki)']",
+    "date": 1917,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167253&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a field with trees in the background, haida gwaii, by Elsie Dalton Hewland, greenhouse, by Erich Heckel, portrait of benjamin netanyahu, rolling green hills, photo courtesy museum of art, on a road, surrounding onions, andes, trending on artforum, by Christian Jane Fergusson, panorama, ireland, kimitake yoshioka"
+  },
+  {
+    "object_ID": "1976-263",
+    "title": "['Talvimaisema', 'Vinterlandskap', 'Winter Landscape']",
+    "date": 1914,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168939&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a snowy landscape with trees, by Munch, art for the film in color, on a canva, purple and blue colour palette, captures emotion and movement, inspired by Oluf Høst, with ominous shadows, expansive view, orphism style, colored layers"
+  },
+  {
+    "object_ID": "2004-127",
+    "title": "['Teetä kahdelle', 'Te för två', 'Tea for two']",
+    "date": 2004,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170524&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a fountain with water coming out of it, houzz, new hampshire, image apothecary, gaslight, by Bettina Heinen-Ayech, valve, full subject shown in photo, anamorphic 5 0 mm lens, better homes and gardens, time displacement device, aspect ratio 1:3, moment frozen in time, 1/2 second shutter speed"
+  },
+  {
+    "object_ID": "1976-102",
+    "title": "['Maisema', 'Landskap', 'Landscape']",
+    "date": 1914,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171576&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a tree with a house in the background, by Karl Schmidt-Rottluff, image dataset, hurricane, spike - like branches, light inside the hut, catalog photo, 985530902, theatrical scenery, museum photograph, marijuana trees, aged 13, 8 8 8 8, inspired by Jørgen Roed"
+  },
+  {
+    "object_ID": "1992-90",
+    "title": "['Nuorten leikki', 'De ungas lek', 'The Game of the Young']",
+    "date": 1959,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171830&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man and a woman holding hands, by Eero Snellman, three women, swirling energy, by Sergei Sviatchenko, centered horizon, of a family standing in a park, postcapitalism, ballet, dna helix, symbolic metaphor, star walk, interconnected human lifeforms, standing elegant pose"
+  },
+  {
+    "object_ID": "1976-3",
+    "title": "['Kubistinen asetelma', 'Kubistiskt nature morte', 'Cubist Still Life']",
+    "date": 1916,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170969&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a vase on a table, inspired by Georges Braque, by Raymond Duchamp-Villon, white polygonal dress, imagenet, disconnected shapes, kanye west torso, sharply shaped, using a spade, on a canva, ecstatic expression, jagged edges, artichoke"
+  },
+  {
+    "object_ID": "1976-99",
+    "title": "['Tyttö ja viulu', 'Flicka med fiol', 'Girl with a Violin']",
+    "date": 1951,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177428&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman reading a book, standing on top of a violin, abstract geometric concept, muted colour palette, inspired by Eduardo Kingman, playing a mandolin, the caretaker, stylised design, polyhedron, aged 13, paul bonner, singer, anorexic figure, inspired by William John Thomson, weaving, private collection, zaha hadi"
+  },
+  {
+    "object_ID": "1976-4",
+    "title": "['Tyttö', 'Flicka', 'Girl']",
+    "date": 1916,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170389&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman sitting on a couch, white reading glasses, inspired by William Zorach, aged 13, inspired by Francis Cadell, looking away from viewer, european woman photograph, folded arms, wearing waistcoat, véronique meignaud, 2 0 th century, upset expression, arbeitsrat für kunst, medium frame"
+  },
+  {
+    "object_ID": "1997-184",
+    "title": "['Odaliski I']",
+    "date": 1997,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171256&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture of a woman laying on the ground, camouflage scheme, portrait of mermaid, by Grethe Jürgens, army girl outfit, ca. 2001, contemporary art style, artforum, overglaze, jörmungandr, joongwon jeong, artforum aesthetic, 2000"
+  },
+  {
+    "object_ID": "1976-109",
+    "title": "['Talvi satamassa', 'Hamn i vinterskrud', 'Winter in the Harbour']",
+    "date": 1917,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169629&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a red shed in the snow, by Eero Järnefelt, near a jetty, dark and dull palette, wearing a white folkdrakt dress, painting of flood waters, 21:9, stylised, herbert lowis, marsh, brooding, 8l, post-war, finnstark, stillframe, ratio 16:9"
+  },
+  {
+    "object_ID": "1976-254",
+    "title": "['Valkoisia ruusuja (Simeliuksen puutarhasta)', 'Vita rosor (Från Simelii trädgård)', \"White Roses (Scene from Simelius's Garden)\"]",
+    "date": 1914,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171480&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of white flowers in front of a window, rose garden, courtesy of moma, lush greenery, contre - jour, viewed from the ground, exploding roses, greens and blues, white robot, verdant and lush and overgrown, f - 9 1 / 1 2 5"
+  },
+  {
+    "object_ID": "1976-67",
+    "title": "['Juomaveikot (Buvette, Douarnenez)', 'Dryckesbröder (Buvette, Douarnenez)', 'Drinking (Buvette, Douarnenez)']",
+    "date": 1928,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167001&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of two men standing next to each other, inspired by Isaac Soyer, merchant collector, by Paul Cadmus, banknote, inspired by Moïse Kisling, securityguard, theatrical poster, by Louis Glackens, rogue thief, by David Bomberg, production art, storefronts, by Nathaniel Pousette-Dart"
+  },
+  {
+    "object_ID": "1976-124",
+    "title": "['Madonna Lapponica']",
+    "date": 1905,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167416&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a child wearing a red hat, cold sunny weather, weary, backpfeifengesicht, chilean, folded, rossier, full cheeks, fatigue, green highlights, f11:6, morocco, gridless"
+  },
+  {
+    "object_ID": "1976-349",
+    "title": "['Kylpeviä poikia', 'Badande gossar', 'Boys Bathing']",
+    "date": 1910,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170803&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people on a beach, alvar aalto, young blonde boy fantasy thief, by Gustaf Munch-Petersen, gouache and wash paints color, frantisek kupka, horizontal view, ultramarine, racers, aged 13, two figures, puṣkaracūḍa, google arts and cultures, sonic youth"
+  },
+  {
+    "object_ID": "1976-85",
+    "title": "['Puutarhassa (luonnos)', 'I trädgården (skiss)', 'In the Garden (sketch)']",
+    "date": 1949,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170489&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman holding a cane, inspired by Alberto Giacometti, purple feathers, by Arthur Merric Boyd, f. 1 4, the girl made out of flowers, blue archive, horizontal view, lizard tail, draped with water and spines, inspired by Vija Celmins, blue-white dress, wearing in a summer dress"
+  },
+  {
+    "object_ID": "1977-13",
+    "title": "['Aapon kertomus', 'Aapos berättelse', \"Aapo's tale\"]",
+    "date": 1946,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167504&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of soldiers with a sky background, from lorax movie, 9 / 1 1 attacks, by Paul Cadmus, bible illustration, cloud-like white hair, exploitable image, inspired by Mary Adshead, rockets, loosely cropped, crowds of people praying, soft pastels, satire"
+  },
+  {
+    "object_ID": "1960-33",
+    "title": "['Kalamatka kesäaamuna']",
+    "date": 1960,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173317&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting on the wall of a building, inspired by Alexander Archipenko, vernadskys noosphere, by Carl Gustaf Pilo, scans from museum collection, aspect ratio 16:9, inspired by Þórarinn B. Þorláksson, by Robert Delaunay, indoor scene, ozymandias, mediterranean features"
+  },
+  {
+    "object_ID": "2004-119",
+    "title": "['Kerjäläispoika', 'Tiggargosse', 'Beggar Boy']",
+    "date": 2004,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2166981&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "there is a picture of a man on the wall of a building, glass and metal : : peugot onyx, fzd school of design, inspired by Zacharias Martin Aagaard, perforated metal, studying in a brightly lit room, polygonal wooden walls, by Pieter de Grebber, anamorphic film, agfa isopan iso 2 5"
+  },
+  {
+    "object_ID": "1992-88",
+    "title": "['Kolme seppää', 'Tre smeder', 'The Three Smiths']",
+    "date": 1932,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176674&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue in front of a building with a building in the background, wielding a huge great axe, finnish naturalism, workers revolution, cubic minerals, wielding a wrench, parallelism, centred position, reduce duplication, mining, two men, metal panels, 16:9, europe, sharp focus on houses"
+  },
+  {
+    "object_ID": "2001-75-5",
+    "title": "['Teoksia kokonaisuudesta Albumi (1955-1963)', 'Verk från helheten Album (1955–1963)', 'Works from the collection Album (1955–1963)']",
+    "date": "1997-1999",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171231&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a group of people standing next to each other, alec soth : : love, blueprint red ink, string art, plated arm, connections, father with child, images on the sales website, three heads, outlines, archers, sharp outlines, etching"
+  },
+  {
+    "object_ID": "1976-432",
+    "title": "['Maantien Maija', 'Landsvägsmaja', 'Maija of the Road']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169175&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a woman holding a baby, by Breyten Breytenbach, malachite, curated collections, nursing home, thumbprint, inspired by Taravat Jalali Farahani, anguish, strathmore 2 0 0, hulton archives, comforting, remembrance, buddhist art"
+  },
+  {
+    "object_ID": "1989-58",
+    "title": "['Pakokaasu', 'Avgas', 'Exhaust Fumes']",
+    "date": 1989,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169755&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of two rabbits in a window with a car in the background, inspired by Yue Minjun, corporate holograms, breathing blue fire, gray anthropomorphic, the money of clowns, disco pictoplasma, by Tsuji Kakō, scene from a rave, father figure image, cubicles, blue robes, bathhouse"
+  },
+  {
+    "object_ID": "1976-418",
+    "title": "['Antibes']",
+    "date": 1915,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167942&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a watercolor painting of a group of trees, barcelona in 1 9 1 8, wearing a flowing sundress, muted multi-color lapis, cannes, stylized and expressive, panorama, third-person view, flowering pineapples, f11:10, cartier, midday photograph, jamaica, 8 h, france"
+  },
+  {
+    "object_ID": "2019-99-1",
+    "title": "['Siimes']",
+    "date": 2019,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178531&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a colorful mural on the side of a building, inspired by Jaakko Mattila, school classroom, roof with vegetation, polished concrete, forest environment, award - winning design, loki's pet project, pews, maintenance photo, fully frontal view, panorama shot, lockers, inspired by Carl Gustaf Pilo, baki"
+  },
+  {
+    "object_ID": "1976-312",
+    "title": "['Lepohetki (Luonnos)', 'Vilostund (studie)', 'A Moment of Repose (sketch)']",
+    "date": 1936,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170859&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people sitting on the ground, inspired by Marguerite Zorach, by Mabel Rollins Harris, lake in the forest, by Frances Hodgkins, midday photograph, ethnographic, sisters, terrace, connectedness, greeks, still from the film, puṣkaracūḍa, smog, 2 0 th century"
+  },
+  {
+    "object_ID": "1992-44",
+    "title": "['Kuningasajatus Mika Waltarin muistomerkki', 'Kungstanken', 'The Leading Thought']",
+    "date": "1982-1985",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179374&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of large rocks sitting on top of a cement slab, by Eero Järnefelt, five points of articulation, central composition, black arts movement, in a modern city, h 1088, iso 125, by Wolf Kahn, winning award image, 7 7 7 7, monuments"
+  },
+  {
+    "object_ID": "1996-106",
+    "title": "['Työläisäiti', 'Arbetarmodern', 'The Worker Mother']",
+    "date": 1996,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177525&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of two women holding hands in front of a building, soviet yard, children's artwork, young black woman, finland, creative commons attribution, miners, greta thunberg, circle of the crone, the shackled, coban, stone slab, múseca illil, brave young girl, favicon, deep emotional impact, 🇺🇦, mom"
+  },
+  {
+    "object_ID": "1977-54",
+    "title": "['Kolistimen ukko', 'Kolistin-gubben', 'The old man from Kolistin']",
+    "date": 1947,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169143&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of two men standing next to each other, inspired by Gustaf Tenggren, medieval zombie peasant, movie still of a snarling, colored pencils, on the vast wheat fields, shadow over innsmouth, elderly woman, comixology, sneer, mike ploog, fisherman's hat"
+  },
+  {
+    "object_ID": "1992-126",
+    "title": "['Kullervo puhuu miekalleen', 'Kullervos bane', 'Kullervo Addresses his Sword']",
+    "date": "Muotoiltu 1867,  Pystytetty 1935,  Valettu 1932",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179685&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man holding a sword and a dog, full body portrait of a zentaur, in forest, zoo, live-action, neanderthal people, full view with focus on subject, discord moderator, realistic fur, side front view, in a suburban backyard, rhode island, storybook design, inspired by Nikolaj Abraham Abildgaard, genesis"
+  },
+  {
+    "object_ID": "2005-159-5",
+    "title": "['KITE']",
+    "date": 1998,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171733&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a person standing on a bridge holding an umbrella, in style of ren hang, red jacket, (mist), marfan syndrome, -h 960, man standing, by Ulrika Pasch, zhangjiajie, odontophobia, hikkikomori, large format film, by Wolfgang Zelmer, yeltsin"
+  },
+  {
+    "object_ID": "1977-46",
+    "title": "['Lepo', 'Vila', 'Resting']",
+    "date": 1947,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2166857&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a man laying on the floor, inspired by Carl Larsson, standing on ship deck, soft pastels, massacre, scanned, female sailor uniforms, inspired by Silvestro Lega, dead fish, tired and drunk, krita, working in the forge, aged 13, smuggler, dead nature study, character study"
+  },
+  {
+    "object_ID": "1996-132",
+    "title": "['Eilen, tänään, huomenna', 'Igår, idag, imorgon', 'Yesterday, Today, Tomorrow']",
+    "date": 1996,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173339&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large metal sculpture in the middle of a park, snail shell, by Akseli Gallen-Kallela, aspect ratio 16:9, on a canva, scp-914, fibonacci sequence, rib cage, side - view, davy jones"
+  },
+  {
+    "object_ID": "2018-477",
+    "title": "['Matkalla torille', 'På väg till torget', 'To Market']",
+    "date": 1951,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177031&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people riding horses, by Nicholas Roerich, day after raining, by Frances Hodgkins, touareg, photo courtesy museum of art, migrant mother, detail content, by Robert Bevan, traveling through the mountains, 2 0 th century, brooklyn museum"
+  },
+  {
+    "object_ID": "2019-20",
+    "title": "['Pyykkimummo', 'Bykgumma', 'Old Washerwoman']",
+    "date": 1911,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177247&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white drawing of a person sitting at a table, kathe kollwitz, blue archive, inspired by Theodore Robinson, sullen old maid ( redhead, bartending, dusty old ferrotype, by Louise Abbéma, still from l'estate, 19-year-old girl, cast glass, edward okun, high resolution print, warmly lit"
+  },
+  {
+    "object_ID": "1976-296",
+    "title": "['Alaston', 'Naket', 'Nude']",
+    "date": 1942,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171177&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman holding a baby, inspired by Max Pechstein, a portrait of a plump woman, topless, vibrant scattered light, by Richmond Barthé, looking away from viewer, bright studio lighting, sitting cross-legged, kathy zyduck, hanging scroll, naturalistic technique, fat, inspired by Franz Hegi, ditka"
+  },
+  {
+    "object_ID": "1986-33",
+    "title": "['Kangastus', 'Hägring', 'Mirage']",
+    "date": 1984,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171375&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a field of tall grass, venice biennale's golden lion, inspired by Milton Avery, sword and wand – water, by Svend Rasmussen Svendsen, rippling water, yellow-orange, artforum, on a lake, inspired by Yayou Kusama, violet polsangi, nymphaea, ffffound"
+  },
+  {
+    "object_ID": "1990-185",
+    "title": "['Paimentyttö', 'Herdinnan', 'The Shepherdess']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172832&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a man standing on top of a sandy hill, eero aarnio, critical moment photograph, fungal growth, mechanoid, exhibition catalog, walking over sand dunes, metallic surfaces, catalog photo, slimes, newspaper photograph, craigville, museum photograph, fig.1, decisive moment, colony, art »"
+  },
+  {
+    "object_ID": "1976-142",
+    "title": "['Soittava poika', 'Spelande gosse', 'Boy Playing']",
+    "date": 1963,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169345&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man sitting in a chair, inspired by Henry Lamb, focus on the musicians, 1 9 6 0 s, detail, pipes, museum archive, muted colour palette, by Henry Tonks, 16:9, process art, an interior of room, hanging scroll, by Edmund Blampied, instrument, 2 4 - year - old man"
+  },
+  {
+    "object_ID": "1976-120",
+    "title": "['Lissabon', 'Lissabon', 'Lisbon']",
+    "date": 1955,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167229&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of boats in a body of water, pink and blue and green mist, inspired by Moses Soyer, dubrovnik, by Frances Hodgkins, exhibited at the british museum, intricate oil pastel glow, on a canva, greek fantasy panorama, cannes, early evening, tempest, aged 13, photo courtesy museum of art"
+  },
+  {
+    "object_ID": "1976-110",
+    "title": "['Sisäkuva (Kukka pöydällä)', 'Interiör (Blumman på bordet)', 'Interior Scene (Flower on the Table)']",
+    "date": 1917,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170597&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a potted plant on a table, inspired by Ernest Procter, inspired by Samuel Peploe, anemones and starfish, empty room with black walls, someone in home sits in bed, at gentle dawn pink light, displayed in the exhibition hall, featured on artsation, inspired by Isaac Soyer"
+  },
+  {
+    "object_ID": "1977-16",
+    "title": "['Pako lukkarilasta', 'Flykten från klockargården', \"The brothers' flight from the parish clerk's school\"]",
+    "date": 1945,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168448&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a man trying to get out of a window, film still from half-life movie, destroying houses, full color drawing, sprinting, inspired by Kishi Ganku, dwarf with white hair, yeltsin, cinemascope, historical reenactment, on a sunny day, two men, higurashi"
+  },
+  {
+    "object_ID": "1994-106",
+    "title": "['Kallioaurinko']",
+    "date": 1994,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180358&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hole in a rock with a cloudy sky reflected in it, trending on artforum, norrlandsskog, inspired by Rebecca Horn, opart, photo courtesy museum of art, by David Wojnarowicz, amazing water art, ixions wheel, flagstones, destroyed nature, long metal spikes"
+  },
+  {
+    "object_ID": "1996-25-3",
+    "title": "['Accumulation Cut']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180477&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a map hanging on a wall in a store, ludek pesek, background = library, photo documentary style, inspired by Ettore Tito, museum, espoo, floodplains, slovenian, screenshot, by Ernő Tibor, green lines, stood in a supermarket, enormous scale, visible layers, m. k. kaluta, wikiart, empire"
+  },
+  {
+    "object_ID": "1976-216",
+    "title": "['Nainen hattu päässä', 'Dam i hatt', 'Woman with a Hat']",
+    "date": 1913,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170897&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman wearing a hat, by Mikhail Larionov, a witch, inspired by František Kaván, kinemacolor, female fox, inspired by Meindert Hobbema, writing a letter, verbena, sculptor, by Hermenegildo Anglada Camarasa, aged 13, gnome, neodada"
+  },
+  {
+    "object_ID": "1976-313",
+    "title": "['Nukarin mylly', 'Nuckars kvarn', 'Nukari Mill']",
+    "date": 1936,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171311&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a farm with a barn in the background, by Joan Ayling, featured on artsation, partially covered with dust, inspired by Maude Kaufman Eggemeyer, standing in street, idaho, official artwork, dormant nature, artbreeder, toronto, motif"
+  },
+  {
+    "object_ID": "1976-95",
+    "title": "['Omakuva', 'Självporträtt', 'Self-Portrait']",
+    "date": 1932,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176887&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man with a bow tie, by William Congdon, by Jens Ferdinand Willumsen, full face frontal centred, google arts and cultures, inspired by Milton Avery, portrait of shrek, side portrait imagery, 1 / 4 portrait, exhibition catalogue, bjørn, shoulders can be seen, synthetism"
+  },
+  {
+    "object_ID": "2003-110",
+    "title": "['Löytöjä', 'Fynd', 'Discoveries']",
+    "date": 2003,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170316&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a school cafeteria with wooden tables and benches, inspired by Hiromu Arakawa, chandeliers, museum catalog photograph, armature wire, award - winning design, flying cow, terada, simple gable roofs, relief sculpture, from 2001, atlus, scandinavian design, shoulders can be seen, ito ogure"
+  },
+  {
+    "object_ID": "2005-158-1",
+    "title": "['Laituri']",
+    "date": 2004,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171605&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a teddy bear sitting on top of a red couch, cottage hippie naturalist, filling the frame, small medium and large elements, location in a apartment, inspired by Stephen Little, lake setting, medium-format print, anthropomorphic racoon, displays, official photos"
+  },
+  {
+    "object_ID": "1976-212",
+    "title": "['Kitaransoittaja (Nuorukainen ja kitara)', 'Gitarrspelare (Yngling med gitarr)', 'Guitar Player (Young Man with a Guitar)']",
+    "date": 1971,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171067&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman playing a guitar, inspired by Jan Henryk Rosen, light blue mist, 1 9 9 0 s, by Eve Ryder, connectedness, an ancient greek statue, in thick layers of rhythms, sullen, inspired by Kamāl ud-Dīn Behzād, virgin mary, muted pastels, 2001"
+  },
+  {
+    "object_ID": "1976-38",
+    "title": "['Sairasvuode', 'Sjukbädden', 'Sick-Bed']",
+    "date": 1917,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171762&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman laying in bed reading a book, inspired by Paul Gustave Fischer, portrait of 1 5 - year - old boy, greta thunberg, healing tubes, inspired by Diego Rivera, brooklyn museum, soft morning light, hospital bound, nursery poster, inspired by Harriet Backer, in this ominous scene, classroom in background, two women, photography of bill brauer"
+  },
+  {
+    "object_ID": "1976-215",
+    "title": "['Yömaisema', 'Nattbild', 'Nocturnal Landscape']",
+    "date": 1912,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170492&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a yellow house in a green field, under street lamp, inspired by Eero Järnefelt, dark shadowy surroundings, tones of blue and green, dramatic dreamlike lighting, ultramarine, creeping gloom, low - lighting, post - war scenery, ultraviolet and neon colors, inspired by Rezső Bálint"
+  },
+  {
+    "object_ID": "1976-286",
+    "title": "['Räätälimestari Rydeng', 'Skräddarmästare Rydeng', 'The Master Tailor Rydeng']",
+    "date": 1913,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171115&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man in a suit and tie, by Henri Matisse, by Jozef Israëls, teal orange color palette, inspired by Vanessa Bell, small blond goatee, rené laloux, 1 9 1 0 s, by František Kupka, late 1 9 th century, composer, 1 9 0 0 s, martinière"
+  },
+  {
+    "object_ID": "1976-52",
+    "title": "['Elokuun ilta', 'Augustikväll', 'Evening in August']",
+    "date": 1917,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171279&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a person walking towards a barn, swiss modernizm, soft dark light, cornelia geppert, caravagio, descent, craigville, by Samuel Colman, white buildings, dark forbidding, f11:10, aged 13, near lake baikal, inspired by Georges Lemmen, neighborhood, featured on artsation"
+  },
+  {
+    "object_ID": "1999-147-5",
+    "title": "['Kirjasto']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171816&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a row of framed pictures on a wall, biodiversity heritage library, inspired by Joseph Cornell, by Inshō Dōmoto, yen press, [bioluminescense, brochure, diane ramic, charles baudelaire"
+  },
+  {
+    "object_ID": "1992-77",
+    "title": "['Crescendo ', 'Crescendo / Monumentet över offren år 1918', 'Crescendo / A Memorial to those who fell in 1918']",
+    "date": 1970,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169352&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a monument in the middle of a field with trees in the background, by Eero Snellman, metal panels, - w 7 6 8, battalion, by Elias Goldberg, panoramic, 2d side view, gale-force winds, in the forest at night, turban, twelve arms, may 6 8, 2 8 mm color, half - length photo, woodlands"
+  },
+  {
+    "object_ID": "1976-63",
+    "title": "['Sadeilma (Sade)', 'I regnväder (Regn)', 'Rainy Weather (Rain)']",
+    "date": 1926,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171401&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man walking down a dirt road, nun fashion model, dark mist colors, pastel drawing, his back is turned, year 1 9 1 4, inspired by Käthe Kollwitz, monk's robe, stepping stones, albert kiefer, iowa, long tunic, hand - tinted, human staring blankly ahead, style of beatrix potter"
+  },
+  {
+    "object_ID": "2000-104",
+    "title": "['Rouva Möbiuksen neuleet', 'Fru Möbius stickningar', 'Knitwork by Mrs Möbius']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176042&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a page in a book, by Júlíana Sveinsdóttir, educational display case, low quality print, by Ernő Rubik, scanned document, interior white wall, helsinki, full length character, inspired by Maksimilijan Vanka, round-cropped, from wikipedia, eye - level view, ue6"
+  },
+  {
+    "object_ID": "1976-433",
+    "title": "['Polkka', 'Polka', 'Polka']",
+    "date": "1935-1936",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168751&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of two people hugging each other, brown background, orphism, sold at an auction, fertility, maternal, hans zatska, winning award image, young child, paul brason, museum catalog, 3 0 s, cub, anisotropy, father figure image, black body, fusing in the middle, holding each other, 9"
+  },
+  {
+    "object_ID": "1976-189",
+    "title": "['Taiteilijamuotokuva', 'Konstnärsporträtt', 'Artist Portrait']",
+    "date": 1916,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171121&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man in a suit and tie, by Arthur Boyd, by Susan Weil, brooding, young teen, hozier, circa 1958, morbius, by Thomas Cantrell Dugdale, 2 0 1 4. modern attire, trending on artforum, andrew dickson, bob dylan, granville chandor, -h 960"
+  },
+  {
+    "object_ID": "1976-183",
+    "title": "['Ranta', 'Strand', 'Shore']",
+    "date": 1952,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168804&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of horses on a beach near the ocean, courtesy of moma, with jagged rocks & eerie, monochromatic blue, 9 4, compulsion, white fog painting, boulders, third-person view, title-shift, 21:9, irises, broken shackles"
+  },
+  {
+    "object_ID": "2002-95-1",
+    "title": "['Kuvakudoksia, Maailma on täynnä kaikenlaista']",
+    "date": 2002,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170308&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a piece of art hanging on a wall, inspired by Shōzō Shimamoto, hessian cloth, front view 1 9 9 0, museum archive photo, sam gilliam, kinu nishimura, rugs, round-cropped, bright bloom, parchment, drum pads, height 1 7 8, museum catalog, by Jean Arp, underside"
+  },
+  {
+    "object_ID": "1976-294",
+    "title": "['Tanssit Hyvinkäällä', 'Dansen i Hyvinge', 'Dance at Hyvinkää']",
+    "date": 1938,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179602&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people dancing, inspired by Hans Falk, a girl with blonde hair, sing for the laughter, low - lighting, richly detailed colored, agile, saloon, contest, atmosphere and tension, standup, restored color, round-cropped, reuniting, naturalistic technique, helsinki, old scroll, inspired by Elfriede Lohse-Wächtler"
+  },
+  {
+    "object_ID": "1976-322",
+    "title": "['Kahvila', 'Café', 'Café']",
+    "date": 1918,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168118&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people sitting at a table, ray of light through smoke, inspired by Francis Cadell, preaching in a fantasy city, portrait of morning coffee, 1 9 6 1, holding court, photo courtesy museum of art, inspired by John Henry Lorimer, keyframe, 1 9 6 2, by Akseli Gallen-Kallela"
+  },
+  {
+    "object_ID": "2009-19",
+    "title": "['Niin kuin mies on', 'Being as a Man']",
+    "date": 2008,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171269&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man holding a broken heart, inspired by Jim Dine, wearing a purple frock coat, of letting go, connecting life, istvan sandorfi, serpent body, red hearts, controlling shadows, compassionate, by Bracha L. Ettinger, djinn, stands at her easel, pulse"
+  },
+  {
+    "object_ID": "2001-183",
+    "title": "['Lelumaa ja Sukupuu', 'Leksaksland och Släktträd', 'Toy Land and Family Tree']",
+    "date": 2001,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169381&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of paintings hanging on the side of a wall, anamorphic 35 mm lens, espoo, ((((library interior)))), bronze face, studio medium format photograph, featured in artistation, government archive photograph, by Hallsteinn Sigurðsson, creative commons attribution, portrait of medusa, art brut, putti"
+  },
+  {
+    "object_ID": "1976-218",
+    "title": "['Omakuva', 'Självporträtt', 'Self-Portrait']",
+    "date": 1914,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167193&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man in a vest and tie, by Leon Kossoff, aged 13, prominent cheekbones, by Ernst Ludwig Kirchner, the third… had a face like a man, daugerrotype, trending on artforum, exhibited at the british museum, art for the film in color, mirror, mule, valerian"
+  },
+  {
+    "object_ID": "1976-251",
+    "title": "['Porvoosta', 'Från Borgå', 'Scene from Porvoo']",
+    "date": 1927,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170007&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a person sitting under a tree, by Alice Bailly, people looking at a house, grey forest in the background, inspired by Samuel Peploe, sylveon, mission arts environment, by Vilhelm Lundstrøm, stathmore 2 0 0, john eaves, featured on artsation, f. 1 4, pipe jungle, fra"
+  },
+  {
+    "object_ID": "1996-121",
+    "title": "['Polkupyörä-sarjasta', 'Från cykelserien', 'From the bicycle series']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168485&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a woman riding a bike, by Elmyr de Hory, trending on artforum, work-wheels, tulip, artstyle, caulfield, wpa, creative commons attribution, inspired by Willem Labeij, edward hughes, crossing road, katherine lam, auction, court sketch art, inspired by Pieter Anthonisz. van Groenewegen"
+  },
+  {
+    "object_ID": "1976-152",
+    "title": "['Malliharjoitelma', 'Modellstudie', 'Model Study']",
+    "date": 1944,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171273&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a nude woman brushing her hair, inspired by Gwen John, trending on artforum, peter ilsted, neutral light, exhibited in the british museum, inspired by Gustave Caillebotte, ned kelly, ( ( photograph ) ), wearing a towel, le corbusier, mirror, detiled"
+  },
+  {
+    "object_ID": "1976-171",
+    "title": "['Omakuva', 'Självporträtt', 'Self-Portrait']",
+    "date": 1947,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170065&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man with glasses and a hat, inspired by Henry Lamb, looking in mirror at older self, intricate and intense oil paint, the caretaker, close up at face, moody painting, looking straight into the camera, hans, mann, face shown, palette, van, mate painting, an angry expression"
+  },
+  {
+    "object_ID": "1976-241",
+    "title": "['Syysmaisema', 'Höstlandskap', 'Autumn Landscape']",
+    "date": 1945,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170187&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of some trees in a field, september 1937, in karuizawa, trending on artforum, pine, inspired by Paul Cezanne, full of colorful vegetation, overgrown greenery, soviet yard, forest light, by David Bomberg, artsation contest winner, the panorama, by Marc-Aurèle de Foy Suzor-Coté"
+  },
+  {
+    "object_ID": "2003-139-5",
+    "title": "['Stabat mater']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169142&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white painting of a bunch of clocks, by Louise Bourgeois, standing in a burnt forest, marbled columns, around everlasting darkness, cell journal, onions, award - winning painting, season 3 ( 1 9 9 7 ), by Peter Prendergast, hanging vines, brooklyn museum, draft, in despair"
+  },
+  {
+    "object_ID": "1942-9",
+    "title": "['\"Yli kattojen\"', '\"Ovan taken\"', 'View over Rooftops']",
+    "date": 1942,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177043&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a city in the snow, oil dereks on horizon, by Ejnar Nielsen, industrial plant environment, soft diffuse autumn lights, panoramic anamorphic, nordic summer, post-war, bellowing dust, 50* degree up from the horizon, f11:10, red rim light, white cap, warm bright white light"
+  },
+  {
+    "object_ID": "2000-1",
+    "title": "['Rannalla', 'Vid stranden', 'On the Shore']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170618&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a pear on a yellow background, by Sam Francis, toiletpaper magazine, ryan hewett, artforum, craig mullinshyper, red and yellow scheme, de kooning, with his back to the viewer, inspired by Samuel Peploe, duane hanson, closeup of fist, on a canva, wearing vibrant boxing gloves, art »"
+  },
+  {
+    "object_ID": "1976-316",
+    "title": "['Paimenten kumarrus', 'Herdarnas tillbedjan', 'The Adoration of the Shepherds']",
+    "date": 1941,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169506&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people holding a baby, by William Zorach, mission arts environment, promotional art, inspired by Franciszek Kostrzewski, praying, christmas, post-war, vladimir volegov, photography of bill brauer, connectedness, caravagio, gregory"
+  },
+  {
+    "object_ID": "2009-36",
+    "title": "['Ei ehtinyt rotta kissaa sanoa', 'The Rat Never Had Time to Say \"Cat\"']",
+    "date": 2009,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167607&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a group of people riding horses, by Julian Schnabel, anthropomorphic warrior piglet, battle of cape ecnomus, from bravely default ii, boxing match, purple leather garments, painterly humanoid mecha, detail shot, in 1 9 9 5, chaos is visible, brawl"
+  },
+  {
+    "object_ID": "1994-105",
+    "title": "['Jatkuvuus', 'Kontinuitet', 'Continuity']",
+    "date": 1994,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170817&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room filled with lots of windows and curtains, kinetic art, in a laboratory, ffffound, sennheiser, by Margareta Alströmer, waterfall falling down, installation view, f1.8 anamorphic, large arrays, hanging from the ceiling, winding horn, 2000, hcl, fig.1, simple chromatic xray"
+  },
+  {
+    "object_ID": "1976-444",
+    "title": "['Tanssijatar', 'Danserska', 'Dancer']",
+    "date": 1956,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167219&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a cup of coffee with a drawing of a ghost on it, wings made of glass, inspired by Frederic Leighton, sits on a finger, soap, gelatin silver process, 3 / 4 back view, presidential cross, edward okun, white outline, aum, pearl, auras, female ascending, ghostly darkness"
+  },
+  {
+    "object_ID": "1999-148-3",
+    "title": "['Maalauksia seinälle / Vapaamuotoinen hyppyruudukko aihe']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168588&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a man and a woman on a wall, 1 9 8 0 s children's show, theater access corridor, showcases full of embryos, julian opie, people falling off a playground, in karuizawa, installation view, hospital, decorations, pregnant belly, pipes, award-winning picture, award - winning design"
+  },
+  {
+    "object_ID": "2000-14",
+    "title": "['Hellästi, varoen', 'Carefully, Gently']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167582&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a cat and a bowl of food, daniel richter, kissing the joker, marlene dumas, devours a hamburger, dichroistic, color pigments spread out in air, dichromatism, jinyoung shin, holding cigar, a translucency, artefact, devouring, elbow"
+  },
+  {
+    "object_ID": "1992-92",
+    "title": "['Pro teekkari', 'Pro teknologen', 'Pro technologist']",
+    "date": 1966,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173521&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large stone sculpture in front of a building, nordic wedding ring, anamorphic 5 0 mm lens, hammer and sickle, vesa-matti loiri, strange attractor, academic, möbius, by Jóhannes Sveinsson Kjarval, iron frame, h 1088, creative commons attribution, logotype, academia"
+  },
+  {
+    "object_ID": "2007-67",
+    "title": "['Purjeet', 'Sails']",
+    "date": 1970,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171101&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of blue, pink, and yellow circles, winter 1941, trending on artforum, polka dot, 7, vibrant scattered light, blue and white and red mist, fine bubbles, round gentle face, connectedness, the singer, greyscale grain 1 9 6 0, hi - fructose art magazine, dots, no logo, figuring"
+  },
+  {
+    "object_ID": "1957-41",
+    "title": "['Palloleikki (korkokuva)']",
+    "date": 1957,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179250&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a group of people made out of black origami paper, socialist realism, by Otto Morach, dancing, cutout, relief sculpture, polygonal iron steel walls, artforum, fragments, european, h 6 4 0, harmonized, cgsociety 9, one panel"
+  },
+  {
+    "object_ID": "1976-211",
+    "title": "['Alfaville']",
+    "date": 1969,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170587&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a piece of art that is on a wall, inspired by Mark Tobey, bright white castle stones, cumulus, light-blue, trending on artforum, romanized: al-kaʿbah, in a square, by Anne Dunn, fungal pages, naturalistic technique, crumbled wall in jerusalem, taupe, freman, dividing it into nine quarters"
+  },
+  {
+    "object_ID": "1977-1",
+    "title": "['Simeonin ja Eeron kotiinpaluu markkinoilta I', 'Simeoni och Eero på hemväg från marknaden I', 'Simeoni and Eero returning home from the Hämeenlinna Market I']",
+    "date": 1946,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167627&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of two horses pulling a cart, earthy light pastel colours, a character based on a haggis, still from film, desolate. digital illustration, drawn with crayons, by Eero Snellman, left - hand drive, museum painting, inspired by Henry Lamb, nier autoamata"
+  },
+  {
+    "object_ID": "1999-148-4",
+    "title": "['Maalauksia seinälle / Moniaiheinen']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2166855&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting on a shelf in a room, 1990s 1992, swimming pool in front, inspired by Eero Järnefelt, joytoy, subject= duck, story board format, creative commons attribution, portrait of a pink gang, on a canva, table with microphones, style of takashi murakami, swedish"
+  },
+  {
+    "object_ID": "1992-128",
+    "title": "['Haaksirikkoiset', 'De Skeppsbrutna', 'The Shipwrecked']",
+    "date": "1889-1897",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175487&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue that is in the middle of a park, inspired by Johan Christian Dahl, stand up with the sea behind, crown of roses, dramatic nautical scene, may 6 8, brawl, front view 1 9 9 0, full width, 2015, theodore ralli, metalic green, valerian, editorial image, halberd"
+  },
+  {
+    "object_ID": "1976-53",
+    "title": "['Omakuva', 'Självporträtt', 'Self-Portrait']",
+    "date": 1919,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170151&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man with a beard, by David Bomberg, inspired by Mihály Munkácsy, light over boy, photo courtesy museum of art, the first selfie on earth, exhibition catalogue, brown buzzcut, backfacing, malaysian, midday photograph, marc, plein air, in an attic, inspired by Noémi Ferenczy"
+  },
+  {
+    "object_ID": "1976-348",
+    "title": "['Ikaros', 'Ikaros', 'Icarus']",
+    "date": "1940-luvun loppu",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2587416&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman in a boat on a body of water, inspired by Mark Tobey, with two pairs of wings, pink lightning, inspired by Giacomo Balla, angels protecting a praying man, in this painting, soft pastel palette, 'untitled 9 ', the sorceress, 1 9 5 0, angelic wings, celestial collision"
+  },
+  {
+    "object_ID": "1992-61",
+    "title": "['Lukusali', 'Läsesalen', 'The Reading room']",
+    "date": 1972,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174679&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a person sitting on a bench, three head one body, by Almada Negreiros, research center, man and woman walking together, featured on artscape, discovered in a secret garden, photo courtesy museum of art, ivan chermayeff, artforum, concert hall, colombia, scene from supplizia"
+  },
+  {
+    "object_ID": "2005-70",
+    "title": "['Pasila', 'Böle', 'Pasila']",
+    "date": 1973,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167162&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a house in the middle of a field, inspired by Mikhail Larionov, by Franz Cižek, partially covered with dust, inspired by Leon Kossoff, panorama, in style of heikala, by Louise Abbéma, portra, may 6 8, jama jurabaev, subdivision, official art, by Zlatyu Boyadzhiev"
+  },
+  {
+    "object_ID": "1997-174",
+    "title": "['Fifty Cities']",
+    "date": 1997,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180038&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a stone bench sitting on top of a stone circle, swedish design, mathematics unifying science, judy chicago, denmark, within radiate connection, 360 degree view, maritime pine, h 1024, beksinki, a mosaic, h 1 0 2 4, marina federovna, sun"
+  },
+  {
+    "object_ID": "1976-279",
+    "title": "['Kaupunkikuva (Näköala ateljeesta)', 'Stadsbild (Utsikt från ateljén)', 'Urban Scene (View from the Studio)']",
+    "date": 1913,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167605&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a house on a hill, inspired by David Bomberg, by William Crozier, twilight in the city, by Witold Pruszkówski, photo courtesy museum of art, reykjavik junior college, view from window, by Mario Sironi, aged 13, tall factory, provia, magenta and gray, dense with greenery, sky, ireland"
+  },
+  {
+    "object_ID": "1992-50",
+    "title": "['Aallottaria', 'Vattennymfer', 'Water Nymphs']",
+    "date": 1940,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171131&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a woman holding an umbrella, mermaids and fish, featured on artscape, urban plaza, aquatic plants, medium detail, interconnections, adult pair of twins, 2010, female bodies, background = library, peter morbacher, urban motifs, watermark, lawns, arthouse, - h 7 6 8, nautical siren"
+  },
+  {
+    "object_ID": "2005-168",
+    "title": "['Kivifiguurit', 'Stenfigurer', 'Stone Figures']",
+    "date": 2005,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167173&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of stone statues sitting on top of a lush green field, by Jürg Kreienbühl, an scp anomalous object, sunny day in a park, no double head, quintessa, one single head, single long stick, artist impression, einar jonsson, wide neck, connectedness, lossless"
+  },
+  {
+    "object_ID": "1992-156",
+    "title": "['Painottomuus', 'Tyngdlöshet', 'Weightlessness']",
+    "date": 1966,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174063&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture of a bird is in the water, by Knud Agger, zombie reaching out of a grave, falling leaves, zdzislaw belsinki, inspired by Carl-Henning Pedersen, photo of scp-173, flowerbeds, barnet, reclining, the shackled, unarmed combat, subject= duck, the three body problem"
+  },
+  {
+    "object_ID": "2000-318",
+    "title": "['Eläintarhantie, 1960', 'Djurgårdsvägen, 1960']",
+    "date": 1960,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175360&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of people that are standing on a street, the kiss, by Otto Lange, trending on artforum, espoo, crepuscule, archival, inspired by Garry Winogrand, nationalgalleryofart, artforum, draft, installation view, tar roads, romantic scene, hulton archives, erste boden, photo courtesy museum of art"
+  },
+  {
+    "object_ID": "1976-236",
+    "title": "['Istuva nainen', 'Sittande kvinna', 'Seated Woman']",
+    "date": 1960,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167071&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a woman sitting on a chair, trending on artforum, dimmed pastel colours, zhong lin, an overweight, giacometti, full body profile pose, badminton, by Lucian Freud, katherine lam, artforum, silk shoes"
+  },
+  {
+    "object_ID": "1976-177",
+    "title": "['Asetelma', 'Nature morte', 'Still Life']",
+    "date": "1920-luku",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167583&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a vase of flowers on a table, inspired by Paul Cézanne, dead fruits, dandelion, single vague light, oud, protagonist in foreground, reflected light, in the gallery, one holds apple in hand, muted dark colors, listing image, artefact, intricate image"
+  },
+  {
+    "object_ID": "2019-7",
+    "title": "['Katoksen alla', 'Beneath the Shelter']",
+    "date": 2003,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179716&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a watercolor painting of a dining room table, by Robert Rauschenberg, by Fairfield Porter, an australian summer landscape, google arts and cultures, standing in his cluttered garage, technical sketch, watering can, view from window, letterboxing, may 6 8, disassembled, natsume yuujinchou"
+  },
+  {
+    "object_ID": "1976-75",
+    "title": "['Aapista luetaan', 'Läsning av ABC-boken', 'Reading the Primer']",
+    "date": 1947,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169528&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a man with his head in his hands, painted in anime painter studio, inspired by Maurycy Gottlieb, reading in library, raging bugbear, facepalm, dwarf with white hair, inspired by Jean-Louis-Ernest Meissonier, 7 year old crayon drawing, regret, arcane tarot, digitalt art, gnarled"
+  },
+  {
+    "object_ID": "1976-133",
+    "title": "['Lehmiä', 'Kor', 'Cows']",
+    "date": 1912,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167020&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of cows grazing in a field, sun filtering through trees, park in background, horses racing, by Konrad Klapheck, inspired by Ernest Lawson, by Maximilien Luce, exhibited at the british museum, panorama, green leaves, at midday, f11:10, verbena, inspired by Thomas Frederick Worrall, see"
+  },
+  {
+    "object_ID": "1997-189-3",
+    "title": "['Kerro...kerro']",
+    "date": 1995,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180871&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a mirror sitting on top of a bathroom counter, pekka halonen, inspired by Ernő Rubik, visor screen for face, inspired by Július Jakoby, white with black spots, rendering of checkmate, award winner, etched relief, museum item, catalogue photo, seen through a window, auction catalogue photo"
+  },
+  {
+    "object_ID": "1992-114",
+    "title": "['Lauri Tahko Pihkala']",
+    "date": 1988,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174688&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man holding a book in a park, inspired by Eero Snellman, made of lab tissue, tankoban, standing in tall grass, where being rest in peace, frank r paul, wearing a labcoat, mikko, lamia, wearing a dark blue polo shirt, tombstone"
+  },
+  {
+    "object_ID": "1992-40",
+    "title": "['Nyrkkeilijät', 'Boxarna', 'The Boxers']",
+    "date": "1930,  1932",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172866&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of two men standing next to each other, by Lars Jonson Haukaness, boxing match, flowerbeds, city of pristine colors, fighting aggression, green spaces, institutional critique, national geograph, neotraditional modern, clean medical environment, cloisonnism"
+  },
+  {
+    "object_ID": "1999-208-1",
+    "title": "['Ratsastaja Kruununhaassa']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178354&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman riding a horse over a city, style of angela deane, tally hall album cover, albino mystic, a centaur, poster colour on canvas, installation view, light blue sky, giant river, michael mcdonald, bearded cowboy, inuk, standing on rock"
+  },
+  {
+    "object_ID": "01/07/2013",
+    "title": "['Vallila']",
+    "date": 2011,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174313&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photograph of a man's torso, generative art, craggy mountains, one panel, image on the store website, cutout, waterfall in asteroid field, folds, white ceramic shapes, painting of landscape of faroe, simplified forms, heavy brushstrokes"
+  },
+  {
+    "object_ID": "1939-5",
+    "title": "['Talvista kaupunkia', 'Vintrig stad', 'Winter in the City']",
+    "date": 1939,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174516&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a city covered in snow, inspired by Félix Vallotton, by Bjørn Wiinblad, f - 9 1 / 1 2 5, wide view, kārlis padegs, la nouvelle vague, may 6 8, neutral flat lighting, port, post-war, 8 l, stanisław, 8l"
+  },
+  {
+    "object_ID": "1992-146",
+    "title": "['Havis Amanda']",
+    "date": "1905 suihkulähdekokonaisuus julkistettu 1908",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180491&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man hugging a woman, by Johan Lundbye, her hair blowing in the wind, thigh gap, loosely cropped, jörmungandr, camera angle looking up at her, symmetric body, female body, taken with a canon eos 5d, small breasts, horizontal view, stuckism, brussels"
+  },
+  {
+    "object_ID": "1975-33",
+    "title": "['Lentäjä', 'Taking Flight']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173229&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man holding a bird, inspired by Jankel Adler, aerial combat, brandishing a gun, installation view, aged 13, style of ilya kushinov, hands pressed together in bow, two small horn on the head, young child, pictured from the shoulders up, auction, verdigris, two characters"
+  },
+  {
+    "object_ID": "1976-14",
+    "title": "['Tuuli kuiskaa XIV', 'Vinden viskar XIV', 'Whispering Wind XIV']",
+    "date": 1975,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168767&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a square with trees in the middle, inspired by Leandro Erlich, 3 winter deities, trending on artstaton, tunnel, blue checkerboard background, installation view, astral plane, by Ulrika Pasch, psychodelic, the passage of time, contemporary, trending on artforum, artforum, winter"
+  },
+  {
+    "object_ID": "1992-150",
+    "title": "['Fredric Pacius']",
+    "date": 1895,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174555&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man sitting on top of a pedestal, composer, in a park and next to a lake, by Thomas Cornell, aliasing visible, squinting at high noon, tuba, taken with canon eos 5 d, editorial portrait, wearing a parker, sounds in the graveyard, robotic bust, john park, billboard image, linden trees, alejandro inarritu"
+  },
+  {
+    "object_ID": "1976-326",
+    "title": "['Linnan pääty', 'Slottsgavel', 'Castle Wall']",
+    "date": 1958,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179204&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a house and trees in a field, inspired by William Glackens, la nouvelle vague, photo courtesy museum of art, pink and blue and green mist, partially covered with dust, panorama, blue door, swirling gardens, upon a peak in darien, full image"
+  },
+  {
+    "object_ID": "1976-243",
+    "title": "['Maisema, Ranska', 'Landskap, Frankrike', 'Landscape, France']",
+    "date": 1920,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168775&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man riding a horse next to a building, inspired by David Bomberg, standing in a dark forest, location of a dark old house, chimney with smoke, purple scene lighting, by František Kaván, house and home, in a suburb, twisted gardens, headlights, photo courtesy museum of art, brethtaking lighting, eliezer yudkowsky"
+  },
+  {
+    "object_ID": "1992-74",
+    "title": "['Vedenkantaja', 'Vattenbärerskan', 'The Water Bearer']",
+    "date": 1923,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175649&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a woman holding a bucket, kalevala, inspired by Harvey Dunn, immortality fountain, by Shōzaburō Watanabe, ripple, university, round-cropped, chilean, unclad, neotraditional modern, gardens, uncaring, helsinki, spear in hand, uncropped, sf, by Inshō Dōmoto"
+  },
+  {
+    "object_ID": "2001-106",
+    "title": "['Katos vaan', 'Katos vaan', 'Canopy']",
+    "date": 2001,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171628&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "an empty parking lot with a building in the background, scandinavian design, front view 2 0 0 0, school, stone and glass, tfwiki.net photography, rectangular piece of art, colour photograph, long view, academic"
+  },
+  {
+    "object_ID": "2007-70",
+    "title": "['Palava Monalisa', 'Mona Lisa on Fire']",
+    "date": 1969,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169538&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman standing in front of a fire, the curse of monkey island, outsider art, by Jacopo de' Barbari, primordial waters, the birth of venus, anti-utopia, flaming torches and pitchforks, symbolic metaphor, death of the money lenders"
+  },
+  {
+    "object_ID": "1976-271",
+    "title": "['Kulmikas pöytä', 'Kantigt bord', 'Angular Table']",
+    "date": 1974,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170941&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a table with a vase on it, white metal neocubism armor, whiskey bottle, muted and dull colors, anthropomorphic robot [ thing ], multiple angles, white wine bottle, oil portrait, by Solomon Gessner, subject= duck, light cone, inspired by Albert Gleizes, sold at an auction, kupka"
+  },
+  {
+    "object_ID": "2013-63",
+    "title": "['Valon varassa', 'Buren av ljus', 'Borne by Light']",
+    "date": 2013,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171826&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a person standing in front of a yellow and white wall, modern technology building, bubbles rising, inspired by Jan Gregoor, award - winning details ”, ornamental bow, inspired by Willem de Poorter, aquatical plants, pollock photorealistic, entrance, watercore, dynamic and atmospheric lighting"
+  },
+  {
+    "object_ID": "1990-187",
+    "title": "['Nimetön', 'Utan titel', 'Untitled']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174790&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of a tree with a rope wrapped around it, stephen shore & john j. park, by Sophie Taeuber-Arp, tape, nation geographic style, nature photograph, winning photograph, private collection, artforum, zaragoza gilberto soren, bandage, seams, tripod"
+  },
+  {
+    "object_ID": "2019-17",
+    "title": "['Omakuva', 'Självporträtt', 'Self-Portrait']",
+    "date": 1913,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178088&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a drawing of a person, by Clyfford Still, portrait of 1 5 - year - old boy, brooding, taken in the early 1960s, rubber stamp, elton john age 25, in style of paul gauguin, paul mccartney, portrait of jerma985, pout"
+  },
+  {
+    "object_ID": "1990-228",
+    "title": "['Kivelän sairaalan seinätaideteos', 'Verk på väggen i Stengård sjukhus', 'Work on the wall of Kivelä Hospital']",
+    "date": 1990,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173940&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a blue and black wall mounted to the side of a wall, 3 d of the ethereum symbol, background 1970s office, by Villard de Honnecourt, hillary clinton, featured on artsation, carved from sapphire stone, thick squares and large arrows, faceted, bold colored walls"
+  },
+  {
+    "object_ID": "1977-8",
+    "title": "['Peikko', 'Troll', 'The troll']",
+    "date": 1946,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171778&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a blue dog with a crown on its head, gandalf attacks the white house, color study, edgar rice burroughs, inspired by Louis Glackens, hexagon moon, bigfoot, standing over a tomb stone, full image, tarot card, godzilla, 1 6 : 9, jesus on the cross"
+  },
+  {
+    "object_ID": "1976-187",
+    "title": "['Omakuva', 'Självporträtt', 'Self-Portrait']",
+    "date": 1940,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169199&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man in a green shirt, kinemacolor, inspired by Max Beckmann, portrait of the necromancer, zenithal lighting, portrait of kermit the frog, light-blue steel-plate, by David Bomberg, aged 13, photo courtesy museum of art, john waters, lee kuan yew, tiziano vecelli"
+  },
+  {
+    "object_ID": "1976-191",
+    "title": "['Alaston', 'Naket', 'Nude']",
+    "date": 1925,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170759&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman sitting on the floor, inspired by Dod Procter, product studio lighting, shower cap, inspired by Jozef Israëls, skin painted with green, harsh sunlight, hanging scroll, fat woman, a full portrait of nordic female, palette, bathtub"
+  },
+  {
+    "object_ID": "1999-147-6",
+    "title": "['Maalaus']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169436&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room that has a table and chairs in it, gallery display photograph, by Veikko Törmänen, prison complex, anamorphic widescreen, photo of a painting, external staircases, 3 2 mm photograph, cgscoiety"
+  },
+  {
+    "object_ID": "1976-439",
+    "title": "['Maria']",
+    "date": 1966,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170861&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a wooden sculpture of a woman holding a baby, by Bruce Onobrakpeya, twirls and curves, long dress with apron, stylised, on textured base; store website, gandhi, 16mm grain, wearing cross on robe, stylized and expressive, older woman, expressive emotional piece, body and head in frame, trending on artstion, oval shape face"
+  },
+  {
+    "object_ID": "1976-377",
+    "title": "['Kuutamo', 'Månsken', 'Moonlight']",
+    "date": 1973,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167469&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a green field with a blue sky in the background, nocturne, inspired by Johan Edvard Mandelberg, by Milton Menasco, ultramarine blue and gold, oil on canva, pink moon, dawn and dusk, jonathan dufresne, year 1 9 2 0, by Franz Hegi, asencio, prairie, —n 9"
+  },
+  {
+    "object_ID": "2012-49-5",
+    "title": "['Tapio Wirkkalan puiston taideteokset, Pienet portit']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175229&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a mirror sitting in the middle of a parking lot, by Barnett Newman, zen sand carved lawn, award photography, vienna, bronze, 3d with depth of field, by Wolfgang Zelmer, vertical orientation, 'untitled 9 ', doors, awardwinning, full width, cryptonomicon, park, 9"
+  },
+  {
+    "object_ID": "1977-33",
+    "title": "['Pirtissä juopotellaan', 'Dryckjom i pörtet', 'Drinking in the cabin']",
+    "date": 1946,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168737&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a group of people at a table, mosh pit, annie leonhart, male physician, muddy colors, blonde shaggy hair, year 1 9 4 4, multiple perspectives, ( boris johnson ), broken bottles, intense screaming expression, hikkikomori, illustration:.4, nursing"
+  },
+  {
+    "object_ID": "1976-45",
+    "title": "['Tuulessa ja sateessa', 'I blåst och regn', 'In Wind and Rain']",
+    "date": 1904,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2166971&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people walking with umbrellas, inspired by Pierre Puvis de Chavannes, by Margareta Alströmer, scans from museum collection, painting of landscape of faroe, aspect ratio 16:9, crawling humanoid monsters, by Jørgen Nash, detail, 21:9, inspired by George Benjamin Luks, refugees"
+  },
+  {
+    "object_ID": "1997-223",
+    "title": "['Vitamin Power Sun Rise']",
+    "date": 1997,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179186&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a picture of a sun on a wall, intricate art deco pasta designs, candies, in a mall, ffffound, by Marion Ancrum, beads, inspired by Georges Lemmen, wheat field, chocolate, hi - fructose art magazine, it is sunset, elstree, national art school mfa"
+  },
+  {
+    "object_ID": "1976-164",
+    "title": "['Räntäsade', 'Snöslask', 'Sleet']",
+    "date": 1973,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167212&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a person with an umbrella in the snow, inspired by William Steig, website banner, blizzard north 1997, inspired by Anna Mary Robertson Moses, aspect ratio 16:9, representing the 4 seasons, joe pera, loosely cropped, width 1 0 2 4, strathmore 2 0 0"
+  },
+  {
+    "object_ID": "1976-22",
+    "title": "['Jota']",
+    "date": 1941,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170043&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman in a blue dress, dancing in front of fog, oil pastel, black beret, inspired by Léon Bakst, young greek man, wearing a pink tutu, inspired by Hubert von Herkomer, spinning whirlwind, folklorico, black and white color palette, 1960, zora, pastel, digitial painting"
+  },
+  {
+    "object_ID": "1976-343",
+    "title": "['Helsingin satama', 'Helsingfors hamn', 'The Port of Helsinki']",
+    "date": 1912,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170641&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of boats in a body of water, by Diego Giacometti, cyan and gold scheme, fjord, scans from museum collection, exhibited in the british museum, moomins, pink sky, 9 k, in a square, f11:10, displacement, vanilla, 90 60 90, (french bande dessinée)"
+  },
+  {
+    "object_ID": "1976-202",
+    "title": "['Iltahetki', 'Kvällsstund', 'Evening Moment']",
+    "date": 1975,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169868&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a room with a red and white striped curtain, greta thunberg smiling, rim lights and caustics, gilleard james, trending on artforum, ikea catalogue, inspired by George Tooker, by Sven Nordqvist, one single lamp, two buddies sitting in a room, kid lit"
+  },
+  {
+    "object_ID": "1996-108",
+    "title": "['ABC kissa kävelee', 'ABC kissa kävelee', 'ABC the Cat Climbing']",
+    "date": 1996,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170517&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a red and yellow sculpture with scissors on top of it, the letter a, anthropomorphic furry otter, velvia 100, upward angle, inspired by Oscar Rodríguez Naranjo, albuquerque, the wolf howls at the moon, inhabited initials, standing on a ladder, american city, 6 4 0, ash, by Eero Järnefelt"
+  },
+  {
+    "object_ID": "1976-11",
+    "title": "['Sisäkuva', 'Interiör', 'Interior Scene']",
+    "date": 1917,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170355&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a potted plant on a table, cold sunshine through window, inspired by Ernest Procter, by Karel Štěch, inspired by Natalia Goncharova, trending on artforum, helsinki, street lamps, by Mārtiņš Krūmiņš, ratio 16:9, in russia, theatrical scenery"
+  },
+  {
+    "object_ID": "1994-317",
+    "title": "['Lasse Virénin juoksijapatsas', 'Lasse Viréns löparstaty', 'Lasse Virén Runner Statue']",
+    "date": 1994,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171105&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man running in a park, by Eero Snellman, full body profile, female bodies, race, july 2 0 1 1, top - side view, featured on artstattion, 2015, marathon, 1957, in an urban setting, new objectivity, character is standing, jock, on a canva"
+  },
+  {
+    "object_ID": "2010-78-1",
+    "title": "['Nuppu']",
+    "date": 2010,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168070&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a man riding a skateboard up the side of a ramp, wolff olins |, madrid. extreme long shot, ( ( railings ) ), full width, private academy entrance, inspired by Wilhelm Marstrand, ladders, precisionism, very minimal, wimmelbild, munich"
+  },
+  {
+    "object_ID": "1976-86",
+    "title": "['Parvekkeella', 'På balkongen', 'On the Balcony']",
+    "date": 1964,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170611&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman leaning on a rail, pastel pink, inspired by Ken Howard, humid ground, 1960, aspect ratio 16:9, half - electric striking woman, q hayashida, the caretaker, 5 0 mm soft focus, diana levin, quy ho, windblown"
+  },
+  {
+    "object_ID": "2009-20",
+    "title": "['Niin kuin nainen on', 'Being as a Woman']",
+    "date": 2008,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170241&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a person standing in front of a fire, by Betye Saar, inspired by Anselm Kiefer, purple ribbons, witness stand, a portal to the lost flame realm, painting of a hummingbird, strangled with rope, connection rituals, jerusalem, post-war, grief"
+  },
+  {
+    "object_ID": "1976-25",
+    "title": "['Luminen pensasaita', 'Häck i vintersnö', 'Hedge in Snow']",
+    "date": 1953,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170682&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a horse in the snow, by Elaine de Kooning, landscape shot, blair armitage, oil on canva, red white and gold color scheme, leafs falling, strathmore 2 0 0, thomas kinkad, lanscape, unique landscape, balaclava, inspired by Joan Brown, birches, greg manchess, 1961"
+  },
+  {
+    "object_ID": "1976-160",
+    "title": "['Kolme kylpijää', 'Tre badande flickor', 'Three Bathers']",
+    "date": 1975,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168480&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a person on a horse, 3 jazz musicians, orphism style, inspired by Johannes Itten, by Władysław Malecki, adam and eve, polygonal fragments, riccardo federici, flowing rhythms, sukkot, oil on linen, inspired by Delaunay, djinn"
+  },
+  {
+    "object_ID": "1996-98",
+    "title": "['Öljymaalaus', 'Oljemålning', 'Oil painting']",
+    "date": 1994,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175499&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a bunch of different colors, by Jasper Johns, painted as a game concept art, grid layout, various refining techniques, inspired by Leon Kossoff, color chart, inside a glass box, rendered, inspired by William Mossman, drum pads, diebenkorn, screengrab, weaving"
+  },
+  {
+    "object_ID": "1942-5",
+    "title": "['Laitakaupunkia', 'Stadens utkant', 'City Outskirts']",
+    "date": 1942,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167852&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of some trees in front of a building, by Eero Snellman, panoramic widescreen view, windblown, barracks, an art deco painting, award-winning painting, rocky terrain, towers, by Henriett Seth F., ratio 16:9, ultramarine, f - 9 1 / 1 2 5, at midday, motif"
+  },
+  {
+    "object_ID": "2000-68",
+    "title": "['Kulkurin uni', 'Luffarens dröm', 'A Vagabond’s Dream']",
+    "date": 2000,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175862&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man reading a book in a park, inspired by Eero Snellman, town center background, empty stools, werecrow, national geograph, by Rajmund Kanelba, house's and shops and buildings, martin luther king, arney freyag, inspired by Mym Tuma, 3 / 4 view, hasselblatt"
+  },
+  {
+    "object_ID": "2018-470",
+    "title": "['Härkämarkkinat Salamancassa', 'Tjurmarknad i Salamanca', 'Cattle Market in Salamanca']",
+    "date": 1951,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178556&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of some people and animals in the snow, inspired by Modest Urgell, by Ettore Tito, standing in a barren field, cows, featured on artsation, grieving, modernist art style, migrant mother, award-winning artwork, in the sunset, trending on artforum, greeks, catholic religious art, 9 4, asencio, folklore, vignette"
+  },
+  {
+    "object_ID": "2010-78-3",
+    "title": "['Siemenpallo']",
+    "date": 2010,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171120&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a building with a fire pit in front of it, by Lars Jonson Haukaness, pointing to heaven, 2 d logo, left align, featured on artsation, strong walls, private academy entrance, crucifix, panorama, iso 125"
+  },
+  {
+    "object_ID": "1976-156",
+    "title": "['Rakastavaiset', 'Kärlekspar', 'Lovers']",
+    "date": 1970,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167035&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man and a woman in a circle, inspired by Anne Redpath, orthodox icon neo-gothic, 1962, felting, the lovers, google arts and cultures, laika, james webb, inca, ochre, carriage, 1965, religión, english heritage, the passage of time, round-cropped"
+  },
+  {
+    "object_ID": "1996-22",
+    "title": "['Digestion. Gypsum Gypsies']",
+    "date": 1989,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175901&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a group of sculptures of deer in a room, metallic red, in a post-apocalyptic wasteland, raku, as well as scratches, ute osterwalder, santa claus, entangled vibrating, among us impostor, made of concrete, canada, rubbery-looking body, grotesque"
+  },
+  {
+    "object_ID": "1976-161",
+    "title": "['Viikinkejä', 'Vikingar', 'Vikings']",
+    "date": 1966,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167914&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people with instruments, by Hundertwasser, on the african plains, mixed media with claymorphism, by Stanley Matthew Mitruk, panoramic, oil on canva, carmen kass, connectedness, the hard and strong buildings, rocky hills, by Mario Sironi"
+  },
+  {
+    "object_ID": "1977-34",
+    "title": "['Tappelu II', 'Slagsmål II', 'The fight II']",
+    "date": "1946-1948",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168183&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of men fighting, by Hans Falk, headbanging, painted with pastels, massive destruction, serov, inspired by William Birnie Rhind, the last day on the earth, ycbcr, may 6 8, boris johnson, 1 9 1 3, people fighting, 1 9 th, men in tuxedos"
+  },
+  {
+    "object_ID": "1989-78",
+    "title": "['Nimetön', 'Utan titel', 'Untitled']",
+    "date": 1989,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179046&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a boat on a body of water, by Fiona Rae, raging sea foggy, soft blur light, white and purple, layers of strata, the sea seen behind the city, on a canva, warzone, chromal aberration, by Elaine de Kooning, beings of astonishing structure, art »"
+  },
+  {
+    "object_ID": "2019-10",
+    "title": "['Alaston malli', 'Naken modell', 'Nude model']",
+    "date": 1911,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179261&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a nude woman with her arms behind her head, warm yellow lighting, retro 1 9 0 0, front view 1 9 9 0, one panel, selenar, an exhausted deity, rectangular, 1 9 0 9, half - length portrait, albino, printmaking, aged 13, m. c. esther, f. 1 4, by Kōno Michisei"
+  },
+  {
+    "object_ID": "1998-412",
+    "title": "['Kaikki meren laulut', 'Alla havets sånger', 'All the Songs of the Sea']",
+    "date": 1998,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169379&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large ball hanging from the ceiling of a building, rammed earth courtyard, northwest school, rgb wall light, front view 2 0 0 0, torches on wall, aquarium, long hallway, mission arts environment, norrlandsskog, featured on artsation, silver and blue color schemes, fzd school of design, cd"
+  },
+  {
+    "object_ID": "1976-199-2",
+    "title": "['Asetelma teoksen kääntöpuoli: henkilötutkielma', 'På andra sidan: Vilande', 'On the reverse side of Still Life: Resting']",
+    "date": 1917,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169169&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman laying in a bed, inspired by Duncan Grant, of a youthful japanese girl, inspired by Mikhail Larionov, swirling red-colored silk fabric, sleeping bag, closeup of the face, aged 13, inspired by Vanessa Bell"
+  },
+  {
+    "object_ID": "1997-172",
+    "title": "['Propelli 1']",
+    "date": 1998,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175018&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a stone sculpture sitting in the middle of a forest, inspired by Veikko Törmänen, round logo, complex machinery, diptych, photo courtesy museum of art, beksinki, radioactive particles, tsuruta kenji, animal - shaped statue, medallions"
+  },
+  {
+    "object_ID": "1956-129",
+    "title": "['Äitejä ja Lapsia - Auroran sairaalan seinämaalaus']",
+    "date": 1956,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174101&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a living room with a painting on the wall, inspired by Robert Bevan, opposite the lift-shaft, healthcare worker, by Karel Havlíček, children's, midsommar, etched relief, modern technology building, iso 1250, part of the screen, religious composition, osl, in russia, by Marie Laurencin"
+  },
+  {
+    "object_ID": "1947-10",
+    "title": "['Kauppatori (Torikauppiaita)', 'Salutorget (Torghandlare)', 'Market Square (Market Sellers)']",
+    "date": 1947,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167788&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a group of people standing next to each other on a wall, baking artwork, by László Beszédes, moscow metro, farms, by Jørgen Nash, inspired by Ejnar Nielsen, doves, community celebration, diorama, iowa, ue marketplace, provenance, albuquerque, maintenance"
+  },
+  {
+    "object_ID": "1977-38",
+    "title": "['Kiven raivaus', 'Stenröjning', 'Clearing the field of the rocks']",
+    "date": 1947,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168522&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a group of soldiers in a field, inspired by Louis Glackens, desolate. digital illustration, inuk, workers, inspired by Johan Edvard Mandelberg, white stone, by Andrew Loomis, soft pastels, pickaxe, sisyphus compostition, may 6 8, illustrator, the shackled, winning artwork"
+  },
+  {
+    "object_ID": "1977-36",
+    "title": "['Metsänhakkuu', 'Skogshygge', 'Felling the forest']",
+    "date": 1947,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169508&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a group of people working in a forest, by Mikhail Larionov, full image, tigers, by Carl-Henning Pedersen, inspired by William Congdon, piles of bodies, may 1 0, forestry, winning artwork, baltermants, connectedness, auto - destructive art, male art"
+  },
+  {
+    "object_ID": "1977-44",
+    "title": "['Puurolla I', 'Vid grötfatet I', 'Eating porridge I']",
+    "date": 1945,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170283&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a boy eating a donut, soup, inspired by Adolph Menzel, 82 mm sigma art -, snapshots, very small brushstrokes, wok, with a stethoscope, lossless quality, animated still, detail shot, recovering from pain, app, squelch, connectedness, fisherman, hand, lowres"
+  },
+  {
+    "object_ID": "1976-331",
+    "title": "['Parvekkeen ovi', 'Balkongdörren', 'Balcony Door']",
+    "date": 1967,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169692&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of an open door to a balcony, inspired by Francis Cadell, traditional corsican, ca. 1990, keylight, color pigments spread out in air, in a landscape, on a canva, standing outside a house, fineart"
+  },
+  {
+    "object_ID": "1976-267",
+    "title": "['Istuva malli', 'Sittande modell', 'Seated Model']",
+    "date": 1949,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170300&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman sitting on a stool, inspired by Amadeo de Souza Cardoso, young greek man, by George Ault, swim suite, full body within frame, year 1930, folded arms, kevin rudd, theater dressing room, model photograph, john blance, lilith, zeiss"
+  },
+  {
+    "object_ID": "1976-306",
+    "title": "['Tuulinen huhtikuun päivä', 'Blåsig aprildag', 'A Windy Day in April']",
+    "date": 1914,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169803&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a blue sky with white clouds, boreal forest, museum archive, espoo, hard brush strokes, bright rim light, may 6 8, with few ultramarine highlights, aged 13, seen in the distance, on a canva, creative commons attribution, insurmountable, black fir, 8 h, lowres, f11:10"
+  },
+  {
+    "object_ID": "1976-116",
+    "title": "['Haavoittunut nymfi', 'Sårad nymf', 'Wounded Nymph']",
+    "date": 1912,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2601606&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman and a dog, tall purple and pink trees, inspired by Jacques Villon, dryad in the forest, by Jørgen Nash, man standing in defensive pose, subsurface illumination, 8 0 0 mm, contorted limbs, sukkot, h 1088, inspired by Martinus Rørbye"
+  },
+  {
+    "object_ID": "1976-137",
+    "title": "['Kaupunki', 'Stad', 'The City']",
+    "date": 1967,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167837&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people riding horses, by Antoni Tàpies, karachi skyline background, burnt sienna and cerulean blue, panoramic anamorphic, adam moore, summer morning, teruel city in 1989, trending on artforum, connectedness, by Susan Weil, sepia, slums, jerusalem, busy cityscape"
+  },
+  {
+    "object_ID": "1976-70",
+    "title": "['Suutari', 'Skomakare', 'Shoemaker']",
+    "date": 1940,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168545&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man sitting at a table, inspired by Huang Binhong, tinkerer, painted with pastels, winter 1941, lockpicks and pile of gold, idw publishing, by Maurycy Gottlieb, zhang daqian, phosphorescent, white clay, production art, by Edward Lear, zdislav beksinsk, inspired by Wang Ximeng"
+  },
+  {
+    "object_ID": "1976-310",
+    "title": "['Syyspäivä', 'Höstdag', 'An Autumn Day']",
+    "date": 1919,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167072&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a cow in a fenced in area, by Arthur Merric Boyd, sunlight and whimsical houses, inspired by Oskar Kokoschka, andrew dickson, evergreen valley, black and white paint, oil on canva, kirchner, trailer, manuka, historic artworks society, cinematic ， - h 7 6 8, james gleeson, award - winning art"
+  },
+  {
+    "object_ID": "1976-244",
+    "title": "['Talvi', 'Vinter', 'Winter']",
+    "date": 1912,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2166894&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of some trees in the snow, by Emily Carr, totem 2, featured on artstattion, with few ultramarine highlights, by Christian Jane Fergusson, banff national park, twisted gardens, soviet art, 21:9, pine trees, as a painting, 10, midday, no foliage, inspired by William Yellowlees"
+  },
+  {
+    "object_ID": "1976-94",
+    "title": "['Asetelma', 'Nature morte', 'Still Life']",
+    "date": 1952,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168956&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a bowl of fruit on a table, inspired by Robert Colquhoun, by Roy De Maistre, trending on artforum, cornucopia, by Nathaniel Pousette-Dart, bananas weapon, ( alexander archipenko ), dimly lit interior room, on medium grade paper, congas, cans, mills"
+  },
+  {
+    "object_ID": "1976-16",
+    "title": "['Sininen taivas ja asetelma', 'Blå himmel och stilleben', 'Blue Sky and Still Life']",
+    "date": 1972,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170098&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a person sitting on a bench, by Robert Colquhoun, dirt and luch landscape, inspired by Nathan Oliveira, people inside eating meals, brown resin, inspired by William Nicholson, photo courtesy museum of art, paper texture 1 9 5 6, dark-matter, makeshift houses, thistles"
+  },
+  {
+    "object_ID": "1994-80",
+    "title": "['Harmaa, mustavalkoinen', 'Grå, svartvit', 'Grey, Black and White']",
+    "date": 1994,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2968952&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "three black and white objects on a white surface, volumetric wool felting, suspended in air, stones falling from the sky, flying in formation, official product image, figurativism, 2 0 0 7, young women, hammers, photo courtesy museum of art, grey metal body, on a canva, yarn, comet"
+  },
+  {
+    "object_ID": "1992-72",
+    "title": "['Eino Leino']",
+    "date": 1953,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168541&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man standing in front of a building, by József Rippl-Rónai, parks and monuments, wielding a crowbar, front view 2 0 0 0, one eye closed, side - view, featured on artsation, shoulders can be seen, ethnography, puṣkaracūḍa, banners with lenin"
+  },
+  {
+    "object_ID": "1976-350",
+    "title": "['Suursaarelta', 'Från Hogland', 'Suursaari Island']",
+    "date": 1912,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178302&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a person on a surfboard in the ocean, by Hermenegildo Anglada Camarasa, quebec, widescreen shot, 21:9, inspired by Marsden Hartley, wave frequencies, stereogram, oil on canva, wind - swept, shore of the lake, long violet and green trees"
+  },
+  {
+    "object_ID": "2012-49-4",
+    "title": "['Tapio Wirkkalan puiston taideteokset, Iso hevonen']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175270&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture on a wooden platform in front of a building, inspired by Akseli Gallen-Kallela, magician dog performing on stage, inspired by L. S. Lowry, complex city, an estate agent listing photo, by Rajmund Kanelba, city docks, moai, gazeta, 2014, focus gate, 4 legs"
+  },
+  {
+    "object_ID": "1999-209",
+    "title": "['Aurinkolabyrintti']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168245&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a circular stone structure in the middle of a park, inspired by Akseli Gallen-Kallela, atrium, ancient symbol behind it, photo courtesy museum of art, vitruvian mecha, ecovillage, mit technology review, bird\\'s eye view, manuka, scrolls, hexagons, finland, as an offering to zeus"
+  },
+  {
+    "object_ID": "1976-123",
+    "title": "['Omakuva', 'Självporträtt', 'Self-Portrait']",
+    "date": 1973,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167802&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man with a mustache, by Luc Tuymans, light pink mist, morandi color scheme, by Béla Czóbel, the caretaker, inspired by Diego Giacometti, face visible, riccardo federici, an film still, drunkard, jean-victor bertin, pub"
+  },
+  {
+    "object_ID": "1996-131",
+    "title": "['Leonard Bäcksbackan muotokuva', 'Porträtt av Leonard Bäcksbacka', 'Portrait of Leonard Bäcksbacka']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168912&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man wearing a hat and scarf, gustave bauman, the caretaker, late - 4 0 s aged, male teenager, inspired by Nikolaj Abraham Abildgaard, midday photograph, 3 0 s, an film still, half smile, monk, looking in a mirror, still image from the movie, dark blues, photo courtesy museum of art"
+  },
+  {
+    "object_ID": "2001-184-1",
+    "title": "['Juhlapöytä / Juhlapöytä ja laskos', 'Festbord', 'Dinner Table']",
+    "date": 2001,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168547&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a white table covered in a white cloth, noise rock album cover, swedish urban landscape, parks and monuments, ffffound, double layer fold over hem, stone roads, various point of view, merge, cloth, garden utopia, monuments"
+  },
+  {
+    "object_ID": "1976-47",
+    "title": "['Hevosraitiovaunu', 'Hästomnibus', 'Horse-drawn Tram']",
+    "date": 1910,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167276&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of people riding in a horse drawn carriage, by Louis Glackens, four stories high, charcoal and champagne, translucent pastel panels, blue submarine no. 6, detail, featured on artsation, by Edward Lear, muted pastels, transportation design, canva, captures emotion and movement"
+  },
+  {
+    "object_ID": "2005-34",
+    "title": "['Because of the artist the name was too big', 'På grund av konstnären var namnet för stort ']",
+    "date": 2005,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171809&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sign that says new york hanging on a wall, by Howardena Pindell, cloth jerkin, delivering mail, 2 0 0 0, inspired by Willem Pieterszoon Buytewech, aerial view. hand stitching, in salvia divinorum, inspired by Alson S. Clark, world of sleepers, toiletpaper magazine, brooklyn museum"
+  },
+  {
+    "object_ID": "2000-105",
+    "title": "['Ulkopuoleton kassi']",
+    "date": 2000,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173961&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a piece of paper with a picture of a ring on it, pekka halonen, inspired by Jesús Mari Lazkano, instructions to build it, futuristic cyber subway station, by Júlíana Sveinsdóttir, shibari, museum catalog, round-cropped, bangles, minimalism, moco, wikimedia, exhibition catalog"
+  },
+  {
+    "object_ID": "1994-198",
+    "title": "['Koiran ilmaa', 'Hundväder', 'Lovely Weather for Dogs']",
+    "date": 1974,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172128&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of two people and a dog in the snow, inspired by Mark Gertler, by David Inshaw, inspired by George Tooker, she is wearing a wet coat, black umbrella, shadowy creatures, trending on artforum, blair armitage, across holding a hand, julian opie"
+  },
+  {
+    "object_ID": "1977-5",
+    "title": "['Pako jouluyönä', 'Flykten i julnatten', \"The brothers' flight on Christmas Eve\"]",
+    "date": 1945,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170874&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people riding horses in the snow, colored pencil sketch, hellhounds, by Frank Montague Moore, inspired by Raymond Briggs, troops searching the area, by Mym Tuma, 1 2 0 0 dpi scan, 2 0 1 9, quebec, très détaillé, christmas night, massacre"
+  },
+  {
+    "object_ID": "1976-92",
+    "title": "['Syysmaisema', 'Höstlandskap', 'Autumn Landscape']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167040&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a barn in a field, year 1968, vibrant dark mood, beksinki, low horizon, f 3.5, anvil, exteriors, red horizon, f3.5, the hard and strong buildings, neo - fauvism, lighning storm, film nior, driveway, circa 1958, zeiss"
+  },
+  {
+    "object_ID": "2003-139-1",
+    "title": "['Stabat mater']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167446&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a painting on a wall, by Louise Bourgeois, deep black roots, segmented armor, in 1 9 9 5, trending on artforum, inspired by Yahoo Kusama, totem pole, interconnections, hyphae, standing in a dimly lit room, wild shape : raccoon, cell journal, 1 9 6 6, --n 6"
+  },
+  {
+    "object_ID": "2010-38-1",
+    "title": "['Taivasmaisemia / Sama taivas']",
+    "date": 2010,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169251&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room filled with wooden benches next to a blue wall, hourglass volumetric lighting, by Totte Mannes, rounded ceiling, official courthouse, pale pastel colours, white sea cloud, jury, anaesthetic, cloud and sky color scheme, pendant"
+  },
+  {
+    "object_ID": "1976-79",
+    "title": "['Nainen penkereellä (Istanbul)', 'Kvinna på terrass (Istanbul)', 'Woman on an Embankment (Istanbul)']",
+    "date": 1952,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168633&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a man holding a knife, athens in the background, black scarf, wise old man, inspired by Théophile Steinlen, standing on a ladder, her gaze is downcast, healthcare worker, eyes shone bright in the night, mustafar, wearing fluffy black scarf, aging"
+  },
+  {
+    "object_ID": "1976-314",
+    "title": "['Ristiinnaulittu (Luonnos)', 'Korsfästelsen (skiss)', 'Crucified (sketch)']",
+    "date": 1937,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169069&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of jesus crucified on the cross, by Max Pechstein, protagonist in foreground, rubble, a watercolor painting, award - winning painting, makoto kobayashi, 12k, qichao wang, holy cross, collaborative, 1930s, mia kischner, halos, espoo, armitage, google arts and cultures,"
+  },
+  {
+    "object_ID": "2019-9",
+    "title": "['Harmaita taloja', 'Grey Houses']",
+    "date": 1992,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180777&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a bird flying over a village, by Larry Rivers, sparse bare trees, shed roof, portrait of chuck clayton, hand - tinted, driving rain, birches, may 6 8, white building, pale yellow sky, makeshift houses, caustic projection, by William Coldstream, early spring, yard, hard lines"
+  },
+  {
+    "object_ID": "1976-384",
+    "title": "['Talvimaisema', 'Vinterlandskap', 'Winter Landscape']",
+    "date": 1941,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168583&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of some trees in the snow, by Gyula Derkovits, dramatic autumn landscape, 21:9, by Christian Jane Fergusson, award-winning composition, museum archive, the fall of summer, floodplains, oil on canva, serov, caulfield, by Edmund Blampied, image, art »"
+  },
+  {
+    "object_ID": "1991-344",
+    "title": "['Liekehtivä Fenix', 'Flammande Fenix', 'Flaming Phoenix']",
+    "date": 1991,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176306&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture on the side of a building, by Eero Järnefelt, f1.8 anamorphic, official courthouse, corporate photo, inspired by Alexander Archipenko, vegetation and flowers, by Vilhelm Lundstrøm, lecture halls and gambling dens, trinity, logo without text, ekasportal, jsc, featured art"
+  },
+  {
+    "object_ID": "1904-2",
+    "title": "['Työstä paluu']",
+    "date": 1904,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172944&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people carrying a cross, nordic forest colors, inspired by Ramon Casas i Carbó, public works mural, by Eero Järnefelt, scans from museum collection, inspired by Otakar Kubín, people at work, by László Paál, path, fig.1, colonisation, neotraditional modern minimalist"
+  },
+  {
+    "object_ID": "2001-180-1",
+    "title": "['Mielen puutarha']",
+    "date": 2001,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167465&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a library with lots of books on the walls, inspired by Per Kirkeby, pendants, schools of fish, photo 1998, brooklyn museum, award - winning design, passive house, tosa school, ceilings, interconnections, cages, fig.1, swedish design, a translucency, northwest school, gardena architecture"
+  },
+  {
+    "object_ID": "1976-178",
+    "title": "['Mylly', 'Kvarn', 'Mill']",
+    "date": 1931,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168690&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a train on a track next to a tree, brown water, modern neighborhood, workers, by Constantin Hansen, inspired by Ambrose McCarthy Patterson, sunlight reflected on the river, panoramic, july, 21:9, featured on artsation, protagonist in foreground, canals, los angeles, bog"
+  },
+  {
+    "object_ID": "1976-292",
+    "title": "['T.K. Sallinen']",
+    "date": 1914,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168669&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man in a suit and hat, by Margareta Alströmer, fur scarf, by René Auberjonois, bosnian, c. m. coolidge, by Christian Jane Fergusson, vdovenko, carmen kass, 2 0 s, dylan kowalsk"
+  },
+  {
+    "object_ID": "1976-147",
+    "title": "['Leirintäalue', 'Campingplats', 'Camping Area']",
+    "date": 1954,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167601&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of tents in a field, chris pratt ancient corsican, sharp and blocky shapes, serene beach setting, inspired by William George Gillies, military vehicles, wlop : :, art », aspect ratio 16:9, owen gent, reading under a tree, art exhibition"
+  },
+  {
+    "object_ID": "1946-3",
+    "title": "['Palotorni ympäristöineen', 'Brandtornet med omnejd', 'View of the Fire Lookout Tower']",
+    "date": 1943,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175426&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a snowy city with a clock tower, kreuzberg, inspired by Ferdinand Hodler, réunion des musées nationaux, 1980 photo, lookout tower, by Émile Bernard, yard, sparrows, diebenkorn"
+  },
+  {
+    "object_ID": "1976-441",
+    "title": "['Medusa']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168248&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a woman with curly hair, white calacatta gold marble, male medusa, hair jewellery, intaglio, boy hair, fig.1, his hair is messy and unkempt, carved ivory, 2 d image, multiversal hair, image in center, mold, griffith, dio, scarab"
+  },
+  {
+    "object_ID": "1976-103",
+    "title": "['Asetelma', 'Nature morte', 'Still Life']",
+    "date": 1914,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167658&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a potted plant on a table, by Marsden Hartley, blue grey and white color scheme, an example of saul leiter's work, holding a bottle of arak, subject= duck, post - minimalism, inspired by Samuel Peploe, asparagus, an ai generated image, museum photograph, portrait of female rogue, inspired by Martinus Rørbye"
+  },
+  {
+    "object_ID": "1976-15",
+    "title": "['Vaalea asetelma', 'Ljust nature morte', 'Light Still Life']",
+    "date": "1960-1963",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170779&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of various objects on a table, by Basil Blackshaw, soft colours scheme, limestone, torn paper edges, 6 0 s colour palette, inspired by Elizabeth Durack, holding a white flag, jar on a shelf, joongwon jeong, trending on artforum, interior of a tent, 1957, pelisse, provenance"
+  },
+  {
+    "object_ID": "1941-17",
+    "title": "['Eläintarhasta', 'Från Djurgården', 'From Eläintarha']",
+    "date": 1941,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167827&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a bridge over a river, jesper esjing, sunny at noon, by Christian Jane Fergusson, panorama, mid-30s, april, by Carl-Henning Pedersen, mojang, neighborhood, artforum, by František Kaván, eterea, fine art painting, stockholm"
+  },
+  {
+    "object_ID": "1976-217",
+    "title": "['Maisema, Helsingör', 'Landskap, Helsingör', 'Landscape, Helsingør']",
+    "date": 1914,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171267&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a sunset over a green field, by Jørgen Nash, neo-expressionistic, markus gunnar, photo courtesy museum of art, the middle of a valley, storm at night, kirchner, oil on linen, frontpage, by Kandinsky, sweden, expansive view"
+  },
+  {
+    "object_ID": "1977-40",
+    "title": "['Sovinnonjuhla I', 'Försoningsfest I', 'The feast of reparation I']",
+    "date": "1945-1948",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167775&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a group of people standing in a room, inspired by Laurits Tuxen, holy ceremony, year 1 9 4 4, rukis, american school, pastel coloring, forgiveness, parents watching, cabin, community celebration, culture wars, court session images, oak, worship, 9 5"
+  },
+  {
+    "object_ID": "1976-208",
+    "title": "['Sommitelma \"78\"', 'Komposition \"78\"', 'Composition \"78\"']",
+    "date": 1957,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2166913&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a painting on a wall, by Kurt Schwitters, light blue and white tones, a mid-century modern collage, trending on artforum, james mcdermott, artforum, interconnections, ivan chermayeff, the card player man, with high detail, fined detail, gray stone"
+  },
+  {
+    "object_ID": "2019-19",
+    "title": "['Omakuva', 'Självporträtt', 'Self-Portrait']",
+    "date": 1911,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177065&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a man with a cigarette in his mouth, by Helene Schjerfbeck, portrait of 14 years old boy, mono printing, inspired by Abbott Handerson Thayer, side - profile painted portrait, 1980 photo, medium detail, 1 9 0 9, fading, andrew dickson, sullen, kafka, hand - tinted"
+  },
+  {
+    "object_ID": "1992-125",
+    "title": "['Stoa']",
+    "date": 1984,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170103&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a blue sculpture in front of a building, fallen columns, rolf klep, university, frontpage, anamorphic widescreen, hsv, schomburg, lowres, black art, ue, - h 1 0 2 4, blocks, a monumental, stern, marker, triptych, plaza, 12"
+  },
+  {
+    "object_ID": "1941-2",
+    "title": "['Työmaa (Eläintarhasta)', 'Byggplats (Från Djurgården)', 'Construction site (From Eläintarha)']",
+    "date": 1941,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180881&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people working in the snow, the tunnel into winter, by Oluf Høst, dry dirt, sangyeob park, panorama, inspired by Eugène Grasset, draincore, inspired by Otakar Kubín, stream, inspired by Witold Pruszkówski, de stijl, europe, pollution, toulouse lautrec"
+  },
+  {
+    "object_ID": "1956-133",
+    "title": "['\"Leikki\" (Lek) -seinämaalaus']",
+    "date": "1956?",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175448&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting on the wall of a children's playroom, soviet apartment buildings, the moomins, behance, corridor, full width, taken with sony alpha 9, by Keren Katz, behance. polished, sewers, united nations, houzz, herge, 4 k high - resolution photograph, triptych, archival pigment print, artgem"
+  },
+  {
+    "object_ID": "2003-65-3",
+    "title": "['Kartanoruusu (Rosa Centifolia)']",
+    "date": 2003,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170468&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting hanging on a wall in a room, large individual rose petals, inspired by Per Kirkeby, hospital lighting, red and orange color scheme, installation view, photo of a rose, winner of design award, osl, by William MacTaggart, on madison avenue, hand-painted, global radiant light"
+  },
+  {
+    "object_ID": "1976-112",
+    "title": "['Laiva kumossa', 'Kullstjälpt båt', 'Overturned Boat']",
+    "date": "1920-luku",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167515&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a boat in a body of water, inspired by Isaac Soyer, swedish houses, wlop : :, photo courtesy museum of art, image dataset, wet climate, by Stuart Davis, boardwalk, scandinavian design, style of constructivism, gambrel roof, speeder, h 1088, panel of black, early spring"
+  },
+  {
+    "object_ID": "1976-36",
+    "title": "['Jänis', 'Hare', 'Hare']",
+    "date": 1921,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178255&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a white cat laying on a table, lagus the thieving bunny, inspired by Isaac Soyer, hunting trophies, inspired by Henry Ossawa Tanner, photo courtesy museum of art, inspired by David Burliuk, memento mori, ( ( photograph ) ), brian jacques, contorted"
+  },
+  {
+    "object_ID": "1998-422",
+    "title": "['Kirjoittajan talo III', 'Skribentens hus III', \"The Writer's House III\"]",
+    "date": 1998,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167305&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a white house with a brown roof, by Colin McCahon, pink door, cobwebs and dust, le corbeusier, silo, anxious steward of a new castle, ratio 16:9, latin writing, light house, naive, writings, kiki smith, height 1 7 8, wpa, villages, sfumato, hires textures"
+  },
+  {
+    "object_ID": "1976-101",
+    "title": "['Sisäkuva (Helsingör)', 'Interiör (Helsingör)', 'Interior Scene (Helsingör)']",
+    "date": 1914,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170023&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a bedroom with a bed and dresser, inspired by Albert Marquet, variable lighting, in dark corridor, chimney, featured on artsation, henry dreyfuss, noise and grain, moire, rendered lighting, inside a shed, art station front page, moma museum, vignette, emerging from a lamp"
+  },
+  {
+    "object_ID": "1992-017",
+    "title": "['Maaemo suojelee poikaansa', 'Moder jord skyddar sin son', 'Mother Earth Shelters her Son']",
+    "date": 1960,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172772&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of two people hugging each other, by Eero Järnefelt, summer evening, betraying eden, guardian project, 2 0 s, standing together, birth and death, reflective faces, walking together, character is standing, other mother, left align content, rigid"
+  },
+  {
+    "object_ID": "1992-48",
+    "title": "['Suomalaisten sotilaiden hauta', 'De finska soldaternas grav', \"The Finnish Soldiers' Grave\"]",
+    "date": 1920,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176784&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "two wreaths are placed in front of a monument, sleipnir, blue and white color scheme, inspired by Ivan Mrkvička, w 7 6 8, may, black squares on 4 corners, government archive, protagonist in foreground, hdrp, ( ( photograph ) ), nordic, ( alexander archipenko ), equine, tombstone, che guevara"
+  },
+  {
+    "object_ID": "2005-73",
+    "title": "['Juna, Ruoholahti', 'Tåg, Gräsviken', 'Train, Ruoholahti']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171242&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man walking down a train track, summer street near a beach, inspired by Edvard Munch, swirly clouds in the background, scans from museum collection, f. 1 4, broken pipes, 1960, harbour in background, mamimi samejima, h 1088, oil on canva, [ bubbles, exhibited in the british museum"
+  },
+  {
+    "object_ID": "1976-290",
+    "title": "['Kukkia (Tulppaaneja)', 'Blommor (Tulpaner)', 'Flowers (Tulips)']",
+    "date": 1913,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171608&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of flowers in a vase on a table, inspired by William Zorach, museum archive, by Jørgen Nash, featured on artsation, exhibition catalog, aged 13, frederik heyman, on a canva, by Samuel Peploe, tulips, listing image, chauvet, glair"
+  },
+  {
+    "object_ID": "1976-422",
+    "title": "['Aino']",
+    "date": 1920,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167945&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a statue of a woman's head, long bronze brown hair, top and side view, girl with plaits, artstarion, smooth light from upper left, listing image, verbena, dark face, full body and face and head, invisible woman, traditional medium, still image"
+  },
+  {
+    "object_ID": "2003-67-3",
+    "title": "['Työ ja vapaa-aika']",
+    "date": 2003,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170139&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a man and a woman hanging on a wall, in a cluttered lab, by Richard Wilson, medium format, home office interior, portrait of queen, inspired by Margareta Alströmer, nursing home, cg architects, motion photo, triptych, office"
+  },
+  {
+    "object_ID": "1996-36",
+    "title": "['Maailma on sana', 'Världen är ett ord', 'The World is a Word']",
+    "date": 1994,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173967&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a boy standing in front of a red cross, by Richard Artschwager, triadic colors, pinocchio, by Grethe Jürgens, inspired by Ben Nicholson, military soldier behavior, installation view, aspect ratio 16:9, blond boy, inspired by John Brack, the mock turtle"
+  },
+  {
+    "object_ID": "1976-71",
+    "title": "['Mustalaisvaimo lapsineen (Mustalaismadonna)', 'Zigenerska med barn (Zigenarmadonna)', 'Gypsy Woman with Child (Gypsy Madonna)']",
+    "date": 1940,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167280&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman holding a baby, rukis, paved roads, limited palette, drawn with crayons, tundra, walking toward you, inspired by John Elwood Bundy, stylized painterly, hanging scroll, the caretaker, scans from museum collection, 1958, compassion, youth, scanned, neo - impressionist"
+  },
+  {
+    "object_ID": "1976-272",
+    "title": "['Pohjoissatamasta', 'Från Norra hamnen', \"Helsinki's North Harbour\"]",
+    "date": 1971,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167608&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a boat in a body of water, by Jean-Paul Riopelle, urban view in the distance, photo 1960, by Willem Labeij, viewed from the harbor, acrylic palette knife, panorama, can basdogan, muddy embankment, swirling schools of silver fish, museum archive, 2 0 0 0, frederik heyman"
+  },
+  {
+    "object_ID": "1976-203",
+    "title": "['Lahti', 'Vik', 'Bay']",
+    "date": 1918,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168440&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a body of water surrounded by trees, by Tivadar Alconiere, circa 1958, private collection, standing on the water ground, early spring, aged 13, autumn season, chaotic landscape, alexis flower, reflective water, mid-30s, strathmore 2 0 0, hasanabi, soft lighting sold at an auction, david noren"
+  },
+  {
+    "object_ID": "1976-340",
+    "title": "['Thyra Elisabeth']",
+    "date": 1892,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177513&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman with long hair, by Per Krohg, goddess of sleep, soft lighting |, f11:6, soft and muted colors, connectedness, a beautiful teen-aged girl, trending on artforum, one eye closed, long weaving brown hair, at peace, seraphim, jean grey, youth, by Louise Abbéma"
+  },
+  {
+    "object_ID": "1976-375",
+    "title": "['Tyttö', 'Flicka', 'Girl']",
+    "date": 1929,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168419&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman holding an apple, inspired by Moïse Kisling, but a stern look about her, by Elsie Dalton Hewland, vibrant but dreary orange, teenager girl, dominik mayer, violet, photo courtesy museum of art, mid-30s, trending on artforum, by Elmyr de Hory, holding a tangerine"
+  },
+  {
+    "object_ID": "1976-309",
+    "title": "['Maisema (Terhilän talo)', 'Landskap (Terhilä gård)', 'Landscape (Terhilä Farm)']",
+    "date": 1918,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168524&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of cows in a field with a castle in the background, by Ettore \"Ted\" DeGrazia, jungian symbols of winter, georgia o'keefe, by John Henry Twachtman, trending on artforum, ruined subdivision houses, view from the lake, ink and wash, by Paul Cézanne, hulton archives, art »"
+  },
+  {
+    "object_ID": "1976-199-1",
+    "title": "['Asetelma', 'Nature morte', 'Still Life']",
+    "date": 1917,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169514&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a vase and books on a table, inspired by Samuel Peploe, hues of subtle grey, flasks in hands, inside of a bedroom, portrait of vladimir putin, soft light dull mood, listing image, empty pet bottles, birch, moire, shelf"
+  },
+  {
+    "object_ID": "1976-266",
+    "title": "['Sammon taonta (Luonnos)', 'Sampo smides (Skiss)', 'Forging the Sampo (sketch)']",
+    "date": 1949,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171627&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man sitting on a chair, cubism painting of a tree, people on the ground, still from the film, workers, composer, in muted colors, “house music rave with dancers, interior of a mountain hut, loosely cropped, polyhedron, google arts and cultures, in a nest, brooklyn museum"
+  },
+  {
+    "object_ID": "1976-351",
+    "title": "['Taiteilija Hueck', 'Konstnär Hueck', 'The Artist Hueck']",
+    "date": 1930,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168453&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man standing in a room, expressionism movement, standing in a cantina, portrait of 1 5 - year - old boy, blue archive, human staring blankly ahead, selfie, post - minimalism, stockholm, holding a bottle of beer, portrait of ryan gosling, wooden floors, photo courtesy museum of art"
+  },
+  {
+    "object_ID": "1976-23",
+    "title": "['Javier']",
+    "date": 1952,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170320&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a boy sitting on a bench, inspired by Frances Hodgkins, by Gao Xiang, weaving, museum archive, soft light, inspired by Isaac Soyer, badminton, walter everett, male soldier in the forest, auction catalogue photo, japanese school uniform, muted colour, cherub, roy litchenstein"
+  },
+  {
+    "object_ID": "1999-147-1",
+    "title": "['Tavarakomero']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171284&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a wall full of different types of tools, helio oiticica, by Ethel Schwabacher, patchwork doll, fig.1, nesting glass doors, metropolitan museum collection, trash ; basement, houdini, brooklyn museum, 2 0 0 0, lgbt art, small bedroom, elevator, m. c. esher"
+  },
+  {
+    "object_ID": "1976-238",
+    "title": "['Rakennuksia, Loppi, Räyskälä', 'Byggnader, Loppi, Räyskälä', 'Buildings, Loppi, Räyskälä']",
+    "date": 1935,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168486&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a farm with a windmill in the background, by Serge Poliakoff, georgia o'keefe, winnipeg skyline, frontpage, rubble, gambrel roof, azure sky, a painting of white silver, concrete housing, backyard, mate painting, front page, barracks, 8 h, chaumet, sarenrae"
+  },
+  {
+    "object_ID": "2001-75-4",
+    "title": "['Teoksia kokonaisuudesta Albumi (1955-1963)', 'Verk från helheten Album (1955–1963)', 'Works from the collection Album (1955–1963)']",
+    "date": "1997-1999",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170488&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a person flying a kite, ikebana white flowers, by Cornelia Parker, red dust, print, [ forgetful ], 2d side view, posthuman, square lines, gallery display photograph, printmaking"
+  },
+  {
+    "object_ID": "1999-147-3",
+    "title": "['Maapala ja taivaankappale']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170410&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of pieces of art hanging on a wall, front view 1 9 9 0, norrlandsskog, cloth simulation, top - down perspective, inspired by Howardena Pindell, mappa studio artstyle, bandoliers, niels otto møller, long blue-cape, a pair of ribbed, national geography"
+  },
+  {
+    "object_ID": "1976-50",
+    "title": "['Maalaistalo, Artjärvi (Sikoja)', 'Bondgård, Artsjö (Svin)', 'Farmhouse, Artjärvi (Pigs)']",
+    "date": 1915,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169173&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a person on a horse in front of a building, pigs, by Ludwik Konarzewski, bhutan, by Robert Bevan, soft dark light, villagers busy farming, photo courtesy museum of art, by David Bomberg, ecovillage, trending on artforum, food and consumerism, “pig, village in the woods, wpa"
+  },
+  {
+    "object_ID": "2000-110",
+    "title": "['Juutalaispakolaisten muistomerkki', 'Minnesmärke över judiska flyktingar', 'Memorial to Jewish Refugees']",
+    "date": 2000,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180739&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a stone monument sitting in the middle of a park, by Jóhannes Sveinsson Kjarval, scratched metal, by Erwin Bowien, pulitzer, round-cropped, john pawson, freemasons, draft, inspired by Rajmund Kanelba, jfk, latitude and longitude, tombs, battalion, 27, 1787, artwork"
+  },
+  {
+    "object_ID": "1976-225",
+    "title": "['Aamu', 'Morgon', 'Morning']",
+    "date": 1950,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168126&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman in a yellow dress, abstract landscape, by Ned M. Seidler, norrlandsskog, red sky, muspelheim, oil on wood, by De Hirsh Margules, marthe jonkers, whirlwind, fissures, 9 4, northern finland, by Mario Sironi, ravine, womanhood"
+  },
+  {
+    "object_ID": "1943-6",
+    "title": "['Vanha piha Kruunuhaassa', 'Gammal gård i Kronohagen', 'Old Yard in Kruunuhaka']",
+    "date": 1943,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180217&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a snowy street in a town, by Moïse Kisling, an abandonded courtyard, by Pierre Laffillé, chimney, tropic climate, ledmund leighton, identical picture, gustave bauman, 8 h, dark pine trees, dirty streets, montreal, pointed hoods, birches"
+  },
+  {
+    "object_ID": "1947-5",
+    "title": "['Juhlat kaupungissa', 'Fest i stan', 'Party in the City']",
+    "date": 1947,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172042&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people standing next to each other, by Eero Järnefelt, couple dancing, google arts and cultures, background with complex patterns, ballroom, garden environment, collaborative artwork, pastel drawing, falling in love, age 3 0, song, 2 0 s, (french bande dessinée), blue room, helsinki, celebration"
+  },
+  {
+    "object_ID": "1976-180",
+    "title": "['Omakuva', 'Self-Portrait']",
+    "date": 1945,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168873&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man in a blue shirt, by Nancy Spero, 1 7 - year - old boy thin face, somber expression, inspired by Gwilym Prichard, portrait of the old necromancer, shabab alizadeh, biggish nose, by David Burliuk, light over boy, ronen bekerman, david bates"
+  },
+  {
+    "object_ID": "1977-24",
+    "title": "['Juhani ja Venla', 'Juhani och Venla', 'Juhani and Venla']",
+    "date": 1947,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170101&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a man and a woman standing in a field, inspired by Laurits Tuxen, soft pastels, new yorker magazine cover, trailing off into the horizon, by Jørgen Roed, taller than man, inspired by Silvestro Lega, reuniting, inspired by Arvid Nyholm, wonder"
+  },
+  {
+    "object_ID": "1976-430",
+    "title": "['Pomona']",
+    "date": 1953,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169980&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a woman standing on a wooden base, inspired by Mark Gertler, bronze headset, distant full body shot, thigh gap, she has olive brown skin, fat, a cute young woman, full frontal shot, 3/4 front view, beautiful body, mercury, iridescent skin, centralized head and upper torso, john pawson, artforum"
+  },
+  {
+    "object_ID": "1977-26",
+    "title": "['Pellolla', 'På åkern', 'In the field']",
+    "date": 1945,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171081&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a man plowing a field with a horse drawn carriage, tarkovsky color palette, inspired by John Linnell, empty road, inspired by Moses Soyer, roll 2 0, animated episode still, blacksmith apron, loosely cropped, fades to the horizon, gravel, landfill, sumerian, pastel colored"
+  },
+  {
+    "object_ID": "1976-162",
+    "title": "['Pyhä kirja', 'Den heliga boken', 'Holy Book']",
+    "date": 1967,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171541&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room divider with a painting on it, 1960s neo rococo expressionist, cobalt coloration, doors, front back view and side view, by Jens Søndergaard, made of cardboard, untethered stelae, ornate patterned people, as well as scratches, restored color"
+  },
+  {
+    "object_ID": "1999-173-1",
+    "title": "['Helsinki-sarja', 'Helsingforsserien', 'Helsinki Series']",
+    "date": 1996,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169310&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of a large building, by Vija Celmins, saint petersburg, album artwork, swedish urban landscape, taken in the early 1970s, by Andy Warhol, kramskoi, institutional critique, round-cropped, inspired by Aleksandr Ivanovich Laktionov, dead river, aperture priority, 1 8 2 7"
+  },
+  {
+    "object_ID": "1992-147",
+    "title": "['Albert Edelfelt']",
+    "date": 1927,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174814&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man holding a book in front of a building, by Eero Snellman, magenta shirt, fullbody photo, meadows, jury, inspired by Arthur Quartley, kirsi salonen, wearing a business suit, front and side view, man is with black skin, in a park, academia, student, the photo shows a large"
+  },
+  {
+    "object_ID": "1999-4",
+    "title": "['Seurue', 'Ett sällskap', 'Party']",
+    "date": 1998,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175637&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of people sitting at a table with a dog, inspired by George Tooker, the gruffalo, website banner, theater mask, inspired by Ditlev Blunck, the masks come off at night, by Nancy Spero, holding court, by Grethe Jürgens, cgsociety award, syndicate(2012), lossless, children, warmly lit"
+  },
+  {
+    "object_ID": "2001-180-3",
+    "title": "['Tieto löytyy joskus yllättävistäkin paikoista']",
+    "date": 2001,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168885&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a doll house with bookshelves and ladders, anamorphic film, 1996, half elephant, roman columns, aspect ratio 16:9, miniature animal, by Fernand Verhaegen, private collection, lossless, blurred detail, various artworks, treehouse, monolithic"
+  },
+  {
+    "object_ID": "1976-154",
+    "title": "['Äiti ja poika', 'Mor och son', 'Mother and Son']",
+    "date": 1974,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167681&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman with a bird on her shoulder, inspired by Helene Schjerfbeck, with a kid, by Vladimír Vašíček, by Richard Diebenkorn, deep impasto, tsuruta kenji, human babies, official artwork, inspired by Mikhail Nesterov, ultramarine, 2010, lunar"
+  },
+  {
+    "object_ID": "1959-85",
+    "title": "['Contrapunctus']",
+    "date": 1959,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175983&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting that is on display in a room, inspired by Albert Gleizes, violet ants, chuck jones, metropolitan museum collection, red brown and grey color scheme, battle of cape ecnomus, muted colors with minimalism, -h 960, pablo dominguez, disassembled, w 7 6 8, phragmites"
+  },
+  {
+    "object_ID": "2002-107",
+    "title": "['Tytöt', 'Flickorna', 'Girls']",
+    "date": 2002,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168388&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a person sitting in front of a building, bunnies, by Lars Jonson Haukaness, contemporary house, hasselblad, two still figures facing camera, the poolrooms, twisted shapes, lightly dressed, front view 2 0 0 0, worshipers, modernist"
+  },
+  {
+    "object_ID": "2019-24",
+    "title": "['Tytön muotokuva', 'Flickporträtt', 'Portrait of a Girl']",
+    "date": 1934,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177182&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a woman wearing a red hat, by Raymond Duchamp-Villon, melancholy pastel art, fighter pilot in the cockpit, aged 13, fast helmet, in the snow, rutkowski |, brainbow, photochrom print, bonnard, pod racer, edgard maxence, museum catalog, driving a car, photo of"
+  },
+  {
+    "object_ID": "1977-47",
+    "title": "['Ateria II', 'Måltid II', 'The meal II']",
+    "date": 1947,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168109&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a woman eating a bowl of soup, inspired by Konstantin Yuon, soft pastels, inspired by N. C. Wyeth, tribals, style of the game rimworld, courtesy mbari, artsation contest winner, profile image, milkman, bite, by Milton Menasco, heavy grain, yutja, app, neo - primitivism"
+  },
+  {
+    "object_ID": "1992-027",
+    "title": "['Maamme-laulun muistomerkki', 'Vårt land-monumentet', 'Monument commemorating the Finnish National Anthem']",
+    "date": 1948,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174013&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a stone wall with five heads of presidents on it, rutkowskyi, time travelers appear in a park, medallions, zoo, 500px, harlem, standing in the forest, karl marx, walter gropius, shattering walls, local heroes, metalwork, by Harriet Backer, cccp, tfwiki.net photography, creative commons attribution"
+  },
+  {
+    "object_ID": "1992-82",
+    "title": "['Mesikämmen muurahaispesällä', 'Björn vid myrstack']",
+    "date": 1928,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179626&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a bear in the middle of a park, by Hugo Simberg, scp-914, sharp nose with rounded edges, on sidewalk, inspired by Zinaida Serebriakova, diffuse subsurface scattering, portrait of jerma985, trademarks and symbols, in the middle of the city, slush, w 7 6 8"
+  },
+  {
+    "object_ID": "2010-67",
+    "title": "['Odotus', 'Väntan', 'Expectation']",
+    "date": 2010,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174317&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a woman standing next to a ball, by Jens Jørgen Thorsen, adventure playground accident, black woman, who is looking up at it in fear, beautiful female dorothy gale, casting shadows, in 2 0 1 5, inspired by Zlatyu Boyadzhiev, harlem, poland, brass woman, google arts and cultures"
+  },
+  {
+    "object_ID": "1976-239",
+    "title": "['Kukkavihko', 'Bukett mot blått', 'Floral Bouquet']",
+    "date": 1940,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170978&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a bunch of flowers in a vase, blue archive, courtesy of moma, by Per Krohg, connectedness, inspired by Anna Mary Robertson Moses, portrait of john f kennedy, blue tiara, brooklyn museum, may 6 8, flowercore, bonnard, zinc white, 1 9 th, may"
+  },
+  {
+    "object_ID": "2005-169",
+    "title": "['Kehon rakennus & purku Oy', 'Byggande och rivning av kroppen Ab', 'Body Building and Demolition Ltd.']",
+    "date": 2005,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174875&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man standing in front of a building, einar jonsson, organic biomass, protagonist, scp, front-view, featured on artsation, museum archive, i am groot, camouflage, humanisation, face shown, folklore, h 1088, anthropomorphized, espoo"
+  },
+  {
+    "object_ID": "2001-42",
+    "title": "['Lähiörodeo', 'Förortsrodeo', 'Suburb Rodeo']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167995&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a pair of cowboy boots, ornate gilded cosmic machine, front view 1 9 9 0, photo courtesy museum of art, style of style of robert mccall, golden earring, the money of clowns, adorned with precious stones, winamp skin, circa 1969, lucky luke"
+  },
+  {
+    "object_ID": "1990-186",
+    "title": "['Maisema kankaalla', 'Landskap på duk', 'Landscape on Canvas']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172964&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of people that are standing in the grass, by Kati Horna, gilt silk torn fabric, neo - gypsy caravan, midday sun, 9, two hovering twin nuns, wyeth, museum catalog photograph, production still, dueling, exploited"
+  },
+  {
+    "object_ID": "2001-180-2",
+    "title": "['Löytöjä']",
+    "date": 2001,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169685&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of umbrellas sitting on top of a table, wearing transparent glass mask, inspired by Carl Gustaf Pilo, mycology, intricate broken space helmet, in 1 9 9 5, hospital interior, art direction, anamorphic film, artist impression, by Nina Hamnett, gelatinous, inspired by Amalia Lindegren, 268435456k film"
+  },
+  {
+    "object_ID": "1976-334",
+    "title": "['Oulujärveltä', 'Från Ule träsk', 'Scene from Lake Oulujärvi']",
+    "date": 1960,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168075&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a painting with a sky in the background, pointillisme, by De Hirsh Margules, reduced visibility, 21:9, irregularly shaped mosaic tiles, hoyte van hoytema, rippled white landscape, featured on artsation, panorama, by Delaunay, width 1 0 2 4, pixels"
+  },
+  {
+    "object_ID": "1977-18",
+    "title": "['Kylväjä', 'Såningsman', 'The sower']",
+    "date": 1947,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168444&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man standing in a field, in dusty open pit mine, walking to work with a briefcase, soft pastels, inspired by Zinaida Serebriakova, npc with a saint's halo, drummer, dirty ground, promotional render, working in the forge, mine cart, scanned, clogs"
+  },
+  {
+    "object_ID": "2018-468",
+    "title": "['Kevät Esplanadilla', 'Vår i Esplanaden']",
+    "date": 1927,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179747&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people walking down a street, under the soft shadow of a tree, sangyeob park, by Akseli Gallen-Kallela, people and creatures walking, school courtyard, 21:9, inspired by John Macdonald Aiken, post-war, frontpage, radios, monks"
+  },
+  {
+    "object_ID": "2009-9",
+    "title": "['Missä kaikki kompassit menevät sekaisin', 'Där alla kompasser blir galna', 'Where Compasses All Go Mad']",
+    "date": 2007,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168074&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a wall that has a bunch of pictures on it, emanating with blue aura, by Amalia Lindegren, analogue photo, cold environment, protagonist in foreground, blurred photo, taken with a canon eos 5d, transparent glass, burning ships, archive photography"
+  },
+  {
+    "object_ID": "1995-6",
+    "title": "['Himmeli', 'Himmel']",
+    "date": 1994,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168659&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a red sculpture sitting in the middle of a field, inspired by Paul-Émile Borduas, symmetry features proportions, canon 2 0 mm, at a park, sharp and blocky shapes, john eaves, featured on artscape, integral painting, full width, arbor"
+  },
+  {
+    "object_ID": "2002-105",
+    "title": "['Pieniä valintoja', 'Små val', 'Small Choices']",
+    "date": 2002,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170054&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room that has a bunch of tables and chairs in it, inspired by Pedro Álvarez Castelló, image of ronald mcdonald, large patches of plain colours, moomins, restaurant exterior photography, 2002, nursery poster, portal 3, by Tomàs Barceló, hospital interior, bakery"
+  },
+  {
+    "object_ID": "1992-237",
+    "title": "['Itä-länsi, diptyykki']",
+    "date": 1992,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178442&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of pieces of wood sitting on top of a white wall, triangular elements, claymorphism, two colors, museum collection, subject made of cracked clay, by Itō Jakuchū, illuminati, enamel, museum catalog, face variations, sumerian, hcl, gorget"
+  },
+  {
+    "object_ID": "1976-383",
+    "title": "['Istuva tyttö', 'Sittande flicka', 'Seated Girl']",
+    "date": 1938,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168006&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman sitting in a chair, inspired by Betty Churcher, portrait of a young girl, in muted colors, lost in thought, photo still of interior, ratio 16:9, kay neilsen, in a circle, aged 13, 1965, inspired by Michael Malm, connectedness, sunbeam, light red and orange mood"
+  },
+  {
+    "object_ID": "1992-234-1",
+    "title": "['Maalaus']",
+    "date": 1992,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171905&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a red couch sitting in a room next to a plant, large arrays, in realistic data center, by Pascal Blanché, displayed on the walls, blackwork, iso 125, art of édouard bisson, black. airports, starport, 12, original artwork, panoramic anamorphic, carrara marble, sharp geometrical squares"
+  },
+  {
+    "object_ID": "1977-58",
+    "title": "['Rajamäen rykmentti III', 'Rajamäki regemente III', 'The \"Rajamäki\" regiment III']",
+    "date": 1947,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168169&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man pushing a child in a stroller, oak trees, inspired by Arthur Merric Boyd, by Magdalene Bärens, sukkot, inspired by Gustaf Tenggren, the crowd flees the village, photo courtesy museum of art, by Arthur Merric Boyd, bicycles, in the wood, genzoman and frank franzzeta"
+  },
+  {
+    "object_ID": "1943-4",
+    "title": "['Laiva saapuu', 'Fartyget anländer', 'Ship Arrives']",
+    "date": 1942,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174977&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a boat in a body of water, new - york skyline in winter, by Harvey Dunn, ice gate, scott burdick, installation view, spring early morning, oil on canva, dusting of snow, on the frozen danube, radiator, gig, lilac sunrays, auction catalogue photo, in thick layers of rhythms, wlop |"
+  },
+  {
+    "object_ID": "1998-546-2",
+    "title": "['Kohtauspaikat', 'Mötesplatser', 'Meeting Places']",
+    "date": 1998,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169943&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a cat sitting on top of a brick pillar, by Eero Snellman, anamorphic widescreen, the antler people, liminal, with vestiges of rusty machinery, urban motifs, decorative art, cat head, bang olufsen, pinecone, 2010, favicon, police station, firelit"
+  },
+  {
+    "object_ID": "1976-264",
+    "title": "['Maisema', 'Landskap', 'Landscape']",
+    "date": 1914,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171690&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a house on a hill, by Paul-Émile Borduas, rocky lake shore, by Witold Wojtkiewicz, sold at an auction, inspired by Vilhelm Lundstrøm, featured on artsation, published art, style of vogelsang, green field, vrubel, listing image, niels otto møller, rapids"
+  },
+  {
+    "object_ID": "1977-37",
+    "title": "['Kahvitauko I', 'Kafferast I', 'The coffee-break I']",
+    "date": 1947,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169122&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of three women sitting on a bench, mr robert is drinking fresh tea, chalk digital art, inspired by Henry Lamb, rojava, standing in a dimly lit room, ko-fi, inspired by Moses Soyer, hot cocoa drink, scanned, groups of people, woodfired, zdzidaw, museum art"
+  },
+  {
+    "object_ID": "1976-170",
+    "title": "['Ennen naamiaisia', 'Före maskeraden', 'Before the Masquerade']",
+    "date": 1943,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167145&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman sitting in front of a mirror, inspired by Fern Coppedge, hair bun, magpie, by László Mednyánszky, inspired by Pierre Adolphe Valette, white cat in a pink dress, award - winning painting, f11:10, veil, hairdryer, het meisje met de parel"
+  },
+  {
+    "object_ID": "1996-153",
+    "title": "['Lauri Kristian Relanderin muistomerkki', 'Lauri Kristian Relanders minnesmärke', 'Lauri Kristian Relander Memorial']",
+    "date": 1996,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180531&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture in the middle of a park, by Anni Albers, cubical meeting room office, inspired by Johan Lundbye, sukkot, photo courtesy museum of art, graveyard tombstones, by Antonie Palamedesz, in a city square, iterations = 5 0 0 0, speakers, dark stone, lossless, discovered in a secret garden"
+  },
+  {
+    "object_ID": "1997-171",
+    "title": "['Putkisto 1']",
+    "date": 1998,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175250&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large rock sitting in the middle of a field, illegible rosicrucian symbols, hammer and sickle, african canadian, dividing it into nine quarters, inspired by Ota Bubeníček, mopar, stone steps, may 1 0, 2 0 1 0, brimstone, 1789, helsinki, on vellum"
+  },
+  {
+    "object_ID": "1976-206",
+    "title": "['Asetelma', 'Nature morte', 'Still Life']",
+    "date": 1959,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170496&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of vases on a table with mountains in the background, inspired by John F. Peto, by Gertrude Abercrombie, object oriented ontology, rust and dust and fire and dirt, by Jean Arp, scene from supplizia, on a canva, charles sheeler, the panorama, art »"
+  },
+  {
+    "object_ID": "1976-100",
+    "title": "['Ihmisen vaellus', 'Ålderstrappan', 'The Journey of the Man']",
+    "date": 1954,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180461&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a room with a large window, deconstructivism, inspired by Isaac Soyer, in a village, landscape of geometric shapes, disordered, workers, without text, featured on artstattion, people fleeing, the window is open, bbc promotional artwork, mid-30s, award-winning composition"
+  },
+  {
+    "object_ID": "2002-97",
+    "title": "['Elämänpuu', 'Livsträdet', 'Tree of Life']",
+    "date": 2002,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171790&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a white refrigerator freezer sitting inside of a kitchen, low - relief stone sculpture, on vellum, ecovillage, graafland, stairs to an upper floor, inspired by Lajos Bruck, highly inventive pattern cutting, inside a child's bedroom, by Hans Sandreuter, panels, inspired by Werner Andermatt, the pictish god of stags, top"
+  },
+  {
+    "object_ID": "1994-56",
+    "title": "['Hallitus ja eduskunta', 'Government and Parliament']",
+    "date": 1993,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178508&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man walking a dog on a leash, inspired by Tomi Ungerer, jerome powell, trending on artforum, banknote, by Marianne von Werefkin, mix of biden and obama, groom, anthropomorphic furry art, e. h. beatrice blue, dressed in blue, commissioned"
+  },
+  {
+    "object_ID": "1976-335",
+    "title": "['Bandara']",
+    "date": 1964,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168371&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people on a beach, by James Brooks, cyan dimensional light, street vendors, inspired by Murray Tinkelman, light blue mist, panoramic anamorphic, strathmore 2 0 0, may 6 8, by William MacTaggart, featured on artsation, ue marketplace, timbuktu, interconnections"
+  },
+  {
+    "object_ID": "1992-105",
+    "title": "['H.C. Borgström']",
+    "date": 1888,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172552&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man surrounded by flowers, inspired by Johann Gottfried Steffan, park background, brown flowing hair, time travelers appear in a park, trippie redd, in a woodland glade, view up, pianist, swiss design, standing in midground, dwarf, bard"
+  },
+  {
+    "object_ID": "1993-52",
+    "title": "['Tuuli']",
+    "date": 1991,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176755&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black sculpture sitting on top of a wooden floor, in a rock chair, by Inshō Dōmoto, by Christian Jane Fergusson, massive cosmos scale, by Bjørn Wiinblad, curved body, 64x64, museum archive, zora, front view 2 0 0 0, korean artist, round-cropped, dark stone"
+  },
+  {
+    "object_ID": "1998-72",
+    "title": "['Pysyvien rakenteiden lisäksi myös tilapäiset ilmiöt määräävät paikan luonteen']",
+    "date": 1998,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172309&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a building with a sign on the side of it, by Eero Järnefelt, stood in a cell, narrow footpath, 2007, fascist, full width, inspired by Jan Henryk Rosen, grotto, aetstationhd, detailed –n 9, florentine school, vandalism, marker, relief, 3 doors, 8k matte"
+  },
+  {
+    "object_ID": "1976-358",
+    "title": "['Maisema', 'Landskap', 'Landscape']",
+    "date": 1916,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2166886&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a person on a surfboard in the ocean, by Nikolai Astrup, abstract landscape, by Johan Edvard Mandelberg, circa 1940s, aspect ratio 16:9, may 6 8, plein air, strathmore 2 0 0, quebec, turbulent water, grassy plains, flagstones, 1966, midday"
+  },
+  {
+    "object_ID": "2004-106",
+    "title": "['Pesu', 'Tvätt', 'Wash']",
+    "date": 2004,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170370&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a towel with a drawing of two hands on it, by Keren Katz, inspired by Henriette Wyeth, reaching out to each other, visible veins, fabric embroidery, on vellum, listing image, bengal school of art, winning award image, line-drawing, artforum, connecting lines"
+  },
+  {
+    "object_ID": "1976-117",
+    "title": "['Terijoen kirkko', 'Terijoki kyrka', 'Terijoki Church']",
+    "date": 1937,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170260&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a white building with blue domes, by Boris Kustodiev, by Mikhail Larionov, exhibited at the british museum, by Max Slevogt, pastel blue, minarets, 1920s, queen of heaven, first draft, google arts and cultures, 1990, midday photograph, 1880"
+  },
+  {
+    "object_ID": "2000-119",
+    "title": "['Lentoon', 'Flykt', 'To Take Flight']",
+    "date": 2000,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169002&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a building with a clock on the side of it, by Sophie Taeuber-Arp, by Hallsteinn Sigurðsson, droplets on the walls, school, sideview, archive material, linden trees, artforum, front view 2 0 0 0, floating runes, round-cropped, urban surroundings, northwest school, government archive"
+  },
+  {
+    "object_ID": "1996-37-1",
+    "title": "['Valosta ja uskollisuudesta: Lampun varjo', 'Om ljus och trofasthet: Ljuset kastar en skugga', 'On Light and Loality: The Shadow of a Lamp']",
+    "date": 1982,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176349&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a lamp on a table next to a painting of a lamp, hypervivid intense mcbess, paper cut art, black dots, by Ambrose McCarthy Patterson, one point lighting, hairdryer, lacking in three-dimensionality, trending on artforum, clipart, black mold"
+  },
+  {
+    "object_ID": "2010-38-2",
+    "title": "['Taivasmaisemia / Pilvimaisemia']",
+    "date": 2010,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168477&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with a door and pictures on the wall, glistening clouds in background, anaesthetic, helmond, hallway landscape, installation view, f1.8 anamorphic, high - resolution photograph, award winning scenery, instant photograph of the sky, soft colours scheme, 5 th floor, louise dalh - wolfe"
+  },
+  {
+    "object_ID": "1976-17",
+    "title": "['Pöydän ääressä', 'Vid bordet', 'At the Table']",
+    "date": 1975,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167398&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a person sitting at a table, inspired by Joan Brown, orange fur, winter 1941, soft lighting sold at an auction, according to european art, dark scenery, one holds apple in hand, morandi colour scheme, front - facing perspective, grief, 1980 photo, 1 9 2 0, by M. F. Husain"
+  },
+  {
+    "object_ID": "1994-121",
+    "title": "['Portaat']",
+    "date": 1994,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172164&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a piece of art hanging on a wall, red stripe, 1 9 7 8, featured on artsation, wooden platforms, museum archive photo, 9, aspect ratio, creative commons attribution, good vibrations, inspired by Eliot Hodgkin, contemporary painting, rust and corrosion, complementary color"
+  },
+  {
+    "object_ID": "1976-345",
+    "title": "['Kevät (Erämaan tyttö)', 'Våren (Ödemarkstyp)', 'Spring (Wilderness Girl)']",
+    "date": 1935,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176496&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman smoking a cigarette, by Margareta Alströmer, flower in her hair, unclad, inspired by Christian Rohlfs, the non-binary deity of spring, pink girl, the sky is grey 2 0 0 0, in muted colours, anorexic figure, by Jørgen Nash, danny fox and hilma af klint"
+  },
+  {
+    "object_ID": "1992-98",
+    "title": "['Rauhanpatsas', 'Fredsstatyn', 'Statue of Peace']",
+    "date": 1968,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173776&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a woman standing on a pedestal, by Margareta Alströmer, vernadskys noosphere, by Mikhail Larionov, björk, somali woman, constructivism, viewed from the harbor, world of lute, sweden, urusei yatsura, wikimedia, 2. sigara aşırmak"
+  },
+  {
+    "object_ID": "1999-146",
+    "title": "['Varjoja', 'Skuggor', 'Shadows']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175149&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a building that has a lot of snow on the ground, perforated metal, nordic landscape, by Friedel Dzubas, the great wall, full width, analog data processing plant, elrond's house, documentary photography, 2006 photograph, long flowing fins, metal plate photograph, high - resolution photograph"
+  },
+  {
+    "object_ID": "1992-83",
+    "title": "['Nuori hirvi', 'Ung älg', 'The Young Elk']",
+    "date": 1929,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179099&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue in the middle of a snow covered park, by Jesper Myrfors, website banner, academic clothing, skydsgaard, flikr, fra, archival photography, creative commons attribution, academia, 2010, fine art print, center of picture, upper torso, einar jonsson, mcgill, lorem ipsum dolor sit amet"
+  },
+  {
+    "object_ID": "1996-25-7",
+    "title": "['Accumulation Cut']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178432&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a whale is hanging on a wall, inspired by Jaakko Mattila, eiko hosoe, stood in a supermarket, salt dunes, espoo, inspired by Itō Jakuchū, in a library, distant photo, creative commons attribution, waves, white moon, cloud vortex, by Eva Švankmajerová"
+  },
+  {
+    "object_ID": "1992-232",
+    "title": "['Viva! ']",
+    "date": 1992,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176535&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a ceiling with a clock on it, trending on artforum, illuminated neon lines, artsation contest winner, indigenous art, underground metro, by Elizabeth Murray, theater access corridor, connecting lines, geometric wolf, conceptual installation, “ iron bark, winner of design award"
+  },
+  {
+    "object_ID": "1992-42",
+    "title": "['Metsäkauris (Bambi)', 'Rådjur', 'The Roe']",
+    "date": 1957,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172366&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a deer in a park, by Margareta Alströmer, in the middle of the city, strong subsurface scattering, 2014, caravagio, slender symmetrical body, round-cropped, mlp"
+  },
+  {
+    "object_ID": "02/02/1965",
+    "title": "['nimeämätön 2']",
+    "date": 1965,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169998&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a painting on a wall, yellow and charcoal leather, open books, front view 1 9 9 0, inspired by Anne Redpath, diptych, a painting of white silver, david kassan, 62 x 47 inches, 1 9 6 0 s art, silver，ivory, zinc white, aspect ratio 16:9, aerial photograph"
+  },
+  {
+    "object_ID": "1976-291",
+    "title": "['Punatukkainen tyttö', 'Rödhårig flicka', 'Red-headed Girl']",
+    "date": 1914,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170421&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman with red hair, by Béni Ferenczy, orange and teal, inspired by Marc-Aurèle de Foy Suzor-Coté, toned orange and pastel pink, auction catalogue photo, janis rozentals, peinture d'une fée sanguinaire, hairband"
+  },
+  {
+    "object_ID": "1976-173",
+    "title": "['\"Väinö\"']",
+    "date": 1970,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170686&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a boat on a beach, nick park, jacques villegle, photo courtesy museum of art, red white and black, smokestacks, jungian symbols of winter, carson ellis, aged 13, ( ( photograph ) ), brooklyn museum, inspired by Moïse Kisling, container ship, 1964, full width, popeye"
+  },
+  {
+    "object_ID": "1976-253",
+    "title": "['Henkilöharjoitelma', 'Figurstudie', 'Figure Study']",
+    "date": 1911,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167424&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman standing in a field, fauvism, rear-shot, sunbathed skin, by Jens Søndergaard, mighty plump female sorceress, in her early 3 0, inspired by Jacques Villon, hazard stripes, highlighted, dwarf, thick brush strokes, sapphire, bonnard, terracotta, in a mediterranean lanscape"
+  },
+  {
+    "object_ID": "1992-54",
+    "title": "['Leikkivät pojat III', 'Lekande pojkar III', 'Playing Boys III']",
+    "date": 1942,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178771&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of two children sitting on top of a ball, jumping towards viewer, realistic garden, centered symmetrical, 5 0 0 px, rule 34, intracate detail, dancing with each other, soft surface texture, round-cropped, dynamic comparison, sundial, brothers, identical picture"
+  },
+  {
+    "object_ID": "1976-363",
+    "title": "['Kylätie, Ranska', 'Byväg, Frankrike', 'Village Road, France']",
+    "date": 1933,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171686&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a street with buildings and trees, inspired by Ernest Procter, dramatic grey sky, in a mediterranean lanscape, traveling long dirt road, 1 6 : 9 ratio, by Raoul Ubac, listing image, behind a tiny village, dull colours, véronique meignaud, standing in road, chaotic landscape, trending on artststion"
+  },
+  {
+    "object_ID": "1976-366",
+    "title": "['Luxembourgin puistosta', 'Från Luxembourg-trädgården', 'Scene from the Jardin de Luxembourg']",
+    "date": 1890,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180874&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman sitting on a bench, frozen lake, kids playing at the beach, inspired by Jozef Israëls, railing along the canal, inspired by Jean Béraud, with his back to the viewer, playing soccer at the beach, de stijl, at a skate park, inspired by Claes Corneliszoon Moeyaert"
+  },
+  {
+    "object_ID": "1976-379",
+    "title": "['Auringonkukkia', 'Solrosor', 'Sunflowers']",
+    "date": 1952,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169031&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of sunflowers in a blue vase, inspired by Dod Procter, anthropomorphic cactus, anemones and starfish, inspired by Mabel Rollins Harris, strathmore 2 0 0, by Mario Sironi, aged 13, spotlight on the singer, google arts and cultures, pot plants, bracts, dark blue and green tones"
+  },
+  {
+    "object_ID": "1976-159",
+    "title": "['Keltainen aksentti', 'Gul accent', 'Yellow Accent']",
+    "date": 1966,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167017&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting on a blue surface with a pink sun in the background, constructivist, by Rudolf Hausner, soft blues and greens, inspired by Edward Ben Avram, dim street lights, objects, post-war, canva, round format, gray anthropomorphic, magenta"
+  },
+  {
+    "object_ID": "2000-122",
+    "title": "['Salaisuus', 'Hemlighet', 'Secret']",
+    "date": 2000,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171268&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of people sitting at a table in a library, open wall architecture, swedish urban landscape, soft frontal light, as seen from the canopy, children playground, front view 2 0 0 0, shelves filled with tomes, one contrasting small feature, pendant, rounded roof"
+  },
+  {
+    "object_ID": "1976-115",
+    "title": "['Simrishamn (Majakka)', 'Simrishamn (Fyren)', 'Simrishamn (Lighthouse)']",
+    "date": 1948,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170645&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of boats in a harbor with a lighthouse in the background, inspired by Alfons Walde, sharp and blocky shapes, photo courtesy museum of art, scandinavian design, by Mario Sironi, by Moïse Kisling, garden environment, maryport, greta thunberg, image"
+  },
+  {
+    "object_ID": "2012-49-2",
+    "title": "['Tapio Wirkkalan puiston taideteokset, Takka']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173374&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a white arch sitting in the middle of a courtyard, by Jens Jørgen Thorsen, epic 3 d oxossi, unframed, herrarthstone, in the middle of the city, rococo elements, trending on artforum, chimney, sunken square, kalevala, fireplace, photo courtesy museum of art, artforum, necropolis"
+  },
+  {
+    "object_ID": "2002-106",
+    "title": "['Kaleidoskooppi', 'Kalejdoskop', 'Kaleidoscope']",
+    "date": 2002,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170823&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a person sitting on a bench in a building, a round minimalist behind, norrlandsskog, copper elements, esa, flat shaped stone relief, realistic painting of a complex, strathmore 2 0 0, entrance, h 9 6 0, superflat art"
+  },
+  {
+    "object_ID": "2002-133-3",
+    "title": "['Puvut, Päivänkakkarapuku', 'Dräkter, Prästkragsdräkt', 'Dresses, Daisy Dress']",
+    "date": 2001,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169965&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a blue dress with daisies on it, by Joseph Cornell, triptych, inspired by Ellen Gallagher, 8 mm film still, card game illustration, photographed on ektachrome film, desiccated, variations, wearing dresses, aspect ratio 16:9, oaks, by Dora Carrington, style of peter doig, woodcut"
+  },
+  {
+    "object_ID": "1992-112",
+    "title": "['M.A. Castrén']",
+    "date": 1921,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167457&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue in front of a building with a clock tower in the background, mac, swedish writing, wearing a brown cape, style of macross, inspired by Rosa Bonheur, cementary of skulls, massys, award, author, pictured from the shoulders up, signed, frontpage, macross, features, swedish forest, moco"
+  },
+  {
+    "object_ID": "1995-137",
+    "title": "['Hellä']",
+    "date": 1995,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170063&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "three potted plants sit in front of a sign that says hello, by Cerith Wyn Evans, a person standing in front of a, creating a soft, espoo, paper art, jeff - hall, futuristic year 2 0 0 0 text, hallways, a telephone receiver in hand, metaballs, welcoming, with names, hay, trendy typography"
+  },
+  {
+    "object_ID": "2004-149",
+    "title": "['Tekstisommitelma', 'Text Composition']",
+    "date": 1966,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173659&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting with blue, white, and yellow lines, by Norman Lewis, inspired by Méret Oppenheim, newspaper clippings, anthropomorphic shark, partially covered with dust, inspired by Kay Sage, award-winning painting, blue and grey color scheme, photo courtesy museum of art, may 6 8, mahmud barzanji"
+  },
+  {
+    "object_ID": "1943-5",
+    "title": "['Kaupunkikuva', 'Stadsvy', 'Townscape']",
+    "date": 1943,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180717&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a city covered in snow, by Jørgen Nash, industrial surrounding, vibrant scattered light, taiga, terraced, 21:9, inspired by Moses Soyer, h 1088, green terrace, beksinki, detention centre, squinting at high noon, 8 l"
+  },
+  {
+    "object_ID": "1976-370",
+    "title": "['Kevättalvi, Töölö', 'Vårvinter, Tölö', 'Late Winter, Töölö, Helsinki']",
+    "date": 1928,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167713&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a town in the snow, gungnir, by Hans Falk, aspect ratio 16:9, ultramarine, sprong season, dark warm light, connectedness, red roofs, in thick layers of rhythms, northern finland, harlem, landscape photo, mather brown, 1 9 th, warehouses, march"
+  },
+  {
+    "object_ID": "2004-120",
+    "title": "['Ei vielä nimeä', 'Ingen titel ännu', 'Yet to be Titled']",
+    "date": 2004,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169671&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a phone on a wall, residential design, with flowers and plants, le corbeusier, metal key for the doors, bioluminiscent, inspired by Corneille, security camera, subtropical flowers and plants, by Karl Gerstner, marketing photo, round doors, connections"
+  },
+  {
+    "object_ID": "1992-009",
+    "title": "['Ilmatar ja sotka', ' Ilmatar och dykanden', 'Ilmatar and the Scaup']",
+    "date": "1939,  1946",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176171&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a woman sitting on top of a statue, inspired by Antonín Chittussi, tattered wings, two men hugging, in style of heikala, taken with a leica camera, closing her eyes, with large breasts, in a park and next to a lake, he holds her while she sleeps, tombstone, complex scene, inspired by Totte Mannes"
+  },
+  {
+    "object_ID": "1976-259",
+    "title": "['Porvoosta', 'Från Borgå', 'Scene from Porvoo']",
+    "date": 1912,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171307&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a town with a church in the background, inspired by Eero Järnefelt, with snow covered colourful red, soft pastel palette, by Alton Tobey, scans from museum collection, youthful colours, photo courtesy museum of art, inspired by Harold Gilman, h 1088, ca. 2001, brown palette"
+  },
+  {
+    "object_ID": "2004-148",
+    "title": "['Silta', 'Bron', 'The Bridge']",
+    "date": 1977,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177808&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of blue, brown, and white shapes, by Malvin Gray Johnson, inspired by Alexander Archipenko, sold at an auction, soaring towers and bridges, inspired by William Congdon, brandywine school, dynamic curves, blue veins, over a chalk cliff, sweeping arches, calm and contented painting"
+  },
+  {
+    "object_ID": "1992-139",
+    "title": "['C.G.E. Mannerheim']",
+    "date": 1960,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180049&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man on a horse in front of a building, inspired by Akseli Gallen-Kallela, dezeen, museum curator, orange roof, 20 century photography, standing in an arena, british pathe archive, may 1 0, hsv, google arts and cultures, giant hall, fjord, vril, hyperrealism photography"
+  },
+  {
+    "object_ID": "1976-167",
+    "title": "['Hauhon mylly', 'Kvarn, Hauho', 'Hauho Mill']",
+    "date": 1945,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170120&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a small village by a river, inspired by Zinaida Serebriakova, by Frank McKelvey, catalog exhibition, harsh shadows and reflections, industrial environment, chesley, bayou, 21:9, inspired by Fern Coppedge, zaun, township, by Mārtiņš Krūmiņš"
+  },
+  {
+    "object_ID": "2001-179",
+    "title": "['Muodonmuutos', 'Metamorfos', 'Metamorphosis']",
+    "date": 2001,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171581&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "there is a statue of a man in the middle of a building, reykjavik junior college, photo still of interior, harpy woman, large format, skylights, environmental shot, swedish design, detention centre, by Mārtiņš Krūmiņš, art »"
+  },
+  {
+    "object_ID": "1976-257",
+    "title": "['Vaimoni', 'Min hustru', 'My Wife']",
+    "date": 1930,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170373&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman in a black dress, year 1930, portrait of sanna marin, apprehensive mood, wearing jewellery, a full portrait of nordic female, dark blues, looking away from the camera, portraiit, 1932, 3 2 - year - old, looking at camera, minagho, she wears a dark green dress"
+  },
+  {
+    "object_ID": "1976-226",
+    "title": "['Kuutamo', 'Månsken', 'Moonlight']",
+    "date": 1950,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171249&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people with umbrellas, sunset on mars, by Béla Czóbel, oil on canva, sunlight reflected on the river, inspired by Zygmunt Vogel, primitivism, goldfish, 1 9 6 0, inspired by Otakar Kubín, grotto, inspired by Witold Pruszkówski, bronze age"
+  },
+  {
+    "object_ID": "1998-68",
+    "title": "['Perhe', 'Familj', 'Family']",
+    "date": 1995,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2967061&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a pair of combs sitting on top of a table, gutai group, cream colored peasant shirt, translucent material, made of bamboo, style of angela deane, official artwork, by Zou Yigui, photographed from the back, tonal topstitching, pouches, mit technology review, photo courtesy museum of art"
+  },
+  {
+    "object_ID": "2000-46",
+    "title": "['Satakuntalainen osakunta 1984']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167094&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a child's drawing of a bird and a flower, in style of juergen teller, sunbathing. illustration, limited edition print, the sea and storms behind him, immortality fountain, inspired by Raoul De Keyser, trending on artforum, painted tower of the moon"
+  },
+  {
+    "object_ID": "2004-146",
+    "title": "['Elokuu', 'Augusti', 'August']",
+    "date": 1974,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167778&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a yellow circle with squares on it, by Margareta Alströmer, inspired by Li Tang, hadron collider, brooklyn museum, the art of athas and dark sun, bubbles rising, by Ben Shahn, tiling, olbivion, henry darger, f. 1 4, yintion j - jiang geping, art »"
+  },
+  {
+    "object_ID": "1977-6",
+    "title": "['Pakoon käärmeitä', 'Ritt undan ormar', 'Fleeing the snakes']",
+    "date": 1946,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170106&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman riding a horse on fire, inspired by Alfred Kubin, #illustration, smaug, painted with pastels, iliad, coiled realistic serpents, inspired by Moses Soyer, scanned, nc wyeth painting, by Paula Rego, artsation contest winner, argos"
+  },
+  {
+    "object_ID": "2003-63",
+    "title": "['Kunnianosoitus kouluruokailulle', 'Hyllning till skolbespisningen', 'Tribute to School Meals']",
+    "date": 2003,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167260&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room that has a bunch of legos on the wall, by Fernand Verhaegen, triptych, inspired by Urakusai Nagahide, film screenshot, molecular gastronomy, by Lodewijk Bruckman, 2 0 0 2 photo, hsl, microorganisms, rivuletpaper art"
+  },
+  {
+    "object_ID": "1992-106",
+    "title": "['Julius af Lindfors']",
+    "date": 1909,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176643&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a bust of a man in front of a building, glass greenhouse, main character center focus, big mustache, puṣkaracūḍa, standing in a botanical garden, portrait of sofia vergara, full width, avoid symmetry, author, dormant in chains, vernadskys noosphere, in summer"
+  },
+  {
+    "object_ID": "1975-56",
+    "title": "['Kaupunki auringossa', 'Stad i sol', 'City in the Sun']",
+    "date": 1975,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171376&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a white wall with a map of the world on it, translucent greebles, by Frances Jetter, intricate detailed garden, interconnected human lifeforms, white gold color palette, synthetic polymer paint on linen, falling buildings, abomasnow, strathmore 2 0 0, tiling"
+  },
+  {
+    "object_ID": "1998-416-1",
+    "title": "['Viestejä tuntemattomille', 'Signaler till okända', 'Messages to the Unknown']",
+    "date": 1998,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171623&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large metal structure sitting on top of a grass covered field, inspired by Henry Heerup, rusty metal towers, emotive faces, melancholic expression, tribute to life, facing each other, helsinki, exposed inner gears, bar charts, by Robert Falk, lament configuration, asymmetrical artwork"
+  },
+  {
+    "object_ID": "1904-1",
+    "title": "['Rautatehtaassa työskenteleviä miehiä', 'Män som arbetar i järnfabriken']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175720&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of men working in a factory, inspired by Eva Gonzalès, blacksmith product design, inspired by Jaakko Mattila, science poster, inspired by John Lavery, enterprise workflow engine, f11:10, canva, museum photo, fig.1, pikes, otorhinology, metal border, impression"
+  },
+  {
+    "object_ID": "2016-14",
+    "title": "['Listener']",
+    "date": 2016,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174089&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman wearing a red hat, finnian in grungerock alien sky, joan cornella, ginger hair, simplified forms, inspired by Gustave Van de Woestijne, round gentle face, 2 0 0 7, soft blue light, drawing for children, trending on artforum, peter henket"
+  },
+  {
+    "object_ID": "1976-450",
+    "title": "['Pakenevia bakkanteja', 'Flyende bacchanter', 'Bacchantes Fleeing']",
+    "date": 1916,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170961&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a broochle of a palm tree, cameo, three people running a marathon, auction catalogue photo, abomasnow, of romanticism a center image, ( ( ( art deco ) ) ), google arts and cultures, wolves and their treasures, creative commons attribution, people dancing, images on the sales website, white frame, black jewellery"
+  },
+  {
+    "object_ID": "2000-61",
+    "title": "['Oranssi eläin']",
+    "date": "1999-2000",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172992&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a bull with a red background, by Per Kirkeby, inspired by Eduardo Kingman, taurus zodiac sign symbol, crimson and white color scheme, dynamic comparison, high - resolution scan, panoramic anamorphic, reconstruction, chauvet, listing image, fig.1, 2 0 0 0, crypto, red river"
+  },
+  {
+    "object_ID": "1976-284",
+    "title": "['Jyllantilainen eukko', 'Gumma från Jylland', 'Old Woman of Jutland']",
+    "date": 1912,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170204&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a painting of a woman, by Oskar Kokoschka, granny weatherwax, by Luc Tuymans, three - quarter view, brooklyn museum, healthcare worker, height 1 7 8, inspired by Mikhail Nesterov, self - satisfied smirk, funeral veil, 1983, painted in high resolution, scheme"
+  },
+  {
+    "object_ID": "1976-54",
+    "title": "['Tanssi II', 'Dansen II', 'Dance II']",
+    "date": 1920,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172079&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people dancing, inspired by Ernest Procter, dark shadowy surroundings, inside the train, inspired by Johan Edvard Mandelberg, in thick layers of rhythms, tones of black in background, nightmare in the park, overcrowded, by Władysław Ślewiński, sitting in ten forward"
+  },
+  {
+    "object_ID": "1976-163",
+    "title": "['Häät', 'Bröllop', 'Wedding']",
+    "date": 1969,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171640&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of people shopping in a store, inspired by Mati Klarwein, defocused bars in the foreground, the 'american gothic' painting, vast library, by Edward Okuń, workers revolution, neo - fauvism, monks, weaving, oil pastel, repetition"
+  },
+  {
+    "object_ID": "1976-129",
+    "title": "['Kaivopuistosta', 'Från Brunnsparken', 'Scene from Kaivopuisto park']",
+    "date": 1906,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179948&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of boats in a body of water, by Louis Valtat, by Arthur Merric Boyd, on a canva, harbour in background, inspired by Maximilien Luce, torn sails, bill lowe gallery, by Marc-Aurèle de Foy Suzor-Coté, f11:10, published art, allan lee, liege"
+  },
+  {
+    "object_ID": "1992-145",
+    "title": "['Elias Lönnrot']",
+    "date": 1902,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177411&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue in front of a large building, finnish naturalism, the three moiras, pocahontas, hdt, swedish writing, 5 0 0 px, artforum, charles baudelaire, stockholm, indigenous, local heroes, iso 1250, medieval peasants, medallions, panoramic, explorers, velasquez"
+  },
+  {
+    "object_ID": "2000-236",
+    "title": "['Suomenlinnan lautan pukukoppi, Kauppatori, 1968', 'Sveaborgsfärjans skjul, Salutorget, 1968', 'Changing Rooms by the Suomenlinna Ferry, Helsinki Market Square, 1968']",
+    "date": 1968,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173561&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a man and a woman standing next to each other, seventies, jugendstill, by Lars Jonson Haukaness, male teenager, wearing a white folkdrakt dress, large format photograph, motif, portrait of 1 5 - year - old boy, modelsociety, summer of love, artforum, high resolution print, casual clothing style"
+  },
+  {
+    "object_ID": "2019-13",
+    "title": "['Kokotteja', 'Kokotter']",
+    "date": 1909,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178876&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of three women with umbrellas, by Armin Hansen, inspired by Edgar Degas, bangles, medium detail, on a yellow paper, scans from museum collection, standing together, by Moïse Kisling, detail shot, looking straight ahead, 1904, worshipers, side - view, trending on artforum, malaysian"
+  },
+  {
+    "object_ID": "1977-15",
+    "title": "['Kuokkimassa', 'Med hackor', 'Hoeing']",
+    "date": 1945,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170326&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of men playing baseball, pulling weeds out frantically, still frame from a movie, color drawing, herman nitsch and herman nitsch, loosely cropped, unfinished roots of white sand, wielding scythe, worksafe. illustration, human prisoners, workers, website banner, fork"
+  },
+  {
+    "object_ID": "1976-329",
+    "title": "['Katukuva Helsingistä', 'Gatubild från Helsingfors', 'Street Scene from Helsinki']",
+    "date": 1934,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170592&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a view of a city from the top of a building, by Margareta Alströmer, ravenholm, charles sheeler, greta thunberg, ( ( photograph ) ), cranes, retracing, by Albin Egger-Lienz, city morning, midsommar - t, architecture digest, alleys, -h 960"
+  },
+  {
+    "object_ID": "1976-8",
+    "title": "['Sinisiä heijastuksia', 'Blå reflexer', 'Blue Reflections']",
+    "date": 1967,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169799&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of boats in a body of water, inspired by Norman Lewis, blue flames surrounding, 1961, astral dress, seaweed and bubles, feminine shapes, complementary color, hanging scroll, oil on canva, 1948, descend into the deep, disconnected shapes, male jester, inspired by James Brooks"
+  },
+  {
+    "object_ID": "1976-240",
+    "title": "['Hatjalahden miehiä', 'Männen från Hatjalahti', 'Men of Hatjalahti']",
+    "date": 1943,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170206&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people in the snow, camouflage uniform, vesa-matti loiri, research outpost, photo courtesy museum of art, inspired by Laura Knight, military weaponry, artsation contest winner, website banner, pine forests, rukis, summer camp, more details, by Alexander Deyneka"
+  },
+  {
+    "object_ID": "1998-413",
+    "title": "['Lähellä vettä', 'Nära vattnet', 'Near the Water']",
+    "date": 1998,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170314&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a computer screen with a question mark on it, avatar for website, by John Clayton, clipboard, [ forgetful ], ios icon, manuscript, and the uncertainty\\', logopond, question marks, editorial awarded, ultra detailed content : face, author, dentils, no text, emoji, shoulder - length, q, text"
+  },
+  {
+    "object_ID": "1998-411-1",
+    "title": "['Penanno']",
+    "date": 1998,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168825&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a white wall with a circle made out of seashells, by Edward Dugmore, anamorphic 5 0 mm lens, shards of mercury, wood sculpture, archive photograph, steel archways, whole-length, thin spikes, (waterfall), focal length: 35mm, photo blurring, smooth concrete, art : : professional photograph, harp"
+  },
+  {
+    "object_ID": "1976-111",
+    "title": "['Kirkko, St. Thore', 'Kyrkan i St. Thoré', 'Church, St. Thoré']",
+    "date": 1920,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171783&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a street with a church in the background, by Moïse Kisling, featured on artsation, inspired by Émile Bernard, in nazi occupied france, unknown location, in the countryside, dark neighborhood, reconstruction, normandy, google arts and cultures, with his back to the viewer"
+  },
+  {
+    "object_ID": "1976-166",
+    "title": "['Mäntyjä kalliolla', 'Tallar på berget', 'Pines on a Rocky Hill']",
+    "date": 1941,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167273&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of some rocks and trees on a hill, by Alfred Jensen, inspired by Neil Welliver, aspect ratio 16:9, granite, ben aronson 1950, harsh overhead sunlight, james webb, pine, high detail photo, by Grethe Jürgens, minarets, jinyoung shin, silver，ivory, h 1 0 2 4"
+  },
+  {
+    "object_ID": "1976-371",
+    "title": "['Asetelma', 'Nature morte', 'Still Life']",
+    "date": 1914,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2166954&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of flowers and oranges on a table, inspired by Francis Cadell, by Hilde Goldschmidt, inspired by Johan Edvard Mandelberg, holding a tangerine, award - winning epic painting, blue and yellow color scheme, carrots, displayed in the exhibition hall, inspired by Elizabeth MacNicol"
+  },
+  {
+    "object_ID": "2003-66-2",
+    "title": "['Kaukokaipuu']",
+    "date": 2003,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169260&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a living room filled with furniture and a flat screen tv, by Howardena Pindell, helmond, macrame, large chain, centred in image, location in a apartment, curved body, navy-blue, in a japanese apartment, corridor, museum archive, bjørn skalldrasson, felting, round-cropped, sitting in a lounge"
+  },
+  {
+    "object_ID": "1976-219",
+    "title": "['Äiti katsoo ikkunasta', 'Mor ser ut genom fönstret', 'Mother Looking out of the Window']",
+    "date": 1917,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170894&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman sitting in front of a window, geometric light rays, inspired by Nikolai Astrup, empty room, captures emotion and movement, midday photograph, exhibited at the british museum, neighborhood outside window, of letting go, dutch tilt, f. 1 4, google arts and cultures"
+  },
+  {
+    "object_ID": "1976-44",
+    "title": "['Joulukuun aamu Pariisissa', 'Decembermorgon i Paris', 'December Morning in Paris']",
+    "date": 1971,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177451&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of buildings on a cloudy day, by Louise Abbéma, inspired by Euan Uglow, sunlight and whimsical houses, inspired by John Thomson of Duddingston, 21:9, in volumetric soft glowing mist, by Anne Redpath, official artwork, edinburgh, made in tones of white and grey, 8 h"
+  },
+  {
+    "object_ID": "1977-51",
+    "title": "['Veljesten yhteinen ateria', 'Brödernas gemensamma måltid', 'The brothers sharing a meal']",
+    "date": 1947,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168554&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people with hats on, steaming food on the stove, auschwitz camp, charcoal sketch, kenneth blom, inspired by Dod Procter, google arts and cultures, white paint, beaks, artforum, hand - tinted, hair coloring, coughing, chefs table, wpa"
+  },
+  {
+    "object_ID": "2003-139-8",
+    "title": "['Stabat mater']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170087&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white painting of a man's face, installation view, hyphae, front view 1 9 9 0, five star oil on canvas, riot shields, torches and fireflies, 1 9 6 2, inspired by Lucy Angeline Bacon, metropolitan museum collection, as a tarot card, scp foundation, inky blackness, 5 7 9, ladder"
+  },
+  {
+    "object_ID": "1998-421",
+    "title": "['Kirjoittajan talo II', 'Skribentens hus II', \"The Writer's House II\"]",
+    "date": 1998,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168928&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a house with writing on it, samson pollen, inspired by Joseph Cornell, by Jacques Daret, pencil and paper, on the vast wheat fields, concrete building, light house, bible illustration, pictured from the shoulders up, award - winning painting"
+  },
+  {
+    "object_ID": "1972-17",
+    "title": "['Runonlausuja', 'The Poetry Reciter']",
+    "date": 1935,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167662&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman reading a book, inspired by Dod Procter, wearing a pink dress, surprised expression on her face, inspired by Esther Blaikie MacKinnon, young southern woman, editorial model, palladium, charli bowater, google arts and cultures, oland"
+  },
+  {
+    "object_ID": "1976-443",
+    "title": "['Puu', 'Träd', 'Tree']",
+    "date": 1956,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168671&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a plate on a table, translucent stone white skin, in the shape of a ent, presenting magic gem, museum catalog photograph, still from game of thrones, creative commons attribution, pride and prejudice, soap carving, full subject shown in photo, sconces, cel illustration, court archive images, insignia"
+  },
+  {
+    "object_ID": "2000-224",
+    "title": "['Perunatori, 1968', 'Potatistorget, 1968', 'Potato Market, 1968']",
+    "date": 1968,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172361&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of a woman leaning against a wall, trending on artforum, crochet, william eggleston, helsinki, 'untitled 9 ', holding an epée, 2 0 1 4. modern attire, lossless, melbourne, inspired by Richard Hamilton, teenage girl, scan"
+  },
+  {
+    "object_ID": "2001-109",
+    "title": "['Kaunein', 'Kaunein', 'Kaunein']",
+    "date": 2001,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171579&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of people sitting at a table in a library, coper cladding, clear type, ornamental halo, stands at the top, awardwinning, inspired by Lodewijk Bruckman, hawkins, sennheiser, arthur haas, by Taravat Jalali Farahani, hasselblad, kawasaki, in 1 9 9 5, hardmesh"
+  },
+  {
+    "object_ID": "1977-27",
+    "title": "['Simeonin matka kuuhun pirun selässä II', 'Simeonis månresa på fans rygg II', \"Simeoni journeying to the moon on the Devil's back II\"]",
+    "date": 1945,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170919&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a winged creature in the sky, colorkey scene, inspired by Everett Shinn, gargoyle, father holds child in the hand, tony diterlizzi and brian froud, night fury, by Frances C. Fairman, hiroyuki imaishi, dark horse comics, mark simonetti, from 2001, crayons and watercolor sketch"
+  },
+  {
+    "object_ID": "2000-47",
+    "title": "['Tulipalo Onnelantiellä, Lahti 1986']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169090&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a child's drawing of a horse and rider, trending on artforum, merging with tree in a forest, james baxter and mark henn, dragon snake with wings, syndicate(2012), cerberus, colour photograph, young child, as well as scratches, multiple limbs, connectedness, mateo dineen, wind blown trees, 2 0 2 1 award winning painting"
+  },
+  {
+    "object_ID": "1976-155",
+    "title": "['Espanjalainen morsiusvihko', 'Spansk brudbukett', 'Spanish Bridal Bouquet']",
+    "date": 1927,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171725&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of flowers in a vase on a table, an example of saul leiter's work, amano yoshitaka, white gold color palette, portrait of benjamin netanyahu, milkman, beautifully bright white, inspired by Fern Coppedge, pale greens and whites, selfie of a young woman"
+  },
+  {
+    "object_ID": "1995-130",
+    "title": "['Matkustaja', 'Resenären', 'Passenger']",
+    "date": 1995,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168743&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a table and chairs in a room with a mural on the wall, eyeball growing form tree branch, swedish urban landscape, ca. 2001, inside elementary school, by Christen Købke, office ceiling panels, twisting organic tendrils, 90 60 90, side - view, h 9 6 0, by karolis strautniekas"
+  },
+  {
+    "object_ID": "1976-278",
+    "title": "['Seuloja', 'Sikterska', 'Sievess']",
+    "date": 1907,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169832&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a woman sitting on a stool, carrying a tray, inspired by Dod Procter, spinning, using a spade, taupe, the ecolab industrial dishwasher, louise dalh - wolfe, aged 4 0, work-wheels, singer, wooden bowl, bella ragazza, nouveau"
+  },
+  {
+    "object_ID": "1976-265",
+    "title": "['Sammon taonta', 'Sampo smides', 'Forging the Sampo']",
+    "date": 1949,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169887&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people playing instruments, inspired by Arthur Garfield Dove, rock climbers climbing a rock, geodesic dome, portrait of kanye west, contrasted light, workers, photo courtesy museum of art, in a forest, close-up fight, faceted, without text, by Alexander Archipenko, art », fine art print, waterwheels"
+  },
+  {
+    "object_ID": "1976-76",
+    "title": "['Mustalaisnainen', 'Zigenerska', 'Gypsy Woman']",
+    "date": 1947,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167426&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman walking in the snow, by Ambrose McCarthy Patterson, red white and black color scheme, taiga, 19-year-old girl, the caretaker, inspired by Saul Tepper, wearing a white folkdrakt dress, photo courtesy museum of art, painted with pastels, inspired by Isaac Levitan, desna"
+  },
+  {
+    "object_ID": "1992-029",
+    "title": "['Äidinrakkaus', 'Moderskärlek', 'Maternal love']",
+    "date": 1928,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172755&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a horse in front of a building, by Eero Järnefelt, green square, f4.0 120mm, ground level view, caravagio, right align, victor antonov, parks and gardens, guardian project, august, 5 d, argos"
+  },
+  {
+    "object_ID": "1976-197",
+    "title": "['Limingan joki', 'Limingo å', 'The Liminganjoki River']",
+    "date": "todennäköisesti 1934",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173976&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a river in a snowy landscape, swedish urban landscape, klimt and nixeu, by Eero Järnefelt, the dark sun, particles disintegration, inspired by Hovsep Pushman, some houses in the background, stylised painting, canals, visible stitching, inspired by Nikolai Alekseyevich Kasatkin, bare trees, by Georges Lemmen"
+  },
+  {
+    "object_ID": "2004-124",
+    "title": "['Kavereiden uudet hommat', 'Kompisarnas nya grej', 'New Adventures for These Guys']",
+    "date": 2004,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171482&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large glass vase sitting on top of a metal stand, martha rosler, covered in oil, crystallized human silhouette, inspired by Nikolaj Abraham Abildgaard, by Karel Havlíček, hi-fructose, magazine photo from 2007, the sacred cup of understading, espoo, 1988, amber"
+  },
+  {
+    "object_ID": "2000-140",
+    "title": "['Mäkiautokisa, Eläintarha, 1958', 'Lådbilsrally, Djurgården, 1958', 'Hillside gravity racing at Eläintarha Park, 1958']",
+    "date": 1958,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168763&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a group of people riding on top of a wooden ramp, inspired by Eero Snellman, racecar, polariod, start of the match, ffffound, roth's drag nut fuel, awarded winning photo, swedish, kids playing, chequered cape, photographic still, shuttershock"
+  },
+  {
+    "object_ID": "1976-209",
+    "title": "['Sommitelma', 'Komposition', 'Composition']",
+    "date": "1960-1965",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168415&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a painting on a wall, by Helene Schjerfbeck, abstract facades of buildings, oil on canva, silver and muted colors, by Mario Sironi, totem 2, rough paper, crystal encrustations, beige color scheme, expansive detailed layered city, interconnections, trending on artforum, jinyoung shin"
+  },
+  {
+    "object_ID": "1977-2",
+    "title": "['A, B, C,... (Aapisen luku)', 'A, B, C,...', 'A, B, C,... (chanting the alphabet)']",
+    "date": 1946,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168519&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man sitting at a table, rough color pencil illustration, agony and suffering, inspired by Norman Hepple, card game illustration, app icon, poverty, 1 9 6 2, exploitable image, yee chong silverfox, losing feathers, inspired by Dorothea Lange, sandwich, hanafuda"
+  },
+  {
+    "object_ID": "1976-145",
+    "title": "['Piha, Pariisi', 'Gård, Paris', 'Courtyard, Paris']",
+    "date": 1975,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168908&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a city with lots of buildings, by Louise Abbéma, inspired by Duncan Grant, inhabited on many levels, soft blue and pink tints, by Armin Hansen, still from l'estate, by Anne Redpath, official artwork, narrow streets, auction catalogue photo, liege, inspired by Bernard Meninsky, jerusalem, taupe"
+  },
+  {
+    "object_ID": "1992-154",
+    "title": "['Sairaanhoito-oppilaitoksen reliefi']",
+    "date": 1939,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176575&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man and a woman sitting on a bench, medical research facility, dissection relief, by Sydney Prior Hall, inspired by Ernest Procter, city of industry, by Tadashi Nakayama, image apothecary, worshipers, iso 125, 2 0 1 0, panel, aquarius, workers, adjacent hallways, 16:9"
+  },
+  {
+    "object_ID": "1976-261",
+    "title": "['Pojan pää', 'Gosshuvud', 'Head of a boy']",
+    "date": 1915,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167053&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man with a hat on, 1 7 - year - old boy thin face, inspired by Oskar Kokoschka, torn paper, toddler, colour photograph, frederick bacon, mid - 3 0 s aged, ( boris johnson ), aged 13, cover, bronze face, up face with 1 9 2 0 s hairstyle, 1966, elon musk portrait"
+  },
+  {
+    "object_ID": "1992-47",
+    "title": "['Adolf Erik Nordenskiöld']",
+    "date": 1985,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180630&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture of a bust of a man in a park, inspired by Eero Järnefelt, kremlin towers are destroyed, alvaro siza, inspired by Lars Jonson Haukaness, [sculpture] and [hyperrealism], granite, smashed wall, taras shevchenko style, denmark, communism, 16:9, midsommar, by Vladimir Baranov-Rossine"
+  },
+  {
+    "object_ID": "1976-311",
+    "title": "['Perunakellari', 'Potatiskällaren', 'Potato Cellar']",
+    "date": 1936,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2166985&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a farm with a barn in the background, by Elsie Dalton Hewland, inspired by Hallsteinn Sigurðsson, manuka, mission arts environment, auction, rubble, by László Beszédes, 8 h, published art, street corner, ycbcr, forestry, subdivision, campsites"
+  },
+  {
+    "object_ID": "1998-407",
+    "title": "['Voikukan siemenet', 'Maskrosfrön', 'Dandelion Seeds']",
+    "date": 1998,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169284&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of an angel sitting on top of a plant, transmetal ii, silver jewellery, inspired by Thomas de Keyser, installation view, medium detail, putti, bird, in 1 9 8 5, mutated flowers, 3d printed, magnesium, flaming leaves, silver color, zinc white"
+  },
+  {
+    "object_ID": "1976-98",
+    "title": "['Elsa']",
+    "date": 1947,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177828&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman sitting in a chair, inspired by Max Pechstein, head in focus, exhibited at the british museum, slicked-back hair, artforum, topknot, by Gabriele Münter, head and shoulder shot, androgynous face, angela merkel, split - complementary - colors"
+  },
+  {
+    "object_ID": "1976-83",
+    "title": "['Taidemuseossa', 'I konstmuseet', 'In an Art Museum']",
+    "date": 1965,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167730&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of two women sitting on a couch, nun outfit, inspired by Arthur Merric Boyd, with people watching in wonder, un meeting at the hague, doing a prayer, by Louise Abbéma, hospital interior, inspired by Silvestro Lega, two hovering twin nuns, scp-049, inspired by Claes Corneliszoon Moeyaert"
+  },
+  {
+    "object_ID": "1976-275",
+    "title": "['Häiritty hyväily', 'Störd smekstund', 'Disturbed Caress']",
+    "date": 1913,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169149&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a person holding an umbrella, inspired by Giovanni Giacometti, running sequence, sparring, on a road, exhibited at the british museum, niels otto møller, saint man, woven with electricity, f11:10, lacrosse player, saxophone, colour, 1 0, ultramarine, workers, retro 1 9 0 0"
+  },
+  {
+    "object_ID": "1976-58",
+    "title": "['Katu', 'Gata', 'Street']",
+    "date": "1923-1924",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167514&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people walking down a street, by Hans Falk, healthcare worker, standing in a dimly lit room, harsh light and shadow, economic boom, boulevard of broken dreams, dark muted colors, with two characters, in the middle of the day, markus vogt, low - lighting, hunger, 3 0 s, group of people in an elevator"
+  },
+  {
+    "object_ID": "2018-474",
+    "title": "['Poika Hattulasta', 'Torpgosse, Hattula', 'Boy from Hattula']",
+    "date": 1921,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179704&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a boy sitting in a chair, smoky chimney, by Grethe Jürgens, greenish lighting, strong sunlight, inspired by Paula Modersohn-Becker, standing in a dark, focus on fearful model, chimney, midday photograph, tibor nagy, 8l, sitting in ten forward"
+  },
+  {
+    "object_ID": "1976-81",
+    "title": "['Reessä (Leonard Bäcksbacka kotimatkalla)', 'I släden (Leonard Bäcksbacka på hemväg)', 'In the Sledge (Leonard Bäcksbacka on his Way Home)']",
+    "date": 1956,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169049&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of two people and a horse in the snow, by John French Sloan, dog watching the car, by Beauford Delaney, brooklyn museum, black armchair, public bus, fur hood, ( ( photograph ) ), great migration, jerome powell, canopee, tarot card the chariot, passengers, 'wherever you go, w 7 6 8"
+  },
+  {
+    "object_ID": "1996-25-6",
+    "title": "['Accumulation Cut']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180564&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture hanging on a wall in a building, surreal frozen landscape, espoo, flooded station, photo of džesika devic, iso 1600, half - length photo, windstorm, inspired by Vytautas Kasiulis, anamorphic illustration, by Tadashi Nakayama, snowy apennines, 1990 photograph"
+  },
+  {
+    "object_ID": "1992-024",
+    "title": "['Rumba', 'Rumba', 'Rumba']",
+    "date": 1992,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167242&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture of a man riding a horse in front of a building, huge gargantuan black sun, by Elizabeth Murray, the tree of life, artforum, multiple arms, by Keith Haring, charred"
+  },
+  {
+    "object_ID": "2000-121",
+    "title": "['Aika ja evoluutio', 'Tiden och evolutionen', 'Time and Evolution']",
+    "date": 2000,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169238&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room filled with lots of tables and chairs, translucent pastel panels, by Niels Lergaard, giant flower head, mustard, large-format photography, anfree wallin, 6 0 0 mm, 2 0 0 4 photograph, schools, by Karl Gerstner, superbia, large clouds, in this painting, high - resolution photograph, classroom, by Jørgen Nash"
+  },
+  {
+    "object_ID": "1992-79",
+    "title": "['Toivo Kuula']",
+    "date": 1988,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173620&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of an angel holding a sword in a park, pekka halonen, inspired by Susan Weil, dracula, remembering his life, high-resolution photograph, left align, shattered, h 1088, elvis presley, symbolization, body breaking apart, july 2 0 1 1, irradiated humans"
+  },
+  {
+    "object_ID": "1977-12",
+    "title": "['Seitsemän veljestä', 'Sju bröder', 'The seven brothers']",
+    "date": 1946,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168037&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a group of people sitting on a bench, hashima island, a silver haired mad, detention centre, nicovideo, grieving, by Marilyn Bendell, military art, inspired by Itō Seiu, pastel artwork, the children of the night, in a row, campfire"
+  },
+  {
+    "object_ID": "1976-21",
+    "title": "['Valkoisia syreenejä', 'Vita syrener', 'White Lilacs']",
+    "date": 1969,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167908&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of flowers in a vase on a table, by Patrick Heron, muted multi-color lapis, entangled foliage, sylveon, inspired by Ambrose McCarthy Patterson, listing image, white gallery, more and more flowers, fragments, reefs, in a white room, post-war"
+  },
+  {
+    "object_ID": "1976-59",
+    "title": "['Hautajaiset saaristossa', 'Begravning i skärgården', 'Funeral in the Archipelago']",
+    "date": 1924,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169854&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of two people in a boat, by Marius Borgeaud, alaska, tempest, by George Ault, refugees, wind, pointed hoods, in the design of eliot kohek, cal-arts, google arts and cultures, zora, calarts, moviestill, gonzalez, jerome powell, fearful, 1 9 th, racers, connectedness"
+  },
+  {
+    "object_ID": "1992-023",
+    "title": "['P.E. Svinhufvud']",
+    "date": 1961,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167841&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man holding a suitcase, by Max Walter Svanberg, long twirling moustache, official government photo, eyvind, picture taken from the ground, windings, ivan shiskin, verdigris, parks and public space, by Johan Edvard Mandelberg, standing tall, 2 0 th century, digital displays"
+  },
+  {
+    "object_ID": "1992-52",
+    "title": "['Taistelija', 'Kämpe', 'The Fighter']",
+    "date": 1913,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172902&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man standing in front of a building, tom finland, loki's pet project, kalevala, iso 1250, sari, academia, lobo, blog-photo, discovered in a secret garden, bare torso, artforum, pekka halonen, google arts and cultures, baki the grappler, uncropped"
+  },
+  {
+    "object_ID": "1976-49",
+    "title": "['Kökarin kirkko (Rippilapset)', 'Kökar kyrka (konfirmander)', 'Kökar Church (Confirmation)']",
+    "date": 1914,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170730&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people standing in front of a church, inspired by Einar Hakonarson, by Moïse Kisling, rainbows, high contrast of light and dark, in the hillside, funeral, photo courtesy museum of art, people flee, lapland, reconstruction, diptych, brethtaking lighting, 1 0 0 m"
+  },
+  {
+    "object_ID": "1997-224",
+    "title": "['Lyhyt saari', 'Kort ö', 'Short Island']",
+    "date": 1997,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176202&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a boat floating on top of a lake next to tall grass, swedish urban landscape, f1.8 anamorphic, river delta, rutkowskyi, fins, viewed from the harbor, image from afar, lab in the background, inspired by Willem Maris, canva, soft-sanded coastlines, new jersey, full width, polarizing filter"
+  },
+  {
+    "object_ID": "1992-55",
+    "title": "['Merenkulun muistomerkki', 'Sjöfartens minnesmärke', 'Memorial for Seafarers']",
+    "date": 1968,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176677&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a group of people sitting on top of a lush green field, brutalist buildings tower over, sundial, midsommar - t, mcu photograph, view from the lake, honeysuckle, praise the sun, john eaves, borealis, holy cross, thunderbirds, monumental, split in half, trident, clocktower, cedar"
+  },
+  {
+    "object_ID": "2001-107",
+    "title": "['Purukumin kolme hetkeä', 'Ett tuggummis tre ögonblick', 'Three Moments in the life of Chewing Gum']",
+    "date": 2001,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174684&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large rock sitting in front of a building, eero aarnio, copper elements, school classroom, exterior photo, arhitectural shot, wooden furtniture, the borg, flat metal hinges, ernst haekel, tvp, full width, winning award image, frontview, by Carl Eugen Keel, streetview, brown color"
+  },
+  {
+    "object_ID": "1999-149",
+    "title": "['Ensyklopedia', 'Encyklopedi', 'Encyclopedia']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171373&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large room filled with lots of books, glass and metal : : peugot onyx, velvia, displayed on the walls, walkway, 2 0 0 2, 24mm film, racks, cubicles, panoramic, by Sōami, packaging award, research center, blue image, cds"
+  },
+  {
+    "object_ID": "2004-110",
+    "title": "['Valkoinen alue', 'White Zone']",
+    "date": 2003,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167541&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people walking through a forest, glowing white owl, by Sigrid Hjertén, still from animated horror movie, inspired by Marianne von Werefkin, lamps on ground, matte art, dan witz, by Róbert Berény, by Robert Bevan, syndicate(2012), anthropomorphic penguin, warmly lit"
+  },
+  {
+    "object_ID": "1976-268",
+    "title": "['Koskiharjoitelma', 'Forsstudie', 'Study for a Rapids Scene']",
+    "date": 1956,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2166950&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a person on a surfboard in a body of water, inspired by Alexander Archipenko, waterfall in the background, volumetric light and shadow, water wheel, inspired by Giacomo Balla, subject in the centre, babbling brook, triangles in background, swans"
+  },
+  {
+    "object_ID": "1997-227",
+    "title": "['Putkisto 2']",
+    "date": 1997,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175143&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large rock sitting in the middle of a park, pekka halonen, leica m 9, trending on artforum, inspired by Gao Xiang, two dogs, anamorphic widescreen, springtime, giacometti, product image, symbolic art, inspired by Wilhelm Marstrand, untethered stelae, man walking, 2009, pond"
+  },
+  {
+    "object_ID": "2019-14",
+    "title": "['Kolme alastonta lasta metsän laidassa', 'Tre nakna barn vid skogstranden', 'Three Young Nudes at the Forest Edge']",
+    "date": 1911,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180867&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of two children standing next to each other, by Oskar Kokoschka, judy chicago, on yellow paper, walking through the trees, archival photography, halos, three dwarf brothers, triad of muses, etching, illustration of to pout, entities, in the park, wanderers traveling from afar"
+  },
+  {
+    "object_ID": "1992-161",
+    "title": "['Karuselli', 'Karusell', 'Carousel']",
+    "date": 1975,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175496&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of stone sculptures sitting on top of a sidewalk, antennae on a hestiasula head, with pipes attached to it, cerberus, early middle ages, ( ( bauhaus ) ), listing image, by Rolf Iseli, horses, iso 1250, ravenholm, rooted lineage, h 1 0 2 4, seraphim"
+  },
+  {
+    "object_ID": "1976-87",
+    "title": "['Katukuva', 'Gatubild', 'Street Scene']",
+    "date": 1964,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170560&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people with umbrellas, by Basil Blackshaw, on a bridge, dust and sand in the air, detail shot, inspired by Blanche Hoschedé Monet, shades of pink, exhibition catalog, ( ( railings ) ), trending on artforum, the sea seen behind the city, by Glenys Cour, post-war, grief and despair"
+  },
+  {
+    "object_ID": "2007-69",
+    "title": "['Mustaa ja keltaista', 'Svart och gult', 'Black and Yellow']",
+    "date": 1971,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169717&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a polar bear on a piece of paper, by Mordecai Ardon, inspired by Yves Tanguy, diaphanous translucent cloth, trending on artforum, painting of a sand landscape, by Gertrude Abercrombie, artforum, neuron, concrete poetry, light-blue, woman is sitting, partially covered with dust, dye-transfer"
+  },
+  {
+    "object_ID": "1993-60",
+    "title": "['Maalaus', 'Målning', 'Painting']",
+    "date": 1993,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178523&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a yellow sun over a body of water, by Armin Hansen, inspired by Gao Xiang, uluru, lemon slices float on the water, flying saucer in the sky, post-nuclear, aspect ratio 16:9, highlighted, radiant halo, round-cropped, flares, oil glaze, jon lothian, ascending form the sky"
+  },
+  {
+    "object_ID": "1996-25-5",
+    "title": "['Accumulation Cut']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177664&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a fire hydrant in the snow, biodiversity heritage library, by Bruce McLean, frame around picture, landslides, time to climb the mountain path, government archive photograph, anamorphic, - w 7 6 8, long winding stairs going down, by Ruth Abrahams"
+  },
+  {
+    "object_ID": "1992-45",
+    "title": "['Yhteistyömonumentti', 'Samarbetetsmonumentet', 'The Cooperation Monument']",
+    "date": 1967,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175715&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a bicycle parked in front of a tall tower, alvar aalto, adorned pillars, 3d printed building, midsommar, marketsquare, published art, by Bjørn Wiinblad, worked stone, iso 1250, fractured, panoramic, larynx"
+  },
+  {
+    "object_ID": "1967-22",
+    "title": "['Applikaatiot, Roihuvuoren koulun ruokasalin teos']",
+    "date": 1967,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179746&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large painting on the wall of a building, made of felt and cloth and beads, inspired by Robert Colquhoun, containing tables and walls, mediterranean features, moodboard, asarotos oiko, torn fabric, japanese influences, stathmore 2 0 0, panorama"
+  },
+  {
+    "object_ID": "1976-355",
+    "title": "['Peili', 'Spegel', 'Mirror']",
+    "date": 1968,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167233&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "an abstract painting of squares and rectangles, dark green cloak, trending on artforum, afshar, ( alexander archipenko ), oil canvas, looking in a mirror, chess piece, renderer, green and blue, connectedness, cgsociety - w 1 0 2 4 - n 8 - i, art »"
+  },
+  {
+    "object_ID": "1976-176",
+    "title": "['Maisema, Vääksy (Anianpelto)', 'Landskap, Vääksy (Anianpelto)', 'Landscape, Vääksy (Anianpelto)']",
+    "date": "1920-luku",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168472&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a farm yard with a fence, vesa-matti loiri, by David Bomberg, rocky lake shore, demolition, angular and altermodern, trading depots, year 1 9 4 4, striking artstyle, thomas kinkad, island, storm drain, baris yesilbas, anthony macbain, photo”, h 1088"
+  },
+  {
+    "object_ID": "1976-114",
+    "title": "['Tallinnan satama', 'Från Revals hamn', 'The Port of Tallinn']",
+    "date": 1938,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169898&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a harbor with boats in the water, by Charles Demuth, capital of estonia, by Anna Boch, inspired by Giorgio Morandi, cinemascope panorama, tall factory, inspired by Alice Bailly, inspired by Veikko Törmänen, a portrait of richard wikström, smog"
+  },
+  {
+    "object_ID": "2013-61",
+    "title": "['Kapteeninmuistikko']",
+    "date": 2012,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173729&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man and a dog in the snow, inspired by Gustaf Tenggren, sewer pipe entrance, children playing with pogs, wearing a luxury fur coat, by Anton Möller, inspired by Tove Jansson, wearing a bowler hat, dancing with each other, man is with black skin, mandkaws"
+  },
+  {
+    "object_ID": "1976-256",
+    "title": "['Tie', 'Väg', 'Road']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167623&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a person walking down a road, sunlight and whimsical houses, by Moïse Kisling, auction catalogue photo, georgia o'keefe, carcassonne, silo, vladimir volegov, lucien lévy-dhurmer, deep shadows and colors, iowa, inspired by Wladyslaw Strzeminski, overlooking a dark street"
+  },
+  {
+    "object_ID": "1976-297",
+    "title": "['Junaravintola', 'Tågrestaurant', 'Restaurant Carriage on a Train']",
+    "date": 1942,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171610&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman sitting at a table, glam rockers drinking wine, inspired by Kurt Seligmann, in foreground boy with shotgun, made in 1 9 9 0, expressive impressionist style, bjørn skalldrasson, h 9 6 0, song nan li, bob dylan, 1 9 2 2, midday"
+  },
+  {
+    "object_ID": "1976-139",
+    "title": "['Tervavene', 'Tjärbåten', 'Tar Boat']",
+    "date": 1892,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2821762&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a man in a boat on a river, tom finland, big bass fishing, typical russian atmosphere, blue rim light, with a river running through it, african canadian, may 6 8, soldiers running, muddy colors, realistic black and white, sewers, forestry, reconstruction"
+  },
+  {
+    "object_ID": "1976-5",
+    "title": "['Maisema (Latomaisema)', 'Landskap (Lada)', 'Landscape (Barn Landscape)']",
+    "date": 1917,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167468&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a barn in a field, by Mikhail Larionov, by William Zorach, inspired by Emily Carr, listing image, ground level view of soviet town, cirrus clouds, photo courtesy museum of art, 1956, fjord, looking to the sky, 1952, midday photograph, by Nikolai Alekseyevich Kasatkin"
+  },
+  {
+    "object_ID": "2002-112",
+    "title": "['Vesiprisma', 'Vattenprisma', 'Water Prism']",
+    "date": 2002,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167803&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room that has some tables and chairs in it, an abstract sculpture, in a laboratory, steel window mullions, stand on stone floor, inspired by Martinus Rørbye, multiple angles, studiolight, barriers, with a fishpond and courtyard, complete body view, featured on artsation, 2d side view"
+  },
+  {
+    "object_ID": "1977-30",
+    "title": "['Lukkari puhuu', 'Klockaren talar', 'The parish clerk speaking']",
+    "date": 1947,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168404&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a man in a suit and tie, inspired by Käthe Kollwitz, he is casting a lighting spell, colourised, agony, cellar, court archive images, by Maurycy Gottlieb, singing at a opera house, odontophobia, hand - tinted, william blake art exhibit, aged 13"
+  },
+  {
+    "object_ID": "1997-169",
+    "title": "['Tuoksuva askel', 'Doftande steg', 'The Fragrant Step']",
+    "date": 1988,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169590&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture in the middle of a courtyard with a building in the background, by Eero Järnefelt, subdivision, frantic dancing pose, apartment of an art student, h 576, molecules, front view 2 0 0 0, twisted trunk, hamar, apartments, anthropomorphic, -h 512, lasso, swedish"
+  },
+  {
+    "object_ID": "2004-114",
+    "title": "['Kadonneet', 'De försvunna', 'The Lost ones']",
+    "date": 2004,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168511&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people with masks, by david lynch, queen in a glass prison, inspired by Ivan Albright, with a beard and a black jacket, eerie highly detailed, by Peter Prendergast, syndicate(2012), artforum, the darkness, person in foreground, thom yorke, forest of neckties"
+  },
+  {
+    "object_ID": "1976-48",
+    "title": "['Vankila', 'Fängelset', 'Prison']",
+    "date": 1912,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171793&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people sitting on the ground, prison bars, inspired by Thomas Cantrell Dugdale, rising from a crypt, inspired by Gregory Manchess, photo courtesy museum of art, circa 1958, working in the forge, crown of thorns, chimneys, year 1968, inspired by William McTaggart, peinture à l'huile"
+  },
+  {
+    "object_ID": "2001-110",
+    "title": "['Gerberoita', 'Gerberor', 'Gerberas']",
+    "date": 2001,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167518&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a wall that has a bunch of flowers on it, by Eero Järnefelt, hospital lighting, passive house, f1.8 anamorphic, ffffound, museum catalog photograph, sculpture, nerve cells, tosa school, film photograph, sunny environment, mycelium"
+  },
+  {
+    "object_ID": "1992-149",
+    "title": "['Fazerin kukko', 'Fazers tupp', 'The Fazer Rooster']",
+    "date": 1991,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176173&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture in the middle of a city street, pekka halonen, winged archer, by Robert Falk, trending on artstaton, artforum, artgram, inspired by Zlatyu Boyadzhiev, jet fighter, travel guide, antigravity, 128k, nyarlathotep, wikimedia, 24 35 mm"
+  },
+  {
+    "object_ID": "1999-147-4",
+    "title": "['Tilastosuora ja tilastokäyrä']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168356&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a display of colored pencils in a glass case, by Cornelia Parker, tones of blue and green, ffffound, horizontal view, ratio 16:9, skyline showing, a drawing, bar charts, dichromatism"
+  },
+  {
+    "object_ID": "1994-319",
+    "title": "['Risto Rytin muistomerkki', 'Risto Rytis minnesmärke']",
+    "date": 1994,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179563&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of metal letters sitting on top of a lush green field, by Eero Järnefelt, in the middle of the city, avatar image, sharp angular features, 4 dimensions, artforum, large pillars, four legs, academia, nas, in 2 0 1 5, solid works, black strokes, 1979, 2 0 0 9"
+  },
+  {
+    "object_ID": "1976-57",
+    "title": "['Rampa', 'Den halte (Krymplingen)', 'Cripple']",
+    "date": 1921,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168207&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man walking in the snow, recovering from pain, healthcare worker, aging, strathmore 2 0 0, by Moïse Kisling, standing on two feet, aged 13, alpine climate, canada, crutches, nosferatu, determination, narrow face, in the style of an oil painting, of portrait of justin beber, alejandro"
+  },
+  {
+    "object_ID": "1995-62",
+    "title": "['Sulamaton musta (lumiukko 1:1)', 'Osmältbar svart (snögubbe 1:1)', 'Unmelting Black (snowman 1:1)']",
+    "date": 1995,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176682&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of black balls stacked on top of each other, by Eero Snellman, classroom in background, creative commons attribution, monolith, detention centre, anthropomorphic humanoid, vesa-matti loiri, 2010, symbolic metaphor, hangar, herrarthstone, science lab, anamorphic, molecules"
+  },
+  {
+    "object_ID": "2004-130",
+    "title": "['Sovitus', 'Försoning', 'Adaptation']",
+    "date": 2004,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169989&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with a red curtain covered in pictures, wearing a white folkdrakt dress, made of felt and cloth and beads, colourful biomorphic temple, 62 x 47 inches, installation view, home office interior, court images, ycbcr, one panel, hanging rope, motif"
+  },
+  {
+    "object_ID": "1976-41",
+    "title": "['Muotokuva (Katarina Bäcksbacka)', 'Porträtt (Katarina Bäcksbacka)', 'Portrait (Katarina Bäcksbacka)']",
+    "date": 1920,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170800&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman sitting on a bench, more dark purple color scheme, peugeot prestige, she is wearing a hat, cowl, inspired by Émile Bernard, she is wearing a black dress, handbag, hues of subtle grey, old wool suit, photo still of, wearing purple strapless dress, inspired by Dod Procter, puṣkaracūḍa"
+  },
+  {
+    "object_ID": "1976-438",
+    "title": "['Toipilas', 'Konvalescent', 'Convalescent']",
+    "date": 1939,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171128&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a statue of a man's head, verdigris, light and medium values, replica model, dressed in roman clothes, modernist art style, calm face, installation view, detailed visible brushmarks, boy with neutral face, drama masks, mike pence, aged 13, sculls, vertically flat head"
+  },
+  {
+    "object_ID": "1976-381",
+    "title": "['Ateljeessa', 'I ateljén', 'In the Studio']",
+    "date": 1930,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169741&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a naked man sitting on a chair, in her art room, inspired by Ernest Procter, chinese woman, south jakarta, product studio lighting, holding a paintbrush in his hand, bathtub, weaving, inside a messy room, interior of a tent, wetbrushes"
+  },
+  {
+    "object_ID": "1976-165",
+    "title": "['Asetelma', 'Nature morte', 'Still Life']",
+    "date": 1961,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169213&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a cat sitting on top of a table, inspired by Giorgio Morandi, brown flowers, by Carol Bove, interconnections, inspired by Milton Avery, gourds, protagonist in foreground, rotting clay skin, stylised textures, sand - colored walls, on a canva, artefact, inspired by Gao Fenghan"
+  },
+  {
+    "object_ID": "1992-93",
+    "title": "['Alkumuna', 'Urägget', 'The First Egg']",
+    "date": 1971,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174508&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large metal ball sitting on top of a rock, espoo, sculpture made of wood, histological, panoramic anamorphic, iron and asphalt, half - length photo, body breaking apart, face shown, earth colors, scp-914, creative commons attribution, cgworld, nothofagus, promotional image, anamorphic film"
+  },
+  {
+    "object_ID": "1976-97",
+    "title": "['Kuistikko', 'Veranda', 'Balcony']",
+    "date": 1945,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180089&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a piano in front of a window, by Peter Lanyon, sweden, with a front porch, totem 2, upon a peak in darien, linden trees, david kassan, panorama, akseli gallen kallela, street lamp, noon, dichromatism, 21:9, by David Burliuk, behaelterverfolgung"
+  },
+  {
+    "object_ID": "1976-269",
+    "title": "['Luhti', 'Loft', 'Loft Barn']",
+    "date": 1957,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167135&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a table with a bowl of food on it, by Alexander Archipenko, inspired by Gino Severini, inside a child's bedroom, trending on artforum, pale muted pastel moody colors, floating spheres and shapes, a portrait of judy hopps, theater dressing room, cone, f. 1 4, mixed materials, h 1024"
+  },
+  {
+    "object_ID": "1970-78",
+    "title": "['Valoseinä', 'Ljusvägg', 'Wall of Light']",
+    "date": 1971,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180556&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a long glass wall with a bench in front of it, futuristic cyber subway station, by Claes Jansz. Visscher, installation view, whirling gasses, art : : professional photograph, bubbles everywhere, milan schere, h 1024, detailed –n 9, rows of doors, clear atmosphere, aspect ratio 16:9"
+  },
+  {
+    "object_ID": "1976-113",
+    "title": "['Notre Dame']",
+    "date": "1920-luku",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168855&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a bridge with a church in the background, by Robert Delaunay, on a canva, by Louise Abbéma, louis kahn, inspired by Gregory Manchess, features between french, ben maier and sakimichan, flat matte art, featured on artsation, neo-gothic"
+  },
+  {
+    "object_ID": "1976-250",
+    "title": "['Ovensuussa', 'Vid dörren', 'At the Door']",
+    "date": 1918,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178587&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man standing in front of a mirror, inspired by Gwen John, man and woman walking together, 1 9 5 0 s, people looking at a house, corridor, young angry woman, muted colour palette, two beautiful women in love, brian wilson, tall door"
+  },
+  {
+    "object_ID": "1956-132",
+    "title": "['Kattomaalaus aiheena oravia']",
+    "date": 1956,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2173079&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a cat sitting on a tree branch, sky mural on the room ceiling, inspired by Elsa Beskow, red fox, cyprus, ecovillage, photo courtesy museum of art, illustrator, sustainability, by Itō Ogura Yonesuke, yellow colours, hospital ward, amphora, inspired by Bracha L. Ettinger, 2007 blog"
+  },
+  {
+    "object_ID": "1976-281",
+    "title": "['Alma Hjelt']",
+    "date": 1913,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170959&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman sitting on a couch, inspired by Marguerite Zorach, wearing a bowler hat, aged 13, photo courtesy museum of art, by Louise Abbéma, by Robert Delaunay, doll in hand, racoon, brooklyn museum, height 1 7 8, portrait of zendaya, single color, inspired by Noémi Ferenczy"
+  },
+  {
+    "object_ID": "2019-22",
+    "title": "['Rouva Elvira Ruokokoski', 'Fru Elvira Ruokokoski', 'Mrs. Elvira Ruokokoski']",
+    "date": 1911,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177767&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a woman with her eyes closed, oranate and brooding, aged 13, block print, diego 5, facing the camera, by Marc-Aurèle de Foy Suzor-Coté, orange palette, young angry woman, wpa, nancy grossman, daguerrotype, full face frontal centred, young male, brigitte, androgynous"
+  },
+  {
+    "object_ID": "1970-71",
+    "title": "['Ihmisiä aikojen saatossa', 'Människor i tidernas kavalkad', 'People in the Procession of Time']",
+    "date": 1970,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178700&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a group of mannequins standing next to each other, metal rust and plaster materials, sprites, by Breyten Breytenbach, people running, photo courtesy museum of art, personification of marijuana, inspired by Simon Gaon, metallic patterns, monsters, cover image"
+  },
+  {
+    "object_ID": "2004-117",
+    "title": "['Elämän peilissä', 'I livets spegel', 'Mirror of Life']",
+    "date": 2004,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168131&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with a staircase and a painting on the wall, translucent pastel panels, 24mm hasselblot photography, varying dots, large patches of plain colours, johannen voss, aliasing visible, pastelcolours, pollen, high - resolution photograph, charts, blurred detail, 2 0 0 0, jpeg artefacts, splotches"
+  },
+  {
+    "object_ID": "1976-10",
+    "title": "['Uimalaituri', 'Badbrygga', 'Swimming Pier']",
+    "date": 1916,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167640&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a boat in a body of water, in a tree house, inspired by Grace Cossington Smith, by László Beszédes, shed roof, inspired by Mark Gertler, viewed from bellow, kuntilanak on bayan tree, by Rosalie Emslie, strathmore 2 0 0, theatre stage, shelter"
+  },
+  {
+    "object_ID": "2000-144",
+    "title": "['Kevätaurinkoa Espalla, 1958', 'Vårsol på Esplanaden, 1958', 'Spring Sunshine on the Esplanade, 1958']",
+    "date": 1958,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171854&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of women standing next to a car, by Louis Stettner, inspired by Sydney Prior Hall, provenance, san francisco, photo courtesy museum of art, spectres, spying discretly, groups of people, fig.1, triptych, john waters"
+  },
+  {
+    "object_ID": "1977-45",
+    "title": "['Puurolla II', 'Vid grötfatet II', 'Eating porridge II']",
+    "date": 1945,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168150&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a man eating a piece of food, inspired by Carel Weight, screencapture, blond boy, wooden bowl, leaf green, app, offhand, court room sketch, using fork, museum work, inspired by Norman Rockwell, twisting, a blond, soft coloring, crew cut, the met museum, young child, serov"
+  },
+  {
+    "object_ID": "1976-214",
+    "title": "['Asetelma', 'Nature morte', 'Still Life']",
+    "date": 1946,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171005&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of vases and flowers on a table, film nior, by Michael Sutfin, muted intense colors, holding a cactus, empty pet bottles, nitid horizon, inspired by Nil Gleyen, jinyiwei, —n 9, by William Yellowlees, ecstatic expression, quy ho, mrs mills, iliescu"
+  },
+  {
+    "object_ID": "2005-157",
+    "title": "['ILO', 'GLÄDJE', 'JOY']",
+    "date": 2005,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170786&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a reflection of a person in a mirror, pink yellow and blue neon signs, by Willem Labeij, clowns boxing, electrostatic hum, round mirror on the wall, photographed from behind, techno-optimism, thomas kinkad, leisure activities, leftlight"
+  },
+  {
+    "object_ID": "1976-270",
+    "title": "['Iitin tiltu', 'Tiltu från Iitti', 'Tiltu from Iitti']",
+    "date": 1968,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171459&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man and a woman standing next to each other, damaged vine bridge, inspired by Alberto Morrocco, picking flowers, painting of goliath, inspired by Herbert James Gunn, triangles in background, wielding a spear, may 6 8, winning award piece, inspired by Benito Quinquela Martín"
+  },
+  {
+    "object_ID": "1977-35",
+    "title": "['Nurkassa', 'I skamvrån', 'In the corner of shame']",
+    "date": 1945,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170683&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a man standing in front of a wall, endless hallways and bookshelves, oil pastels, digitigrade, prisoner, inspired by Milton Menasco, jeffery epstein, library books, backview, hand - tinted, loneliness, blond, jerome powell, young adult, old man"
+  },
+  {
+    "object_ID": "1976-13",
+    "title": "['Syysaurinko', 'Höstsol', 'Autumn Sun']",
+    "date": 1940,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167610&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman standing in the woods, nordic summer, near a jetty, september 1937, third-person view, side view of her taking steps, spring vibrancy, guardian of the holy lake, pine tree, photo courtesy museum of art, holding a clipboard, 1960, in a square, panoramic view of girl"
+  },
+  {
+    "object_ID": "1992-39",
+    "title": "['Haagan sankaripatsas ', 'Hagas hjältestaty ', 'Haaga Soldiers Memorial']",
+    "date": 1947,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175154&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man sitting next to a tree, modeling photograph kerli koiv, performing to dead soldiers, kalevala, picking flowers, close - up photograph, tombs, installation view, two men hugging, shackles in his hands, may 1 0, iso 125, closing eyes, flowerbeds, monument, ( ( photograph ) ), z"
+  },
+  {
+    "object_ID": "1976-55",
+    "title": "['Sairasvuode I', 'Sjukbädd I', 'Sick-bed I']",
+    "date": 1920,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170032&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man sitting next to a woman, inspired by Käthe Kollwitz, doom and gloom, 3 light sources, marfan syndrome, photo courtesy museum of art, by Elmer Bischoff, anguish, barren sands, winning award image, displacement"
+  },
+  {
+    "object_ID": "1976-24",
+    "title": "['Kesäilta puutarhassa (Äitini)', 'Sommarkväll i trädgården (Min mor)', 'Summer Evening in the Garden (My Mother)']",
+    "date": 1952,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2166947&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman sitting in a chair, inspired by Moses Soyer, aged 13, bangkuart, by Magdalene Bärens, evergreen branches, tekla evelina severin, museum archive, red beryl, 2 0, artbreeder, image"
+  },
+  {
+    "object_ID": "2004-123-1",
+    "title": "['Tärkeintä elämässä', 'Det viktigaste i livet Love']",
+    "date": 2004,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167386&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture of a couple is hanging on the wall, rinko kawauchi, haunted spaceship hallway, stairway, sparkling atmosphere, an estate agent listing photo, installation view, blurry image, 2 0 0 4 photograph, street printed poster, round-cropped, frontlight, panoramic centered view of girl, —n 9, pedestal, cgsociety 9, photo of"
+  },
+  {
+    "object_ID": "1972-48",
+    "title": "['Marjatan pojan ylösnousemus (Karjalan kuningas)', \"The Resurrection of Marjatta's Son (King of Karelia)\"]",
+    "date": "1964-1965",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174467&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a king in a library, realistic cloth puppet, inspired by Carl-Henning Pedersen, children's artwork, python, features intricate detail, on stilts, cloth banners, level 1 plate armour, in a open-space working space, inspired by Amalia Lindegren, masai, holy sword in his hands"
+  },
+  {
+    "object_ID": "1976-437",
+    "title": "['Mustan miehen pää', 'En svart mans huvud', 'Head of a Black Man']",
+    "date": 1931,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169865&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a sculpture of a man's head, black teenage boy, up face with 1 9 2 0 s hairstyle, focus on pursed lips, museum catalog, jordan peele's face, eyeless, direct gaze, bronze - skinned, facing the viewer, vision quest, refined face and muzzle, mixed race"
+  },
+  {
+    "object_ID": "1997-173",
+    "title": "['Olen itä olen länsi', 'Jag är öst jag är väst', 'I am East I am West']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177366&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large golden bird flying over a red pole, transmetal ii, by Lars Jonson Haukaness, kodak ektar, pedestal, private collection, alaska, hyper reallistic, fig.1, emanating and flowing energy, park, left align, falcon, golden pillars, monumental"
+  },
+  {
+    "object_ID": "1992-46",
+    "title": "['Näyttelijätär', 'Skådespelerskan', 'The Actress']",
+    "date": 1985,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176370&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a woman with a basket on her head, by Eero Snellman, socialist, persephone, solar, raising an arm, f - 9 1 / 1 2 5, pv, featured in artistation, w 7 6 8, standing in midground, yutja, miro, panel, side view, connectedness"
+  },
+  {
+    "object_ID": "1985-152",
+    "title": "['Maa, ilma, tuli, vesi', 'Land, luft, eld, vatten', 'Earth, Air, Fire, Water']",
+    "date": 1985,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175130&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of horses in a field, inspired by Ernst Ludwig Kirchner, the palms come from the ground, guccimaze, inspired by Robert Colquhoun, season 3 ( 1 9 9 7 ), bromeliads, phragmites, de stijl, colored woodcut, inspired by Witold Pruszkówski, exhibited at the british museum"
+  },
+  {
+    "object_ID": "1976-325",
+    "title": "['Alaston', 'Naket', 'Nude']",
+    "date": 1954,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179753&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman laying on a bed, inspired by Leonid Pasternak, intricate oil pastel glow, subject made of white mesh rope, inspired by Max Liebermann, nonbinary model, 1911, complete body view, male teenager, furry female, 1 9 6 1, nymphaea, summer palette, giorgio griffa"
+  },
+  {
+    "object_ID": "2003-65-1",
+    "title": "['Pitsilehti (Fittonia)']",
+    "date": 2003,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168806&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a woman sitting in a chair in front of a television, inspired by Per Kirkeby, nursing home, collaborative artwork, shot on large format film camera, people walking around, botanic, norrlandsskog, maori art, city apartment, wheelchair, centre image, by Thomas Häfner, environmental light, artforum, iris human's eye photo"
+  },
+  {
+    "object_ID": "1976-323",
+    "title": "['Sommitelma', 'Komposition', 'Composition']",
+    "date": 1970,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167581&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a piece of art that is on a wall, by Joan Miró, payne's grey and venetian red, museum archive, a mid-century modern collage, inspired by Pedro Álvarez Castelló, tempura on panel, rug, pablo hurtado de mendoza, tehran, fragmented, h 1088, 1 9 5 0, sparse detail, cd cover artwork"
+  },
+  {
+    "object_ID": "1977-53",
+    "title": "['Kotikuri', 'Husaga', 'Home discipline']",
+    "date": 1948,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167705&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of two people in a room, inspired by Nikolai Astrup, dancing character, pastel coloring, fistfight, scanned, barn, contest award winner, high winds, one panel, two old people, gypsy, magenta and gray, left trad"
+  },
+  {
+    "object_ID": "1992-56",
+    "title": "['Rakkaus ja valppaus (Aistit)', 'Kärlek och vaksamhet', 'Love on the Alert']",
+    "date": 1976,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175929&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a group of metal sculptures in front of a building, conor walton, golden towers, scattered gold coins, balanced, 2013, mixed development, evening sun, art magazine, m. c. esher, on stilts, inspired by Henry Moore, 3 d animated, mandkaws, goldsrc, hammers"
+  },
+  {
+    "object_ID": "1999-147-2",
+    "title": "['Linnunrata']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167297&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a blue kitchen with a sink and a clock on the wall, medical research facility, swedish urban landscape, worksafe. 2000s, with walkways, photographed from the back, iso 125, american canteen, offset lithography, complex system of order, atrium, 2 0 0 0, h 768, by karolis strautniekas"
+  },
+  {
+    "object_ID": "2003-65-4",
+    "title": "['Samettiruusu (Tagetes patula)']",
+    "date": 2003,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171064&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a living room filled with furniture and a flat screen tv, volumetric wool felting, by Jürg Kreienbühl, soft red texture, an empty office hallway, thick impasto technique, flowerfield, displayed on the walls, hospital lighting, repeating 35mm photography, swedish design, three views, by Edward Dugmore, fineart"
+  },
+  {
+    "object_ID": "1992-51",
+    "title": "['Convolvulus']",
+    "date": 1931,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175947&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a woman standing in a park, by Eero Järnefelt, small breasts, inspired by Cuno Amiet, brandishing a gun, standing in front of a mirror, celtic culture, pianist, masked female violinists, creative commons attribution, artforum, norwegian, topless, girl making a phone call, wpa"
+  },
+  {
+    "object_ID": "1955-58",
+    "title": "['Jousimies']",
+    "date": 1956,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175917&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man holding a bow and arrow, inspired by Hugo Simberg, standing in gold foil, season 3 ( 1 9 9 7 ), giant hall, uranus, selk ´ nam god of the sun, the bauhaus, lady diana, atrium, helsinki, artforum, munich, anthropomorphic _ humanoid"
+  },
+  {
+    "object_ID": "02/06/1976",
+    "title": "['Iltamaisema', 'Kvällandskap', 'Evening Landscape']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170447&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a view of a lake and mountains, by John Marin, by Eero Järnefelt, award - winning painting, inspired by Emily Carr, photo courtesy museum of art, the colours of the sunset, by Johan Edvard Mandelberg, panorama, forestry, 9 4, gouache"
+  },
+  {
+    "object_ID": "2000-230",
+    "title": "['Hakaniemen Elanto, 1967', 'Elantos hus i Hagnäs, 1967', 'Elanto Building in Hakaniemi, 1967']",
+    "date": 1967,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172071&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a couple of women standing next to each other on a sidewalk, style of joel meyerowitz, by Eero Järnefelt, young girls, sullen, gallery display photograph, the girl is scared, bendover posture, warsaw, middle of the day, hyung-tae kim, shadowing, artforum"
+  },
+  {
+    "object_ID": "1976-303",
+    "title": "['Äiti ja lapsi', 'Mor och barn', 'Mother and Child']",
+    "date": 1910,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171367&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman breasting a baby, inspired by Ernest Lawson, white and pink cloth, yogurt, by Jørgen Nash, with few vivid purple highlights, sea of milk, de stijl, google arts and cultures, kuntilanak, zenobia, inspired by Helene Schjerfbeck"
+  },
+  {
+    "object_ID": "2001-185",
+    "title": "['Konsertto Laaksolle', 'Konsert för Dalen', 'Concerto for Laakso']",
+    "date": 2001,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178316&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a picture frame sitting on top of a cement slab, by Eero Järnefelt, standing in gold foil, in 1 9 8 5, widescreen, empty city, creative commons attribution, meret elisabeth oppenheim, full width, obelisks, documentary photograph"
+  },
+  {
+    "object_ID": "2001-186",
+    "title": "['Arvo Kustaa Parkkilan muistomerkki', \"Arvo Kustaa Parkkila's minnesmärke\", 'Memorial to Arvo Kustaa Parkkila']",
+    "date": 2001,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168363&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man surrounded by pigeons, by Eero Snellman, time travelers appear in a park, he is wearing a hat, f / 1. 3, he is wearing a black trenchcoat, an scp anomalous object, inspired by Leonid Pasternak, sad cop looking at a, hands which exchange seeds"
+  },
+  {
+    "object_ID": "1976-18",
+    "title": "['Lepo', 'Vila', 'Rest']",
+    "date": 1937,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168493&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman laying on a bed, inspired by Max Pechstein, textbooks and books, by Jørgen Nash, strathmore 2 0 0, dreaming about a faraway place, eyes half closed, by Svend Rasmussen Svendsen, caravagio, aged 13, stockholm, caulfield"
+  },
+  {
+    "object_ID": "1976-118",
+    "title": "['Rooma', 'Rom', 'Rome']",
+    "date": 1964,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168886&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a view of a city from a hill, by Alberto Giacometti, in pastel shades, rome, sonic youth, google arts and cultures, the western wall, the fifth series, imperial russia, open sky, may 6 8, artforum, tetrachromacy"
+  },
+  {
+    "object_ID": "1992-116",
+    "title": "['Sankarihautamuistomerkki', 'Hjältegravmonument', \"Soldiers' Memorial\"]",
+    "date": 1968,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176586&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a stone bench sitting in the middle of a park, world war ii military style, tarmo juhola, standing over a tomb stone, piroca, still from l'estate, eero aarnio, kneeling before the pope, libertas, raw file, tombs, labrador, h 1088, on a canva"
+  },
+  {
+    "object_ID": "1992-30",
+    "title": "['Keisarinnan kivi', 'Kejsarinnans sten', 'The Stone ofthe Empress']",
+    "date": "1833-1835",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167144&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of an eagle on top of a monument, swedish writing, gold color scheme, platonic solids, winner of design award, 2006 photograph, golden orbs, naboo, iv pole, view from ground, award - winning design, golden trims, defence, full-length, solidity and eternity"
+  },
+  {
+    "object_ID": "1996-111",
+    "title": "['Minä ja merenneito']",
+    "date": 1996,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167708&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man standing next to a statue of a mermaid, contemporary ceramics, wearing a dress made of beads, artforum, selena quintanilla perez, manga and anime 2 0 0 0, wenfei ye, lovers, naga-hakash, ann stokes, jörmungandr, artsation"
+  },
+  {
+    "object_ID": "2003-139-3",
+    "title": "['Stabat mater']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170475&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a bunch of flowers in a vase, wangechi mutu, by Jasper Johns, baobab trees, photo 1998, charcoal, photo courtesy museum of art, dripping with oil in the head, by Gwenny Griffiths, brooklyn museum, hyphae, 2003, totem 2, marlene dumas, ivy vines"
+  },
+  {
+    "object_ID": "1976-330",
+    "title": "['Rauman kirkko', 'Raumo kyrka', 'Rauma Church']",
+    "date": 1911,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167734&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man sitting on a bench, by Akseli Gallen-Kallela, inspired by Daniel Garber, illuminated for rays of light, imagining a blissful fate, ultraviolet, inspired by Ernest Lawson, church in the background, midday photograph, of augean stables, inspired by Hermenegildo Anglada Camarasa, awakening"
+  },
+  {
+    "object_ID": "1993-8",
+    "title": "['Konstruktio I']",
+    "date": 1977,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171905&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a red couch sitting in a room next to a plant, large arrays, in realistic data center, by Pascal Blanché, displayed on the walls, blackwork, iso 125, art of édouard bisson, black. airports, starport, 12, original artwork, panoramic anamorphic, carrara marble, sharp geometrical squares"
+  },
+  {
+    "object_ID": "1992-103",
+    "title": "['Johan Ludvig Runebergin muistopatsas', 'Johan Ludvig Runebergs minnesmärke', \"Johan Ludvig Runeberg's memorial\"]",
+    "date": 1885,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175520&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man standing next to a statue of a woman, by Theodor Philipsen, greta thunberg, female with long black hair, infested with pitch green, oryantalist, esa, john park, creative commons attribution, inspired by William Edouard Scott, flag in hands up, vesa-matti loiri, no epaulettes"
+  },
+  {
+    "object_ID": "1976-26",
+    "title": "['Lepäävä', 'Vilande', 'Resting']",
+    "date": 1938,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170143&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman sitting on a tiled floor, mohamed chahin, pipe smoke, contemplating, masai, inspired by Malczewski, inspired by Alberto Morrocco, african american young woman, the caretaker, photo courtesy museum of art, in the garden, thinker pose, royo, captures emotion and movement"
+  },
+  {
+    "object_ID": "1976-321",
+    "title": "['Sommitelma', 'Komposition', 'Composition']",
+    "date": 1957,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168997&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a building with a sky background, by Victor Brauner, blue and violet, by Demetrios Farmakopoulos, light blue mist, larynx, oil on canevas, abel tasman, post-war, reza afshar, featured on artscape, marbella, laughing man, levers, simplified shapes, -h 960"
+  },
+  {
+    "object_ID": "1976-446",
+    "title": "['Eurytminen hahmo', 'En eurytmisk gestalt', 'Eurythmic Figure']",
+    "date": "1959-1961",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169215&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a plate with a feather on it, translucent stone white skin, in a jumping float pose, spiritualism, epoxy resin, offering the viewer a pill, underexposed photography, white wings, profile image, negative and positive shapes, mouth agape, white robes"
+  },
+  {
+    "object_ID": "1954-18",
+    "title": "['tuntematon']",
+    "date": 1934,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176906&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of fish and flowers on a wall, <3d eco brutalist, aspect ratio 16:9, beach scene, inspired by Alice Bailly, biodiversity heritage library, underground metro, illustration for children, google arts and cultures, dredged seabed, year 1968, inspired by Celia Frances Bedford"
+  },
+  {
+    "object_ID": "1976-186",
+    "title": "['Kaksi naista', 'Två kvinnor', 'Two Women']",
+    "date": 1972,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170621&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of two women standing next to each other, stone etchings, inspired by Leopold Gottlieb, pale greens and whites, asya yoranova and alan lee, height 1 7 8, pale woman, circa 1982, spirits, composite, georgian dress, dada 20s, savrasov, william blake art exhibit, serial art"
+  },
+  {
+    "object_ID": "1976-149",
+    "title": "['Kattoja, Provence', 'Hustak, Provence', 'Roofs, Provence']",
+    "date": 1956,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169161&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a town with a mountain in the background, an example of saul leiter's work, by Sava Šumanović, on a canva, bright palette, lourmarin, shed roof, by Victor Surbek, narrow streets, noise and grain, award painting, without text, panoramic anamorphic, featured on artsation"
+  },
+  {
+    "object_ID": "1976-315",
+    "title": "['Lieden ääressä (Kaisu)', 'Vid spiseln (Kaisu)', 'By the Oven (Kaisu)']",
+    "date": 1941,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171370&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman sitting in front of a fireplace, ute osterwalder, an angry expression, on a dark winter's day, 3 0 s, human staring blankly ahead, image of the day, dividing it into nine quarters, georgia anne muldrow, helen mcrory, inspired by Max Weber, artist wearing overalls, van"
+  },
+  {
+    "object_ID": "1994-120",
+    "title": "['Kaski']",
+    "date": 1994,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175605&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a piece of paper on a table, with skin of obsidian, by Gilberto Soren Zaragoza, locomotive, in 1 9 8 5, paint on canvas, \\'emulador\\', police tape, inspired by Ramón Piaguaje, design award, front view 1 9 9 0, made of tar, puerto rico"
+  },
+  {
+    "object_ID": "1976-56",
+    "title": "['Yksin', 'Ensam', 'Alone']",
+    "date": 1920,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171226&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman standing next to a bed, inspired by Max Weber, two old people, by Þórarinn B. Þorláksson, xylophone, inspired by Mikhail Nesterov, beige and dark atmosphere, by David Bomberg, production still, stylized and expressive, villages, inspired by Noémi Ferenczy"
+  },
+  {
+    "object_ID": "1976-356",
+    "title": "['Chevreuse']",
+    "date": 1939,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171615&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a town with a clock tower, by Marguerite Zorach, photo courtesy museum of art, by Marc-Aurèle de Foy Suzor-Coté, francoise nielly, aged 13, orange roof, silvain sarrailh, panoramic view, stefan koidl, ycbcr, 16:9, bicycles"
+  },
+  {
+    "object_ID": "1991-263",
+    "title": "['Maisema', 'Landskap', 'Landscape']",
+    "date": 1986,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179201&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a painting of a horse, entwined bodies, by Leon Kossoff, dramatic pink light, high - resolution scan, two still figures facing camera, inspired by Dorothea Tanning, gray mottled skin, composed of random limbs, inspired by James Barry"
+  },
+  {
+    "object_ID": "1992-152",
+    "title": "['Valekuutio', 'Falsk kub', 'False Cube']",
+    "date": 1986,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2175512&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and yellow object sitting on top of a lush green field, abstract geometric sculpture, mono eye window, in russia, hexagon blocking the sun, scp-914, front of the treasure box, inspired by Jacob Kainen, upside-down, photo of"
+  },
+  {
+    "object_ID": "1976-301",
+    "title": "['Meudon']",
+    "date": 1909,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167922&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a pink house with a blue roof, by Jean Hélion, inspired by Gabriele Münter, standing in an alleyway, toronto city, photo courtesy museum of art, detailed fences and stone walls, viewed from the harbor, scans from museum collection, blue and purple scheme, blue feathers, noise, image of the day, contre - jour, vibrancy color"
+  },
+  {
+    "object_ID": "2002-96",
+    "title": "['Pohjoinen puutarha', 'Nordlig trädgård', 'Northern Garden']",
+    "date": 2002,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169586&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with pictures on the wall and a radiator, installation view, by Luděk Marold, steel skin, mugshots, government archive, courtyard, polaeized light, mcu photograph, blurry photography, hr geiger design, contact sheet, academia, munich, 2 0 0 0, parapets, lithographics, victor einrich"
+  },
+  {
+    "object_ID": "1998-71",
+    "title": "['Kampa', 'Kam', 'Comb']",
+    "date": 1996,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2967828&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a hair brush and a piece of cloth, style of angela deane, generative technology, trending on artstattion, surgical implements, inspired by Eugène Grasset, sinew, wrenches, trending on art, dragonfly-shaped, loom, crew cut, trim, unkempt"
+  },
+  {
+    "object_ID": "1976-436",
+    "title": "['Uni', 'Dröm', 'Dream']",
+    "date": 1904,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169174&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a statue of a woman's head, bright studio setting, minimalissimo, inspired by Lili Árkayné Sztehló, white mask, subject in the centre, aged 13, large forehead, style of constructivism, front and side views, pale-skinned persian girl, female floating, asymmetrical artwork, lunar"
+  },
+  {
+    "object_ID": "2003-70",
+    "title": "['Arabian hevoset', 'Arabias hästar', \"Arabia's horses\"]",
+    "date": 2003,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170615&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a sculpture of two polar bears in front of a building, florentine school, gipf project, by Raoul Ubac, religious composition, inspired by Susan Weil, school classroom, image from afar, fzd school of design, chauvet, media photo, -h 960, le corbeusier, nd 6, square, private school"
+  },
+  {
+    "object_ID": "1976-302",
+    "title": "['Mirri']",
+    "date": 1910,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176703&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman with red hair, blue archive, inspired by Ferdinand Hodler, aged 13, timid and vulnerable expression, 1980, glowing pink face, angel in white linen, exhibited at the british museum, an angry expression, celadon glaze, wpa, minna sundberg, 2 0 s, f. 1 4"
+  },
+  {
+    "object_ID": "2000-42",
+    "title": "['Ilves', 'Lodjur', 'Lynx']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174951&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a statue of a dog on a table, by Ye Xin, his trunk is a long tentacle, rgp artwork, in an office, inspired by Oswaldo Guayasamín, leaping towards viewer, shows a leg, inspired by Dorothea Tanning, chrysalis, symbol, 600mm, 3 / 4 view, exhibited in the british museum"
+  },
+  {
+    "object_ID": "1965-6",
+    "title": "['Vaihtuvat volyymit']",
+    "date": 1966,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179021&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a stone with writing on it, dada 20s, horizontal view, maya 3 d, photo courtesy museum of art, reconstruction, belts, aerial view from above, front side view full sheet, transmetal ii, rectangular, coin, aspect ratio 16:9, gills, connector, puṣkaracūḍa"
+  },
+  {
+    "object_ID": "1976-440",
+    "title": "['Unto Pusa']",
+    "date": 1971,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170664&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a close up of a sculpture of a man's head, inspired by Winston Churchill, black rubber suit, full figure centered in portrait, with round cheeks, man wearing a closed cowl, trending on artstion, facing camera directly, bronze - skinned, diffuse outline, image"
+  },
+  {
+    "object_ID": "1976-227",
+    "title": "['Valaistu puu', 'Det belysta trädet', 'Lit Tree']",
+    "date": 1951,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170887&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a red tree on a cloudy day, 1961, blue dog, ascending form the sky, experimental techniques, over a chalk cliff, some yellow and blue, oil on canva, caulfield, h 1 0 2 4, red iris, greek, with fingers, chaotic composition, napa, red coat, copyright tsr 1989"
+  },
+  {
+    "object_ID": "1998-414",
+    "title": "['Lehti', 'The Leaf']",
+    "date": 1998,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167358&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large metal sculpture sitting in the middle of a forest, nanocarbon-vest, opening door, petri rahkola, centered in panel, city park, on a canva, tear drop, forest path, 2d side view, seeds, design award, by Rajmund Kanelba, vault, underground mine, waterways"
+  },
+  {
+    "object_ID": "1997-226-1",
+    "title": "['Maa-isä, 1 osa (jalanjälki)', 'Jordfadern (fotspår)', 'Father Earth (footprint)']",
+    "date": 1997,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170013&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a stone floor in front of a building, installation view, by Per Kirkeby, walkways, auto - destructive art, energetic composition, gridless, terrace, award - winning design, artforum, fragments"
+  },
+  {
+    "object_ID": "1976-298",
+    "title": "['Maisema Hyvinkäältä', 'Landskap från Hyvinge', 'Landscape from Hyvinkää']",
+    "date": 1942,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170340&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a road with a bridge in the background, inspired by Max Pechstein, norrlandsskog, vibrant scattered light, an expansive grassy plain, fluorescent colours, in fall, 1980 photo, 21:9, year 1930, neo-expressionistic, scenic environment, next to a farm house and a barn"
+  },
+  {
+    "object_ID": "2013-62",
+    "title": "['Sydänlyönnit', 'Hjärtslag', 'Heartbeats']",
+    "date": 2013,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174921&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a fire hydrant sitting in front of a garage door, by Vanessa Beecroft, silhouettes of people, retaildesignblog.net, low - relief stone sculpture, of a family leaving a spaceship, muted stage effects, by Ryoji Ikeda, gray scale, hieroglyphs on wall, 2 0 1 0, rendered image, art »"
+  },
+  {
+    "object_ID": "1976-220",
+    "title": "['Kaupunkikuva, Helsinki', 'Stadsbild, Helsingfors', 'City Scene, Helsinki']",
+    "date": 1917,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170191&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a view of a city, by André Lhote, beige and dark atmosphere, by Jørgen Nash, orange roof, harsh light and shadow, featured on artsation, ratio 16:9, beksinki, edouard caplain, domes, wpa, dark street, nouvelle vague"
+  },
+  {
+    "object_ID": "1994-162",
+    "title": "['Rauha jota kaipasin', 'The Peace that I Craved']",
+    "date": 1988,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2180126&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man and a dog in front of a tent, by Nancy Spero, the wolf howls at the moon, limited edition print, priestess in a conical hat, stars and stripes, inspired by Alexander Runciman, the hard and strong buildings, 2 0 2 0 award winning painting, lithograph, standing on rock"
+  },
+  {
+    "object_ID": "1976-229",
+    "title": "['Puhelinpylväitä', 'Telefonstolpar', 'Telephone Poles']",
+    "date": 1954,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170573&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a telephone pole on a hill, oil pastel gestural lines, a yellow sun shining down, atmospheric lighting - n 9, connections, by John Souch, drawfolio, on dark paper, inspired by Peter Churcher, tripwire, award - winning painting, powerlines, yellow carpeted, malt, by Kathleen Allen"
+  },
+  {
+    "object_ID": "1977-32",
+    "title": "['Kuusen alla', 'Under granen', 'Under the spruce']",
+    "date": 1946,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170846&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a group of people sitting under a tree, russian army infantry soldiers, full image, by Margareta Alströmer, the caretaker, santa claus, 2010, draft, redwood trees, visual development, inspired by Ernest Procter, lonely tree, baselitz, camping"
+  },
+  {
+    "object_ID": "2002-98",
+    "title": "['Suurmetsän käävät', 'Tickor i Storskog', 'Tree Mushrooms']",
+    "date": 2002,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167284&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room with a ladder and a potted plant, skylight open ceiling, by Lars Jonson Haukaness, mappa studio, ecovillage, 2 0 0 0, extremely luminous bright design, lively irregular edges, sustainability, the sky is grey 2 0 0 0, hsl, pendant, tokio aoyama"
+  },
+  {
+    "object_ID": "1992-104",
+    "title": "['Leo Mechelin']",
+    "date": "1909,  1943",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176573&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a bust of a man on a pedestal in front of a building, f1.8 anamorphic, by Eero Järnefelt, photo of džesika devic, bearded, creative commons attribution, portrait of nicholas cage, nobel prize, digital asset, simone graci, upper torso, hdrp, journalistic photograph"
+  },
+  {
+    "object_ID": "1999-145",
+    "title": "['Alkuelämää', 'Urliv', 'Protozoa']",
+    "date": 1999,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171452&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a room filled with lots of different types of objects, rammed earth courtyard, in 2 0 0 2, inspired by Alexander Stirling Calder, reykjavik junior college, product photograph, azulejo, cage, triptych, pendant, ue, hsl, beksinki"
+  },
+  {
+    "object_ID": "1976-40",
+    "title": "['Yhteenkasvaneet koivut', 'Sammanvuxna björkar', 'Birches Grown Together']",
+    "date": 1919,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170119&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a tree by a body of water, by Jacques Villon, standing on the water ground, inspired by Leon Wyczółkowski, green backlight leaves, moomin, folded, flamingo, narrow focus, muted colour, winning award image, subject= duck, taupe, in full growth"
+  },
+  {
+    "object_ID": "1977-14",
+    "title": "['Kalvea impi vuorella', 'Bleka jungfrun på berget', 'The Pale Maiden on the Impivaara fell']",
+    "date": 1946,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168792&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a woman standing on top of a hill, silmarillion, painted with pastels, pulling the move'the banshee ', light platinum long blond hair, inspired by Larry Elmore, creeping gloom, standing on rocky ground, grief, bright white light"
+  },
+  {
+    "object_ID": "1992-015",
+    "title": "['Aleksis Kiven muistopatsas', 'Aleksis Kivis minnesmärke', 'Aleksis Kivi Memorial']",
+    "date": 1939,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2166939&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a man sitting in a chair, inspired by Peder Severin Krøyer, wearing lab coat and glasses, alex kiesling, standing in a city center, 21:9, sitting on one knee on the grass, ak 1 2, '9 0 s, kimi vera, side profile view, shoulders can be seen, by Vilmos Aba-Novák"
+  },
+  {
+    "object_ID": "2003-67-1",
+    "title": "['Työ ja vapaa-aika']",
+    "date": 2003,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169626&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a hallway with two framed pictures on the wall, healthcare worker, inspired by Jaakko Mattila, taken in the 2000s, southdale center, award - winning brand agency, repeating 3 5 mm photography, triptych, installation, exterior photography, documentary photograph, nursing, center of the frame, by Arvid Nyholm, gipf project"
+  },
+  {
+    "object_ID": "1992-69",
+    "title": "['Kivet', 'Stenar', 'Stones']",
+    "date": 1965,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172780&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large rock sitting on top of a pile of rocks, sculpture made of water, espoo, diptych, swirling flows of energy, inspired by Ludwik Konarzewski, anamorphic illustration, by Rajmund Kanelba, landscape architecture photo, anamorphic, national art school mfa, hcl, softair center landscape"
+  },
+  {
+    "object_ID": "1997-186",
+    "title": "['Monumentti tavallisille', 'Monument till de vanliga', 'Monument to Ordinary People']",
+    "date": 1994,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179155&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large rock sitting on top of a lush green field, installation view, runestones, black circle, circa 1 9 9 9, montreal, by Aguri Uchida, diptych, helsinki, buttercups"
+  },
+  {
+    "object_ID": "1976-435",
+    "title": "['Istuva tyttö', 'Sittande flicka', 'Seated Girl']",
+    "date": "1943-1945",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169028&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue of a woman sitting on a black background, inspired by Johan Edvard Mandelberg, voluptuous and arousing, inspired by Lodewijk Bruckman, on textured base; store website, bumpy mottled skin, in muted colours, emerging from the water, smooth light from upper left, inspired art deco, aged 13, granite"
+  },
+  {
+    "object_ID": "1992-60",
+    "title": "['Thalia ja Pegasos', 'Thalia och Pegasus', 'Thalia and Pegasos']",
+    "date": "1967-1970",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179381&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue covered in snow with trees in the background, inspired by Knud Agger, website banner, hugging and cradling, quadruped, no - text no - logo, museum quality, kerberos, benches, full width, john eaves, by Alfred Jensen, high resolution photograph, maelstrom"
+  },
+  {
+    "object_ID": "1976-140",
+    "title": "['Saaristosta', 'Skärgårdsmotiv', 'Archipelago Scene']",
+    "date": 1919,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171488&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a boat in a body of water, by Max Liebermann, still from film, by Eugène Boudin, oil on canva, by Willem Labeij, ratio 16:9, marshes, 1 9 6 0 s art, destroyed ship, aged 13, at high noon, published art, provenance, gouache"
+  },
+  {
+    "object_ID": "1999-208-2",
+    "title": "['Tanssi joutsenen kanssa']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2178055&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a person on a surfboard in the water, walking on ice, jon macnair, wings of a swan, androgynous male, schomburg, nicodemus yang-mattisson, by Ulrika Pasch, auroracore, rollerblading, unclad against the storm, drake"
+  },
+  {
+    "object_ID": "1996-24-1",
+    "title": "['Stills from Gingerbread Man']",
+    "date": "unknown",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2177898&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of a man eating a donut, glass pipes showing red, by Penny Rimbaud, educational display case, health spa and meditation center, long hair blue centred, psychedelic lsd, digital screens, anamorphic film, the doors, museum photo, photos"
+  },
+  {
+    "object_ID": "1998-416-2",
+    "title": "['Viestejä tuntemattomalle', 'Signaler till okända', 'Messages to the Unknown']",
+    "date": 1998,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171623&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a large metal structure sitting on top of a grass covered field, inspired by Henry Heerup, rusty metal towers, emotive faces, melancholic expression, tribute to life, facing each other, helsinki, exposed inner gears, bar charts, by Robert Falk, lament configuration, asymmetrical artwork"
+  },
+  {
+    "object_ID": "1976-190",
+    "title": "['Tyttö mustassa puvussa', 'Flicka i svart', 'Girl in a Black Dress']",
+    "date": 1945,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168059&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman standing in a room, inspired by Robert Bevan, green hat, bleak color, by Jørgen Nash, school uniform, tired haunted expression, sangyeob park, miles johnstone, aged 13, doctors mirror, post-war, malcolm liepke, f2.2, exhibition, parlor, by Margaret Graeme Niven"
+  },
+  {
+    "object_ID": "1992-155",
+    "title": "['Pallopojat', 'Bollpojkarna', 'Boys Throwing Ball']",
+    "date": 1955,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2174940&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue in front of a building with a building in the background, inspired by Eero Snellman, fighting stance energy, flying around the bird, scans from museum collection, national geograph, mid century, young child, inspired by Antonín Chittussi, hospital interior, h 576, iwakura, august, 2 0 1 1, library"
+  },
+  {
+    "object_ID": "1976-146",
+    "title": "['Trio']",
+    "date": 1952,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171404&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a group of people playing music, by Michael Flohr, cello, palette of primaries, on a canva, photography of bill brauer, captures emotion and movement, award-winning composition, triptych, gig"
+  },
+  {
+    "object_ID": "1976-352",
+    "title": "['Vanha nainen', 'Gammal kvinna', 'Old Woman']",
+    "date": 1973,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170161&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman sitting on a chair, willow 1 9 8 5, with a walking cane, tattered robes, faridah malik, inspired by Charles Haslewood Shannon, wearing a feather dress, red cloud, by Maurice Prendergast, mixed race woman, the look of an elderly person, aged 2 5, photo of young woman, 7"
+  },
+  {
+    "object_ID": "2019-12",
+    "title": "['Istuva tyttö', 'Sittande flicka', 'Girl seated']",
+    "date": 1913,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179566&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a woman reading a book, by Jacques Villon, inspired by Elizabeth MacNicol, green hat, intaglio, closed lips, inspired by Eugène Grasset, photo of the girl, etching, aged 13, nymphaea, printmaking, maler collier, santiago rusinol, by Louise Abbéma, louvre contest winner"
+  },
+  {
+    "object_ID": "2001-040",
+    "title": "['Hiljaisuuden jalanjäljet', 'Tystnadens fotspår', 'Silent Footprints']",
+    "date": 2000,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179378&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a fire hydrant sitting on the side of a street, by Jean Arp, footprints in the sand, lviv historic centre, quest marker, three hairy neanderthal people, boston massachusetts, brass sheet, stepping on the city, seattle, ground detailed, walkable, 8 0. lv, smithsonian, platform game, august"
+  },
+  {
+    "object_ID": "1992-163",
+    "title": "['Elämän kevät']",
+    "date": "1937-1938",
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2176439&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a statue in front of a building with a building in the background, 3 young and beautiful women, inspired by Wojciech Weiss, denmark, photo of scp-173, court room, raising an arm, stockholm, round-cropped, sirens, nazism, triforce, artforum, sculptor"
+  },
+  {
+    "object_ID": "2000-234",
+    "title": "['Perunatori, 1968', 'Potatistorget, 1968', 'Potato Market, 1968']",
+    "date": 1968,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2172877&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a black and white photo of two women walking down the street, eero aarnio, ' ramona flowers ', playful pose, black bob cut hair, according to european art, two girls, swedish style, contact sheet, tourists in background, photo photograph, colour photography, highly realistic photography"
+  },
+  {
+    "object_ID": "1976-223",
+    "title": "['Kaupunki', 'Stad', 'The City']",
+    "date": 1946,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170875&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a building with a clock tower, by Mark Rothko, ancient mediterranean village, by William MacTaggart, artforum, desolated wasteland, minoru nomata, circa 1958, inspired by Milton Menasco, pink door, necropolis, running through italian town, meze audio, 1 9 3 3"
+  },
+  {
+    "object_ID": "2005-160-1",
+    "title": "['Unikot', 'Poppies']",
+    "date": 2005,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2171720&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a table and chairs in a room with pictures on the wall, hospital lighting, by Jesper Knudsen, commercial photograph, taken with a canon eos 5 d, bouquets, 2006 photograph, by Arvid Nyholm, city environment, triptych, hassleblad, low shot camera, dentist"
+  },
+  {
+    "object_ID": "2018-473",
+    "title": "['Kuutamo', 'Månsken', 'Moonlight']",
+    "date": 1922,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2179077&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a drawing of a man sitting in front of a window, red moon, by Ethel Schwabacher, nursing home, her gaze is downcast, watching the sunset, artem chebokha, traditional moon, unhappy, poverty, in a dark field, late - 4 0 s aged, sitting alone, yellowish full moon, pastel coloring, willy lowman"
+  },
+  {
+    "object_ID": "1976-277",
+    "title": "['Yrttitarha (Selma Lagerlöf: Jouluruusun legenda)', 'Örtagård (Selma Lagerlöf: Legenden om julrosorna)', 'Herb Garden (Selma Lagerlöf: Legend of The Christmas roses)']",
+    "date": 1971,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2168672&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a bird flying over a field of flowers, inspired by Bill Traylor, game map, sparkling in the flowing creek, scanned, butterflies in the foreground, by John Hoyland, roll20, detailed terrain, earthbound, crossing the river, in the center of the image, appalachian mountains"
+  },
+  {
+    "object_ID": "1976-307",
+    "title": "['Aikainen kevät, Riekkala', 'Tidig vår, Riekkala', 'Early Spring, Riekkala']",
+    "date": 1914,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170743&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a fence with a tree in the background, ultraviolet, 1916, blue archive, standing in sand, near pond, limited palette, palette of primaries, public condemned, soft light - n 9, borders, blowing sands, on its own, gestalt"
+  },
+  {
+    "object_ID": "1976-320",
+    "title": "['Olostunturi, Muonio', 'Olostunturi, Muonio', 'Olostunturi Fell, Muonio']",
+    "date": 1944,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2170123&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a river with a mountain in the background, abandoned barn in the background, by Marie-Suzanne Giroust, rocky lake shore, collapsed building, year 1 9 4 4, by Noel Counihan, strong sunlight, h 1 0 2 4, panoramic, various artworks, 16:9, babbling brook, award-winning artwork"
+  },
+  {
+    "object_ID": "1976-174",
+    "title": "['Omakuva', 'Självporträtt', 'Self-Portrait']",
+    "date": 1972,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2169189&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a woman wearing a red hat and holding a yellow bird, inspired by Sidney Nolan, portrait of mia farrow, inspired by Hendrik Willem Mesdag, chicken feathers, by Tove Jansson, “portrait of leonard cohen, sitting on a red button, connectedness, 2007 blog, auction, tarot cards"
+  },
+  {
+    "object_ID": "1976-293",
+    "title": "['J. Ruokokoski kävelemässä ulsteriin puettuna', 'J. Ruokokoski vandrande i ulster', 'J. Ruokokoski Taking a Walk in a Greatcoat']",
+    "date": 1917,
+    "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2167568&size=extra_large&key=T3st1&orgid=87104",
+    "prompt": "a painting of a man walking in the snow, by Béni Ferenczy, father holds child in the hand, overweight, young southern woman, wearing a worn out brown suit, lithography, sleet, vendors, felicien rops, mark miner, automobile, albino dwarf, sideways glance, puṣkaracūḍa, young angry woman"
+  }
+]
