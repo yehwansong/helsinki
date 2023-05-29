@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
+<head> f
     <meta charset="UTF-8">
     <title></title>
     <script src="https://d3js.org/d3.v5.min.js"></script>
@@ -579,14 +579,14 @@ if(ani_counter_start && !stoped){
         $('.subtitle_3').hide()
     }
     if(ani_counter<0){
-        ani_counter = ani_counter+2
+        ani_counter = ani_counter+10
         if(!isMobile){
             map_fake.visible =true
             map.visible =false
             map_fake.position.z =-500-ani_counter
         }
     }else{
-        ani_counter = ani_counter+2
+        ani_counter = ani_counter+10
         if(!isMobile){
             map_fake.visible =false
         }
