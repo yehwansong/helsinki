@@ -129,6 +129,9 @@
         top: 47vh;
         width: 10vh;
     }
+    .stop_btn:hover{
+        filter: invert(1);
+    }
     .mobile .stop_btn{
         top: 46vw
     }
@@ -145,6 +148,10 @@
         position: absolute;
         z-index: 100000;
         height: 4vh;
+        display: none;
+    }
+    .mobile .mobile_arrow{
+        display: block;
     }
     .mobile_arrow_l{
         top: 50vh;
@@ -632,15 +639,17 @@ for (var i = points.length - 1; i >= 0; i--) {
     // ani_counter = ani_counter+2
 // }
 if(ani_counter_start && !stoped){
-    if(ani_counter>-4000){
-        $('.subtitle_1').hide()
-        $('.subtitle_2').show()
-        $('.subtitle_3').hide()
-    }else if (ani_counter>-3000){
+    if(ani_counter<-3500){
         $('.subtitle_1').show()
         $('.subtitle_2').hide()
         $('.subtitle_3').hide()
-    }else{
+    }
+    if (ani_counter>-3500 && ani_counter<-2000){
+        $('.subtitle_1').hide()
+        $('.subtitle_2').show()
+        $('.subtitle_3').hide()
+    }
+    if (ani_counter>-2000){
         $('.subtitle_1').hide()
         $('.subtitle_2').hide()
         $('.subtitle_3').show()
