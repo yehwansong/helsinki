@@ -22,6 +22,7 @@
     .tags{
         position: absolute;
         transform: translate(-50%, -50%);
+        display: none;
         /*width: 12.5vh;*/
         /*height: 12.5vh;*/
     }
@@ -47,6 +48,7 @@
         background-color: white;
         border: 1px solid black;
         transform:none;
+        display: block;
         opacity: 0;
         transition: opacity 0.5s;
     }
@@ -120,6 +122,12 @@
         line-height: 1.2;
         border-radius: 0.1vh;
     }
+    .stop_btn{
+    position: absolute;
+    z-index: 10000000000;
+    left: 1vh;
+    top: 47vh;
+    width: 10vh;}
     .black{
         width: 100vw;
         height: 100vh;
@@ -318,7 +326,7 @@ function make_sphere(){
                         }else{
                             var img = ''
                         }
-                    let texture = new THREE.TextureLoader().load( 'img/img_'+img+'.jpg' )
+                    let texture = new THREE.TextureLoader().load( 'img_compressed/img_'+img+'.jpg' )
                     const m1 = new THREE.MeshBasicMaterial( { 
                                         map: texture,
                                         side: THREE.DoubleSide } );
@@ -330,7 +338,7 @@ function make_sphere(){
                     var name = ''
                             for (var i = names.length - 1; i >= 0; i--) {
                                 if(names[i].object_ID == points[l][4]){
-                                    name = names[i].title.split("'")[names[i].title.split("'").length-2].replace(/ /g, '%');
+                                    name = names[i].title.split("'")[names[i].title.split("'").length-2].replace(/ /g, '%').replace(/#/g, '@');
                                 }
                             }
                     sphere.name = l +'_'+name+'_'+db.features[l].properties.lon.toString().replace(/\./g, '%')+'_'+db.features[l].properties.lat.toString().replace(/\./g, '%')+'_'+points[l][4]
@@ -573,10 +581,14 @@ if(ani_counter_start && !stoped){
         $('.subtitle_1').hide()
         $('.subtitle_2').show()
         $('.subtitle_3').hide()
-    }else{
+    }else if (ani_counter>-3000){
         $('.subtitle_1').show()
         $('.subtitle_2').hide()
         $('.subtitle_3').hide()
+    }else{
+        $('.subtitle_1').hide()
+        $('.subtitle_2').hide()
+        $('.subtitle_3').show()
     }
     if(ani_counter<0){
         ani_counter = ani_counter+10
@@ -593,7 +605,7 @@ if(ani_counter_start && !stoped){
         map.visible =true
         map.position.z =Math.abs((ani_counter/3)%2000-1000)-1500
         if(ani_counter>1000){
-            $('.subtitle').fadeIn(300)
+            $('.subtitle').fadeOut(300)
         $('.subtitle_1').hide()
         $('.subtitle_2').hide()
             $('.subtitle_3').show()
@@ -650,62 +662,43 @@ for (let ii = 0; ii < views.length; ii++) {
             if(ani_counter>1000){
                         intersects[ 0 ].object.material.color.set( 0x000000 );
                         $('.dot_'+intersects[ 0 ].object.name.split('_')[0]).addClass('selected_dot')
-                        $('.tags_mouse').html(intersects[ 0 ].object.name.split('_')[1].replace(/%/g, ' '))
+                        $('.tags_mouse').html(intersects[ 0 ].object.name.split('_')[1].replace(/%/g, ' ').replace(/#/g, '@'))
+                        value = parseInt(intersects[ 0 ].object.name.split('_')[0])
                         $('.tags_mouse').css({'opacity':1})
                     }
         }else{
+            hovered = false
             $('.tags_mouse').css({'opacity':0})
         }
-        if(objGroup.children[(value)%(objGroup.children.length-5)]){
-            if(objGroup.children[(value)%(objGroup.children.length-5)].children[0]){
-                        $('.tags_0').css({'left':toScreenPosition(objGroup.children[(value)%(objGroup.children.length-5)].children[0], camera).x+'px'})
-                        $('.tags_0').css({'top' :toScreenPosition(objGroup.children[(value)%(objGroup.children.length-5)].children[0], camera).y+'px'})
-                        console.log(objGroup.children[(value)%(objGroup.children.length-5)].children[0])
-                        $('.tags_0').find('.name').html(objGroup.children[(value)%(objGroup.children.length-5)].children[0].children[0].name.split('_')[1].replace(/%/g, ' '));}
-        }
-        // if(objGroup.children[(value-9)%(objGroup.children.length-5)]){
-        //     $('.tags_1').css({'left':toScreenPosition(objGroup.children[(value-9)%(objGroup.children.length-5)].children[0], camera).x+'px'})
-        //     $('.tags_1').css({'top' :toScreenPosition(objGroup.children[(value-9)%(objGroup.children.length-5)].children[0], camera).y+'px'})
-        //     $('.tags_1').find('.name').html(objGroup.children[(value-9)%(objGroup.children.length-5)].children[0].children[0].name.split('_')[1])
-        // }
-        // if(objGroup.children[(value-8)%(objGroup.children.length-5)]){
-        //     $('.tags_2').css({'left':toScreenPosition(objGroup.children[(value-8)%(objGroup.children.length-5)].children[0], camera).x+'px'})
-        //     $('.tags_2').css({'top' :toScreenPosition(objGroup.children[(value-8)%(objGroup.children.length-5)].children[0], camera).y+'px'})
-        //     $('.tags_2').find('.name').html(objGroup.children[(value-8)%(objGroup.children.length-5)].children[0].children[0].name.split('_')[1])
-        // }
-        // if(objGroup.children[(value-7)%(objGroup.children.length-5)]){
-        //     $('.tags_3').css({'left':toScreenPosition(objGroup.children[(value-7)%(objGroup.children.length-5)].children[0], camera).x+'px'})
-        //     $('.tags_3').css({'top' :toScreenPosition(objGroup.children[(value-7)%(objGroup.children.length-5)].children[0], camera).y+'px'})
-        //     $('.tags_3').find('.name').html(objGroup.children[(value-7)%(objGroup.children.length-5)].children[0].children[0].name.split('_')[1])
-        // }
-        // if(objGroup.children[(value-6)%(objGroup.children.length-5)]){
-        //     $('.tags_4').css({'left':toScreenPosition(objGroup.children[(value-6)%(objGroup.children.length-5)].children[0], camera).x+'px'})
-        //     $('.tags_4').css({'top' :toScreenPosition(objGroup.children[(value-6)%(objGroup.children.length-5)].children[0], camera).y+'px'})
-        //     $('.tags_4').find('.name').html(objGroup.children[(value-6)%(objGroup.children.length-5)].children[0].children[0].name.split('_')[1])
-        // }
-        // if(objGroup.children[(value-5)%(objGroup.children.length-5)]){
-        //     $('.tags_5').css({'left':toScreenPosition(objGroup.children[(value-5)%(objGroup.children.length-5)].children[0], camera).x+'px'})
-        //     $('.tags_5').css({'top' :toScreenPosition(objGroup.children[(value-5)%(objGroup.children.length-5)].children[0], camera).y+'px'})
-        //     $('.tags_5').find('.name').html(objGroup.children[(value-5)%(objGroup.children.length-5)].children[0].children[0].name.split('_')[1])
-        // }
-        if(objGroup.children[(value-4)%(objGroup.children.length-5)]){
-            if(objGroup.children[(value-4)%(objGroup.children.length-5)].children[0]){
-                        $('.tags_6').css({'left':toScreenPosition(objGroup.children[(value-4)%(objGroup.children.length-5)].children[0], camera).x+'px'})
-                        $('.tags_6').css({'top' :toScreenPosition(objGroup.children[(value-4)%(objGroup.children.length-5)].children[0], camera).y+'px'})
-                        $('.tags_6').find('.name').html(objGroup.children[(value-4)%(objGroup.children.length-5)].children[0].children[0].name.split('_')[1].replace(/%/g, ' '));
-                    }}
-        if(objGroup.children[(value-3)%(objGroup.children.length-5)]){
-            if(objGroup.children[(value-3)%(objGroup.children.length-5)].children[0]){
-                        $('.tags_7').css({'left':toScreenPosition(objGroup.children[(value-3)%(objGroup.children.length-5)].children[0], camera).x+'px'})
-                        $('.tags_7').css({'top' :toScreenPosition(objGroup.children[(value-3)%(objGroup.children.length-5)].children[0], camera).y+'px'})
-                        $('.tags_7').find('.name').html(objGroup.children[(value-3)%(objGroup.children.length-5)].children[0].children[0].name.split('_')[1].replace(/%/g, ' '));
-                    }}
-        if(objGroup.children[(value-2)%(objGroup.children.length-5)]){
-            if(objGroup.children[(value-2)%(objGroup.children.length-5)].children[0]){
-                        $('.tags_8').css({'left':toScreenPosition(objGroup.children[(value-2)%(objGroup.children.length-5)].children[0], camera).x+'px'})
-                        $('.tags_8').css({'top' :toScreenPosition(objGroup.children[(value-2)%(objGroup.children.length-5)].children[0], camera).y+'px'})
-                        $('.tags_8').find('.name').html(objGroup.children[(value-2)%(objGroup.children.length-5)].children[0].children[0].name.split('_')[1].replace(/%/g, ' '));
-                    }}
+                if(objGroup.children[(value)%(objGroup.children.length-5)]){
+                    if(objGroup.children[(value)%(objGroup.children.length-5)].children[0]){
+                        $('.tags_1').show()
+                                $('.tags_0').css({'left':toScreenPosition(objGroup.children[(value)%(objGroup.children.length-5)].children[0], camera).x+'px'})
+                                $('.tags_0').css({'top' :toScreenPosition(objGroup.children[(value)%(objGroup.children.length-5)].children[0], camera).y+'px'})
+                                console.log(objGroup.children[(value)%(objGroup.children.length-5)].children[0])
+                                $('.tags_0').find('.name').html(objGroup.children[(value)%(objGroup.children.length-5)].children[0].children[0].name.split('_')[1].replace(/%/g, ' ').replace(/#/g, '@'));}
+                }
+                if(objGroup.children[(value-4)%(objGroup.children.length-5)]){
+                    if(objGroup.children[(value-4)%(objGroup.children.length-5)].children[0]){
+                        $('.tags_2').show()
+                                $('.tags_1').css({'left':toScreenPosition(objGroup.children[(value-4)%(objGroup.children.length-5)].children[0], camera).x+'px'})
+                                $('.tags_1').css({'top' :toScreenPosition(objGroup.children[(value-4)%(objGroup.children.length-5)].children[0], camera).y+'px'})
+                                $('.tags_1').find('.name').html(objGroup.children[(value-4)%(objGroup.children.length-5)].children[0].children[0].name.split('_')[1].replace(/%/g, ' ').replace(/#/g, '@'));
+                            }}
+                if(objGroup.children[(value-3)%(objGroup.children.length-5)]){
+                    if(objGroup.children[(value-3)%(objGroup.children.length-5)].children[0]){
+                        $('.tags_3').show()
+                                $('.tags_2').css({'left':toScreenPosition(objGroup.children[(value-3)%(objGroup.children.length-5)].children[0], camera).x+'px'})
+                                $('.tags_2').css({'top' :toScreenPosition(objGroup.children[(value-3)%(objGroup.children.length-5)].children[0], camera).y+'px'})
+                                $('.tags_2').find('.name').html(objGroup.children[(value-3)%(objGroup.children.length-5)].children[0].children[0].name.split('_')[1].replace(/%/g, ' ').replace(/#/g, '@'));
+                            }}
+                if(objGroup.children[(value-2)%(objGroup.children.length-5)]){
+                    if(objGroup.children[(value-2)%(objGroup.children.length-5)].children[0]){
+                        $('.tags_4').show()
+                                $('.tags_3').css({'left':toScreenPosition(objGroup.children[(value-2)%(objGroup.children.length-5)].children[0], camera).x+'px'})
+                                $('.tags_3').css({'top' :toScreenPosition(objGroup.children[(value-2)%(objGroup.children.length-5)].children[0], camera).y+'px'})
+                                $('.tags_3').find('.name').html(objGroup.children[(value-2)%(objGroup.children.length-5)].children[0].children[0].name.split('_')[1].replace(/%/g, ' ').replace(/#/g, '@'));
+                            }}
         camera.up.set(0, -1, 0);
         camera.position.set(0,0,-5750)
         camera.lookAt(0, 0, 0);
@@ -770,22 +763,19 @@ function degToRad(degrees) {
   return degrees * Math.PI / 180;
 }
 </script>
+
 <div class="subtitle">
     <span class="subtitle_1">Hi I'm an AI curator</span>
     <span class="subtitle_2">Here, there will be some introduction text.</span>
-    <span class="subtitle_3 stop_btn">STOP</span>
+    <span class="subtitle_3">Press arrow button to navigate, click sphere to go inside</span>
 </div>
+<img src="images/btn.png" class="stop_btn">
 <div class="zoomout"></div>
 <div class="tags_wrapper">
     <div class="tags tags_0"><div class="name">tags_0</div><div class="circle"></div></div>
     <div class="tags tags_1"><div class="name">tags_1</div><div class="circle"></div></div>
     <div class="tags tags_2"><div class="name">tags_2</div><div class="circle"></div></div>
     <div class="tags tags_3"><div class="name">tags_3</div><div class="circle"></div></div>
-    <div class="tags tags_4"><div class="name">tags_4</div><div class="circle"></div></div>
-    <div class="tags tags_5"><div class="name">tags_5</div><div class="circle"></div></div>
-    <div class="tags tags_6"><div class="name">tags_6</div><div class="circle"></div></div>
-    <div class="tags tags_7"><div class="name">tags_7</div><div class="circle"></div></div>
-    <div class="tags tags_8"><div class="name">tags_8</div><div class="circle"></div></div>
 </div>
 <div class="tags_mouse_wrapper">
     <div class="tags tags_mouse"><div class="name">tags_8</div><div class="circle"></div></div>

@@ -125,7 +125,7 @@
 		    z-index: 1000000;
 		    left: 50%;
 		    transform: translateY(-100%);
-		    background: black;
+		    /*background: black;*/
 		    color: white;
 		    font-style: italic;
 		    font-size: 2vh;
@@ -160,6 +160,14 @@
 		.mobile .info{
 			padding-bottom: 25vh
 		}
+    .back_btn{
+    position: absolute;
+    z-index: 10000000000;
+    left: 1vh;
+    top: 47vh;
+    width: 10vh;}
+    .info_btn,.close_btn{
+    width: 5vh;}
 	</style>
 </head>
 <body>
@@ -191,7 +199,7 @@ var closepoints = []
 var hashlon
 var hashlat
 if(window.location.hash) {
-	var title = window.location.hash.split('#')[(window.location.hash).split('#').length-1].split('_')[1].replace(/%/g, ' ')
+	var title = window.location.hash.split('#')[(window.location.hash).split('#').length-1].split('_')[1].replace(/%/g, ' ').replace(/@/g, '#')
 		var value = find_index(title)
 		console.log(value)
 		$('.info').append('<div class="upper"></div>')
@@ -199,7 +207,6 @@ if(window.location.hash) {
 		$('.info .upper').append('<div class="date"></div>')
 		$('.info').append('<div class="img"></div>')
 		$('.info').append('<div class="des"></div>')
-		console.log(names[value])
 		$('.info .upper .title').append(names[value].title.split("'")[names[value].title.split("'").length-2])
 		$('.info .upper .date').append(names[value].date)
 		$('.info .des').append(names[value].prompt+'<br><br>')
@@ -305,7 +312,7 @@ $(document).ready(function(){
 				    var name = ''
 				    for (var k = names.length - 1; k >= 0; k--) {
 				        if(names[k].object_ID == db.features[value].properties.img){
-				            name = names[k].title.split("'")[names[k].title.split("'").length-2].replace(/ /g, '%');
+				            name = names[k].title.split("'")[names[k].title.split("'").length-2].replace(/ /g, '%').replace(/#/g, '@');
 				        }
 				    }
 					circleMesh_shadow.position.z = 1
@@ -551,10 +558,10 @@ function lerp (start, end, amt){
 <div class="zoomout">
 	<div class="dot"></div>
 </div>
-<div class="back">back</div>
+<a href="http://newlyformedcity.com/"><img src="images/back.png" class="back_btn"></a>
 		<div class="info closed">
-			<div class="info_btn btn">info</div>
-			<div class="close_btn btn">close</div>
+			<img src="images/info.png" class="info_btn btn">
+			<img src="images/info.png" class="close_btn btn">
 		</div>
 </body>
 </html>
