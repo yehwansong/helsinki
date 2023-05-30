@@ -7617,7 +7617,7 @@ names = [
   },
   {
     "object_ID": "1976-65",
-    "title": "['Peltotyötä, Île de Sein', 'Åkerarbete, Île de Sein', 'Working the Field, Île de Sein']",
+    "title": "['Peltotyötä, Île de Sein', 'Åkerarbete, Île de Sein', 'Working the Field, Ile de Sein']",
     "date": 1928,
     "img_URL": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2166993&size=extra_large&key=T3st1&orgid=87104",
     "prompt": "a painting of a woman walking down a dirt road, church in the background, eeire, rows of lush crops, sea plants, inspired by Esther Blaikie MacKinnon, dunwall city, rows of canteen in background, cobblestones on the ground, two women, during the day, flowerbeds, award-winning composition, celtic, cathedrals and abbeys"
