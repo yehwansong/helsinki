@@ -21,11 +21,11 @@
 	display: none;
 }
 .visible_subtitle{
-	display: inline-block; !important;
+	display: inline-block !important;
 }
 
 .mobile .visible_subtitle{
-	display: inline !important;
+	display: inline-block !important;
 }
 
     .circle{
