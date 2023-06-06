@@ -55,7 +55,17 @@ function hashchange(){
 		var title = window.location.hash.split('#')[(window.location.hash).split('#').length-1].split('_')[3]
 		var value = find_index(title)
 		$('.info').empty()
-		$('.info').append('<div class="upper"></div>')
+		$('.info').append('<img src="images/up.png" class="info_btn btn"><div class="upper"></div>')
+		if(isMobile){
+			$('.info').addClass('closed')
+			$('.info_btn').click(function(){
+				if($('.info').hasClass('closed')){
+								$('.info').removeClass('closed')
+							}else{
+								$('.info').addClass('closed')
+							}
+			})
+		}
 		$('.info .upper').append('<div class="title"></div>')
 		$('.info .upper').append('<div class="artist"></div>')
 		$('.info .upper').append('<div class="date"></div>')
@@ -222,9 +232,7 @@ function init() {
 	}
                     $('.dot').css({'left':map(hashlon, min_0, max_0, 0, 1)*100+'%'})
                     $('.dot').css({'top':map(hashlat, min_1, max_1, 0, 1)*100+'%'})
-if(!isMobile){window.addEventListener('click', onMouseClick, false);
-}else{window.addEventListener('touchstart', onTouchStart, false);}
-	window.addEventListener( 'mousemove', onMouseMove );
+window.addEventListener('click', onMouseClick, false);
 
 
 
@@ -481,8 +489,6 @@ function lerp (start, end, amt){
 <img src="images/play.png" class="play_btn">
 <img src="images/q-01.png" class="des_btn">
 	<img src="images/back.png" class="back_btn">
-		<div class="info">
-			<img src="images/info.png" class="info_btn btn">
-		</div>
+		<div class="info"></div>
 </body>
 </html>

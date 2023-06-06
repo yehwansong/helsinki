@@ -335,47 +335,60 @@ pointer-events: auto
     width:20vw;
     }
     .pano .home_btn{
-    top: 22.5vh;
+    	top: 22.5vh;
     }
-    .mobile .pano .home_btn{
+    .mobile.pano .home_btn{
     top: 40vw;
     }
     .des_btn{
     top: 12.5vh;
     }
     .mobile .des_btn {
-    top: 20vw;
-}
+    	top: 20vw;
+	}
+    .mobile.pano .des_btn{
+    	top: 60vw;
+    }
     .instruction,
     .instruction *{
     width: 12.5vh;
     text-align: center;
     font-size: 1.2vh;}
     .instruction{
-    position: absolute;
-    z-index: 100000000000000;
-    right: 0.2vh;
-    top: 32.5vh;
-    background: white;
-    border-radius: 50%;
-    padding: 2vh;
-    box-sizing: border-box;
-    border: 1px solid black;
+	    position: absolute;
+	    z-index: 100000000000000;
+	    right: 0.2vh;
+	    top: 32.5vh;
+	    background: white;
+	    border-radius: 50%;
+	    padding: 2vh;
+	    box-sizing: border-box;
+	    border: 1px solid black;
     }
     .mobile .instruction{
-    top: 40vw;}
+    	top: 40vw;
+    }
     .pano .instruction{
-    width: 11.25vh;
-    top: 45vh;}
+    	width: 11.25vh;
+    	top: 45vh;
+    }
+    .pano.mobile .instruction{
+    	top: 80vw;
+    }
     .listview .instruction,
     .mapview .instruction{
-    top: 20vh;}
+    	top: 20vh;
+    }
     .pano .des_btn{
     	top: 33.75vh
     }
     .pano .stop_btn,
     .pano .play_btn{
-    top: 11.25vh;
+    	top: 11.25vh;
+    }
+    .mobile.pano .stop_btn,
+    .mobile.pano .play_btn{
+    	top: 20vw;
     }
     .play_btn{
         display: none;
@@ -531,14 +544,22 @@ pointer-events: auto
 		    top: calc(-2px - 1vh);
 		}
 		.closed{
-
-		    transform: translateY(100%) translateY(1vh) translateY(2px);
+		    transform: translateY(100%) translateY(-8vh);
+		}
+		.closed .info_btn{
+			transform: translateY(-100%) translateX(-50%) rotate(180deg);
+		}
+		.info_btn{
+			transform: translateY(-100%) translateX(-50%);
 		}
 		.close_btn{
 			display: block;
 		}
 		.info_btn{
 			display: none;
+		}
+		.mobile .info_btn{
+			display: block;
 		}
 		.closed .close_btn{
 			display: none;
@@ -553,8 +574,10 @@ pointer-events: auto
 			bottom: 0;
 			top: auto;
 			left: auto;
+			transform:none;
 		}
 		.mobile .info{
+			overflow: visible;
 			padding-bottom: 25vh;
 			display: block;
 		}
