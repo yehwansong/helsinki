@@ -268,7 +268,7 @@ function make_sphere(){
                             points[l][2] = 40*l
                             original_points[l][2] = 40*l
                             objGroup.children[l].position.set(points[l][0],points[l][1],points[l][2])
-                            $('.zoomout').append('<a href="pano.html#'+sphere_Array[l].children[0].name+'"><div class="dot dot_'+l+'"></div></a>')
+                            $('.zoomout').append('<a href="http://newlyformedcity.net/pano.html#'+sphere_Array[l].children[0].name+'"><div class="dot dot_'+l+'"></div></a>')
                             $('.dot_'+l).css({'left':((points[l][0]+mapsize_x/2)/mapsize_x)*100+'%'})
                             $('.dot_'+l).css({'top':((points[l][1]+mapsize_y/2)/mapsize_y)*100+'%'})
                             if(l == points.length-1){
@@ -339,7 +339,7 @@ function hover_list(){
             $('.hoveredlist').removeClass('hoveredlist')
             $('.list_'+value).addClass('hoveredlist')
             $('.hoveredlist').off().on('click', function(){
-                window.location.replace("pano.html#"+sphere_Array[value].children[0].name);
+                window.location.replace("http://newlyformedcity.net/pano.html#"+sphere_Array[value].children[0].name);
             })
             console.log(points)
             objGroup.position.set(-1*points[value][0]*ratio,-1*points[value][1]*ratio, -1*(original_points[value][2]/5)*ratio)
@@ -824,7 +824,7 @@ function animate() {
                             }else{
                                 if(!opening){
                                     opening=true
-                                    window.location.replace("pano.html#"+selected.name);
+                                    window.location.replace("http://newlyformedcity.net/pano.html#"+selected.name);
                                 }
                             }
                         }
