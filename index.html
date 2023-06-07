@@ -2,7 +2,7 @@
 <html>
 <head> 
     <meta charset="UTF-8">
-    <title></title>
+    <title>NewlyFormedCity</title>
     <script src="https://d3js.org/d3.v5.min.js"></script>
 <script src="delaunator.min.js"></script>
 <script src="three.min.js"></script>
@@ -10,6 +10,7 @@
 <script src="names.js"></script>
 <script src="https://code.jquery.com/jquery-3.7.0.js" integrity="sha256-JlqSTELeR4TLqP0OG9dxM7yDPqX1ox/HfgiSLBj8+kM=" crossorigin="anonymous"></script>
 <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="icon" type="image/x-icon" href="fav.png">
 </head>
 <body class="landingview">
 <script type="text/javascript">
@@ -40,7 +41,10 @@ if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine
     var sphere_Array = []
     var hovered = false
     var stoped = false
-
+    if(window.location.hash === '#nointro'){
+    console.log(window.location.hash)
+        ani_counter = 5000
+    }
 
     function map(value, start1, stop1, start2, stop2) {
         var range1 = (value - start1) / (stop1 - start1);
@@ -201,7 +205,7 @@ function make_sphere(){
                 // points = reverseArray(points);
                         for (var l = 0; l < points.length; l++) {
 
-                            const geometry = new THREE.SphereGeometry( Math.floor(Math.random()*10)+30, 32, 32 );
+                            const geometry = new THREE.SphereGeometry( Math.floor(Math.random()*10)+30, 10, 7 );
                                 if(db.features[l]){
                                     var img = points[l][4]
                                 }else{
@@ -234,11 +238,7 @@ function make_sphere(){
 
 
                             // const geometry_c = new THREE.BoxGeometry( 1, 1, 1000 ); 
-                            const geometry_c = new THREE.CylinderGeometry( 0.25, 0.25, 1000, 6 );
-                            let texture4 = new THREE.TextureLoader().load( 'img/dash.png' )
-                            texture4.wrapS = THREE.RepeatWrapping;
-                            texture4.wrapT = THREE.RepeatWrapping;
-                            texture4.repeat.set(1, 5);
+                            const geometry_c = new THREE.CylinderGeometry( 0.25, 0.25, 1000, 2 );
                             // var material_c = new THREE.MeshBasicMaterial({ map:texture4 , transparent: true,})
                             var material_c = new THREE.MeshBasicMaterial({ color:0x5a5a5a})
                             const cube = new THREE.Mesh( geometry_c, material_c ); 
@@ -250,7 +250,7 @@ function make_sphere(){
 
 
 
-                            const geometry5 = new THREE.SphereGeometry( 5, 32, 32 );
+                            const geometry5 = new THREE.SphereGeometry( 5, 4, 2 );
                             const m5 = new THREE.MeshBasicMaterial( { color:0x5a5a5a} );
                             const sm_sphere = new THREE.Mesh( geometry5, m5 );
                             objGroup.children[l].add( sm_sphere );
@@ -271,38 +271,39 @@ function make_sphere(){
                     }
         }
 
-                    const geometry = new THREE.PlaneGeometry( mapsize_x, mapsize_y );
-                                        let texture2 = new THREE.TextureLoader().load( 'img/map.png')
-                    texture2.wrapS = THREE.RepeatWrapping;
-                    texture2.wrapT = THREE.RepeatWrapping;
-                    texture2.repeat.set(1, 1);
-                    let m2 = new THREE.MeshBasicMaterial( {
-                        map: texture2,
-                        transparent: true,
-                        side: THREE.DoubleSide
-                    } );
-                    const geometry2 = new THREE.PlaneGeometry( mapsize_x*2.4, mapsize_y );
 
-                    map = new THREE.Mesh( geometry, m2 );
-                    if(!isMobile){map.visible= false}
-                    map.position.z = 0
-                    map.rotation.x = degToRad(180)
-                    scene.add( map );
+                        const geometry2 = new THREE.PlaneGeometry( mapsize_x*2.4, mapsize_y );
                     if(!isMobile){
-                                        let texture3 = new THREE.TextureLoader().load( 'img/map_big.png' )
-                                        texture3.wrapS = THREE.RepeatWrapping;
-                                        texture3.wrapT = THREE.RepeatWrapping;
-                                        texture3.repeat.set(1, 1);
-                                        let m3 = new THREE.MeshBasicMaterial( {
-                                            map: texture3,
-                                            transparent: true,
-                                            side: THREE.DoubleSide
-                                        } );
-                                        map_fake = new THREE.Mesh( geometry2, m3 );
-                                        map_fake.position.z = 0
-                                        map_fake.rotation.x = degToRad(180)
-                                        scene.add( map_fake );
-                                    }
+                        let texture3 = new THREE.TextureLoader().load( 'img/map_big.png' )
+                        texture3.wrapS = THREE.RepeatWrapping;
+                        texture3.wrapT = THREE.RepeatWrapping;
+                        texture3.repeat.set(1, 1);
+                        let m3 = new THREE.MeshBasicMaterial( {
+                            map: texture3,
+                            transparent: true,
+                            side: THREE.DoubleSide
+                        } );
+                        map_fake = new THREE.Mesh( geometry2, m3 );
+                        map_fake.position.z = 0
+                        map_fake.rotation.x = degToRad(180)
+                        scene.add( map_fake );
+                    }else{
+                        const geometry = new THREE.PlaneGeometry( mapsize_x, mapsize_y );
+                                            let texture2 = new THREE.TextureLoader().load( 'img/map.png')
+                        texture2.wrapS = THREE.RepeatWrapping;
+                        texture2.wrapT = THREE.RepeatWrapping;
+                        texture2.repeat.set(1, 1);
+                        let m2 = new THREE.MeshBasicMaterial( {
+                            map: texture2,
+                            transparent: true,
+                            side: THREE.DoubleSide
+                        } );
+
+                        map = new THREE.Mesh( geometry, m2 );
+                        map.position.z = 0
+                        map.rotation.x = degToRad(180)
+                        scene.add( map );
+                    }
 }
 function create_list(){
     for (var i = points.length-1; i >=0; i--) {
@@ -409,7 +410,11 @@ var width
 var height
 $(document).ready(function(){
 
-
+    $('.skip_intro').click(function(){
+        ani_counter = 5000
+        $('.skip_intro .onlylanding').html('Use <span class="onlymobile">the arrows on the screen</span><span class="onlydesktop">on the arrow keys on the keyboard</span> to navigate.')
+        $('.skip_intro').removeClass('skip_intro')
+    })
     $(".checkbox").change(function() {
         $(".checkbox").not(this).prop("checked", false);
         if ($(this).is(":checked")) {
@@ -451,7 +456,12 @@ $(document).ready(function(){
         }
     });
 
-
+    $('.des_btn').click(function(){
+            $('body').addClass('desview')
+    })
+    $('.close_btn').click(function(){
+            $('body').removeClass('desview')
+    })
     $('.stop_btn').click(function(){
             stoped = true
             $('body').addClass('stopped')
@@ -547,8 +557,7 @@ function onKeyUp(event) {
 }
 // listview_fcn()
 function listview_fcn(){
-    map_fake.visible=false
-                    if(!isMobile){map.visible= false}
+                    if(!isMobile){map.visible= false}else{map_fake.visible=false}
         ratio = 0.65
     for (var i = points.length - 1; i >= 0; i--) {
         objGroup.children[i].position.set(points[i][0],points[i][1],original_points[i][2]/5)
@@ -583,7 +592,11 @@ function listview_fcn(){
             camera.updateProjectionMatrix();
             objGroup.position.set(-1*points[points.length-1][0]*ratio,-1*points[points.length-1][1]*ratio, -1*(original_points[points.length-1][2]/5)*ratio)
         objGroup.scale.set(ratio,ratio,ratio)
-        // map_fake.visible = false
+        if(!isMobile){
+            map_fake.visible = false
+        }else{
+            map.visible = false
+        }
 
 }
 function landingview_fcn(init){
@@ -621,8 +634,12 @@ function landingview_fcn(init){
             camera.updateProjectionMatrix();
         ratio = 1
         objGroup.scale.set(ratio,ratio,ratio)
-        map.scale.set(ratio,ratio,ratio)
         // map_fake.visible = false
+        if(!isMobile){
+            map_fake.visible = true
+        }else{
+            map.visible = true
+        }
 
 }
 function mapview_fcn(){
@@ -683,17 +700,21 @@ function animate() {
             }else if(ani_counter<3000){
                 $('.subtitle_8').addClass('visible_subtitle')
             }else{
+                if($('.skip_intro').length>0){
+        $('.skip_intro .onlylanding').html('Use <span class="onlymobile">the arrows on the screen</span><span class="onlydesktop">on the arrow keys on the keyboard</span> to navigate.')
+        $('.skip_intro').removeClass('skip_intro')
+                }
                     $('.subtitle').fadeOut(300)
             }
             if(ani_counter<0){
-                ani_counter = ani_counter+3
+                ani_counter = ani_counter+5
                 if(!isMobile){
                     map_fake.visible =true
-                    if(!isMobile){map.visible= false}
+                    map.visible= false
                     map_fake.position.z =-500-ani_counter
                 }
             }else{
-                ani_counter = ani_counter+3
+                ani_counter = ani_counter+5
                 if(!isMobile){
                 map_fake.position.z =Math.abs((ani_counter/3)%2000-1000)-1500
                     // map_fake.visible =false
@@ -735,11 +756,12 @@ function animate() {
         }
         objGroup.position.x  = pos_x
         objGroup.position.y  = pos_y
-        map.position.x  = pos_x
-        map.position.y  = pos_y
         if(!isMobile){
             map_fake.position.x  = pos_x
             map_fake.position.y  = pos_y
+        }else{
+            map.position.x  = pos_x
+            map.position.y  = pos_y
         }
 
 
@@ -829,7 +851,7 @@ function degToRad(degrees) {
   <div class="checkbox_wrap checkbox_wrap_3"><input type="checkbox" class="checkbox" id="checkbox_3">List View</div>
 </div>
 <div class="subtitle">
-    <span class="subtitle_1">Hi I'm an AI curator</span>
+    <span class="subtitle_1">Hi I'm an AI curator from Helsinki Biennial 2023</span>
     <span class="subtitle_2">You are flying over Helsinki</span>
     <span class="subtitle_3">a series of spheres that you can see</span>
     <span class="subtitle_4">contains panoramic images of locations in the city</span>
@@ -838,37 +860,35 @@ function degToRad(degrees) {
     <span class="subtitle_7">You can click in each sphere to travel inside and be immersed in the panorama</span>
     <span class="subtitle_8">Use <span class="onlymobile">the arrows on the screen</span><span class="onlydesktop">on the arrow keys on the keyboard</span> to navigate.</span>
 </div>
-<div class="instruction">
-    <span class="onlylanding">Use <span class="onlymobile">the arrows on the screen</span><span class="onlydesktop">on the arrow keys on the keyboard</span> to navigate.</span>
+<div class="instruction skip_intro">
+    <span class="onlylanding">Skip Intro</span>
     <span class="onlylist">Use <span class="onlylist">Scroll the page to read list. click artwork name with black background on the list</span></span>
     <span class="onlymap">Click dots on the map to explore</span>
 
 </div>
 <div class="description">
     
-Team: Iacopo Neri, Yehwan Song, Ludovica Schaerf, Pepe Ballesteros, Valentine Bernasconi, Darío Negueruela del Castillo
-
-Newly formed re-imagines the city of Helsinki through the collections of the Helsinki Art museum. It is a collaborative research-driven inquiry into how an Artificial Intelligence Entity could co-curate the collections of the Helsinki Art Museum HAM.
-
-Start: You are flying over Helsinki, a series of spheres appear, containing panoramic images of locations in the city that have been re-imagined by the AI based on the artworks of the Helsinki Art Museum. Use the arrows on the screen or on the keyboard to navigate.
-
-You can click in each sphere to travel inside and be immersed in the panorama. The geometry of the spaces in the original locations are maintained, but the content of the images is an artistic vision generated by the AI Entity.
-
+Team: Iacopo Neri, Yehwan Song, Ludovica Schaerf, Pepe Ballesteros, Valentine Bernasconi, Darío Negueruela del Castillo<br>
+Newly formed re-imagines the city of Helsinki through the collections of the Helsinki Art museum. It is a collaborative research-driven inquiry into how an Artificial Intelligence Entity could co-curate the collections of the Helsinki Art Museum HAM.<br>
+Start: You are flying over Helsinki, a series of spheres appear, containing panoramic images of locations in the city that have been re-imagined by the AI based on the artworks of the Helsinki Art Museum. Use the arrows on the screen or on the keyboard to navigate.<br>
+You can click in each sphere to travel inside and be immersed in the panorama. The geometry of the spaces in the original locations are maintained, but the content of the images is an artistic vision generated by the AI Entity.<br>
 Once inside the panorama, you will see some smaller spheres located in certain places of the panorama. These are the nearest locations, to which you can navigate by clicking on them. 
-
-—----
-
-COLOPHON
-For more information on the methodology and the models adopted, go to LINK 
+<br>
+—----<br>
+<br>
+COLOPHON<br>
+For more information on the methodology and the models adopted, go to LINK <br>
+<img src="images/about.png">
 
 </div>
 <img src="images/stop.png" class="stop_btn">
 <img src="images/play.png" class="play_btn">
 <img src="images/q-01.png" class="des_btn">
+<img src="images/x-01.png" class="close_btn">
 <div class="zoomout"></div>
 <div class="zoomout_bg"></div>
 <div class="list_wrap"><div class="list_wrap_inner"></div></div>
-    <div class="tags tags_mouse"><div class="name">tags_8</div><div class="circle"></div></div>
+    <div class="tags tags_mouse"><div class="name"></div><div class="circle"></div></div>
 <div class="black"></div>
 <img src="images/arrow.png" class="mobile_arrow mobile_arrow_l"></div>
 <img src="images/arrow.png" class="mobile_arrow mobile_arrow_r"></div>

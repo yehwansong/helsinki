@@ -73,6 +73,7 @@
         left: 0.25vh;
         top: 0.25vh;
         height: 45vh;
+        width:43.82415vh;
         z-index: 10000000;
         background-image: url(img/map_sm.png);
         background-repeat: no-repeat;
@@ -85,6 +86,20 @@
     }
     .description{
     	display: none;
+	    z-index: 100000000000;
+	    position: absolute;
+	    background: white;
+	    padding-left: 20vh;
+	    padding-right: 20vh;
+	    padding-top: 10vh;
+	    padding-bottom: 10vh;
+	    height: 100%;
+	    width: 100%;
+	    overflow-y: scroll;
+	    box-sizing: border-box;
+    }
+    .desview .description{
+    	display: block;
     }
     .mapview .zoomout{
     z-index: 10000000000000;
@@ -292,7 +307,8 @@ pointer-events: auto
     .play_btn,
     .pano .home_btn,
     .pano .back_btn,
-    .des_btn{
+    .des_btn,
+    .close_btn{
         position: absolute;
         z-index: 10000000000;
         right: 0;
@@ -323,6 +339,7 @@ pointer-events: auto
     .pano .home_btn,
     .pano .back_btn,
     .pano .des_btn,
+    .pano .close_btn,
     .pano .play_btn,
     .pano .stop_btn{
     width: 11.25vh;
@@ -330,6 +347,7 @@ pointer-events: auto
     .mobile .home_btn,
     .mobile .back_btn,
     .mobile .des_btn,
+    .mobile .close_btn,
     .mobile .play_btn,
     .mobile .stop_btn{
     width:20vw;
@@ -340,20 +358,31 @@ pointer-events: auto
     .mobile.pano .home_btn{
     top: 40vw;
     }
-    .des_btn{
+    .des_btn,
+    .close_btn{
     top: 12.5vh;
     }
-    .mobile .des_btn {
+    .mobile .des_btn,
+    .mobile .close_btn {
     	top: 20vw;
 	}
-    .mobile.pano .des_btn{
+    .mobile.pano .des_btn,
+    .mobile.pano .close_btn{
     	top: 60vw;
+    }
+    .close_btn,
+    .desview .des_btn{
+    	display: none;
+    }
+    .desview .close_btn{
+    	display: block;
     }
     .instruction,
     .instruction *{
     width: 12.5vh;
     text-align: center;
-    font-size: 1.2vh;}
+    font-size: 1.2vh;
+pointer-events: none;}
     .instruction{
 	    position: absolute;
 	    z-index: 100000000000000;
@@ -364,6 +393,11 @@ pointer-events: auto
 	    padding: 2vh;
 	    box-sizing: border-box;
 	    border: 1px solid black;
+    }
+    .skip_intro{
+    	pointer-events:all !important
+    }
+    .skip_intro:hover{filter: invert(1);
     }
     .mobile .instruction{
     	top: 40vw;
@@ -379,7 +413,8 @@ pointer-events: auto
     .mapview .instruction{
     	top: 20vh;
     }
-    .pano .des_btn{
+    .pano .des_btn,
+    .pano .close_btn{
     	top: 33.75vh
     }
     .pano .stop_btn,
@@ -402,6 +437,13 @@ pointer-events: auto
     .stop_btn:hover,
     .play_btn:hover{
         filter: invert(1);
+    }
+    .desview .stop_btn,
+	.desview .play_btn,
+	.desview .back_btn,
+	.desview .tags,
+	.desview .info{
+		display: none !important;
     }
     .checkbox_wrap_wrap{
     position: absolute;
@@ -480,6 +522,7 @@ pointer-events: auto
     transition: 1s;
 				}
 				.upper{
+    max-width: 40vw;
     min-width: 40vh;
 		    line-height: 1.15;
 		    box-sizing: border-box;
@@ -487,6 +530,16 @@ pointer-events: auto
     box-sizing: border-box;
     padding-right: 0;
     padding-left: 0;}
+    .mobile .upper{
+    	width: 100% !important;
+    max-width: 100%;
+    min-width: 100%;
+
+    }
+    .mobile .upper>div{
+    	width: 100% 
+
+    }
 
 		    .des{
     width: 50%;
@@ -547,13 +600,10 @@ pointer-events: auto
 		    transform: translateY(100%) translateY(-8vh);
 		}
 		.closed .info_btn{
-			transform: translateY(-100%) translateX(-50%) rotate(180deg);
-		}
-		.info_btn{
 			transform: translateY(-100%) translateX(-50%);
 		}
-		.close_btn{
-			display: block;
+		.info_btn{
+			transform: translateY(-100%) translateX(-50%) rotate(180deg);
 		}
 		.info_btn{
 			display: none;
@@ -569,7 +619,7 @@ pointer-events: auto
 		}
 		.mobile .img{
 			height: 25vh;
-			width: 100%;
+			width: 100% !important;
 			right: 0;
 			bottom: 0;
 			top: auto;
@@ -580,6 +630,29 @@ pointer-events: auto
 			overflow: visible;
 			padding-bottom: 25vh;
 			display: block;
+    z-index: 100000000000000000000;
 		}
-    .info_btn,.close_btn{
+    .info_btn{
     width: 5vh;}
+@media (max-aspect-ratio: 1/1) {
+  .img{
+    height: 15vh;
+    width: 50% !important;
+    bottom: 0;
+    top: auto;
+    left: auto;
+    right: 0;
+    background-position: center;
+  }
+  .info{
+
+    padding-bottom: 15vh;
+    box-sizing: content-box;
+  }
+    .description{
+	    padding-left: 2vh;
+	    padding-right: 2vh;
+	    padding-top: 5vh;
+	    padding-bottom: 5vh;
+    }
+}
