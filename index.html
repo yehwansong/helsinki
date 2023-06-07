@@ -105,6 +105,14 @@ for ( let ii = 0; ii < views.length; ++ ii ) {
 
     document.body.appendChild( renderer.domElement );
 
+if(isMobile){
+document.addEventListener('contextmenu', function(event) {
+  event.preventDefault();
+});
+}
+
+
+
 
 function remapFloat(v_, min0_, max0_, min1_, max1_) { return min1_ + (v_ - min0_) / (max0_ - min0_) * (max1_ - min1_); }
 
@@ -331,7 +339,6 @@ function hover_list(){
             $('.hoveredlist').removeClass('hoveredlist')
             $('.list_'+value).addClass('hoveredlist')
             $('.hoveredlist').off().on('click', function(){
-                console.log(sphere_Array[value])
                 window.location.replace("pano.html#"+sphere_Array[value].children[0].name);
             })
             console.log(points)
@@ -408,6 +415,7 @@ var left
 var bottom
 var width
 var height
+var opening=false
 $(document).ready(function(){
 
     $('.skip_intro').click(function(){
@@ -814,7 +822,10 @@ function animate() {
                                 const z = easeInOutQuad(click_ani_counter/100, z2, z1 - z2, 1);
                                 camera.position.set(x,y,z)
                             }else{
+                                if(!opening){
+                                    opening=true
                                 window.location.replace("pano.html#"+selected.name);
+                                }
                             }
                         }
             }

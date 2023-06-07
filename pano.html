@@ -52,6 +52,12 @@ if(window.location.hash) {
 }else{
 	window.location.hash = '707_24%9520948_60%1689814_1976-6-2'
 }
+if(isMobile){
+	console.log('111')
+// document.addEventListener('contextmenu', function(event) {
+//   event.preventDefault();
+// });
+}
 function hashchange(){
 		var title = window.location.hash.split('#')[(window.location.hash).split('#').length-1].split('_')[3]
 		var value = find_index(title)
@@ -239,9 +245,13 @@ function init() {
 	}
                     $('.dot').css({'left':map(hashlon, min_0, max_0, 0, 1)*100+'%'})
                     $('.dot').css({'top':map(hashlat, min_1, max_1, 0, 1)*100+'%'})
+                    if(isMobile){
+window.addEventListener('touchstart', onTouchStart, false);
+
+                    }else{
 window.addEventListener('click', onMouseClick, false);
-
-
+                    	
+                    }
 
 
 				renderer = new THREE.WebGLRenderer();
@@ -316,7 +326,8 @@ function onTouchStart(event) {
   // Calculate touch position normalized device coordinates
   var touch = event.touches[0];
   mouse.x = (touch.clientX / window.innerWidth) * 2 - 1;
-  mouse.y = -(touch.clientY / (window.innerHeight - $('.info').outerHeight())) * 2 + 1;
+  if(!isMobile){mouse.y = -(touch.clientY / (window.innerHeight-$('.info').outerHeight())) * 2 + 1;
+}else{mouse.y = -(touch.clientY / (window.innerHeight)) * 2 + 1}
 
   raycaster.setFromCamera(mouse, camera);
 
@@ -333,7 +344,6 @@ function onTouchStart(event) {
 
 // Handle mouse click
 function onMouseClick(event) {
-	console.log('111111')
   // Calculate mouse position normalized device coordinates
 
   mouse.x = (event.clientX / window.innerWidth) * 2 - 1;
