@@ -50,7 +50,7 @@ var resize_canvas
         var max_1 = 60.26
 if(window.location.hash) {
 }else{
-	window.location.hash = '707_24%9520948_60%1689814_1976-6-2'
+	// window.location.hash = '707_24%9520948_60%1689814_1976-6-2'
 }
 if(isMobile){
 	console.log('111')
@@ -99,7 +99,7 @@ function hashchange(){
 
 				for (var i = circle_amount-1; i >= 0; i--) {
 					var value = closepoints[i]
-					const texture00 = new THREE.TextureLoader().load( 'img/img_'+db.features[value].properties.img+'.jpg' );
+					const texture00 = new THREE.TextureLoader().load( 'img_compressed/img_'+db.features[value].properties.img+'.jpg' );
 					console.log(db.features[value].properties.img)
 					const material00 = new THREE.MeshBasicMaterial( { map: texture00 } );
 					circle_array[i].children[0].material = material00 
@@ -115,8 +115,8 @@ function hashchange(){
 					circle_array[i].children[0].name = value +'_'+db.features[value].properties.lon.toString().replace(/\./g, '%')+'_'+db.features[value].properties.lat.toString().replace(/\./g, '%')+'_'+db.features[value].properties.img
 					circle_array[i].children[1].name = value +'_'+db.features[value].properties.lon.toString().replace(/\./g, '%')+'_'+db.features[value].properties.lat.toString().replace(/\./g, '%')+'_'+db.features[value].properties.img
 				}
-				const texture = new THREE.TextureLoader().load( 'img/img_'+hash+'.jpg' );
-				console.log('img/img_'+hash+'.jpg')
+				const texture = new THREE.TextureLoader().load( 'img_high/img_'+hash+'.jpg' );
+				console.log('img_high/img_'+hash+'.jpg')
 				texture.colorSpace = THREE.SRGBColorSpace;
 				const material = new THREE.MeshBasicMaterial( { map: texture } );
 				wholeglobe.material = material
