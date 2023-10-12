@@ -3,16 +3,28 @@
 <head>
 	<title>NewlyFormedCity</title>
 	<meta charset="utf-8">
-<script src="locations.js"></script>
-<script src="names.js"></script>
-<script src="https://code.jquery.com/jquery-3.7.0.js" integrity="sha256-JlqSTELeR4TLqP0OG9dxM7yDPqX1ox/HfgiSLBj8+kM=" crossorigin="anonymous"></script>
+	<script src="locations.js"></script>
+	<script src="names.js"></script>
+	<script src="https://code.jquery.com/jquery-3.7.0.js" integrity="sha256-JlqSTELeR4TLqP0OG9dxM7yDPqX1ox/HfgiSLBj8+kM=" crossorigin="anonymous"></script>
+	<script src="https://www.gstatic.com/firebasejs/3.7.4/firebase.js "></script>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="style.css">
   <link rel="icon" type="image/x-icon" href="fav.png">
 </head>
 <body class="pano">
+	<!-- Google tag (gtag.js) -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-25EQHRV0TX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-25EQHRV0TX');
+</script>
 		<div id="container"></div>
 <script type="module">
+
 var isMobile = false;
 // device detection
 if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|ipad|iris|kindle|Android|Silk|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(navigator.userAgent) 
@@ -35,6 +47,7 @@ var raycaster = new THREE.Raycaster();
 var circle_array = []
 var hash
 var positions = []
+var locations_archive = []
 var closepoints = []
 				var circle_amount = 5
 var hashlon
@@ -43,6 +56,7 @@ var wholeglobe
 var prevhash =[]
 var stopped =false
 var resize_canvas
+var newKey = null
 
         var min_0 = 24.85
         var max_0 = 25.12
@@ -58,9 +72,46 @@ if(isMobile){
 //   event.preventDefault();
 // });
 }
+$(document).ready(function(){
+    onLoadFinish()
+})
+function onLoadFinish() {
+    console.log('onLoadFinish');
+	const firebaseConfig = {
+		apiKey: "AIzaSyAKzMlzTVpnI7cXY4oDmKzURjFDjxvoUBk",
+		authDomain: "newlyformedcit.firebaseapp.com",
+		projectId: "newlyformedcit",
+		storageBucket: "newlyformedcit.appspot.com",
+		messagingSenderId: "527417776630",
+		appId: "1:527417776630:web:b8b44e29d88ba7fbcf0fd7",
+		measurementId: "G-G7JJ0FHBHT",
+		databaseURL: "https://newlyformedcit-default-rtdb.firebaseio.com"
+	};
+    firebase.initializeApp(firebaseConfig);
+
+    window.setFirebaseValues = function (values) {
+        firebase.database().ref('values').update(values);
+    };
+
+    firebase.database().ref('values').on('value', function (snapshot) {
+        if (typeof window.firebaseValueChangeHandler !== 'function') {
+            return;
+        }
+        window.firebaseValueChangeHandler(snapshot.val());
+    }); // ready to go
+
+    if (typeof window.onFirebaseReady === 'function') {
+        window.onFirebaseReady();
+    }
+} // start loading firebase scripts
+
+
+
 function hashchange(){
 		var title = window.location.hash.split('#')[(window.location.hash).split('#').length-1].split('_')[3]
 		var value = find_index(title)
+
+
 		$('.info').empty()
 		$('.info').append('<img src="images/up.png" class="info_btn btn"><div class="upper"></div>')
 		if(isMobile){
@@ -76,19 +127,28 @@ function hashchange(){
 		$('.info .upper').append('<div class="title"></div>')
 		$('.info .upper').append('<div class="artist"></div>')
 		$('.info .upper').append('<div class="date"></div>')
-		$('.info').append('<div class="img"></div>')
+		$('.info').append('<a href="'+names[value].img_URL+'" target="_blank"><div class="img"></div><div class="small">© HAM Helsinki Art Museum / Kuvasto</div></a>')
 		$('.info').append('<div class="des"></div>')
 		$('.info .upper .title').append(names[value].title.split("'")[names[value].title.split("'").length-2])
 		$('.info .upper .artist').append(names[value].artist)
 		$('.info .upper .date').append(names[value].date)
 		$('.info .des').append(names[value].prompt+'<br><br>')
-		$('.info .img').css({'background-image':'url('+names[value].img_URL+')'})
+		$('.info .img').css({'background-image':'url(original/'+names[value].object_ID+'.jpeg)'})
 	  	hash = 			(window.location.hash).split('#')[1].split('_')[3]
 	  	console.log(hash)
 	  	hashlon = parseFloat((window.location.hash).split('#')[1].split('_')[1].replace(/%/g, '.'))
 	  	hashlat = parseFloat((window.location.hash).split('#')[1].split('_')[2].replace(/%/g, '.'))
                     $('.dot').css({'left':map(hashlon, min_0, max_0, 0, 1)*100+'%'})
                     $('.dot').css({'top':map(hashlat, min_1, max_1, 0, 1)*100+'%'})
+
+const database = firebase.database();
+locations_archive.push([hashlon,hashlat,value])
+if(newKey === null){
+	newKey = database.ref('values').push().key;
+}
+database.ref(newKey).set(locations_archive)
+
+
 
 	  	console.log((window.location.hash).split('#')[1].split('_'))
 	  	positions = []
@@ -322,7 +382,7 @@ function get_info_height(){
 	}else{
 		value = $('.des').outerHeight()
 	}
-	$('.info').css({'height':value+'px'})
+	$('.info').css({'height':value+0.012*window.innerHeight+'px'})
 	$('.img').css({'width':($('.info').outerWidth()/2 - $('.upper').outerWidth())+'px'})
 
 }
@@ -374,6 +434,7 @@ function degToRad(degrees) {
 }
 			function onWindowResize() {
 				if(!isMobile){
+					get_info_height()
 								camera.aspect = window.innerWidth / (window.innerHeight-$('.info').outerHeight());
 								renderer.setSize( window.innerWidth, (window.innerHeight-$('.info').outerHeight()) );
 							}else{
@@ -501,7 +562,7 @@ function lerp (start, end, amt){
 <div class="zoomout">
 	<div class="dot selected_dot"></div>
 </div>
-<a href="http://newlyformedcity.net/5187562.html#nointro">
+<a href="http://newlyformedcity.net#nointro">
 	<img src="images/x-01.png" class="home_btn">
 </a>
 <div class="instruction">
@@ -509,18 +570,21 @@ function lerp (start, end, amt){
 
 </div>
 <div class="description">
-    
-Team: Iacopo Neri, Yehwan Song, Ludovica Schaerf, Pepe Ballesteros, Valentine Bernasconi, Darío Negueruela del Castillo<br>
-Newly formed re-imagines the city of Helsinki through the collections of the Helsinki Art museum. It is a collaborative research-driven inquiry into how an Artificial Intelligence Entity could co-curate the collections of the Helsinki Art Museum HAM.<br>
-Start: You are flying over Helsinki, a series of spheres appear, containing panoramic images of locations in the city that have been re-imagined by the AI based on the artworks of the Helsinki Art Museum. Use the arrows on the screen or on the keyboard to navigate.<br>
-You can click in each sphere to travel inside and be immersed in the panorama. The geometry of the spaces in the original locations are maintained, but the content of the images is an artistic vision generated by the AI Entity.<br>
-Once inside the panorama, you will see some smaller spheres located in certain places of the panorama. These are the nearest locations, to which you can navigate by clicking on them. 
+<span class="small">Team: Yehwan Song, Iacopo Neri, Ludovica Schaerf, Pepe Ballesteros, Valentine Bernasconi, Darío Negueruela del Castillo</span><br>
+Newly Formed re-imagines the city of Helsinki through the collections of HAM Helsinki Art museum. It is a collaborative research-driven inquiry into how an AI Entity could co-curate the collections of the museum.<br>
 <br>
-—----<br>
+You are flying over Helsinki, a series of spheres appear, containing panoramic images of locations in the city that have been re-imagined by the AI based on the artworks of the Helsinki Art Museum. Use the arrows on the screen or on the keyboard to navigate. <br>
 <br>
-COLOPHON<br>
-For more information on the methodology and the models adopted, go to LINK <br>
-<img src="images/about.png">
+You can click in each sphere to travel inside and be immersed in the panorama. The geometry of the spaces in the original locations are maintained, but the content of the images is a vision generated by the AI Entity.<br>
+<br>
+Once inside the panorama, you will see some smaller spheres located in certain places of the panorama. These are the nearest locations, to which you can navigate by clicking on them.<br>
+<br>
+For more information on the methodology and the models adopted, go to <a href="https://arxiv.org/abs/2306.03753" target="_blank">here</a><br>
+<br>
+<span class="small">Disclaimer: In this project, the AI takes inspiration from the original artworks, but generates a completely new image which is not a collage of the original artwork. We have taken that decision consciously to respect the artistic integrity of the artworks. The project engages in what is called ‘distant viewing’, assuming a detached and agnostic reading of both the art collection and the city. Therefore, the images produced do not pretend to emerge from a culturally informed understanding of Finnish culture or Helsinki, but visually explore what deep learning foundation models can or cannot understand about the rich and fascinating art collections of the Helsinki Art Museum.</span><br>
+<br>
+<span class="small">All images of artworks © HAM Helsinki Art Museum and the original authors, All Rights Reserved. See <a href="https://ham.finna.fi" target="_blank" class="small">https://ham.finna.fi</a> for details and photo credits.</span>
+
 
 </div>
 <img src="images/stop.png" class="stop_btn">

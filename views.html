@@ -1,0 +1,974 @@
+<!DOCTYPE html>
+<html>
+<head> 
+    <meta charset="UTF-8">
+    <title>NewlyFormedCity</title>
+<script src="delaunator.min.js"></script>
+<script src="three.min.js"></script>
+<script src="locations.js"></script>
+<script src="names.js"></script>
+<script src="jquery-3.6.0.js"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4C0J09E1PF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4C0J09E1PF');
+</script>
+<style type="text/css">
+    .list_wrap,.checkbox_wrap_wrap,.instruction,.des_btn,.zoomout{
+        display: none !important;
+    }
+    body{
+            background-color: rgb(0 0 0) !important
+    }
+</style>
+
+
+<link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="icon" type="image/x-icon" href="fav.png">
+</head>
+<body class="listview">
+<script type="text/javascript">
+var isMobile = false;
+// device detection
+if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|ipad|iris|kindle|Android|Silk|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(navigator.userAgent) 
+    || /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(navigator.userAgent.substr(0,4))) { 
+    isMobile = true;
+    $('body').addClass('mobile')
+}else{
+
+    $('body').addClass('desktop')
+}
+    var points = []
+    var original_points = []
+    var markers = [];
+    var name_array = []
+    var svgData
+    var polygon_Array = []
+    var windowWidth = window.innerWidth
+    var windowHeight = window.innerHeight
+    var counter = 0
+    var list_counter = 0
+    var ani_counter = -3000
+    let polygons_origin
+    let polygons
+    var height = 20
+    var sphere_Array = []
+    var hovered = false
+    var stoped = false
+    var timeDifferenceInMinutes
+    if(window.location.hash === '#nointro'){
+    console.log(window.location.hash)
+        ani_counter = 5000
+    }
+
+    function map(value, start1, stop1, start2, stop2) {
+        var range1 = (value - start1) / (stop1 - start1);
+        var range2 = range1 * (stop2 - start2) + start2;
+        return range2;
+    } 
+    function calculateDistance(dot1, dot2) {
+        const [x1, y1] = dot1;
+        const [x2, y2] = dot2;
+        const dx = x2 - x1;
+        const dy = y2 - y1;
+        return Math.sqrt(dx * dx + dy * dy);
+    }
+
+get_time()
+function get_time(){
+
+// Create Date objects for June 8th, 0:00 and current time
+const june8th = new Date(2023, 5, 8, 0, 0, 0); // Months are zero-based (0 = January)
+const currentTime = new Date();
+console.log(currentTime)
+
+// Calculate the difference in minutes
+const timeDifferenceInMs = currentTime - june8th;
+    timeDifferenceInMinutes = Math.floor(timeDifferenceInMs / 1000 / 60);
+
+// Output the minute difference
+// db.features = db.features.slice(0, timeDifferenceInMinutes%30 + 100);
+// names = names.slice(0, timeDifferenceInMinutes%30 + 100);
+console.log(`The minute difference from June 8th, 0:00 to the current time is: ${timeDifferenceInMinutes%30 + 100} minutes.`);
+
+
+}
+
+
+function refreshPageWithNoIntro() {
+  window.location.hash = 'nointro';
+  window.location.reload();
+}
+
+// Prompt the user and start the timer
+const minutes = 30;
+const milliseconds = minutes * 60 * 1000;
+
+setTimeout(refreshPageWithNoIntro, milliseconds);
+
+
+
+
+
+
+    const scene = new THREE.Scene();
+    scene.fog = new THREE.Fog( 0xdee6e6, 1500, 6500 );
+
+    var map
+    var map_fake
+    var plane
+    var pos_x = 0 
+    var pos_y = 0
+
+
+
+
+    const renderer = new THREE.WebGLRenderer( { alpha: true } );
+    renderer.setSize( window.innerWidth, window.innerHeight );
+    renderer.setClearColor( 0x000000, 0 );
+    const views = [
+        {
+            left: 0,
+            bottom: 0,
+            width: 1,
+            height: 1,
+            fov: 17.5,
+            background: '#ffffff'
+        },
+        {
+            left: 0,
+            bottom: 0,
+            width: 1,
+            height: 1,
+            fov: 5,
+            background: '#000000'
+        }
+    ];
+let camera
+// var camera_pivot = new THREE.Group()
+for ( let ii = 0; ii < views.length; ++ ii ) {
+    const view = views[ ii ];
+    camera = new THREE.PerspectiveCamera( view.fov, window.innerWidth / window.innerHeight, 1, 50000 );
+
+    camera.updateProjectionMatrix();
+    view.camera = camera;
+}
+
+    document.body.appendChild( renderer.domElement );
+
+if(isMobile){
+document.addEventListener('contextmenu', function(event) {
+  event.preventDefault();
+});
+}
+
+function remapFloat(v_, min0_, max0_, min1_, max1_) { return min1_ + (v_ - min0_) / (max0_ - min0_) * (max1_ - min1_); }
+
+</script>
+<script type="module">
+    import * as THREE from './js/three.module.min.js';
+function calculateDistance(point1, point2) {
+  const [x1, y1] = point1;
+  const [x2, y2] = point2;
+  return Math.sqrt((x2 - x1) ** 2 + (y2 - y1) ** 2);
+}
+function degreesToRadians(degrees) {
+  var radians = degrees * (Math.PI / 180);
+  return radians;
+}
+function orderPointsByDistance(array) {
+    if (array.length <= 1) {
+    return array;
+    }
+
+    const orderedPoints = [array[0]];
+    let remainingPoints = array.slice(1);
+
+    while (remainingPoints.length > 0) {
+    const lastPoint = orderedPoints[orderedPoints.length - 1];
+    let closestDistance = Infinity;
+    let closestPointIndex = -1;
+
+    for (let i = 0; i < remainingPoints.length; i++) {
+      const point = remainingPoints[i];
+      const distance = calculateDistance(lastPoint, point);
+      if (Math.abs(distance - 10) < Math.abs(closestDistance - 10) && distance >= 20) {
+        closestDistance = distance;
+        closestPointIndex = i;
+      }
+    }
+
+    if (closestPointIndex === -1) {
+      // No point found that satisfies both conditions, break the loop
+      break;
+    }
+
+    const closestPoint = remainingPoints[closestPointIndex];
+    orderedPoints.push(closestPoint);
+    remainingPoints.splice(closestPointIndex, 1);
+    }
+
+    return orderedPoints;
+}
+
+
+function reverseArray(arr) {
+  let start = 0;
+  let end = arr.length - 1;
+
+  while (start < end) {
+    // Swap elements
+    const temp = arr[start];
+    arr[start] = arr[end];
+    arr[end] = temp;
+    start++;
+    end--;
+  }
+
+  return arr;
+}
+var objGroup,objGroup_wrap
+make_sphere()
+landingview_fcn(true)
+function make_sphere(){
+    objGroup_wrap = new THREE.Group()
+    objGroup = new THREE.Group()
+    scene.add(objGroup_wrap)
+    objGroup_wrap.add(objGroup)
+    for (var i = db.features.length - 1; i >= 0; i--) {
+        var group = new THREE.Group()
+        objGroup.add(group)
+    }
+        points = Array(db.features.length)
+        if(isMobile){points = Array(Math.floor(db.features.length/3))}
+        var min_0 = 24.85
+        var max_0 = 25.12
+        var min_1 = 60.13
+        var max_1 = 60.26
+
+        var mapsize_x = 0.97387*2500
+        var mapsize_y = 2500
+
+        for (var k = points.length - 1; k >= 0; k--) {
+            points[k]=Array(7)
+            original_points[k]=Array(3)
+            points[k][0] = map(db.features[k].properties.lon, min_0, max_0, -1*mapsize_x/2, mapsize_x/2)
+            points[k][1] = map(db.features[k].properties.lat, min_1, max_1, -1*mapsize_y/2, mapsize_y/2)
+            points[k][4] = db.features[k].properties.img
+            if(k==0){
+
+                points = orderPointsByDistance(points)
+points = points.slice(0, 50);
+// db.features = db.features.slice(0, timeDifferenceInMinutes%30 + 100);
+// names = names.slice(0, timeDifferenceInMinutes%30 + 100);
+                // points = reverseArray(points);
+                        for (var l = 0; l < points.length; l++) {
+
+                            const geometry = new THREE.SphereGeometry( Math.floor(Math.random()*10)+30, 10, 7 );
+                                if(db.features[l]){
+                                    var img = points[l][4]
+                                }else{
+                                    var img = ''
+                                }
+                            let texture = new THREE.TextureLoader().load( 'img_compressed/img_'+img+'.jpg' )
+                            const m1 = new THREE.MeshBasicMaterial( { 
+                                                map: texture,
+                                                side: THREE.DoubleSide } );
+                            const sphere = new THREE.Mesh( geometry, m1 );
+                            sphere.rotation.x =degToRad(180)
+                            var sphere_group = new THREE.Group()
+                            sphere_group.add(sphere)
+                            sphere_Array.push(sphere_group)
+                            objGroup.children[l].add(sphere_group)
+                            var name = ''
+                                    for (var i = names.length - 1; i >= 0; i--) {
+                                        if(names[i].object_ID == points[l][4]){
+                                            points[l][5] = names[i].title.split("'")[names[i].title.split("'").length-2];
+                                            points[l][6] = names[i].artist;
+                                        }
+                                    }
+                            sphere.name = 
+                            l +'_'
+                            +db.features[l].properties.lon.toString().replace(/\./g, '%')+'_'
+                            +db.features[l].properties.lat.toString().replace(/\./g, '%')+'_'
+                            +points[l][4]
+                            //image name
+                            // sphere.position.z = -50
+
+
+                            // const geometry_c = new THREE.BoxGeometry( 1, 1, 1000 ); 
+                            const geometry_c = new THREE.CylinderGeometry( 2,2, 1000, 2 );
+                            // var material_c = new THREE.MeshBasicMaterial({ map:texture4 , transparent: true,})
+                            var material_c = new THREE.MeshBasicMaterial({ color:0x000000})
+                            const cube = new THREE.Mesh( geometry_c, material_c ); 
+                            var cubeGroup = new THREE.Group()
+                            cube.rotation.x = degToRad(90)
+                            cube.position.z = -500
+                            // cube.position.x = 17.5
+                            // cube.position.y = 17.5
+                            objGroup.children[l].add( cubeGroup );
+                            cubeGroup.add(cube)
+
+
+
+                            const geometry5 = new THREE.SphereGeometry( 5, 4, 2 );
+                            const m5 = new THREE.MeshBasicMaterial( { color:0x5a5a5a} );
+                            const sm_sphere = new THREE.Mesh( geometry5, m5 );
+                            objGroup.children[l].add( sm_sphere );
+                             sm_sphere.visible=false
+
+
+
+                            points[l][2] = 40*l
+                            original_points[l][2] = 40*l
+                            objGroup.children[l].position.set(points[l][0],points[l][1],points[l][2])
+                            $('.zoomout').append('<a href="http://newlyformedcity.net/pano.html#'+sphere_Array[l].children[0].name+'"><div class="dot dot_'+l+'"></div></a>')
+                            $('.dot_'+l).css({'left':((points[l][0]+mapsize_x/2)/mapsize_x)*100+'%'})
+                            $('.dot_'+l).css({'top':((points[l][1]+mapsize_y/2)/mapsize_y)*100+'%'})
+                            if(l == points.length-1){
+                                if(!isMobile){
+                                                                create_list()}
+                            }
+                        }
+                    }
+        }
+
+
+                        const geometry2 = new THREE.PlaneGeometry( mapsize_x*2.4, mapsize_y );
+                    if(!isMobile){
+                        const geometry = new THREE.PlaneGeometry( mapsize_x, mapsize_y );
+                                            let texture2 = new THREE.TextureLoader().load( 'img/map.png')
+                        texture2.wrapS = THREE.RepeatWrapping;
+                        texture2.wrapT = THREE.RepeatWrapping;
+                        texture2.repeat.set(1, 1);
+                        let m2 = new THREE.MeshBasicMaterial( {
+                            map: texture2,
+                            transparent: true,
+                            side: THREE.DoubleSide
+                        } );
+                        map_fake = new THREE.Mesh( geometry, m2 );
+                        map_fake.position.z = 0
+                        map_fake.rotation.x = degToRad(180)
+                        scene.add( map_fake );
+                    }else{
+                        let texture3 = new THREE.TextureLoader().load( 'img/map_big.png' )
+                        texture3.wrapS = THREE.RepeatWrapping;
+                        texture3.wrapT = THREE.RepeatWrapping;
+                        texture3.repeat.set(1, 1);
+                        let m3 = new THREE.MeshBasicMaterial( {
+                            map: texture3,
+                            transparent: true,
+                            side: THREE.DoubleSide
+                        } );
+
+                        map = new THREE.Mesh( geometry, m2 );
+                        map.position.z = 0
+                        map.rotation.x = degToRad(180)
+                        scene.add( map );
+                    }
+}
+function create_list(){
+    for (var i = points.length-1; i >=0; i--) {
+                                // window.location.replace("pano.html#"+selected.name);
+        $('.list_wrap_inner').append('<div class="list list_'+i+'"><div class="list_title">'+points[i][5]+'</div><div class="list_artist">'+points[i][6]+'</div></div>')
+        if($('.list_'+i).outerWidth()>$('.list_wrap_inner').outerWidth()){
+            $('.list_'+i).addClass('marquee')
+        }else{
+            $('.list_'+i).css({'width':'100%'})
+        }
+        if(i == 0){
+            hover_list()
+        }
+    }
+}
+function hover_list(){
+    console.log($('.list').outerHeight())
+  $(".list_wrap").scroll(function() {
+        if(listview){
+            var value = points.length-Math.floor(($(".list_wrap").scrollTop()-$('.list').outerHeight()/2)/$('.list').outerHeight())-1
+
+                $('.selected_dot').removeClass('selected_dot')
+                $('.dot_'+value).addClass('selected_dot')
+
+            $('.hoveredlist').removeClass('hoveredlist')
+            $('.list_'+value).addClass('hoveredlist')
+            $('.hoveredlist').off().on('click', function(){
+                window.location.replace("http://newlyformedcity.net/pano.html#"+sphere_Array[value].children[0].name);
+            })
+            objGroup.position.set(0,0,-5000)
+            for (var i = sphere_Array.length - 1; i >= 0; i--) {
+                sphere_Array[i].children[0].scale.set(1,1,1)
+            }
+            sphere_Array[value].children[0].scale.set(2.5,2.5,2.5)
+        }
+  });
+    $('.list').hover(function(){
+            var value = parseInt($(this).attr('class').split('list_')[1])
+    })
+}
+var dots = points
+let currentDotIndex = 0;
+let c_currentDotIndex = 0;
+let currentDot = new THREE.Vector3(dots[currentDotIndex][0], dots[currentDotIndex][1], 0);
+let nextDot = new THREE.Vector3(dots[currentDotIndex + 1][0], dots[currentDotIndex + 1][1], 0);
+let c_currentDot = new THREE.Vector3(dots[currentDotIndex][0], dots[currentDotIndex][1], 0);
+let c_nextDot = new THREE.Vector3(dots[currentDotIndex + 1][0], dots[currentDotIndex + 1][1], 0);
+let t = 0.75;
+let c_t = 0;
+const raycaster = new THREE.Raycaster();
+const pointer = new THREE.Vector2();
+var intersects
+var clicked = false
+var click_animating = false
+var click_ani_counter = 0
+var ani_counter_start = false
+const worldPosition = new THREE.Vector3();
+var x1
+var x2
+var y1
+var y2
+var z1
+var z2
+var selected
+        var ratio = 0.01
+function toScreenPosition(obj, camera){
+    if(obj){
+        var vector = new THREE.Vector3();
+    
+        var widthHalf = 0.5*renderer.context.canvas.width;
+        var heightHalf = 0.5*renderer.context.canvas.height;
+    
+        obj.updateMatrixWorld();
+        vector.setFromMatrixPosition(obj.matrixWorld);
+        vector.project(camera);
+    
+        vector.x = ( vector.x * widthHalf ) + widthHalf;
+        vector.y = - ( vector.y * heightHalf ) + heightHalf;
+    
+        return { 
+            x: vector.x, 
+            y: vector.y
+        };
+    }else{
+        return { 
+            x: 0,
+            y: 0
+        };
+    }
+
+};
+
+var mapview = false
+var listview = true
+var ii
+var view
+var camera
+
+var left
+var bottom
+var width
+var height
+var opening=false
+$(document).ready(function(){
+
+    $('.skip_intro').click(function(){
+        ani_counter = 5000
+        $('.skip_intro .onlylanding').html('Use <span class="onlymobile">the arrows on the screen</span><span class="onlydesktop">on the arrow keys on the keyboard</span> to navigate.')
+        $('.skip_intro').removeClass('skip_intro')
+    })
+    $(".checkbox").change(function() {
+        $(".checkbox").not(this).prop("checked", false);
+        if ($(this).is(":checked")) {
+          console.log($(this).attr('id') === 'checkbox_1')
+            if($(this).attr('id') === 'checkbox_1'){
+                  $('body').addClass('landingview')
+                  $('body').removeClass('listview')
+                  landingview_fcn(false)
+                  $('body').removeClass('mapview')
+                  mapview = false
+                  listview = false
+            }
+            if($(this).attr('id') === 'checkbox_2'){
+                  $('body').removeClass('landingview')
+                  $('body').removeClass('listview')
+                  mapview_fcn()
+                  $('body').addClass('mapview')
+                  mapview = true
+                  listview = false
+            }
+            if($(this).attr('id') === 'checkbox_3'){
+                  $('body').removeClass('landingview')
+                  $('body').addClass('listview')
+                  listview_fcn()
+                  $('body').removeClass('mapview')
+                  mapview = false
+                  listview = true
+            }
+            return false
+        } else {
+            console.log('2')
+          $("#checkbox_1").prop("checked", true);
+          $('body').removeClass('listview')
+          $('body').removeClass('mapview')
+                  mapview = false
+                  listview = false
+                  landingview_fcn(false)
+            return false
+        }
+    });
+
+    $('.des_btn').click(function(){
+            $('body').addClass('desview')
+    })
+    $('.close_btn').click(function(){
+            $('body').removeClass('desview')
+    })
+    $('.stop_btn').click(function(){
+            stoped = true
+            $('body').addClass('stopped')
+    })
+    $('.play_btn').click(function(){
+            stoped = false
+            $('.stopped').removeClass('stopped')
+    })
+    setTimeout(function(){
+        ani_counter_start =  true
+        $('.black').fadeOut(1000) 
+        $('body').css({'background-color':'rgb(245 245 245)'})
+    },2000)
+    $('canvas').click(function(){
+        if(intersects.length>0 &&clicked== false){
+            clicked = true
+            click_ani_counter = 0
+        }
+    })
+  // Event listeners for arrow key presses
+  document.addEventListener('keydown', onKeyDown);
+  document.addEventListener('keyup', onKeyUp);
+})
+
+///movement
+
+$('.mobile_arrow_l').on('touchstart', function() {
+  event.preventDefault(); // Prevents default image popup
+  moveLeft = true;
+}).on('touchend', function() {
+  moveLeft = false;
+});
+
+$('.mobile_arrow_r').on('touchstart', function() {
+  event.preventDefault(); // Prevents default image popup
+  moveRight = true;
+}).on('touchend', function() {
+  moveRight = false;
+});
+
+$('.mobile_arrow_t').on('touchstart', function() {
+  event.preventDefault(); // Prevents default image popup
+  moveUp = true;
+}).on('touchend', function() {
+  moveUp = false;
+});
+
+$('.mobile_arrow_b').on('touchstart', function() {
+  event.preventDefault(); // Prevents default image popup
+  moveDown = true;
+}).on('touchend', function() {
+  moveDown = false;
+});
+
+
+var moveLeft = false;
+var moveRight = false;
+var moveUp = false;
+var moveDown = false;
+
+function onKeyDown(event) {
+  switch (event.keyCode) {
+    case 37: // Left arrow key
+      moveLeft = true;
+      break;
+    case 39: // Right arrow key
+      moveRight = true;
+      break;
+    case 38: // Up arrow key
+      moveUp = true;
+      break;
+    case 40: // Down arrow key
+      moveDown = true;
+      break;
+  }
+}
+
+function onKeyUp(event) {
+  switch (event.keyCode) {
+    case 37: // Left arrow key
+      moveLeft = false;
+      break;
+    case 39: // Right arrow key
+      moveRight = false;
+      break;
+    case 38: // Up arrow key
+      moveUp = false;
+      break;
+    case 40: // Down arrow key
+      moveDown = false;
+      break;
+  }
+}
+listview_fcn()
+function listview_fcn(){
+                    if(!isMobile){map.visible= false}else{map_fake.visible=false}
+        ratio = 0.25
+    for (var i = points.length - 1; i >= 0; i--) {
+        objGroup.children[i].position.set(points[i][0],points[i][1],original_points[i][2]/5)
+        // objGroup.children[i].children[1].visible = false
+        // objGroup.children[i].children[2].visible = false
+        objGroup.children[i].children[0].rotation.x = degToRad(-90)
+        objGroup.children[i].children[0].scale.set(1,1,1) 
+        // console.log(objGroup.children[i].position)
+    }
+        ii = 1
+        view = views[ii];
+        camera = view.camera;
+
+        left = Math.floor(windowWidth * view.left);
+        bottom = Math.floor(windowHeight * view.bottom);
+        width = Math.floor(windowWidth * view.width);
+        height = Math.floor(windowHeight * view.height);
+            camera.up.set(0, 0, 1);
+            camera.position.set(0,8000/2,5000/2)
+            camera.lookAt(0, 0, 0);
+
+
+            scene.fog.near = 0.1;
+            scene.fog.far = 0;
+
+            renderer.setViewport(left, bottom, width, height);
+            renderer.setScissor(left, bottom, width, height);
+            renderer.setScissorTest(true);
+            renderer.setClearColor( 0x000000, 0 ); // the default
+
+            camera.aspect = width / height;
+            camera.updateProjectionMatrix();
+            objGroup.position.set(0,0,-150)
+            // objGroup.rotation.y = degToRad(180)
+        objGroup.scale.set(ratio,ratio,ratio)
+        if(!isMobile){
+            map_fake.scale.set(ratio,ratio,ratio)
+            map_fake.position.set(0,0,-150)
+            // map_fake.visible = false
+        }else{
+            // map.visible = false
+        }
+
+}
+function landingview_fcn(init){
+    // if(ani_counter<1000){ani_counter = 1000}
+    if(!isMobile){map_fake.visible=true}
+            for (var i = sphere_Array.length - 1; i >= 0; i--) {
+                sphere_Array[i].children[0].scale.set(1,1,1)
+            }
+    for (var i = points.length - 1; i >= 0; i--) {
+        objGroup.children[i].position.set(points[i][0],points[i][1],points[i][2])
+        // objGroup.children[i].children[1].visible = true
+        // objGroup.children[i].children[2].visible = true
+        objGroup.children[i].children[0].rotation.x = degToRad(0)
+    }
+        ii = 0
+        view = views[ii];
+        camera = view.camera;
+
+        left = Math.floor(windowWidth * view.left);
+        bottom = Math.floor(windowHeight * view.bottom);
+        width = Math.floor(windowWidth * view.width);
+        height = Math.floor(windowHeight * view.height);
+        scene.fog.near = 1500
+        scene.fog.far = 6500
+            camera.up.set(0, -1, 0);
+            camera.position.set(0,0,-5750)
+            camera.lookAt(0, 0, 0);
+            
+            renderer.setViewport(left, bottom, width, height);
+            renderer.setScissor(left, bottom, width, height);
+            renderer.setScissorTest(true);
+            renderer.setClearColor( 0x000000, 0 ); // the default
+
+            camera.aspect = width / height;
+            camera.updateProjectionMatrix();
+        ratio = 1
+        objGroup.scale.set(ratio,ratio,ratio)
+        // map_fake.visible = false
+        if(!isMobile){
+            map_fake.visible = true
+        }else{
+            map.visible = true
+        }
+
+}
+function mapview_fcn(){
+    $('.dot').hover(function(){
+        var value = parseInt($(this).attr('class').split('dot_')[1].split(' ')[0])
+        $('.dot_'+value).css({'background-image':'url(img_compressed/img_'+points[value][4]+'.jpg)'})
+        $('.tags_mouse').html('<div class="tags_title">'+points[value][5]+'</div><div class="tags_artist">'+points[value][6]+'</div>')
+        $('.tags_mouse').css({'opacity':1})
+    },function(){
+        $('.dot').css({'background-image':''})
+    })
+}
+
+window.addEventListener( 'pointermove', onPointerMove );
+function onPointerMove( event ) {
+    pointer.x = ( event.clientX / window.innerWidth ) * 2 - 1;
+    pointer.y = - ( event.clientY / window.innerHeight ) * 2 + 1;
+}
+
+function animate() {
+    if(!mapview&&!listview){
+        for (var i = points.length - 1; i >= 0; i--) {
+                    if(((points[i][2]-1*ani_counter) - (Math.abs((ani_counter/3)%2000-1000)-1500))/1000<0){
+                        objGroup.children[i].children[1].scale.set(1,1,Math.abs(((points[i][2]-1*ani_counter) - (Math.abs((ani_counter/3)%2000-1000)-1500))/1000))
+                        objGroup.children[i].children[2].scale.set(1,1,1)
+                        objGroup.children[i].children[2].position.z = Math.abs(((points[i][2]-1*ani_counter) - (Math.abs((ani_counter/3)%2000-1000)-1500))/1000)*1000
+                    }else{
+                        objGroup.children[i].children[2].scale.set(0,0,0)
+                        objGroup.children[i].children[1].scale.set(0,0,0)
+                    }
+                    if(((points[i][2]-1*ani_counter) - (Math.abs((ani_counter/3)%2000-1000)-1500))/1000<1){
+                        objGroup.children[i].children[0].scale.set(1,1,1)
+                    }else{
+                        objGroup.children[i].children[0].scale.set(0,0,0) 
+
+                    }
+            if(points[i][2]-1*ani_counter<-5000&&clicked== false){
+                points[i][2] = points[i][2]+objGroup.children.length*20
+                objGroup.children[i].position.set(points[i][0],points[i][1],points[i][2])
+            }
+        }
+        if(ani_counter_start && !stoped){
+                $('.subtitle>span').removeClass('visible_subtitle')
+            if(ani_counter<-2250){
+                $('.subtitle_1').addClass('visible_subtitle')
+            }else if(ani_counter<-1500){
+                $('.subtitle_2').addClass('visible_subtitle')
+            }else if(ani_counter<-750){
+                $('.subtitle_3').addClass('visible_subtitle')
+            }else if(ani_counter<0){
+                $('.subtitle_4').addClass('visible_subtitle')
+            }else if(ani_counter<750){
+                $('.subtitle_5').addClass('visible_subtitle')
+            }else if(ani_counter<1500){
+                $('.subtitle_6').addClass('visible_subtitle')
+            }else if(ani_counter<2250){
+                $('.subtitle_7').addClass('visible_subtitle')
+            }else if(ani_counter<3000){
+                $('.subtitle_8').addClass('visible_subtitle')
+            }else{
+                if($('.skip_intro').length>0){
+        $('.skip_intro .onlylanding').html('Use <span class="onlymobile">the arrows on the screen</span><span class="onlydesktop">on the arrow keys on the keyboard</span> to navigate.')
+        $('.skip_intro').removeClass('skip_intro')
+                }
+                    $('.subtitle').fadeOut(300)
+            }
+            if(ani_counter<0){
+                ani_counter = ani_counter+5
+                if(!isMobile){
+                    // map_fake.visible =true
+                    // map.visible= false
+                    map_fake.position.z =-500-ani_counter
+                }
+            }else{
+                ani_counter = ani_counter+5
+                if(!isMobile){
+                map_fake.position.z =Math.abs((ani_counter/3)%2000-1000)-1500
+                    // map_fake.visible =false
+                }
+            }
+        }
+
+
+
+        if(!isMobile){
+                if (moveLeft) {
+                    pos_x = pos_x+ 2;
+                }
+                if (moveRight) {
+                    pos_x = pos_x- 2;
+                }
+                if (moveUp) {
+                    pos_y = pos_y+ 2;
+                }
+                if (moveDown) {
+                    pos_y = pos_y- 2;
+                }
+        }else{
+                if (moveLeft) {
+                    pos_x = pos_x+ 4;
+                }
+                if (moveRight) {
+                    pos_x = pos_x- 4;
+                }
+                if (moveUp) {
+                    pos_y = pos_y+ 4;
+                }
+                if (moveDown) {
+                    pos_y = pos_y- 4;
+                }
+        }
+        if(!clicked){
+            objGroup.position.z = -1*ani_counter
+        }
+        objGroup.position.x  = pos_x
+        objGroup.position.y  = pos_y
+        if(!isMobile){
+            map_fake.position.x  = pos_x
+            map_fake.position.y  = pos_y
+        }else{
+            map.position.x  = pos_x
+            map.position.y  = pos_y
+        }
+
+
+
+
+        
+            raycaster.setFromCamera( pointer, camera );
+            intersects = raycaster.intersectObjects( sphere_Array );
+            for (var i = sphere_Array.length - 1; i >= 0; i--) {
+                hovered = false
+                sphere_Array[i].children[0].material.color.set( 0xffffff );
+                $('.selected_dot').removeClass('selected_dot')
+            }
+            if ( intersects.length>0 ) {
+                hovered = true
+                if(ani_counter>3000){
+                            intersects[ 0 ].object.material.color.set( 0x000000 );
+                            var value = parseInt(intersects[ 0 ].object.name.split('_')[0])
+                            $('.dot_'+value).addClass('selected_dot')
+                            if(points[value][5]){
+        $('.tags_mouse').html('<div class="tags_title">'+points[value][5]+'</div><div class="tags_artist">'+points[value][6]+'</div>')
+                                                        value = parseInt(intersects[ 0 ].object.name.split('_')[0])
+                                                        $('.tags_mouse').css({'opacity':1})
+                                                    }
+                        }
+            }else{
+                hovered = false
+                $('.tags_mouse').css({'opacity':0})
+            }
+            if(clicked){
+                if(ani_counter>1000){
+                            click_ani_counter++
+                            if(x1 === undefined){
+                                x2 = camera.getWorldPosition(worldPosition).x
+                                y2 = camera.getWorldPosition(worldPosition).y
+                                z2 = camera.getWorldPosition(worldPosition).z
+                                selected = intersects[0].object
+                                x1 = selected.getWorldPosition(worldPosition).x
+                                y1 = selected.getWorldPosition(worldPosition).y
+                                z1 = selected.getWorldPosition(worldPosition).z
+                            }
+                
+                            if(click_ani_counter>95){
+                                $('.black').show()
+                            }
+                            if(click_ani_counter<100){
+                
+                                const x = easeInOutQuad(click_ani_counter/100, x2, x1 - x2, 1);
+                                const y = easeInOutQuad(click_ani_counter/100, y2, y1 - y2, 1);
+                                const z = easeInOutQuad(click_ani_counter/100, z2, z1 - z2, 1);
+                                camera.position.set(x,y,z)
+                            }else{
+                                if(!opening){
+                                    opening=true
+                                    window.location.replace("http://newlyformedcity.net/pano.html#"+selected.name);
+                                }
+                            }
+                        }
+            }
+        objGroup_wrap.rotation.z = 0
+
+            renderer.render(scene, camera);
+    }else if(listview){
+        list_counter++
+        objGroup_wrap.rotation.z = degToRad(list_counter/30)
+        map_fake.rotation.z = -1*degToRad(list_counter/30)
+            renderer.render(scene, camera);
+    }
+
+  requestAnimationFrame(animate);
+}
+
+function ease(t) {
+  return t<.5 ? 2*t*t : -1+(4-2*t)*t;
+}
+function easeInOutQuad(t, b, c, d) {
+  t /= d / 2;
+  if (t < 1) return c / 2 * t * t + b;
+  t--;
+  return -c / 2 * (t * (t - 2) - 1) + b;
+}
+    animate();
+function degToRad(degrees) {
+  return degrees * Math.PI / 180;
+}
+</script>
+
+<div class="checkbox_wrap_wrap">
+  <div class="checkbox_wrap checkbox_wrap_1"><input type="checkbox" class="checkbox" checked = "true" id="checkbox_1">Landing View</div>
+  <div class="checkbox_wrap checkbox_wrap_2"><input type="checkbox" class="checkbox" id="checkbox_2">Map View</div>
+  <div class="checkbox_wrap checkbox_wrap_3"><input type="checkbox" class="checkbox" id="checkbox_3">List View</div>
+</div>
+<div class="subtitle">
+    <span class="subtitle_1">Hi, I'm an AI curator from Helsinki Biennial 2023.</span>
+    <span class="subtitle_2">You are flying over Helsinki</span>
+    <span class="subtitle_3">observing a series of spheres</span>
+    <span class="subtitle_4">that showcase panoramic images of various locations in the city.</span>
+    <span class="subtitle_5">These locations have been re-imagined</span>
+    <span class="subtitle_6">by the AI based on the artworks from the Helsinki Art Museum.</span>
+    <span class="subtitle_7">You can click on each sphere to enter and immerse yourself in the panorama.</span>
+    <span class="subtitle_8">To navigate, use <span class="onlymobile">the arrows displayed on the screen</span><span class="onlydesktop">the arrow keys on your keyboard.</span></span>
+</div>
+<div class="instruction skip_intro">
+    <span class="onlylanding">Skip Intro</span>
+    <span class="onlylist">Scroll down the page to view the list and click on artwork names displayed with a black background.</span>
+    <span class="onlymap">Explore different locations by clicking on the dots on the map.</span>
+
+</div>
+<div class="description">
+<span class="small">Team: Yehwan Song, Iacopo Neri, Ludovica Schaerf, Pepe Ballesteros, Valentine Bernasconi, Darío Negueruela del Castillo</span><br>
+Newly Formed re-imagines the city of Helsinki through the collections of HAM Helsinki Art museum. It is a collaborative research-driven inquiry into how an AI Entity could co-curate the collections of the museum.<br>
+<br>
+You are flying over Helsinki, a series of spheres appear, containing panoramic images of locations in the city that have been re-imagined by the AI based on the artworks of the Helsinki Art Museum. Use the arrows on the screen or on the keyboard to navigate. <br>
+<br>
+You can click in each sphere to travel inside and be immersed in the panorama. The geometry of the spaces in the original locations are maintained, but the content of the images is a vision generated by the AI Entity.<br>
+<br>
+Once inside the panorama, you will see some smaller spheres located in certain places of the panorama. These are the nearest locations, to which you can navigate by clicking on them.<br>
+<br>
+For more information on the methodology and the models adopted, go to <a href="https://arxiv.org/abs/2306.03753" target="_blank">here</a><br>
+<br>
+<span class="small">Disclaimer: In this project, the AI takes inspiration from the original artworks, but generates a completely new image which is not a collage of the original artwork. We have taken that decision consciously to respect the artistic integrity of the artworks. The project engages in what is called ‘distant viewing’, assuming a detached and agnostic reading of both the art collection and the city. Therefore, the images produced do not pretend to emerge from a culturally informed understanding of Finnish culture or Helsinki, but visually explore what deep learning foundation models can or cannot understand about the rich and fascinating art collections of the Helsinki Art Museum.</span><br>
+<br>
+<span class="small">All images of artworks © HAM Helsinki Art Museum and the original authors, All Rights Reserved. See <a href="https://ham.finna.fi" target="_blank" class="smallsmall">https://ham.finna.fi</a> for details and photo credits.</span>
+
+
+</div>
+<img src="images/stop.png" class="stop_btn">
+<img src="images/play.png" class="play_btn">
+<img src="images/q-01.png" class="des_btn">
+<img src="images/x-01.png" class="close_btn">
+<div class="zoomout"></div>
+<div class="zoomout_bg"></div>
+<div class="list_wrap"><div class="list_wrap_inner"></div></div>
+    <div class="tags tags_mouse"><div class="name"></div><div class="circle"></div></div>
+<div class="black"></div>
+<img src="images/arrow.png" class="mobile_arrow mobile_arrow_l"></div>
+<img src="images/arrow.png" class="mobile_arrow mobile_arrow_r"></div>
+<img src="images/arrow.png" class="mobile_arrow mobile_arrow_t"></div>
+<img src="images/arrow.png" class="mobile_arrow mobile_arrow_b"></div>
+
+</body>
+</html>

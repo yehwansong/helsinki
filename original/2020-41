@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="fi-FI">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon"  href="/themes/kifi/images/favicon.ico" type="image/x-icon" />
+        <meta name="description" content="Yleisten kirjastojen digitoimaa aineistoa" />
+            <title>Photographicum : Karlberg-Aulanko &middot; DIGI - Yleisten kirjastojen digitoimaa aineistoa</title>
+
+    <link rel="alternate" type="application/rss+xml" title="Omeka RSS-syöte" href="/items/browse?output=rss2" /><link rel="alternate" type="application/atom+xml" title="Omeka Atom-syöte" href="/items/browse?output=atom" />
+    <!-- Plugin Stuff -->
+
+    
+    <!-- Stylesheets -->
+    <link href="/plugins/Geolocation/views/shared/javascripts/leaflet/leaflet.css?v=2.7" media="" rel="stylesheet" type="text/css" >
+<link href="/plugins/Geolocation/views/shared/css/geolocation-marker.css?v=2.7" media="all" rel="stylesheet" type="text/css" >
+<link href="/plugins/ShadowPage/views/public/css/shadowbox.css?v=2.7" media="all" rel="stylesheet" type="text/css" >
+<link href="/plugins/ShadowPage/views/public/css/shadowpage.css?v=2.7" media="all" rel="stylesheet" type="text/css" >
+<link href="/plugins/ShortcodeCarousel/views/public/css/jcarousel.responsive.css?v=2.7" media="all" rel="stylesheet" type="text/css" >
+<link href="/plugins/Html5Media/views/shared/mediaelement/mediaelementplayer.css?v=2.7" media="all" rel="stylesheet" type="text/css" >
+<link href="/plugins/Html5Media/views/shared/css/html5media.css?v=2.7" media="all" rel="stylesheet" type="text/css" >
+<link href="/themes/kifi/css/flexslider.css?v=2.7" media="all" rel="stylesheet" type="text/css" >
+<link href="/themes/kifi/css/style.css?v=2.7" media="all" rel="stylesheet" type="text/css" >
+<link href="//fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic" media="all" rel="stylesheet" type="text/css" >
+<link href="//fonts.googleapis.com/css?family=Arimo:400,700" media="all" rel="stylesheet" type="text/css" >
+<link href="//fonts.googleapis.com/css?family=Cabin:400,700" media="all" rel="stylesheet" type="text/css" >
+<!--[if IE 8]><link href="/themes/kifi/css/style-ie.css?v=2.7" media="all" rel="stylesheet" type="text/css" ><![endif]--><style type="text/css" media="all">
+<!--
+.download-full-res{
+    float: left;
+    clear:left;
+    }
+-->
+</style>    <style>
+        #site-title a:link, #site-title a:visited,
+        #site-title a:active, #site-title a:hover {
+            color: #000000;
+                    }
+    </style>
+    <!-- JavaScripts -->
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script type="text/javascript">
+    //<!--
+    window.jQuery || document.write("<script type=\"text\/javascript\" src=\"\/application\/views\/scripts\/javascripts\/vendor\/jquery.js?v=2.7\" charset=\"utf-8\"><\/script>")    //-->
+</script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+<script type="text/javascript">
+    //<!--
+    window.jQuery.ui || document.write("<script type=\"text\/javascript\" src=\"\/application\/views\/scripts\/javascripts\/vendor\/jquery-ui.js?v=2.7\" charset=\"utf-8\"><\/script>")    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    jQuery.noConflict();    //-->
+</script>
+<script type="text/javascript" src="/plugins/Geolocation/views/shared/javascripts/leaflet/leaflet.js?v=2.7"></script>
+<script type="text/javascript" src="/plugins/Geolocation/views/shared/javascripts/leaflet/leaflet-providers.js?v=2.7"></script>
+<script type="text/javascript" src="/plugins/Geolocation/views/shared/javascripts/map.js?v=2.7"></script>
+<script type="text/javascript">
+    //<!--
+    
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-707659-33', 'auto');
+ga('set', 'anonymizeIp', true);
+ga('send', 'pageview');    //-->
+</script>
+<script type="text/javascript" src="/plugins/ShadowPage/views/public/javascripts/shadowbox.js?v=2.7"></script>
+<script type="text/javascript">
+    //<!--
+    Shadowbox.init();    //-->
+</script>
+<script type="text/javascript" src="/plugins/ShortcodeCarousel/views/public/javascripts/jcarousel.responsive.js?v=2.7"></script>
+<script type="text/javascript" src="/plugins/ShortcodeCarousel/views/public/javascripts/jquery.jcarousel.min.js?v=2.7"></script>
+<script type="text/javascript">
+    //<!--
+    mejsL10n = {"language":"fi-FI","strings":{"mejs.download-file":"Download File","mejs.play":"Play","mejs.pause":"Pause","mejs.mute-toggle":"Mute Toggle","mejs.fullscreen":"Fullscreen","mejs.captions-subtitles":"Captions\/Subtitles","mejs.none":"None","mejs.fullscreen-off":"Turn off Fullscreen","mejs.fullscreen-on":"Go Fullscreen","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.download-video":"Download Video","mejs.close":"Close"}};    //-->
+</script>
+<script type="text/javascript" src="/plugins/Html5Media/views/shared/mediaelement/mediaelement-and-player.min.js?v=2.7"></script>
+<script type="text/javascript" src="/themes/kifi/javascripts/vendor/modernizr.js?v=2.7"></script>
+<!--[if (gte IE 6)&(lte IE 8)]><script type="text/javascript" src="/application/views/scripts/javascripts/vendor/selectivizr.js?v=2.7"></script><![endif]-->
+<script type="text/javascript" src="/application/views/scripts/javascripts/vendor/respond.js?v=2.7"></script>
+<script type="text/javascript" src="/themes/kifi/javascripts/globals.js?v=2.7"></script>
+<script type="text/javascript" src="/themes/kifi/javascripts/jquery.flexslider-min.js?v=2.7"></script>    
+<script type="text/javascript">
+
+  // tiny helper function to add breakpoints
+  function getGridSize() {
+    return (window.innerWidth < 600) ? 1 :
+           (window.innerWidth < 900) ? 2 : 4;
+  }
+ 
+  jQuery(window).load(function() {
+    jQuery('.flexslider').flexslider({
+    animation: "fade",
+    animationLoop: true,
+    smoothHeight: false,
+    slideshow: true,
+    directionNav: false
+    //itemWidth: 200,
+    //itemMargin: 10,
+      //minItems: getGridSize(), // use function to pull in initial value
+      //maxItems: getGridSize() // use function to pull in initial value
+    });
+  });
+
+</script>
+
+</head>
+<body class="item show">
+        <a href="#main" class="visually-hidden focusable skip-link">Hyppää pääsisältöön</a>
+    <iframe width="100%" scrolling="no" height="35" frameborder="0" src="https://gfx.kirjastot.fi/kifi/kirjastotfi-banner.html"></iframe>
+    <div id="wrapper">
+        <div class="menu-button">Valikko</div>
+        <header>
+                        <div class="left media-tiny media-small media-big">
+                <div class="logo" aria-hidden="true">
+                    <a href="https://digi.kirjastot.fi" ><img src="https://digi.kirjastot.fi/files/theme_uploads/1b8dcec31e32992f14b04ba92c0b83de.png" alt="DIGI - Yleisten kirjastojen digitoimaa aineistoa" /></a>
+                </div>
+                <div class="site-title-and-desc">
+                    <div class="site-title"><a href="https://digi.kirjastot.fi" >Digi</a>
+</div>
+                    <div class="site-desc"><span class="dot"><img src="/themes/kifi/images/dot.png" alt=""/></span>Yleisten kirjastojen digitoimaa aineistoa</div>
+                </div>
+            </div>
+            <div class="right media-tiny media-small media-big">
+                <div class="extras">
+                    <div class="searchlinks">
+                        <a href="/hakuohje">Hakuohjeet</a>&nbsp;&nbsp;<a href="/items/search">Tarkka haku</a>&nbsp;&nbsp;<a href="/finna">Digitoituja aineistoja muualla</a>
+                    </div>
+                    <div class="searchbox right">
+                        <form id="search-form" name="search-form" action="/search" method="get">    <label for="query" class="visually-hidden">Hakusanat</label>
+    <input type="text" name="query" id="query" value="" title="Haku">        <div id="advanced-form">
+        <fieldset id="query-types">
+            <legend>Haun tyyppi:</legend>
+            <label><input type="radio" name="query_type" id="query_type-keyword" value="keyword">Avainsana</label><br>
+<label><input type="radio" name="query_type" id="query_type-boolean" value="boolean" checked="checked">Boolen-haku</label><br>
+<label><input type="radio" name="query_type" id="query_type-exact_match" value="exact_match">Tarkka osuma</label>        </fieldset>
+                <fieldset id="record-types">
+            <legend>Haun kohde:</legend>
+                        <input type="checkbox" name="record_types[]" id="record_types-Item" value="Item" checked="checked"> <label for="record_types-Item">Aineisto</label><br />
+                        <input type="checkbox" name="record_types[]" id="record_types-File" value="File" checked="checked"> <label for="record_types-File">Tiedosto</label><br />
+                        <input type="checkbox" name="record_types[]" id="record_types-Collection" value="Collection" checked="checked"> <label for="record_types-Collection">Kokoelma</label><br />
+                        <input type="checkbox" name="record_types[]" id="record_types-Exhibit" value="Exhibit" checked="checked"> <label for="record_types-Exhibit">Esittely</label><br />
+                        <input type="checkbox" name="record_types[]" id="record_types-ExhibitPage" value="ExhibitPage" checked="checked"> <label for="record_types-ExhibitPage">Esittelyn sivu</label><br />
+                        <input type="checkbox" name="record_types[]" id="record_types-SimplePagesPage" value="SimplePagesPage" checked="checked"> <label for="record_types-SimplePagesPage">Sivu</label><br />
+                    </fieldset>
+                <p><a href="/items/search">Edistynyt haku (vain aineistoille)</a></p>
+    </div>
+        <button name="submit_search" id="submit_search" type="submit" value="Haku">Haku</button></form>
+                    </div>
+                </div>
+            </div>
+            <div id="wrap">
+                <nav id="main-menu" class="main-nav" role="navigation">
+                    <ul class="navigation">
+    <li>
+        <a href="/">Etusivu</a>
+    </li>
+    <li>
+        <a href="/items/browse">Aineistot</a>
+    </li>
+    <li>
+        <a href="/collection-tree">Kokoelmat</a>
+    </li>
+    <li>
+        <a href="/exhibits">Esittelyssä</a>
+    </li>
+    <li>
+        <a href="/geolocation/map/browse">Kartta</a>
+    </li>
+    <li>
+        <a href="/tietoa-palvelusta">Tietoa palvelusta</a>
+    </li>
+    <li>
+        <a href="/contact">Ota yhteyttä</a>
+    </li>
+</ul>                </nav>
+            </div>
+        </header>
+
+        <main id="main" class="main-content clearfix">
+                <div class="item-type">Aineisto</div>
+<section class="clearfix">
+    <div class="content-left">
+        <h1>Photographicum : Karlberg-Aulanko</h1>
+        
+        <div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Nimeke</h3>
+                    <div class="element-text">Photographicum : Karlberg-Aulanko</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Aihe</h3>
+                    <div class="element-text"><a href="/items/browse?advanced%5B0%5D%5Belement_id%5D=49&advanced%5B0%5D%5Btype%5D=is+exactly&advanced%5B0%5D%5Bterms%5D=kartanot">kartanot</a></div>
+                    <div class="element-text"><a href="/items/browse?advanced%5B0%5D%5Belement_id%5D=49&advanced%5B0%5D%5Btype%5D=is+exactly&advanced%5B0%5D%5Bterms%5D=Karlbergin+kartano">Karlbergin kartano</a></div>
+                    <div class="element-text"><a href="/items/browse?advanced%5B0%5D%5Belement_id%5D=49&advanced%5B0%5D%5Btype%5D=is+exactly&advanced%5B0%5D%5Bterms%5D=Karlberg">Karlberg</a></div>
+                    <div class="element-text"><a href="/items/browse?advanced%5B0%5D%5Belement_id%5D=49&advanced%5B0%5D%5Btype%5D=is+exactly&advanced%5B0%5D%5Bterms%5D=Aulanko">Aulanko</a></div>
+                    <div class="element-text"><a href="/items/browse?advanced%5B0%5D%5Belement_id%5D=49&advanced%5B0%5D%5Btype%5D=is+exactly&advanced%5B0%5D%5Bterms%5D=H%C3%A4meenlinna">Hämeenlinna</a></div>
+                    <div class="element-text"><a href="/items/browse?advanced%5B0%5D%5Belement_id%5D=49&advanced%5B0%5D%5Btype%5D=is+exactly&advanced%5B0%5D%5Bterms%5D=1890-luku">1890-luku</a></div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Kuvaus</h3>
+                    <div class="element-text">Koristeellinen kansio sisältää kymmenen valokuvapostikorttia, jotka kuvaavat Karlbergin kartanon ja Aulangon maisemia. Kuvien ottamisen aikaan Aulanko oli Hugo Standertskjöldin omistuksessa. Kannessa on kuvattuna Karlbergin kartanon päärakennus Vanajaveden rannasta päin. Muut kortit kuvaavat mm. Joutsenlampea, rauniolinnaa ja usein kuvattua näkymää näkötornilta Lusikkaniemeen. Valokuvaajan nimi ei ole tiedossa, ei myöskään korttien tarkka ilmestymisvuosi, mutta kauniilla käsialalla koteloon kirjoitettu ruotsinkielinen omistuskirjoitus on päivätty 27. toukokuuta 1900. Korttikansion on julkaissut A. Alopaeuksen kustannuskirjakauppa, joka toimi Hämeenlinnassa vuosina 1888–1900.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-publisher" class="element">
+        <h3>Julkaisija</h3>
+                    <div class="element-text"><a href="/items/browse?advanced%5B0%5D%5Belement_id%5D=45&advanced%5B0%5D%5Btype%5D=is+exactly&advanced%5B0%5D%5Bterms%5D=H%C3%A4meenlinnan+kaupunginkirjasto">Hämeenlinnan kaupunginkirjasto</a></div>
+            </div><!-- end element -->
+        <div id="dublin-core-date-created" class="element">
+        <h3>Luontiajankohta</h3>
+                    <div class="element-text">1890-luku</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date-issued" class="element">
+        <h3>Julkistamisajankohta</h3>
+                    <div class="element-text">2008-05</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Lähde</h3>
+                    <div class="element-text">Julkaistu painettuna: Hämeenlinna : A. Alopaeuksen Kirjakauppa - A. Alopaeus Bokhandel.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-language" class="element">
+        <h3>Kieli</h3>
+                    <div class="element-text"><a href="/items/browse?advanced%5B0%5D%5Belement_id%5D=44&advanced%5B0%5D%5Btype%5D=is+exactly&advanced%5B0%5D%5Bterms%5D=fi">fi</a></div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifiointitunnus</h3>
+                    <div class="element-text">URN:NBN:fi-fe2019121146951</div>
+            </div><!-- end element -->
+        <div id="dublin-core-provenance" class="element">
+        <h3>Provenienssi</h3>
+                    <div class="element-text">Hämeenlinnan kaupunginkirjasto</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Formaatti</h3>
+                    <div class="element-text">Kuva/JPEG</div>
+            </div><!-- end element -->
+        <div id="dublin-core-extent" class="element">
+        <h3>Mittasuhteet</h3>
+                    <div class="element-text">10 postikorttia kansiossa</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+        
+        <!-- If the item belongs to a collection, the following creates a link to that collection. -->
+                <div id="collection" class="element">
+            <h3>Kokoelma</h3>
+            <div class="element-text"><p><a href="/collections/show/526">Aulanko - Karlberg</a></p></div>
+        </div>
+                
+        <!-- The following prints a list of all tags associated with the item -->
+                <div id="item-tags" class="element">
+            <h3>Avainsanat</h3>
+            <div class="element-text"><a href="/items/browse?tags=1890-luku" rel="tag">1890-luku</a>, <a href="/items/browse?tags=Aulanko" rel="tag">Aulanko</a>, <a href="/items/browse?tags=H%C3%A4meenlinna" rel="tag">Hämeenlinna</a>, <a href="/items/browse?tags=Karlberg" rel="tag">Karlberg</a>, <a href="/items/browse?tags=postikortit" rel="tag">postikortit</a></div>
+        </div>
+                
+        <!-- The following prints a citation for this item. -->
+        <div id="item-citation" class="element">
+            <h3>Viittaus</h3>
+            <div class="element-text">&#8220;Photographicum : Karlberg-Aulanko,&#8221; <em>DIGI - Yleisten kirjastojen digitoimaa aineistoa</em>, viitattu 14. helmikuuta 2023, <span class="citation-url">https://digi.kirjastot.fi/items/show/134662</span>.</div>
+        </div>
+    </div>
+
+            <div class="item-pointer">&nbsp;</div>
+        
+    <div class="content-right">
+    <!-- The following returns all of the files associated with an item. -->
+                <div id="itemfiles" class="element">
+            <h2 class="visually-hidden">Tiedostot</h2>
+                        <div class="element-text">
+                <div id="item-images"><div class="shadowpage-thumb"><a href="https://digi.kirjastot.fi/files/original/62d56fa4706e9176961eca1f350523a8.pdf"><img src="https://digi.kirjastot.fi/files/square_thumbnails/62d56fa4706e9176961eca1f350523a8.jpg" alt="https://digi.kirjastot.fi/files/repository/8497132ff4fb3194550c0d9d19c85675.pdf" title="https://digi.kirjastot.fi/files/repository/8497132ff4fb3194550c0d9d19c85675.pdf"></a></div></div>                            </div>
+                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rfr_id=info%3Asid%2Fomeka.org%3Agenerator&amp;rft.subject=kartanot&amp;rft.publisher=H%C3%A4meenlinnan+kaupunginkirjasto&amp;rft.format=Kuva%2FJPEG&amp;rft.source=Julkaistu+painettuna%3A+H%C3%A4meenlinna+%3A+A.+Alopaeuksen+Kirjakauppa+-+A.+Alopaeus+Bokhandel.&amp;rft.language=fi&amp;rft.title=Photographicum+%3A+Karlberg-Aulanko&amp;rft.description=Koristeellinen+kansio+sis%C3%A4lt%C3%A4%C3%A4+kymmenen+valokuvapostikorttia%2C+jotka+kuvaavat+Karlbergin+kartanon+ja+Aulangon+maisemia.+Kuvien+ottamisen+aikaan+Aulanko+oli+Hugo+Standertskj%C3%B6ldin+omistuksessa.+Kannessa+on+kuvattuna+Karlbergin+kartanon+p%C3%A4%C3%A4rakennus+Vanajaveden+rannasta+p%C3%A4in.+Muut+kortit+kuvaavat+mm.+Joutsenlampea%2C+rauniolinnaa+ja+usein+kuvattua+n%C3%A4kym%C3%A4%C3%A4+n%C3%A4k%C3%B6tornilta+Lusikkaniemeen.+Valokuvaajan+nimi+ei+ole+tiedossa%2C+ei+my%C3%B6sk%C3%A4%C3%A4n+korttien+tarkka+ilmestymisvuosi%2C+mutta+kauniilla+k%C3%A4sialalla+koteloon%E2%80%A6&amp;rft.type=Kuva&amp;rft.identifier=https%3A%2F%2Fdigi.kirjastot.fi%2Fitems%2Fshow%2F134662"></span>        </div>
+            </div>
+</section>
+
+        </main><!-- end content -->
+
+    </div><!-- end wrap -->
+    
+
+    <div id="sharing"></div>
+    <script async src="https://www.kirjastot.fi/modules/kifisome/web/kifisome.js" data-class="main" data-id="kifisome" data-target="#sharing" data-title="Jaa"></script>
+
+    <footer>
+
+        <div id="footer-text">
+                                    <p></p>
+        </div>
+
+        
+        <iframe width="100%" scrolling="no" height="650" frameborder="0" src="https://gfx.kirjastot.fi/kifi/kirjastotfi-footer-fi.html">
+            [Your user agent does not support frames or is currently configured not to display frames. However, you may visit <a href="https://gfx.kirjastot.fi/kifi/kirjastotfi-footer.html">the related document.</a>]
+        </iframe>
+
+    </footer><!-- end footer -->
+
+    <script type="text/javascript">
+    jQuery(document).ready(function () {
+        Omeka.showAdvancedForm();
+        Omeka.moveNavOnResize();
+        Omeka.mobileMenu();
+    });
+    </script>
+
+</body>
+</html>
+<script type="text/javascript">
+    jQuery(document).ready(function () {
+        jQuery('#download-files h3').html('Lue kirja');
+        var epubinfolink = jQuery('<p><a class="epub-info" href="/tietoa-palvelusta">Lataa epub-lukuohjelma</a></p>');
+        jQuery(epubinfolink).appendTo('#download-files');
+    });
+</script>
